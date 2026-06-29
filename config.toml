@@ -1,0 +1,50 @@
+[config]
+codepoint = 0xf1f00
+
+[icons.folder.material]
+svg = "icons/folder-material.svg"
+badge_anchor = [7, 5]
+badge_scale = [0.6, 0.6]
+
+[icons.folder.catpuccin]
+svg = "icons/folder-catpuccin.svg"
+badge_anchor = [7.4, 6.5]
+badge_scale = [0.55, 0.55]
+
+[icons.folder.catpuccin-open]
+svg = "icons/folder-catpuccin-open.svg"
+badge_anchor = [7.4, 6.5]
+badge_scale = [0.55, 0.55]
+
+[icons.folder-plain.catpuccin]
+svg = "icons/folder-plain-caatpuccin.svg"
+badge_anchor = [7.4, 6.5]
+badge_scale = [0.55, 0.55]
+
+[icons.folder-plain.catpuccin-open]
+svg = "icons/folder-plain-catpuccin-open.svg"
+badge_anchor = [7.4, 6.5]
+badge_scale = [0.55, 0.55]
+
+[icons.cmake.material]
+svg = "icons/cmake-material.svg"
+
+[icons.cmake.catpuccin]
+svg = "icons/cmake-catpuccin.svg"
+
+[icons.cmake.devicon]
+svg = "icons/cmake-devicon.svg"
+
+[compose.folder_cmake]
+base = "folder"
+badge = "cmake"
+
+[icons.make.material]
+svg = "icons/make-material.svg"
+
+[icons.make.catpuccin]
+svg = "icons/make-catpuccin.svg"
+
+[compose.folder_make]
+base = "folder"
+badge = "make"
