@@ -5,8 +5,6 @@ ICONS = require("colr-icons.table")
 
 M.config = {
 	theme_selection = {
-		"catpuccin-frappe",
-		"material",
 	}
 }
 
@@ -110,21 +108,21 @@ function M.get_icon(opts)
 	-- Return placeholder
 	if opts.with_placeholder == true then
 		local theme = M.themes[M.config.theme_selection[1]]
-		-- TODO: Return devicon placeholder + hi
 		return { text = theme.placeholder }
 	end
 	return nil
 end
 
 function M.setup(opts)
-	vim.tbl_deep_extend("force", M.config, opts or {})
+	M.config = vim.tbl_deep_extend("force", M.config, opts or {})
+
 	if #M.config.theme_selection < 1 then
-		vim.notify("Missing theme_selection", vim.log.levels.ERROR)
+		vim.notify("[colr-icons] Missing theme_selection", vim.log.levels.ERROR)
 		return false
 	end
 	for _, theme_name in ipairs(M.config.theme_selection) do
 		if not M.themes[theme_name] then
-			vim.notify("Invalid icon theme `" .. theme_name .."'", vim.log.levels.ERROR)
+			vim.notify("[colr-icons] Invalid icon theme `" .. theme_name .."'", vim.log.levels.ERROR)
 			return false
 		end
 	end
