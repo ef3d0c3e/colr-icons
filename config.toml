@@ -1970,6 +1970,820 @@ svg = "icons/zig-material.svg"
 
 [icons.zip.material]
 svg = "icons/zip-material.svg"
+
+# {{{ Base folder icons
+[icons.folder_admin.material]
+svg = "icons/folder_admin-material.svg"
+
+[icons.folder_android.material]
+svg = "icons/folder_android-material.svg"
+
+[icons.folder_angular.material]
+svg = "icons/folder_angular-material.svg"
+
+[icons.folder_animation.material]
+svg = "icons/folder_animation-material.svg"
+
+[icons.folder_ansible.material]
+svg = "icons/folder_ansible-material.svg"
+
+[icons.folder_api.material]
+svg = "icons/folder_api-material.svg"
+
+[icons.folder_apollo.material]
+svg = "icons/folder_apollo-material.svg"
+
+[icons.folder_app.material]
+svg = "icons/folder_app-material.svg"
+
+[icons.folder_appwrite.material]
+svg = "icons/folder_appwrite-material.svg"
+
+[icons.folder_archive.material]
+svg = "icons/folder_archive-material.svg"
+
+[icons.folder_assembly.material]
+svg = "icons/folder_assembly-material.svg"
+
+[icons.folder_astro.material]
+svg = "icons/folder_astro-material.svg"
+
+[icons.folder_atom.material]
+svg = "icons/folder_atom-material.svg"
+
+[icons.folder_attachment.material]
+svg = "icons/folder_attachment-material.svg"
+
+[icons.folder_audio.material]
+svg = "icons/folder_audio-material.svg"
+
+[icons.folder_aurelia.material]
+svg = "icons/folder_aurelia-material.svg"
+
+[icons.folder_aws.material]
+svg = "icons/folder_aws-material.svg"
+
+[icons.folder_azure-pipelines.material]
+svg = "icons/folder_azure-pipelines-material.svg"
+
+[icons.folder_backup.material]
+svg = "icons/folder_backup-material.svg"
+
+[icons.folder_base.material]
+svg = "icons/folder_base-material.svg"
+
+[icons.folder_batch.material]
+svg = "icons/folder_batch-material.svg"
+
+[icons.folder_benchmark.material]
+svg = "icons/folder_benchmark-material.svg"
+
+[icons.folder_bibliography.material]
+svg = "icons/folder_bibliography-material.svg"
+
+[icons.folder_bicep.material]
+svg = "icons/folder_bicep-material.svg"
+
+[icons.folder_blender.material]
+svg = "icons/folder_blender-material.svg"
+
+[icons.folder_bloc.material]
+svg = "icons/folder_bloc-material.svg"
+
+[icons.folder_bower.material]
+svg = "icons/folder_bower-material.svg"
+
+[icons.folder_buildkite.material]
+svg = "icons/folder_buildkite-material.svg"
+
+[icons.folder_cart.material]
+svg = "icons/folder_cart-material.svg"
+
+[icons.folder_changesets.material]
+svg = "icons/folder_changesets-material.svg"
+
+[icons.folder_ci.material]
+svg = "icons/folder_ci-material.svg"
+
+[icons.folder_circleci.material]
+svg = "icons/folder_circleci-material.svg"
+
+[icons.folder_class.material]
+svg = "icons/folder_class-material.svg"
+
+[icons.folder_claude.material]
+svg = "icons/folder_claude-material.svg"
+
+[icons.folder_client.material]
+svg = "icons/folder_client-material.svg"
+
+[icons.folder_cline.material]
+svg = "icons/folder_cline-material.svg"
+
+[icons.folder_cloud-functions.material]
+svg = "icons/folder_cloud-functions-material.svg"
+
+[icons.folder_cloudflare.material]
+svg = "icons/folder_cloudflare-material.svg"
+
+[icons.folder_cluster.material]
+svg = "icons/folder_cluster-material.svg"
+
+[icons.folder_cobol.material]
+svg = "icons/folder_cobol-material.svg"
+
+[icons.folder_command.material]
+svg = "icons/folder_command-material.svg"
+
+[icons.folder_components.material]
+svg = "icons/folder_components-material.svg"
+
+[icons.folder_config.material]
+svg = "icons/folder_config-material.svg"
+
+[icons.folder_connection.material]
+svg = "icons/folder_connection-material.svg"
+
+[icons.folder_console.material]
+svg = "icons/folder_console-material.svg"
+
+[icons.folder_constant.material]
+svg = "icons/folder_constant-material.svg"
+
+[icons.folder_container.material]
+svg = "icons/folder_container-material.svg"
+
+[icons.folder_content.material]
+svg = "icons/folder_content-material.svg"
+
+[icons.folder_context.material]
+svg = "icons/folder_context-material.svg"
+
+[icons.folder_contract.material]
+svg = "icons/folder_contract-material.svg"
+
+[icons.folder_controller.material]
+svg = "icons/folder_controller-material.svg"
+
+[icons.folder_core.material]
+svg = "icons/folder_core-material.svg"
+
+[icons.folder_coverage.material]
+svg = "icons/folder_coverage-material.svg"
+
+[icons.folder_css.material]
+svg = "icons/folder_css-material.svg"
+
+[icons.folder_cue.material]
+svg = "icons/folder_cue-material.svg"
+
+[icons.folder_cursor.material]
+svg = "icons/folder_cursor-material.svg"
+
+[icons.folder_cursor_light.material]
+svg = "icons/folder_cursor_light-material.svg"
+
+[icons.folder_custom.material]
+svg = "icons/folder_custom-material.svg"
+
+[icons.folder_cypress.material]
+svg = "icons/folder_cypress-material.svg"
+
+[icons.folder_dal.material]
+svg = "icons/folder_dal-material.svg"
+
+[icons.folder_dart.material]
+svg = "icons/folder_dart-material.svg"
+
+[icons.folder_database.material]
+svg = "icons/folder_database-material.svg"
+
+[icons.folder_debug.material]
+svg = "icons/folder_debug-material.svg"
+
+[icons.folder_decorators.material]
+svg = "icons/folder_decorators-material.svg"
+
+[icons.folder_delta.material]
+svg = "icons/folder_delta-material.svg"
+
+[icons.folder_desktop.material]
+svg = "icons/folder_desktop-material.svg"
+
+[icons.folder_directive.material]
+svg = "icons/folder_directive-material.svg"
+
+[icons.folder_dist.material]
+svg = "icons/folder_dist-material.svg"
+
+[icons.folder_docker.material]
+svg = "icons/folder_docker-material.svg"
+
+[icons.folder_docs.material]
+svg = "icons/folder_docs-material.svg"
+
+[icons.folder_download.material]
+svg = "icons/folder_download-material.svg"
+
+[icons.folder_drizzle.material]
+svg = "icons/folder_drizzle-material.svg"
+
+[icons.folder_dump.material]
+svg = "icons/folder_dump-material.svg"
+
+[icons.folder_element.material]
+svg = "icons/folder_element-material.svg"
+
+[icons.folder_enum.material]
+svg = "icons/folder_enum-material.svg"
+
+[icons.folder_environment.material]
+svg = "icons/folder_environment-material.svg"
+
+[icons.folder_error.material]
+svg = "icons/folder_error-material.svg"
+
+[icons.folder_eslint.material]
+svg = "icons/folder_eslint-material.svg"
+
+[icons.folder_event.material]
+svg = "icons/folder_event-material.svg"
+
+[icons.folder_examples.material]
+svg = "icons/folder_examples-material.svg"
+
+[icons.folder_expo.material]
+svg = "icons/folder_expo-material.svg"
+
+[icons.folder_export.material]
+svg = "icons/folder_export-material.svg"
+
+[icons.folder_fastlane.material]
+svg = "icons/folder_fastlane-material.svg"
+
+[icons.folder_favicon.material]
+svg = "icons/folder_favicon-material.svg"
+
+[icons.folder_features.material]
+svg = "icons/folder_features-material.svg"
+
+[icons.folder_filter.material]
+svg = "icons/folder_filter-material.svg"
+
+[icons.folder_firebase.material]
+svg = "icons/folder_firebase-material.svg"
+
+[icons.folder_firestore.material]
+svg = "icons/folder_firestore-material.svg"
+
+[icons.folder_flow.material]
+svg = "icons/folder_flow-material.svg"
+
+[icons.folder_flutter.material]
+svg = "icons/folder_flutter-material.svg"
+
+[icons.folder_font.material]
+svg = "icons/folder_font-material.svg"
+
+[icons.folder_forgejo.material]
+svg = "icons/folder_forgejo-material.svg"
+
+[icons.folder_form.material]
+svg = "icons/folder_form-material.svg"
+
+[icons.folder_functions.material]
+svg = "icons/folder_functions-material.svg"
+
+[icons.folder_gamemaker.material]
+svg = "icons/folder_gamemaker-material.svg"
+
+[icons.folder_gemini-ai.material]
+svg = "icons/folder_gemini-ai-material.svg"
+
+[icons.folder_generator.material]
+svg = "icons/folder_generator-material.svg"
+
+[icons.folder_gh-workflows.material]
+svg = "icons/folder_gh-workflows-material.svg"
+
+[icons.folder_git.material]
+svg = "icons/folder_git-material.svg"
+
+[icons.folder_gitea.material]
+svg = "icons/folder_gitea-material.svg"
+
+[icons.folder_github.material]
+svg = "icons/folder_github-material.svg"
+
+[icons.folder_gitlab.material]
+svg = "icons/folder_gitlab-material.svg"
+
+[icons.folder_global.material]
+svg = "icons/folder_global-material.svg"
+
+[icons.folder_go.material]
+svg = "icons/folder_go-material.svg"
+
+[icons.folder_godot.material]
+svg = "icons/folder_godot-material.svg"
+
+[icons.folder_gradle.material]
+svg = "icons/folder_gradle-material.svg"
+
+[icons.folder_graphql.material]
+svg = "icons/folder_graphql-material.svg"
+
+[icons.folder_guard.material]
+svg = "icons/folder_guard-material.svg"
+
+[icons.folder_gulp.material]
+svg = "icons/folder_gulp-material.svg"
+
+[icons.folder_helm.material]
+svg = "icons/folder_helm-material.svg"
+
+[icons.folder_helper.material]
+svg = "icons/folder_helper-material.svg"
+
+[icons.folder_home.material]
+svg = "icons/folder_home-material.svg"
+
+[icons.folder_hook.material]
+svg = "icons/folder_hook-material.svg"
+
+[icons.folder_husky.material]
+svg = "icons/folder_husky-material.svg"
+
+[icons.folder_i18n.material]
+svg = "icons/folder_i18n-material.svg"
+
+[icons.folder_images.material]
+svg = "icons/folder_images-material.svg"
+
+[icons.folder_import.material]
+svg = "icons/folder_import-material.svg"
+
+[icons.folder_include.material]
+svg = "icons/folder_include-material.svg"
+
+[icons.folder_input.material]
+svg = "icons/folder_input-material.svg"
+
+[icons.folder_intellij.material]
+svg = "icons/folder_intellij-material.svg"
+
+[icons.folder_intellij_light.material]
+svg = "icons/folder_intellij_light-material.svg"
+
+[icons.folder_interceptor.material]
+svg = "icons/folder_interceptor-material.svg"
+
+[icons.folder_interface.material]
+svg = "icons/folder_interface-material.svg"
+
+[icons.folder_ios.material]
+svg = "icons/folder_ios-material.svg"
+
+[icons.folder_java.material]
+svg = "icons/folder_java-material.svg"
+
+[icons.folder_javascript.material]
+svg = "icons/folder_javascript-material.svg"
+
+[icons.folder_jinja.material]
+svg = "icons/folder_jinja-material.svg"
+
+[icons.folder_jinja_light.material]
+svg = "icons/folder_jinja_light-material.svg"
+
+[icons.folder_job.material]
+svg = "icons/folder_job-material.svg"
+
+[icons.folder_json.material]
+svg = "icons/folder_json-material.svg"
+
+[icons.folder_jupyter.material]
+svg = "icons/folder_jupyter-material.svg"
+
+[icons.folder_keys.material]
+svg = "icons/folder_keys-material.svg"
+
+[icons.folder_kotlin.material]
+svg = "icons/folder_kotlin-material.svg"
+
+[icons.folder_kubernetes.material]
+svg = "icons/folder_kubernetes-material.svg"
+
+[icons.folder_kusto.material]
+svg = "icons/folder_kusto-material.svg"
+
+[icons.folder_layout.material]
+svg = "icons/folder_layout-material.svg"
+
+[icons.folder_lefthook.material]
+svg = "icons/folder_lefthook-material.svg"
+
+[icons.folder_less.material]
+svg = "icons/folder_less-material.svg"
+
+[icons.folder_lib.material]
+svg = "icons/folder_lib-material.svg"
+
+[icons.folder_license.material]
+svg = "icons/folder_license-material.svg"
+
+[icons.folder_link.material]
+svg = "icons/folder_link-material.svg"
+
+[icons.folder_linux.material]
+svg = "icons/folder_linux-material.svg"
+
+[icons.folder_liquibase.material]
+svg = "icons/folder_liquibase-material.svg"
+
+[icons.folder_log.material]
+svg = "icons/folder_log-material.svg"
+
+[icons.folder_lottie.material]
+svg = "icons/folder_lottie-material.svg"
+
+[icons.folder_lua.material]
+svg = "icons/folder_lua-material.svg"
+
+[icons.folder_luau.material]
+svg = "icons/folder_luau-material.svg"
+
+[icons.folder_macos.material]
+svg = "icons/folder_macos-material.svg"
+
+[icons.folder_mail.material]
+svg = "icons/folder_mail-material.svg"
+
+[icons.folder_mappings.material]
+svg = "icons/folder_mappings-material.svg"
+
+[icons.folder_markdown.material]
+svg = "icons/folder_markdown-material.svg"
+
+[icons.folder_mercurial.material]
+svg = "icons/folder_mercurial-material.svg"
+
+[icons.folder_messages.material]
+svg = "icons/folder_messages-material.svg"
+
+[icons.folder_meta.material]
+svg = "icons/folder_meta-material.svg"
+
+[icons.folder_metro.material]
+svg = "icons/folder_metro-material.svg"
+
+[icons.folder_middleware.material]
+svg = "icons/folder_middleware-material.svg"
+
+[icons.folder_migrations.material]
+svg = "icons/folder_migrations-material.svg"
+
+[icons.folder_mjml.material]
+svg = "icons/folder_mjml-material.svg"
+
+[icons.folder_mobile.material]
+svg = "icons/folder_mobile-material.svg"
+
+[icons.folder_mock.material]
+svg = "icons/folder_mock-material.svg"
+
+[icons.folder_mojo.material]
+svg = "icons/folder_mojo-material.svg"
+
+[icons.folder_molecule.material]
+svg = "icons/folder_molecule-material.svg"
+
+[icons.folder_moon.material]
+svg = "icons/folder_moon-material.svg"
+
+[icons.folder_netlify.material]
+svg = "icons/folder_netlify-material.svg"
+
+[icons.folder_next.material]
+svg = "icons/folder_next-material.svg"
+
+[icons.folder_nginx.material]
+svg = "icons/folder_nginx-material.svg"
+
+[icons.folder_ngrx-store.material]
+svg = "icons/folder_ngrx-store-material.svg"
+
+[icons.folder_node.material]
+svg = "icons/folder_node-material.svg"
+
+[icons.folder_nuxt.material]
+svg = "icons/folder_nuxt-material.svg"
+
+[icons.folder_obsidian.material]
+svg = "icons/folder_obsidian-material.svg"
+
+[icons.folder_opencode.material]
+svg = "icons/folder_opencode-material.svg"
+
+[icons.folder_organism.material]
+svg = "icons/folder_organism-material.svg"
+
+[icons.folder_other.material]
+svg = "icons/folder_other-material.svg"
+
+[icons.folder_packages.material]
+svg = "icons/folder_packages-material.svg"
+
+[icons.folder_pdf.material]
+svg = "icons/folder_pdf-material.svg"
+
+[icons.folder_pdm.material]
+svg = "icons/folder_pdm-material.svg"
+
+[icons.folder_php.material]
+svg = "icons/folder_php-material.svg"
+
+[icons.folder_phpmailer.material]
+svg = "icons/folder_phpmailer-material.svg"
+
+[icons.folder_pipe.material]
+svg = "icons/folder_pipe-material.svg"
+
+[icons.folder_plastic.material]
+svg = "icons/folder_plastic-material.svg"
+
+[icons.folder_plugin.material]
+svg = "icons/folder_plugin-material.svg"
+
+[icons.folder_policy.material]
+svg = "icons/folder_policy-material.svg"
+
+[icons.folder_postman.material]
+svg = "icons/folder_postman-material.svg"
+
+[icons.folder_powershell.material]
+svg = "icons/folder_powershell-material.svg"
+
+[icons.folder_prisma.material]
+svg = "icons/folder_prisma-material.svg"
+
+[icons.folder_private.material]
+svg = "icons/folder_private-material.svg"
+
+[icons.folder_project.material]
+svg = "icons/folder_project-material.svg"
+
+[icons.folder_prompts.material]
+svg = "icons/folder_prompts-material.svg"
+
+[icons.folder_proto.material]
+svg = "icons/folder_proto-material.svg"
+
+[icons.folder_public.material]
+svg = "icons/folder_public-material.svg"
+
+[icons.folder_python.material]
+svg = "icons/folder_python-material.svg"
+
+[icons.folder_pytorch.material]
+svg = "icons/folder_pytorch-material.svg"
+
+[icons.folder_quasar.material]
+svg = "icons/folder_quasar-material.svg"
+
+[icons.folder_queue.material]
+svg = "icons/folder_queue-material.svg"
+
+[icons.folder_r.material]
+svg = "icons/folder_r-material.svg"
+
+[icons.folder_react-components.material]
+svg = "icons/folder_react-components-material.svg"
+
+[icons.folder_redux-reducer.material]
+svg = "icons/folder_redux-reducer-material.svg"
+
+[icons.folder_repository.material]
+svg = "icons/folder_repository-material.svg"
+
+[icons.folder_resolver.material]
+svg = "icons/folder_resolver-material.svg"
+
+[icons.folder_resource.material]
+svg = "icons/folder_resource-material.svg"
+
+[icons.folder_review.material]
+svg = "icons/folder_review-material.svg"
+
+[icons.folder_robot.material]
+svg = "icons/folder_robot-material.svg"
+
+[icons.folder_routes.material]
+svg = "icons/folder_routes-material.svg"
+
+[icons.folder_rules.material]
+svg = "icons/folder_rules-material.svg"
+
+[icons.folder_rust.material]
+svg = "icons/folder_rust-material.svg"
+
+[icons.folder_salt.material]
+svg = "icons/folder_salt-material.svg"
+
+[icons.folder_sandbox.material]
+svg = "icons/folder_sandbox-material.svg"
+
+[icons.folder_sass.material]
+svg = "icons/folder_sass-material.svg"
+
+[icons.folder_scala.material]
+svg = "icons/folder_scala-material.svg"
+
+[icons.folder_scons.material]
+svg = "icons/folder_scons-material.svg"
+
+[icons.folder_scripts.material]
+svg = "icons/folder_scripts-material.svg"
+
+[icons.folder_secure.material]
+svg = "icons/folder_secure-material.svg"
+
+[icons.folder_seeders.material]
+svg = "icons/folder_seeders-material.svg"
+
+[icons.folder_server.material]
+svg = "icons/folder_server-material.svg"
+
+[icons.folder_serverless.material]
+svg = "icons/folder_serverless-material.svg"
+
+[icons.folder_shader.material]
+svg = "icons/folder_shader-material.svg"
+
+[icons.folder_shared.material]
+svg = "icons/folder_shared-material.svg"
+
+[icons.folder_simulations.material]
+svg = "icons/folder_simulations-material.svg"
+
+[icons.folder_skills.material]
+svg = "icons/folder_skills-material.svg"
+
+[icons.folder_snapcraft.material]
+svg = "icons/folder_snapcraft-material.svg"
+
+[icons.folder_snippet.material]
+svg = "icons/folder_snippet-material.svg"
+
+[icons.folder_src.material]
+svg = "icons/folder_src-material.svg"
+
+[icons.folder_src-tauri.material]
+svg = "icons/folder_src-tauri-material.svg"
+
+[icons.folder_stack.material]
+svg = "icons/folder_stack-material.svg"
+
+[icons.folder_stencil.material]
+svg = "icons/folder_stencil-material.svg"
+
+[icons.folder_store.material]
+svg = "icons/folder_store-material.svg"
+
+[icons.folder_storybook.material]
+svg = "icons/folder_storybook-material.svg"
+
+[icons.folder_stylus.material]
+svg = "icons/folder_stylus-material.svg"
+
+[icons.folder_sublime.material]
+svg = "icons/folder_sublime-material.svg"
+
+[icons.folder_supabase.material]
+svg = "icons/folder_supabase-material.svg"
+
+[icons.folder_svelte.material]
+svg = "icons/folder_svelte-material.svg"
+
+[icons.folder_svg.material]
+svg = "icons/folder_svg-material.svg"
+
+[icons.folder_syntax.material]
+svg = "icons/folder_syntax-material.svg"
+
+[icons.folder_target.material]
+svg = "icons/folder_target-material.svg"
+
+[icons.folder_taskfile.material]
+svg = "icons/folder_taskfile-material.svg"
+
+[icons.folder_tasks.material]
+svg = "icons/folder_tasks-material.svg"
+
+[icons.folder_television.material]
+svg = "icons/folder_television-material.svg"
+
+[icons.folder_temp.material]
+svg = "icons/folder_temp-material.svg"
+
+[icons.folder_template.material]
+svg = "icons/folder_template-material.svg"
+
+[icons.folder_terraform.material]
+svg = "icons/folder_terraform-material.svg"
+
+[icons.folder_test.material]
+svg = "icons/folder_test-material.svg"
+
+[icons.folder_theme.material]
+svg = "icons/folder_theme-material.svg"
+
+[icons.folder_toc.material]
+svg = "icons/folder_toc-material.svg"
+
+[icons.folder_tools.material]
+svg = "icons/folder_tools-material.svg"
+
+[icons.folder_trash.material]
+svg = "icons/folder_trash-material.svg"
+
+[icons.folder_trigger.material]
+svg = "icons/folder_trigger-material.svg"
+
+[icons.folder_turborepo.material]
+svg = "icons/folder_turborepo-material.svg"
+
+[icons.folder_typescript.material]
+svg = "icons/folder_typescript-material.svg"
+
+[icons.folder_ui.material]
+svg = "icons/folder_ui-material.svg"
+
+[icons.folder_unity.material]
+svg = "icons/folder_unity-material.svg"
+
+[icons.folder_update.material]
+svg = "icons/folder_update-material.svg"
+
+[icons.folder_upload.material]
+svg = "icons/folder_upload-material.svg"
+
+[icons.folder_utils.material]
+svg = "icons/folder_utils-material.svg"
+
+[icons.folder_vercel.material]
+svg = "icons/folder_vercel-material.svg"
+
+[icons.folder_verdaccio.material]
+svg = "icons/folder_verdaccio-material.svg"
+
+[icons.folder_video.material]
+svg = "icons/folder_video-material.svg"
+
+[icons.folder_views.material]
+svg = "icons/folder_views-material.svg"
+
+[icons.folder_vm.material]
+svg = "icons/folder_vm-material.svg"
+
+[icons.folder_vscode.material]
+svg = "icons/folder_vscode-material.svg"
+
+[icons.folder_vue-directives.material]
+svg = "icons/folder_vue-directives-material.svg"
+
+[icons.folder_vue.material]
+svg = "icons/folder_vue-material.svg"
+
+[icons.folder_vuepress.material]
+svg = "icons/folder_vuepress-material.svg"
+
+[icons.folder_vuex-store.material]
+svg = "icons/folder_vuex-store-material.svg"
+
+[icons.folder_wakatime.material]
+svg = "icons/folder_wakatime-material.svg"
+
+[icons.folder_webpack.material]
+svg = "icons/folder_webpack-material.svg"
+
+[icons.folder_windows.material]
+svg = "icons/folder_windows-material.svg"
+
+[icons.folder_wordpress.material]
+svg = "icons/folder_wordpress-material.svg"
+
+[icons.folder_yarn.material]
+svg = "icons/folder_yarn-material.svg"
+
+[icons.folder_zeabur.material]
+svg = "icons/folder_zeabur-material.svg"
+
+[icons.folder_zed.material]
+svg = "icons/folder_zed-material.svg"
+
+# }}}
+
 # }}}
 
 # {{{ catpuccin-frappe
@@ -3238,6 +4052,693 @@ svg = "icons/zig-catpuccin-frappe.svg"
 
 [icons.zip.catpuccin-frappe]
 svg = "icons/zip-catpuccin-frappe.svg"
+
+# {{{ Base folder icons
+[icons.folder_admin.catpuccin-frappe]
+svg = "icons/folder_admin-catpuccin-frappe.svg"
+
+[icons.folder_admin_open.catpuccin-frappe]
+svg = "icons/folder_admin_open-catpuccin-frappe.svg"
+
+[icons.folder_android.catpuccin-frappe]
+svg = "icons/folder_android-catpuccin-frappe.svg"
+
+[icons.folder_android_open.catpuccin-frappe]
+svg = "icons/folder_android_open-catpuccin-frappe.svg"
+
+[icons.folder_animation.catpuccin-frappe]
+svg = "icons/folder_animation-catpuccin-frappe.svg"
+
+[icons.folder_animation_open.catpuccin-frappe]
+svg = "icons/folder_animation_open-catpuccin-frappe.svg"
+
+[icons.folder_api.catpuccin-frappe]
+svg = "icons/folder_api-catpuccin-frappe.svg"
+
+[icons.folder_api_open.catpuccin-frappe]
+svg = "icons/folder_api_open-catpuccin-frappe.svg"
+
+[icons.folder_app.catpuccin-frappe]
+svg = "icons/folder_app-catpuccin-frappe.svg"
+
+[icons.folder_app_open.catpuccin-frappe]
+svg = "icons/folder_app_open-catpuccin-frappe.svg"
+
+[icons.folder_assets.catpuccin-frappe]
+svg = "icons/folder_assets-catpuccin-frappe.svg"
+
+[icons.folder_assets_open.catpuccin-frappe]
+svg = "icons/folder_assets_open-catpuccin-frappe.svg"
+
+[icons.folder_audio.catpuccin-frappe]
+svg = "icons/folder_audio-catpuccin-frappe.svg"
+
+[icons.folder_audio_open.catpuccin-frappe]
+svg = "icons/folder_audio_open-catpuccin-frappe.svg"
+
+[icons.folder_audit.catpuccin-frappe]
+svg = "icons/folder_audit-catpuccin-frappe.svg"
+
+[icons.folder_audit_open.catpuccin-frappe]
+svg = "icons/folder_audit_open-catpuccin-frappe.svg"
+
+[icons.folder_aws.catpuccin-frappe]
+svg = "icons/folder_aws-catpuccin-frappe.svg"
+
+[icons.folder_aws_open.catpuccin-frappe]
+svg = "icons/folder_aws_open-catpuccin-frappe.svg"
+
+[icons.folder_azure-devops.catpuccin-frappe]
+svg = "icons/folder_azure-devops-catpuccin-frappe.svg"
+
+[icons.folder_azure-devops_open.catpuccin-frappe]
+svg = "icons/folder_azure-devops_open-catpuccin-frappe.svg"
+
+[icons.folder_azure-pipelines.catpuccin-frappe]
+svg = "icons/folder_azure-pipelines-catpuccin-frappe.svg"
+
+[icons.folder_azure-pipelines_open.catpuccin-frappe]
+svg = "icons/folder_azure-pipelines_open-catpuccin-frappe.svg"
+
+[icons.folder_benchmark.catpuccin-frappe]
+svg = "icons/folder_benchmark-catpuccin-frappe.svg"
+
+[icons.folder_benchmark_open.catpuccin-frappe]
+svg = "icons/folder_benchmark_open-catpuccin-frappe.svg"
+
+[icons.folder_caddy.catpuccin-frappe]
+svg = "icons/folder_caddy-catpuccin-frappe.svg"
+
+[icons.folder_caddy_open.catpuccin-frappe]
+svg = "icons/folder_caddy_open-catpuccin-frappe.svg"
+
+[icons.folder_cargo.catpuccin-frappe]
+svg = "icons/folder_cargo-catpuccin-frappe.svg"
+
+[icons.folder_cargo_open.catpuccin-frappe]
+svg = "icons/folder_cargo_open-catpuccin-frappe.svg"
+
+[icons.folder_circle-ci.catpuccin-frappe]
+svg = "icons/folder_circle-ci-catpuccin-frappe.svg"
+
+[icons.folder_circle-ci_open.catpuccin-frappe]
+svg = "icons/folder_circle-ci_open-catpuccin-frappe.svg"
+
+[icons.folder_client.catpuccin-frappe]
+svg = "icons/folder_client-catpuccin-frappe.svg"
+
+[icons.folder_client_open.catpuccin-frappe]
+svg = "icons/folder_client_open-catpuccin-frappe.svg"
+
+[icons.folder_cloud.catpuccin-frappe]
+svg = "icons/folder_cloud-catpuccin-frappe.svg"
+
+[icons.folder_cloud_open.catpuccin-frappe]
+svg = "icons/folder_cloud_open-catpuccin-frappe.svg"
+
+[icons.folder_command.catpuccin-frappe]
+svg = "icons/folder_command-catpuccin-frappe.svg"
+
+[icons.folder_command_open.catpuccin-frappe]
+svg = "icons/folder_command_open-catpuccin-frappe.svg"
+
+[icons.folder_components.catpuccin-frappe]
+svg = "icons/folder_components-catpuccin-frappe.svg"
+
+[icons.folder_components_open.catpuccin-frappe]
+svg = "icons/folder_components_open-catpuccin-frappe.svg"
+
+[icons.folder_composables.catpuccin-frappe]
+svg = "icons/folder_composables-catpuccin-frappe.svg"
+
+[icons.folder_composables_open.catpuccin-frappe]
+svg = "icons/folder_composables_open-catpuccin-frappe.svg"
+
+[icons.folder_config.catpuccin-frappe]
+svg = "icons/folder_config-catpuccin-frappe.svg"
+
+[icons.folder_config_open.catpuccin-frappe]
+svg = "icons/folder_config_open-catpuccin-frappe.svg"
+
+[icons.folder_connection.catpuccin-frappe]
+svg = "icons/folder_connection-catpuccin-frappe.svg"
+
+[icons.folder_connection_open.catpuccin-frappe]
+svg = "icons/folder_connection_open-catpuccin-frappe.svg"
+
+[icons.folder_constant.catpuccin-frappe]
+svg = "icons/folder_constant-catpuccin-frappe.svg"
+
+[icons.folder_constant_open.catpuccin-frappe]
+svg = "icons/folder_constant_open-catpuccin-frappe.svg"
+
+[icons.folder_content.catpuccin-frappe]
+svg = "icons/folder_content-catpuccin-frappe.svg"
+
+[icons.folder_content_open.catpuccin-frappe]
+svg = "icons/folder_content_open-catpuccin-frappe.svg"
+
+[icons.folder_controllers.catpuccin-frappe]
+svg = "icons/folder_controllers-catpuccin-frappe.svg"
+
+[icons.folder_controllers_open.catpuccin-frappe]
+svg = "icons/folder_controllers_open-catpuccin-frappe.svg"
+
+[icons.folder_core.catpuccin-frappe]
+svg = "icons/folder_core-catpuccin-frappe.svg"
+
+[icons.folder_core_open.catpuccin-frappe]
+svg = "icons/folder_core_open-catpuccin-frappe.svg"
+
+[icons.folder_coverage.catpuccin-frappe]
+svg = "icons/folder_coverage-catpuccin-frappe.svg"
+
+[icons.folder_coverage_open.catpuccin-frappe]
+svg = "icons/folder_coverage_open-catpuccin-frappe.svg"
+
+[icons.folder_cursor.catpuccin-frappe]
+svg = "icons/folder_cursor-catpuccin-frappe.svg"
+
+[icons.folder_cursor_open.catpuccin-frappe]
+svg = "icons/folder_cursor_open-catpuccin-frappe.svg"
+
+[icons.folder_cypress.catpuccin-frappe]
+svg = "icons/folder_cypress-catpuccin-frappe.svg"
+
+[icons.folder_cypress_open.catpuccin-frappe]
+svg = "icons/folder_cypress_open-catpuccin-frappe.svg"
+
+[icons.folder_database.catpuccin-frappe]
+svg = "icons/folder_database-catpuccin-frappe.svg"
+
+[icons.folder_database_open.catpuccin-frappe]
+svg = "icons/folder_database_open-catpuccin-frappe.svg"
+
+[icons.folder_debug.catpuccin-frappe]
+svg = "icons/folder_debug-catpuccin-frappe.svg"
+
+[icons.folder_debug_open.catpuccin-frappe]
+svg = "icons/folder_debug_open-catpuccin-frappe.svg"
+
+[icons.folder_devcontainer.catpuccin-frappe]
+svg = "icons/folder_devcontainer-catpuccin-frappe.svg"
+
+[icons.folder_devcontainer_open.catpuccin-frappe]
+svg = "icons/folder_devcontainer_open-catpuccin-frappe.svg"
+
+[icons.folder_direnv.catpuccin-frappe]
+svg = "icons/folder_direnv-catpuccin-frappe.svg"
+
+[icons.folder_direnv_open.catpuccin-frappe]
+svg = "icons/folder_direnv_open-catpuccin-frappe.svg"
+
+[icons.folder_dist.catpuccin-frappe]
+svg = "icons/folder_dist-catpuccin-frappe.svg"
+
+[icons.folder_dist_open.catpuccin-frappe]
+svg = "icons/folder_dist_open-catpuccin-frappe.svg"
+
+[icons.folder_docker.catpuccin-frappe]
+svg = "icons/folder_docker-catpuccin-frappe.svg"
+
+[icons.folder_docker_open.catpuccin-frappe]
+svg = "icons/folder_docker_open-catpuccin-frappe.svg"
+
+[icons.folder_docs.catpuccin-frappe]
+svg = "icons/folder_docs-catpuccin-frappe.svg"
+
+[icons.folder_docs_open.catpuccin-frappe]
+svg = "icons/folder_docs_open-catpuccin-frappe.svg"
+
+[icons.folder_download.catpuccin-frappe]
+svg = "icons/folder_download-catpuccin-frappe.svg"
+
+[icons.folder_download_open.catpuccin-frappe]
+svg = "icons/folder_download_open-catpuccin-frappe.svg"
+
+[icons.folder_drizzle-orm.catpuccin-frappe]
+svg = "icons/folder_drizzle-orm-catpuccin-frappe.svg"
+
+[icons.folder_drizzle-orm_open.catpuccin-frappe]
+svg = "icons/folder_drizzle-orm_open-catpuccin-frappe.svg"
+
+[icons.folder_examples.catpuccin-frappe]
+svg = "icons/folder_examples-catpuccin-frappe.svg"
+
+[icons.folder_examples_open.catpuccin-frappe]
+svg = "icons/folder_examples_open-catpuccin-frappe.svg"
+
+[icons.folder_fastlane.catpuccin-frappe]
+svg = "icons/folder_fastlane-catpuccin-frappe.svg"
+
+[icons.folder_fastlane_open.catpuccin-frappe]
+svg = "icons/folder_fastlane_open-catpuccin-frappe.svg"
+
+[icons.folder_firebase.catpuccin-frappe]
+svg = "icons/folder_firebase-catpuccin-frappe.svg"
+
+[icons.folder_firebase_open.catpuccin-frappe]
+svg = "icons/folder_firebase_open-catpuccin-frappe.svg"
+
+[icons.folder_fonts.catpuccin-frappe]
+svg = "icons/folder_fonts-catpuccin-frappe.svg"
+
+[icons.folder_fonts_open.catpuccin-frappe]
+svg = "icons/folder_fonts_open-catpuccin-frappe.svg"
+
+[icons.folder_forgejo.catpuccin-frappe]
+svg = "icons/folder_forgejo-catpuccin-frappe.svg"
+
+[icons.folder_forgejo_open.catpuccin-frappe]
+svg = "icons/folder_forgejo_open-catpuccin-frappe.svg"
+
+[icons.folder_functions.catpuccin-frappe]
+svg = "icons/folder_functions-catpuccin-frappe.svg"
+
+[icons.folder_functions_open.catpuccin-frappe]
+svg = "icons/folder_functions_open-catpuccin-frappe.svg"
+
+[icons.folder_fvm.catpuccin-frappe]
+svg = "icons/folder_fvm-catpuccin-frappe.svg"
+
+[icons.folder_fvm_open.catpuccin-frappe]
+svg = "icons/folder_fvm_open-catpuccin-frappe.svg"
+
+[icons.folder_git.catpuccin-frappe]
+svg = "icons/folder_git-catpuccin-frappe.svg"
+
+[icons.folder_git_open.catpuccin-frappe]
+svg = "icons/folder_git_open-catpuccin-frappe.svg"
+
+[icons.folder_github.catpuccin-frappe]
+svg = "icons/folder_github-catpuccin-frappe.svg"
+
+[icons.folder_github_open.catpuccin-frappe]
+svg = "icons/folder_github_open-catpuccin-frappe.svg"
+
+[icons.folder_gitlab.catpuccin-frappe]
+svg = "icons/folder_gitlab-catpuccin-frappe.svg"
+
+[icons.folder_gitlab_open.catpuccin-frappe]
+svg = "icons/folder_gitlab_open-catpuccin-frappe.svg"
+
+[icons.folder_gradle.catpuccin-frappe]
+svg = "icons/folder_gradle-catpuccin-frappe.svg"
+
+[icons.folder_gradle_open.catpuccin-frappe]
+svg = "icons/folder_gradle_open-catpuccin-frappe.svg"
+
+[icons.folder_graphql.catpuccin-frappe]
+svg = "icons/folder_graphql-catpuccin-frappe.svg"
+
+[icons.folder_graphql_open.catpuccin-frappe]
+svg = "icons/folder_graphql_open-catpuccin-frappe.svg"
+
+[icons.folder_hooks.catpuccin-frappe]
+svg = "icons/folder_hooks-catpuccin-frappe.svg"
+
+[icons.folder_hooks_open.catpuccin-frappe]
+svg = "icons/folder_hooks_open-catpuccin-frappe.svg"
+
+[icons.folder_husky.catpuccin-frappe]
+svg = "icons/folder_husky-catpuccin-frappe.svg"
+
+[icons.folder_husky_open.catpuccin-frappe]
+svg = "icons/folder_husky_open-catpuccin-frappe.svg"
+
+[icons.folder_images.catpuccin-frappe]
+svg = "icons/folder_images-catpuccin-frappe.svg"
+
+[icons.folder_images_open.catpuccin-frappe]
+svg = "icons/folder_images_open-catpuccin-frappe.svg"
+
+[icons.folder_include.catpuccin-frappe]
+svg = "icons/folder_include-catpuccin-frappe.svg"
+
+[icons.folder_include_open.catpuccin-frappe]
+svg = "icons/folder_include_open-catpuccin-frappe.svg"
+
+[icons.folder_intellij.catpuccin-frappe]
+svg = "icons/folder_intellij-catpuccin-frappe.svg"
+
+[icons.folder_intellij_open.catpuccin-frappe]
+svg = "icons/folder_intellij_open-catpuccin-frappe.svg"
+
+[icons.folder_javascript.catpuccin-frappe]
+svg = "icons/folder_javascript-catpuccin-frappe.svg"
+
+[icons.folder_javascript_open.catpuccin-frappe]
+svg = "icons/folder_javascript_open-catpuccin-frappe.svg"
+
+[icons.folder_kubernetes.catpuccin-frappe]
+svg = "icons/folder_kubernetes-catpuccin-frappe.svg"
+
+[icons.folder_kubernetes_open.catpuccin-frappe]
+svg = "icons/folder_kubernetes_open-catpuccin-frappe.svg"
+
+[icons.folder_layouts.catpuccin-frappe]
+svg = "icons/folder_layouts-catpuccin-frappe.svg"
+
+[icons.folder_layouts_open.catpuccin-frappe]
+svg = "icons/folder_layouts_open-catpuccin-frappe.svg"
+
+[icons.folder_lib.catpuccin-frappe]
+svg = "icons/folder_lib-catpuccin-frappe.svg"
+
+[icons.folder_lib_open.catpuccin-frappe]
+svg = "icons/folder_lib_open-catpuccin-frappe.svg"
+
+[icons.folder_linux.catpuccin-frappe]
+svg = "icons/folder_linux-catpuccin-frappe.svg"
+
+[icons.folder_linux_open.catpuccin-frappe]
+svg = "icons/folder_linux_open-catpuccin-frappe.svg"
+
+[icons.folder_locales.catpuccin-frappe]
+svg = "icons/folder_locales-catpuccin-frappe.svg"
+
+[icons.folder_locales_open.catpuccin-frappe]
+svg = "icons/folder_locales_open-catpuccin-frappe.svg"
+
+[icons.folder_luau.catpuccin-frappe]
+svg = "icons/folder_luau-catpuccin-frappe.svg"
+
+[icons.folder_luau_open.catpuccin-frappe]
+svg = "icons/folder_luau_open-catpuccin-frappe.svg"
+
+[icons.folder_lune.catpuccin-frappe]
+svg = "icons/folder_lune-catpuccin-frappe.svg"
+
+[icons.folder_lune_open.catpuccin-frappe]
+svg = "icons/folder_lune_open-catpuccin-frappe.svg"
+
+[icons.folder_macos.catpuccin-frappe]
+svg = "icons/folder_macos-catpuccin-frappe.svg"
+
+[icons.folder_macos_open.catpuccin-frappe]
+svg = "icons/folder_macos_open-catpuccin-frappe.svg"
+
+[icons.folder_messages.catpuccin-frappe]
+svg = "icons/folder_messages-catpuccin-frappe.svg"
+
+[icons.folder_messages_open.catpuccin-frappe]
+svg = "icons/folder_messages_open-catpuccin-frappe.svg"
+
+[icons.folder_middleware.catpuccin-frappe]
+svg = "icons/folder_middleware-catpuccin-frappe.svg"
+
+[icons.folder_middleware_open.catpuccin-frappe]
+svg = "icons/folder_middleware_open-catpuccin-frappe.svg"
+
+[icons.folder_mocks.catpuccin-frappe]
+svg = "icons/folder_mocks-catpuccin-frappe.svg"
+
+[icons.folder_mocks_open.catpuccin-frappe]
+svg = "icons/folder_mocks_open-catpuccin-frappe.svg"
+
+[icons.folder_moonrepo.catpuccin-frappe]
+svg = "icons/folder_moonrepo-catpuccin-frappe.svg"
+
+[icons.folder_moonrepo_open.catpuccin-frappe]
+svg = "icons/folder_moonrepo_open-catpuccin-frappe.svg"
+
+[icons.folder_next.catpuccin-frappe]
+svg = "icons/folder_next-catpuccin-frappe.svg"
+
+[icons.folder_next_open.catpuccin-frappe]
+svg = "icons/folder_next_open-catpuccin-frappe.svg"
+
+[icons.folder_nix.catpuccin-frappe]
+svg = "icons/folder_nix-catpuccin-frappe.svg"
+
+[icons.folder_nix_open.catpuccin-frappe]
+svg = "icons/folder_nix_open-catpuccin-frappe.svg"
+
+[icons.folder_node.catpuccin-frappe]
+svg = "icons/folder_node-catpuccin-frappe.svg"
+
+[icons.folder_node_open.catpuccin-frappe]
+svg = "icons/folder_node_open-catpuccin-frappe.svg"
+
+[icons.folder_nuxt.catpuccin-frappe]
+svg = "icons/folder_nuxt-catpuccin-frappe.svg"
+
+[icons.folder_nuxt_open.catpuccin-frappe]
+svg = "icons/folder_nuxt_open-catpuccin-frappe.svg"
+
+[icons.folder_packages.catpuccin-frappe]
+svg = "icons/folder_packages-catpuccin-frappe.svg"
+
+[icons.folder_packages_open.catpuccin-frappe]
+svg = "icons/folder_packages_open-catpuccin-frappe.svg"
+
+[icons.folder_pesde.catpuccin-frappe]
+svg = "icons/folder_pesde-catpuccin-frappe.svg"
+
+[icons.folder_pesde_open.catpuccin-frappe]
+svg = "icons/folder_pesde_open-catpuccin-frappe.svg"
+
+[icons.folder_plugins.catpuccin-frappe]
+svg = "icons/folder_plugins-catpuccin-frappe.svg"
+
+[icons.folder_plugins_open.catpuccin-frappe]
+svg = "icons/folder_plugins_open-catpuccin-frappe.svg"
+
+[icons.folder_pre-commit.catpuccin-frappe]
+svg = "icons/folder_pre-commit-catpuccin-frappe.svg"
+
+[icons.folder_pre-commit_open.catpuccin-frappe]
+svg = "icons/folder_pre-commit_open-catpuccin-frappe.svg"
+
+[icons.folder_prisma.catpuccin-frappe]
+svg = "icons/folder_prisma-catpuccin-frappe.svg"
+
+[icons.folder_prisma_open.catpuccin-frappe]
+svg = "icons/folder_prisma_open-catpuccin-frappe.svg"
+
+[icons.folder_private.catpuccin-frappe]
+svg = "icons/folder_private-catpuccin-frappe.svg"
+
+[icons.folder_private_open.catpuccin-frappe]
+svg = "icons/folder_private_open-catpuccin-frappe.svg"
+
+[icons.folder_proto.catpuccin-frappe]
+svg = "icons/folder_proto-catpuccin-frappe.svg"
+
+[icons.folder_proto_open.catpuccin-frappe]
+svg = "icons/folder_proto_open-catpuccin-frappe.svg"
+
+[icons.folder_public.catpuccin-frappe]
+svg = "icons/folder_public-catpuccin-frappe.svg"
+
+[icons.folder_public_open.catpuccin-frappe]
+svg = "icons/folder_public_open-catpuccin-frappe.svg"
+
+[icons.folder_queue.catpuccin-frappe]
+svg = "icons/folder_queue-catpuccin-frappe.svg"
+
+[icons.folder_queue_open.catpuccin-frappe]
+svg = "icons/folder_queue_open-catpuccin-frappe.svg"
+
+[icons.folder_redux.catpuccin-frappe]
+svg = "icons/folder_redux-catpuccin-frappe.svg"
+
+[icons.folder_redux_open.catpuccin-frappe]
+svg = "icons/folder_redux_open-catpuccin-frappe.svg"
+
+[icons.folder_renovate.catpuccin-frappe]
+svg = "icons/folder_renovate-catpuccin-frappe.svg"
+
+[icons.folder_renovate_open.catpuccin-frappe]
+svg = "icons/folder_renovate_open-catpuccin-frappe.svg"
+
+[icons.folder_roblox.catpuccin-frappe]
+svg = "icons/folder_roblox-catpuccin-frappe.svg"
+
+[icons.folder_roblox_open.catpuccin-frappe]
+svg = "icons/folder_roblox_open-catpuccin-frappe.svg"
+
+[icons.folder_routes.catpuccin-frappe]
+svg = "icons/folder_routes-catpuccin-frappe.svg"
+
+[icons.folder_routes_open.catpuccin-frappe]
+svg = "icons/folder_routes_open-catpuccin-frappe.svg"
+
+[icons.folder_sass.catpuccin-frappe]
+svg = "icons/folder_sass-catpuccin-frappe.svg"
+
+[icons.folder_sass_open.catpuccin-frappe]
+svg = "icons/folder_sass_open-catpuccin-frappe.svg"
+
+[icons.folder_scripts.catpuccin-frappe]
+svg = "icons/folder_scripts-catpuccin-frappe.svg"
+
+[icons.folder_scripts_open.catpuccin-frappe]
+svg = "icons/folder_scripts_open-catpuccin-frappe.svg"
+
+[icons.folder_security.catpuccin-frappe]
+svg = "icons/folder_security-catpuccin-frappe.svg"
+
+[icons.folder_security_open.catpuccin-frappe]
+svg = "icons/folder_security_open-catpuccin-frappe.svg"
+
+[icons.folder_server.catpuccin-frappe]
+svg = "icons/folder_server-catpuccin-frappe.svg"
+
+[icons.folder_server_open.catpuccin-frappe]
+svg = "icons/folder_server_open-catpuccin-frappe.svg"
+
+[icons.folder_shared.catpuccin-frappe]
+svg = "icons/folder_shared-catpuccin-frappe.svg"
+
+[icons.folder_shared_open.catpuccin-frappe]
+svg = "icons/folder_shared_open-catpuccin-frappe.svg"
+
+[icons.folder_src.catpuccin-frappe]
+svg = "icons/folder_src-catpuccin-frappe.svg"
+
+[icons.folder_src_open.catpuccin-frappe]
+svg = "icons/folder_src_open-catpuccin-frappe.svg"
+
+[icons.folder_storybook.catpuccin-frappe]
+svg = "icons/folder_storybook-catpuccin-frappe.svg"
+
+[icons.folder_storybook_open.catpuccin-frappe]
+svg = "icons/folder_storybook_open-catpuccin-frappe.svg"
+
+[icons.folder_styles.catpuccin-frappe]
+svg = "icons/folder_styles-catpuccin-frappe.svg"
+
+[icons.folder_styles_open.catpuccin-frappe]
+svg = "icons/folder_styles_open-catpuccin-frappe.svg"
+
+[icons.folder_svg.catpuccin-frappe]
+svg = "icons/folder_svg-catpuccin-frappe.svg"
+
+[icons.folder_svg_open.catpuccin-frappe]
+svg = "icons/folder_svg_open-catpuccin-frappe.svg"
+
+[icons.folder_symlink.catpuccin-frappe]
+svg = "icons/folder_symlink-catpuccin-frappe.svg"
+
+[icons.folder_symlink_open.catpuccin-frappe]
+svg = "icons/folder_symlink_open-catpuccin-frappe.svg"
+
+[icons.folder_tauri.catpuccin-frappe]
+svg = "icons/folder_tauri-catpuccin-frappe.svg"
+
+[icons.folder_tauri_open.catpuccin-frappe]
+svg = "icons/folder_tauri_open-catpuccin-frappe.svg"
+
+[icons.folder_temp.catpuccin-frappe]
+svg = "icons/folder_temp-catpuccin-frappe.svg"
+
+[icons.folder_temp_open.catpuccin-frappe]
+svg = "icons/folder_temp_open-catpuccin-frappe.svg"
+
+[icons.folder_templates.catpuccin-frappe]
+svg = "icons/folder_templates-catpuccin-frappe.svg"
+
+[icons.folder_templates_open.catpuccin-frappe]
+svg = "icons/folder_templates_open-catpuccin-frappe.svg"
+
+[icons.folder_tests.catpuccin-frappe]
+svg = "icons/folder_tests-catpuccin-frappe.svg"
+
+[icons.folder_tests_open.catpuccin-frappe]
+svg = "icons/folder_tests_open-catpuccin-frappe.svg"
+
+[icons.folder_themes.catpuccin-frappe]
+svg = "icons/folder_themes-catpuccin-frappe.svg"
+
+[icons.folder_themes_open.catpuccin-frappe]
+svg = "icons/folder_themes_open-catpuccin-frappe.svg"
+
+[icons.folder_turbo.catpuccin-frappe]
+svg = "icons/folder_turbo-catpuccin-frappe.svg"
+
+[icons.folder_turbo_open.catpuccin-frappe]
+svg = "icons/folder_turbo_open-catpuccin-frappe.svg"
+
+[icons.folder_types.catpuccin-frappe]
+svg = "icons/folder_types-catpuccin-frappe.svg"
+
+[icons.folder_types_open.catpuccin-frappe]
+svg = "icons/folder_types_open-catpuccin-frappe.svg"
+
+[icons.folder_upload.catpuccin-frappe]
+svg = "icons/folder_upload-catpuccin-frappe.svg"
+
+[icons.folder_upload_open.catpuccin-frappe]
+svg = "icons/folder_upload_open-catpuccin-frappe.svg"
+
+[icons.folder_utils.catpuccin-frappe]
+svg = "icons/folder_utils-catpuccin-frappe.svg"
+
+[icons.folder_utils_open.catpuccin-frappe]
+svg = "icons/folder_utils_open-catpuccin-frappe.svg"
+
+[icons.folder_vercel.catpuccin-frappe]
+svg = "icons/folder_vercel-catpuccin-frappe.svg"
+
+[icons.folder_vercel_open.catpuccin-frappe]
+svg = "icons/folder_vercel_open-catpuccin-frappe.svg"
+
+[icons.folder_video.catpuccin-frappe]
+svg = "icons/folder_video-catpuccin-frappe.svg"
+
+[icons.folder_video_open.catpuccin-frappe]
+svg = "icons/folder_video_open-catpuccin-frappe.svg"
+
+[icons.folder_views.catpuccin-frappe]
+svg = "icons/folder_views-catpuccin-frappe.svg"
+
+[icons.folder_views_open.catpuccin-frappe]
+svg = "icons/folder_views_open-catpuccin-frappe.svg"
+
+[icons.folder_vscode.catpuccin-frappe]
+svg = "icons/folder_vscode-catpuccin-frappe.svg"
+
+[icons.folder_vscode_open.catpuccin-frappe]
+svg = "icons/folder_vscode_open-catpuccin-frappe.svg"
+
+[icons.folder_windows.catpuccin-frappe]
+svg = "icons/folder_windows-catpuccin-frappe.svg"
+
+[icons.folder_windows_open.catpuccin-frappe]
+svg = "icons/folder_windows_open-catpuccin-frappe.svg"
+
+[icons.folder_workflows.catpuccin-frappe]
+svg = "icons/folder_workflows-catpuccin-frappe.svg"
+
+[icons.folder_workflows_open.catpuccin-frappe]
+svg = "icons/folder_workflows_open-catpuccin-frappe.svg"
+
+[icons.folder_wxt.catpuccin-frappe]
+svg = "icons/folder_wxt-catpuccin-frappe.svg"
+
+[icons.folder_wxt_open.catpuccin-frappe]
+svg = "icons/folder_wxt_open-catpuccin-frappe.svg"
+
+[icons.folder_xcode.catpuccin-frappe]
+svg = "icons/folder_xcode-catpuccin-frappe.svg"
+
+[icons.folder_xcode_open.catpuccin-frappe]
+svg = "icons/folder_xcode_open-catpuccin-frappe.svg"
+
+[icons.folder_xmake.catpuccin-frappe]
+svg = "icons/folder_xmake-catpuccin-frappe.svg"
+
+[icons.folder_xmake_open.catpuccin-frappe]
+svg = "icons/folder_xmake_open-catpuccin-frappe.svg"
+
+[icons.folder_yarn.catpuccin-frappe]
+svg = "icons/folder_yarn-catpuccin-frappe.svg"
+
+[icons.folder_yarn_open.catpuccin-frappe]
+svg = "icons/folder_yarn_open-catpuccin-frappe.svg"
+# }}}
+
 # }}}
 
 # {{{ catpuccin-latte
@@ -4506,6 +6007,692 @@ svg = "icons/zig-catpuccin-latte.svg"
 
 [icons.zip.catpuccin-latte]
 svg = "icons/zip-catpuccin-latte.svg"
+
+# {{{ Base folder icons
+[icons.folder_admin.catpuccin-latte]
+svg = "icons/folder_admin-catpuccin-latte.svg"
+
+[icons.folder_admin_open.catpuccin-latte]
+svg = "icons/folder_admin_open-catpuccin-latte.svg"
+
+[icons.folder_android.catpuccin-latte]
+svg = "icons/folder_android-catpuccin-latte.svg"
+
+[icons.folder_android_open.catpuccin-latte]
+svg = "icons/folder_android_open-catpuccin-latte.svg"
+
+[icons.folder_animation.catpuccin-latte]
+svg = "icons/folder_animation-catpuccin-latte.svg"
+
+[icons.folder_animation_open.catpuccin-latte]
+svg = "icons/folder_animation_open-catpuccin-latte.svg"
+
+[icons.folder_api.catpuccin-latte]
+svg = "icons/folder_api-catpuccin-latte.svg"
+
+[icons.folder_api_open.catpuccin-latte]
+svg = "icons/folder_api_open-catpuccin-latte.svg"
+
+[icons.folder_app.catpuccin-latte]
+svg = "icons/folder_app-catpuccin-latte.svg"
+
+[icons.folder_app_open.catpuccin-latte]
+svg = "icons/folder_app_open-catpuccin-latte.svg"
+
+[icons.folder_assets.catpuccin-latte]
+svg = "icons/folder_assets-catpuccin-latte.svg"
+
+[icons.folder_assets_open.catpuccin-latte]
+svg = "icons/folder_assets_open-catpuccin-latte.svg"
+
+[icons.folder_audio.catpuccin-latte]
+svg = "icons/folder_audio-catpuccin-latte.svg"
+
+[icons.folder_audio_open.catpuccin-latte]
+svg = "icons/folder_audio_open-catpuccin-latte.svg"
+
+[icons.folder_audit.catpuccin-latte]
+svg = "icons/folder_audit-catpuccin-latte.svg"
+
+[icons.folder_audit_open.catpuccin-latte]
+svg = "icons/folder_audit_open-catpuccin-latte.svg"
+
+[icons.folder_aws.catpuccin-latte]
+svg = "icons/folder_aws-catpuccin-latte.svg"
+
+[icons.folder_aws_open.catpuccin-latte]
+svg = "icons/folder_aws_open-catpuccin-latte.svg"
+
+[icons.folder_azure-devops.catpuccin-latte]
+svg = "icons/folder_azure-devops-catpuccin-latte.svg"
+
+[icons.folder_azure-devops_open.catpuccin-latte]
+svg = "icons/folder_azure-devops_open-catpuccin-latte.svg"
+
+[icons.folder_azure-pipelines.catpuccin-latte]
+svg = "icons/folder_azure-pipelines-catpuccin-latte.svg"
+
+[icons.folder_azure-pipelines_open.catpuccin-latte]
+svg = "icons/folder_azure-pipelines_open-catpuccin-latte.svg"
+
+[icons.folder_benchmark.catpuccin-latte]
+svg = "icons/folder_benchmark-catpuccin-latte.svg"
+
+[icons.folder_benchmark_open.catpuccin-latte]
+svg = "icons/folder_benchmark_open-catpuccin-latte.svg"
+
+[icons.folder_caddy.catpuccin-latte]
+svg = "icons/folder_caddy-catpuccin-latte.svg"
+
+[icons.folder_caddy_open.catpuccin-latte]
+svg = "icons/folder_caddy_open-catpuccin-latte.svg"
+
+[icons.folder_cargo.catpuccin-latte]
+svg = "icons/folder_cargo-catpuccin-latte.svg"
+
+[icons.folder_cargo_open.catpuccin-latte]
+svg = "icons/folder_cargo_open-catpuccin-latte.svg"
+
+[icons.folder_circle-ci.catpuccin-latte]
+svg = "icons/folder_circle-ci-catpuccin-latte.svg"
+
+[icons.folder_circle-ci_open.catpuccin-latte]
+svg = "icons/folder_circle-ci_open-catpuccin-latte.svg"
+
+[icons.folder_client.catpuccin-latte]
+svg = "icons/folder_client-catpuccin-latte.svg"
+
+[icons.folder_client_open.catpuccin-latte]
+svg = "icons/folder_client_open-catpuccin-latte.svg"
+
+[icons.folder_cloud.catpuccin-latte]
+svg = "icons/folder_cloud-catpuccin-latte.svg"
+
+[icons.folder_cloud_open.catpuccin-latte]
+svg = "icons/folder_cloud_open-catpuccin-latte.svg"
+
+[icons.folder_command.catpuccin-latte]
+svg = "icons/folder_command-catpuccin-latte.svg"
+
+[icons.folder_command_open.catpuccin-latte]
+svg = "icons/folder_command_open-catpuccin-latte.svg"
+
+[icons.folder_components.catpuccin-latte]
+svg = "icons/folder_components-catpuccin-latte.svg"
+
+[icons.folder_components_open.catpuccin-latte]
+svg = "icons/folder_components_open-catpuccin-latte.svg"
+
+[icons.folder_composables.catpuccin-latte]
+svg = "icons/folder_composables-catpuccin-latte.svg"
+
+[icons.folder_composables_open.catpuccin-latte]
+svg = "icons/folder_composables_open-catpuccin-latte.svg"
+
+[icons.folder_config.catpuccin-latte]
+svg = "icons/folder_config-catpuccin-latte.svg"
+
+[icons.folder_config_open.catpuccin-latte]
+svg = "icons/folder_config_open-catpuccin-latte.svg"
+
+[icons.folder_connection.catpuccin-latte]
+svg = "icons/folder_connection-catpuccin-latte.svg"
+
+[icons.folder_connection_open.catpuccin-latte]
+svg = "icons/folder_connection_open-catpuccin-latte.svg"
+
+[icons.folder_constant.catpuccin-latte]
+svg = "icons/folder_constant-catpuccin-latte.svg"
+
+[icons.folder_constant_open.catpuccin-latte]
+svg = "icons/folder_constant_open-catpuccin-latte.svg"
+
+[icons.folder_content.catpuccin-latte]
+svg = "icons/folder_content-catpuccin-latte.svg"
+
+[icons.folder_content_open.catpuccin-latte]
+svg = "icons/folder_content_open-catpuccin-latte.svg"
+
+[icons.folder_controllers.catpuccin-latte]
+svg = "icons/folder_controllers-catpuccin-latte.svg"
+
+[icons.folder_controllers_open.catpuccin-latte]
+svg = "icons/folder_controllers_open-catpuccin-latte.svg"
+
+[icons.folder_core.catpuccin-latte]
+svg = "icons/folder_core-catpuccin-latte.svg"
+
+[icons.folder_core_open.catpuccin-latte]
+svg = "icons/folder_core_open-catpuccin-latte.svg"
+
+[icons.folder_coverage.catpuccin-latte]
+svg = "icons/folder_coverage-catpuccin-latte.svg"
+
+[icons.folder_coverage_open.catpuccin-latte]
+svg = "icons/folder_coverage_open-catpuccin-latte.svg"
+
+[icons.folder_cursor.catpuccin-latte]
+svg = "icons/folder_cursor-catpuccin-latte.svg"
+
+[icons.folder_cursor_open.catpuccin-latte]
+svg = "icons/folder_cursor_open-catpuccin-latte.svg"
+
+[icons.folder_cypress.catpuccin-latte]
+svg = "icons/folder_cypress-catpuccin-latte.svg"
+
+[icons.folder_cypress_open.catpuccin-latte]
+svg = "icons/folder_cypress_open-catpuccin-latte.svg"
+
+[icons.folder_database.catpuccin-latte]
+svg = "icons/folder_database-catpuccin-latte.svg"
+
+[icons.folder_database_open.catpuccin-latte]
+svg = "icons/folder_database_open-catpuccin-latte.svg"
+
+[icons.folder_debug.catpuccin-latte]
+svg = "icons/folder_debug-catpuccin-latte.svg"
+
+[icons.folder_debug_open.catpuccin-latte]
+svg = "icons/folder_debug_open-catpuccin-latte.svg"
+
+[icons.folder_devcontainer.catpuccin-latte]
+svg = "icons/folder_devcontainer-catpuccin-latte.svg"
+
+[icons.folder_devcontainer_open.catpuccin-latte]
+svg = "icons/folder_devcontainer_open-catpuccin-latte.svg"
+
+[icons.folder_direnv.catpuccin-latte]
+svg = "icons/folder_direnv-catpuccin-latte.svg"
+
+[icons.folder_direnv_open.catpuccin-latte]
+svg = "icons/folder_direnv_open-catpuccin-latte.svg"
+
+[icons.folder_dist.catpuccin-latte]
+svg = "icons/folder_dist-catpuccin-latte.svg"
+
+[icons.folder_dist_open.catpuccin-latte]
+svg = "icons/folder_dist_open-catpuccin-latte.svg"
+
+[icons.folder_docker.catpuccin-latte]
+svg = "icons/folder_docker-catpuccin-latte.svg"
+
+[icons.folder_docker_open.catpuccin-latte]
+svg = "icons/folder_docker_open-catpuccin-latte.svg"
+
+[icons.folder_docs.catpuccin-latte]
+svg = "icons/folder_docs-catpuccin-latte.svg"
+
+[icons.folder_docs_open.catpuccin-latte]
+svg = "icons/folder_docs_open-catpuccin-latte.svg"
+
+[icons.folder_download.catpuccin-latte]
+svg = "icons/folder_download-catpuccin-latte.svg"
+
+[icons.folder_download_open.catpuccin-latte]
+svg = "icons/folder_download_open-catpuccin-latte.svg"
+
+[icons.folder_drizzle-orm.catpuccin-latte]
+svg = "icons/folder_drizzle-orm-catpuccin-latte.svg"
+
+[icons.folder_drizzle-orm_open.catpuccin-latte]
+svg = "icons/folder_drizzle-orm_open-catpuccin-latte.svg"
+
+[icons.folder_examples.catpuccin-latte]
+svg = "icons/folder_examples-catpuccin-latte.svg"
+
+[icons.folder_examples_open.catpuccin-latte]
+svg = "icons/folder_examples_open-catpuccin-latte.svg"
+
+[icons.folder_fastlane.catpuccin-latte]
+svg = "icons/folder_fastlane-catpuccin-latte.svg"
+
+[icons.folder_fastlane_open.catpuccin-latte]
+svg = "icons/folder_fastlane_open-catpuccin-latte.svg"
+
+[icons.folder_firebase.catpuccin-latte]
+svg = "icons/folder_firebase-catpuccin-latte.svg"
+
+[icons.folder_firebase_open.catpuccin-latte]
+svg = "icons/folder_firebase_open-catpuccin-latte.svg"
+
+[icons.folder_fonts.catpuccin-latte]
+svg = "icons/folder_fonts-catpuccin-latte.svg"
+
+[icons.folder_fonts_open.catpuccin-latte]
+svg = "icons/folder_fonts_open-catpuccin-latte.svg"
+
+[icons.folder_forgejo.catpuccin-latte]
+svg = "icons/folder_forgejo-catpuccin-latte.svg"
+
+[icons.folder_forgejo_open.catpuccin-latte]
+svg = "icons/folder_forgejo_open-catpuccin-latte.svg"
+
+[icons.folder_functions.catpuccin-latte]
+svg = "icons/folder_functions-catpuccin-latte.svg"
+
+[icons.folder_functions_open.catpuccin-latte]
+svg = "icons/folder_functions_open-catpuccin-latte.svg"
+
+[icons.folder_fvm.catpuccin-latte]
+svg = "icons/folder_fvm-catpuccin-latte.svg"
+
+[icons.folder_fvm_open.catpuccin-latte]
+svg = "icons/folder_fvm_open-catpuccin-latte.svg"
+
+[icons.folder_git.catpuccin-latte]
+svg = "icons/folder_git-catpuccin-latte.svg"
+
+[icons.folder_git_open.catpuccin-latte]
+svg = "icons/folder_git_open-catpuccin-latte.svg"
+
+[icons.folder_github.catpuccin-latte]
+svg = "icons/folder_github-catpuccin-latte.svg"
+
+[icons.folder_github_open.catpuccin-latte]
+svg = "icons/folder_github_open-catpuccin-latte.svg"
+
+[icons.folder_gitlab.catpuccin-latte]
+svg = "icons/folder_gitlab-catpuccin-latte.svg"
+
+[icons.folder_gitlab_open.catpuccin-latte]
+svg = "icons/folder_gitlab_open-catpuccin-latte.svg"
+
+[icons.folder_gradle.catpuccin-latte]
+svg = "icons/folder_gradle-catpuccin-latte.svg"
+
+[icons.folder_gradle_open.catpuccin-latte]
+svg = "icons/folder_gradle_open-catpuccin-latte.svg"
+
+[icons.folder_graphql.catpuccin-latte]
+svg = "icons/folder_graphql-catpuccin-latte.svg"
+
+[icons.folder_graphql_open.catpuccin-latte]
+svg = "icons/folder_graphql_open-catpuccin-latte.svg"
+
+[icons.folder_hooks.catpuccin-latte]
+svg = "icons/folder_hooks-catpuccin-latte.svg"
+
+[icons.folder_hooks_open.catpuccin-latte]
+svg = "icons/folder_hooks_open-catpuccin-latte.svg"
+
+[icons.folder_husky.catpuccin-latte]
+svg = "icons/folder_husky-catpuccin-latte.svg"
+
+[icons.folder_husky_open.catpuccin-latte]
+svg = "icons/folder_husky_open-catpuccin-latte.svg"
+
+[icons.folder_images.catpuccin-latte]
+svg = "icons/folder_images-catpuccin-latte.svg"
+
+[icons.folder_images_open.catpuccin-latte]
+svg = "icons/folder_images_open-catpuccin-latte.svg"
+
+[icons.folder_include.catpuccin-latte]
+svg = "icons/folder_include-catpuccin-latte.svg"
+
+[icons.folder_include_open.catpuccin-latte]
+svg = "icons/folder_include_open-catpuccin-latte.svg"
+
+[icons.folder_intellij.catpuccin-latte]
+svg = "icons/folder_intellij-catpuccin-latte.svg"
+
+[icons.folder_intellij_open.catpuccin-latte]
+svg = "icons/folder_intellij_open-catpuccin-latte.svg"
+
+[icons.folder_javascript.catpuccin-latte]
+svg = "icons/folder_javascript-catpuccin-latte.svg"
+
+[icons.folder_javascript_open.catpuccin-latte]
+svg = "icons/folder_javascript_open-catpuccin-latte.svg"
+
+[icons.folder_kubernetes.catpuccin-latte]
+svg = "icons/folder_kubernetes-catpuccin-latte.svg"
+
+[icons.folder_kubernetes_open.catpuccin-latte]
+svg = "icons/folder_kubernetes_open-catpuccin-latte.svg"
+
+[icons.folder_layouts.catpuccin-latte]
+svg = "icons/folder_layouts-catpuccin-latte.svg"
+
+[icons.folder_layouts_open.catpuccin-latte]
+svg = "icons/folder_layouts_open-catpuccin-latte.svg"
+
+[icons.folder_lib.catpuccin-latte]
+svg = "icons/folder_lib-catpuccin-latte.svg"
+
+[icons.folder_lib_open.catpuccin-latte]
+svg = "icons/folder_lib_open-catpuccin-latte.svg"
+
+[icons.folder_linux.catpuccin-latte]
+svg = "icons/folder_linux-catpuccin-latte.svg"
+
+[icons.folder_linux_open.catpuccin-latte]
+svg = "icons/folder_linux_open-catpuccin-latte.svg"
+
+[icons.folder_locales.catpuccin-latte]
+svg = "icons/folder_locales-catpuccin-latte.svg"
+
+[icons.folder_locales_open.catpuccin-latte]
+svg = "icons/folder_locales_open-catpuccin-latte.svg"
+
+[icons.folder_luau.catpuccin-latte]
+svg = "icons/folder_luau-catpuccin-latte.svg"
+
+[icons.folder_luau_open.catpuccin-latte]
+svg = "icons/folder_luau_open-catpuccin-latte.svg"
+
+[icons.folder_lune.catpuccin-latte]
+svg = "icons/folder_lune-catpuccin-latte.svg"
+
+[icons.folder_lune_open.catpuccin-latte]
+svg = "icons/folder_lune_open-catpuccin-latte.svg"
+
+[icons.folder_macos.catpuccin-latte]
+svg = "icons/folder_macos-catpuccin-latte.svg"
+
+[icons.folder_macos_open.catpuccin-latte]
+svg = "icons/folder_macos_open-catpuccin-latte.svg"
+
+[icons.folder_messages.catpuccin-latte]
+svg = "icons/folder_messages-catpuccin-latte.svg"
+
+[icons.folder_messages_open.catpuccin-latte]
+svg = "icons/folder_messages_open-catpuccin-latte.svg"
+
+[icons.folder_middleware.catpuccin-latte]
+svg = "icons/folder_middleware-catpuccin-latte.svg"
+
+[icons.folder_middleware_open.catpuccin-latte]
+svg = "icons/folder_middleware_open-catpuccin-latte.svg"
+
+[icons.folder_mocks.catpuccin-latte]
+svg = "icons/folder_mocks-catpuccin-latte.svg"
+
+[icons.folder_mocks_open.catpuccin-latte]
+svg = "icons/folder_mocks_open-catpuccin-latte.svg"
+
+[icons.folder_moonrepo.catpuccin-latte]
+svg = "icons/folder_moonrepo-catpuccin-latte.svg"
+
+[icons.folder_moonrepo_open.catpuccin-latte]
+svg = "icons/folder_moonrepo_open-catpuccin-latte.svg"
+
+[icons.folder_next.catpuccin-latte]
+svg = "icons/folder_next-catpuccin-latte.svg"
+
+[icons.folder_next_open.catpuccin-latte]
+svg = "icons/folder_next_open-catpuccin-latte.svg"
+
+[icons.folder_nix.catpuccin-latte]
+svg = "icons/folder_nix-catpuccin-latte.svg"
+
+[icons.folder_nix_open.catpuccin-latte]
+svg = "icons/folder_nix_open-catpuccin-latte.svg"
+
+[icons.folder_node.catpuccin-latte]
+svg = "icons/folder_node-catpuccin-latte.svg"
+
+[icons.folder_node_open.catpuccin-latte]
+svg = "icons/folder_node_open-catpuccin-latte.svg"
+
+[icons.folder_nuxt.catpuccin-latte]
+svg = "icons/folder_nuxt-catpuccin-latte.svg"
+
+[icons.folder_nuxt_open.catpuccin-latte]
+svg = "icons/folder_nuxt_open-catpuccin-latte.svg"
+
+[icons.folder_packages.catpuccin-latte]
+svg = "icons/folder_packages-catpuccin-latte.svg"
+
+[icons.folder_packages_open.catpuccin-latte]
+svg = "icons/folder_packages_open-catpuccin-latte.svg"
+
+[icons.folder_pesde.catpuccin-latte]
+svg = "icons/folder_pesde-catpuccin-latte.svg"
+
+[icons.folder_pesde_open.catpuccin-latte]
+svg = "icons/folder_pesde_open-catpuccin-latte.svg"
+
+[icons.folder_plugins.catpuccin-latte]
+svg = "icons/folder_plugins-catpuccin-latte.svg"
+
+[icons.folder_plugins_open.catpuccin-latte]
+svg = "icons/folder_plugins_open-catpuccin-latte.svg"
+
+[icons.folder_pre-commit.catpuccin-latte]
+svg = "icons/folder_pre-commit-catpuccin-latte.svg"
+
+[icons.folder_pre-commit_open.catpuccin-latte]
+svg = "icons/folder_pre-commit_open-catpuccin-latte.svg"
+
+[icons.folder_prisma.catpuccin-latte]
+svg = "icons/folder_prisma-catpuccin-latte.svg"
+
+[icons.folder_prisma_open.catpuccin-latte]
+svg = "icons/folder_prisma_open-catpuccin-latte.svg"
+
+[icons.folder_private.catpuccin-latte]
+svg = "icons/folder_private-catpuccin-latte.svg"
+
+[icons.folder_private_open.catpuccin-latte]
+svg = "icons/folder_private_open-catpuccin-latte.svg"
+
+[icons.folder_proto.catpuccin-latte]
+svg = "icons/folder_proto-catpuccin-latte.svg"
+
+[icons.folder_proto_open.catpuccin-latte]
+svg = "icons/folder_proto_open-catpuccin-latte.svg"
+
+[icons.folder_public.catpuccin-latte]
+svg = "icons/folder_public-catpuccin-latte.svg"
+
+[icons.folder_public_open.catpuccin-latte]
+svg = "icons/folder_public_open-catpuccin-latte.svg"
+
+[icons.folder_queue.catpuccin-latte]
+svg = "icons/folder_queue-catpuccin-latte.svg"
+
+[icons.folder_queue_open.catpuccin-latte]
+svg = "icons/folder_queue_open-catpuccin-latte.svg"
+
+[icons.folder_redux.catpuccin-latte]
+svg = "icons/folder_redux-catpuccin-latte.svg"
+
+[icons.folder_redux_open.catpuccin-latte]
+svg = "icons/folder_redux_open-catpuccin-latte.svg"
+
+[icons.folder_renovate.catpuccin-latte]
+svg = "icons/folder_renovate-catpuccin-latte.svg"
+
+[icons.folder_renovate_open.catpuccin-latte]
+svg = "icons/folder_renovate_open-catpuccin-latte.svg"
+
+[icons.folder_roblox.catpuccin-latte]
+svg = "icons/folder_roblox-catpuccin-latte.svg"
+
+[icons.folder_roblox_open.catpuccin-latte]
+svg = "icons/folder_roblox_open-catpuccin-latte.svg"
+
+[icons.folder_routes.catpuccin-latte]
+svg = "icons/folder_routes-catpuccin-latte.svg"
+
+[icons.folder_routes_open.catpuccin-latte]
+svg = "icons/folder_routes_open-catpuccin-latte.svg"
+
+[icons.folder_sass.catpuccin-latte]
+svg = "icons/folder_sass-catpuccin-latte.svg"
+
+[icons.folder_sass_open.catpuccin-latte]
+svg = "icons/folder_sass_open-catpuccin-latte.svg"
+
+[icons.folder_scripts.catpuccin-latte]
+svg = "icons/folder_scripts-catpuccin-latte.svg"
+
+[icons.folder_scripts_open.catpuccin-latte]
+svg = "icons/folder_scripts_open-catpuccin-latte.svg"
+
+[icons.folder_security.catpuccin-latte]
+svg = "icons/folder_security-catpuccin-latte.svg"
+
+[icons.folder_security_open.catpuccin-latte]
+svg = "icons/folder_security_open-catpuccin-latte.svg"
+
+[icons.folder_server.catpuccin-latte]
+svg = "icons/folder_server-catpuccin-latte.svg"
+
+[icons.folder_server_open.catpuccin-latte]
+svg = "icons/folder_server_open-catpuccin-latte.svg"
+
+[icons.folder_shared.catpuccin-latte]
+svg = "icons/folder_shared-catpuccin-latte.svg"
+
+[icons.folder_shared_open.catpuccin-latte]
+svg = "icons/folder_shared_open-catpuccin-latte.svg"
+
+[icons.folder_src.catpuccin-latte]
+svg = "icons/folder_src-catpuccin-latte.svg"
+
+[icons.folder_src_open.catpuccin-latte]
+svg = "icons/folder_src_open-catpuccin-latte.svg"
+
+[icons.folder_storybook.catpuccin-latte]
+svg = "icons/folder_storybook-catpuccin-latte.svg"
+
+[icons.folder_storybook_open.catpuccin-latte]
+svg = "icons/folder_storybook_open-catpuccin-latte.svg"
+
+[icons.folder_styles.catpuccin-latte]
+svg = "icons/folder_styles-catpuccin-latte.svg"
+
+[icons.folder_styles_open.catpuccin-latte]
+svg = "icons/folder_styles_open-catpuccin-latte.svg"
+
+[icons.folder_svg.catpuccin-latte]
+svg = "icons/folder_svg-catpuccin-latte.svg"
+
+[icons.folder_svg_open.catpuccin-latte]
+svg = "icons/folder_svg_open-catpuccin-latte.svg"
+
+[icons.folder_symlink.catpuccin-latte]
+svg = "icons/folder_symlink-catpuccin-latte.svg"
+
+[icons.folder_symlink_open.catpuccin-latte]
+svg = "icons/folder_symlink_open-catpuccin-latte.svg"
+
+[icons.folder_tauri.catpuccin-latte]
+svg = "icons/folder_tauri-catpuccin-latte.svg"
+
+[icons.folder_tauri_open.catpuccin-latte]
+svg = "icons/folder_tauri_open-catpuccin-latte.svg"
+
+[icons.folder_temp.catpuccin-latte]
+svg = "icons/folder_temp-catpuccin-latte.svg"
+
+[icons.folder_temp_open.catpuccin-latte]
+svg = "icons/folder_temp_open-catpuccin-latte.svg"
+
+[icons.folder_templates.catpuccin-latte]
+svg = "icons/folder_templates-catpuccin-latte.svg"
+
+[icons.folder_templates_open.catpuccin-latte]
+svg = "icons/folder_templates_open-catpuccin-latte.svg"
+
+[icons.folder_tests.catpuccin-latte]
+svg = "icons/folder_tests-catpuccin-latte.svg"
+
+[icons.folder_tests_open.catpuccin-latte]
+svg = "icons/folder_tests_open-catpuccin-latte.svg"
+
+[icons.folder_themes.catpuccin-latte]
+svg = "icons/folder_themes-catpuccin-latte.svg"
+
+[icons.folder_themes_open.catpuccin-latte]
+svg = "icons/folder_themes_open-catpuccin-latte.svg"
+
+[icons.folder_turbo.catpuccin-latte]
+svg = "icons/folder_turbo-catpuccin-latte.svg"
+
+[icons.folder_turbo_open.catpuccin-latte]
+svg = "icons/folder_turbo_open-catpuccin-latte.svg"
+
+[icons.folder_types.catpuccin-latte]
+svg = "icons/folder_types-catpuccin-latte.svg"
+
+[icons.folder_types_open.catpuccin-latte]
+svg = "icons/folder_types_open-catpuccin-latte.svg"
+
+[icons.folder_upload.catpuccin-latte]
+svg = "icons/folder_upload-catpuccin-latte.svg"
+
+[icons.folder_upload_open.catpuccin-latte]
+svg = "icons/folder_upload_open-catpuccin-latte.svg"
+
+[icons.folder_utils.catpuccin-latte]
+svg = "icons/folder_utils-catpuccin-latte.svg"
+
+[icons.folder_utils_open.catpuccin-latte]
+svg = "icons/folder_utils_open-catpuccin-latte.svg"
+
+[icons.folder_vercel.catpuccin-latte]
+svg = "icons/folder_vercel-catpuccin-latte.svg"
+
+[icons.folder_vercel_open.catpuccin-latte]
+svg = "icons/folder_vercel_open-catpuccin-latte.svg"
+
+[icons.folder_video.catpuccin-latte]
+svg = "icons/folder_video-catpuccin-latte.svg"
+
+[icons.folder_video_open.catpuccin-latte]
+svg = "icons/folder_video_open-catpuccin-latte.svg"
+
+[icons.folder_views.catpuccin-latte]
+svg = "icons/folder_views-catpuccin-latte.svg"
+
+[icons.folder_views_open.catpuccin-latte]
+svg = "icons/folder_views_open-catpuccin-latte.svg"
+
+[icons.folder_vscode.catpuccin-latte]
+svg = "icons/folder_vscode-catpuccin-latte.svg"
+
+[icons.folder_vscode_open.catpuccin-latte]
+svg = "icons/folder_vscode_open-catpuccin-latte.svg"
+
+[icons.folder_windows.catpuccin-latte]
+svg = "icons/folder_windows-catpuccin-latte.svg"
+
+[icons.folder_windows_open.catpuccin-latte]
+svg = "icons/folder_windows_open-catpuccin-latte.svg"
+
+[icons.folder_workflows.catpuccin-latte]
+svg = "icons/folder_workflows-catpuccin-latte.svg"
+
+[icons.folder_workflows_open.catpuccin-latte]
+svg = "icons/folder_workflows_open-catpuccin-latte.svg"
+
+[icons.folder_wxt.catpuccin-latte]
+svg = "icons/folder_wxt-catpuccin-latte.svg"
+
+[icons.folder_wxt_open.catpuccin-latte]
+svg = "icons/folder_wxt_open-catpuccin-latte.svg"
+
+[icons.folder_xcode.catpuccin-latte]
+svg = "icons/folder_xcode-catpuccin-latte.svg"
+
+[icons.folder_xcode_open.catpuccin-latte]
+svg = "icons/folder_xcode_open-catpuccin-latte.svg"
+
+[icons.folder_xmake.catpuccin-latte]
+svg = "icons/folder_xmake-catpuccin-latte.svg"
+
+[icons.folder_xmake_open.catpuccin-latte]
+svg = "icons/folder_xmake_open-catpuccin-latte.svg"
+
+[icons.folder_yarn.catpuccin-latte]
+svg = "icons/folder_yarn-catpuccin-latte.svg"
+
+[icons.folder_yarn_open.catpuccin-latte]
+svg = "icons/folder_yarn_open-catpuccin-latte.svg"
+# }}}
 # }}}
 
 # {{{ catpuccin-macchiato
@@ -5774,6 +7961,692 @@ svg = "icons/zig-catpuccin-macchiato.svg"
 
 [icons.zip.catpuccin-macchiato]
 svg = "icons/zip-catpuccin-macchiato.svg"
+
+# {{{ Base folder icons
+[icons.folder_admin.catpuccin-macchiato]
+svg = "icons/folder_admin-catpuccin-macchiato.svg"
+
+[icons.folder_admin_open.catpuccin-macchiato]
+svg = "icons/folder_admin_open-catpuccin-macchiato.svg"
+
+[icons.folder_android.catpuccin-macchiato]
+svg = "icons/folder_android-catpuccin-macchiato.svg"
+
+[icons.folder_android_open.catpuccin-macchiato]
+svg = "icons/folder_android_open-catpuccin-macchiato.svg"
+
+[icons.folder_animation.catpuccin-macchiato]
+svg = "icons/folder_animation-catpuccin-macchiato.svg"
+
+[icons.folder_animation_open.catpuccin-macchiato]
+svg = "icons/folder_animation_open-catpuccin-macchiato.svg"
+
+[icons.folder_api.catpuccin-macchiato]
+svg = "icons/folder_api-catpuccin-macchiato.svg"
+
+[icons.folder_api_open.catpuccin-macchiato]
+svg = "icons/folder_api_open-catpuccin-macchiato.svg"
+
+[icons.folder_app.catpuccin-macchiato]
+svg = "icons/folder_app-catpuccin-macchiato.svg"
+
+[icons.folder_app_open.catpuccin-macchiato]
+svg = "icons/folder_app_open-catpuccin-macchiato.svg"
+
+[icons.folder_assets.catpuccin-macchiato]
+svg = "icons/folder_assets-catpuccin-macchiato.svg"
+
+[icons.folder_assets_open.catpuccin-macchiato]
+svg = "icons/folder_assets_open-catpuccin-macchiato.svg"
+
+[icons.folder_audio.catpuccin-macchiato]
+svg = "icons/folder_audio-catpuccin-macchiato.svg"
+
+[icons.folder_audio_open.catpuccin-macchiato]
+svg = "icons/folder_audio_open-catpuccin-macchiato.svg"
+
+[icons.folder_audit.catpuccin-macchiato]
+svg = "icons/folder_audit-catpuccin-macchiato.svg"
+
+[icons.folder_audit_open.catpuccin-macchiato]
+svg = "icons/folder_audit_open-catpuccin-macchiato.svg"
+
+[icons.folder_aws.catpuccin-macchiato]
+svg = "icons/folder_aws-catpuccin-macchiato.svg"
+
+[icons.folder_aws_open.catpuccin-macchiato]
+svg = "icons/folder_aws_open-catpuccin-macchiato.svg"
+
+[icons.folder_azure-devops.catpuccin-macchiato]
+svg = "icons/folder_azure-devops-catpuccin-macchiato.svg"
+
+[icons.folder_azure-devops_open.catpuccin-macchiato]
+svg = "icons/folder_azure-devops_open-catpuccin-macchiato.svg"
+
+[icons.folder_azure-pipelines.catpuccin-macchiato]
+svg = "icons/folder_azure-pipelines-catpuccin-macchiato.svg"
+
+[icons.folder_azure-pipelines_open.catpuccin-macchiato]
+svg = "icons/folder_azure-pipelines_open-catpuccin-macchiato.svg"
+
+[icons.folder_benchmark.catpuccin-macchiato]
+svg = "icons/folder_benchmark-catpuccin-macchiato.svg"
+
+[icons.folder_benchmark_open.catpuccin-macchiato]
+svg = "icons/folder_benchmark_open-catpuccin-macchiato.svg"
+
+[icons.folder_caddy.catpuccin-macchiato]
+svg = "icons/folder_caddy-catpuccin-macchiato.svg"
+
+[icons.folder_caddy_open.catpuccin-macchiato]
+svg = "icons/folder_caddy_open-catpuccin-macchiato.svg"
+
+[icons.folder_cargo.catpuccin-macchiato]
+svg = "icons/folder_cargo-catpuccin-macchiato.svg"
+
+[icons.folder_cargo_open.catpuccin-macchiato]
+svg = "icons/folder_cargo_open-catpuccin-macchiato.svg"
+
+[icons.folder_circle-ci.catpuccin-macchiato]
+svg = "icons/folder_circle-ci-catpuccin-macchiato.svg"
+
+[icons.folder_circle-ci_open.catpuccin-macchiato]
+svg = "icons/folder_circle-ci_open-catpuccin-macchiato.svg"
+
+[icons.folder_client.catpuccin-macchiato]
+svg = "icons/folder_client-catpuccin-macchiato.svg"
+
+[icons.folder_client_open.catpuccin-macchiato]
+svg = "icons/folder_client_open-catpuccin-macchiato.svg"
+
+[icons.folder_cloud.catpuccin-macchiato]
+svg = "icons/folder_cloud-catpuccin-macchiato.svg"
+
+[icons.folder_cloud_open.catpuccin-macchiato]
+svg = "icons/folder_cloud_open-catpuccin-macchiato.svg"
+
+[icons.folder_command.catpuccin-macchiato]
+svg = "icons/folder_command-catpuccin-macchiato.svg"
+
+[icons.folder_command_open.catpuccin-macchiato]
+svg = "icons/folder_command_open-catpuccin-macchiato.svg"
+
+[icons.folder_components.catpuccin-macchiato]
+svg = "icons/folder_components-catpuccin-macchiato.svg"
+
+[icons.folder_components_open.catpuccin-macchiato]
+svg = "icons/folder_components_open-catpuccin-macchiato.svg"
+
+[icons.folder_composables.catpuccin-macchiato]
+svg = "icons/folder_composables-catpuccin-macchiato.svg"
+
+[icons.folder_composables_open.catpuccin-macchiato]
+svg = "icons/folder_composables_open-catpuccin-macchiato.svg"
+
+[icons.folder_config.catpuccin-macchiato]
+svg = "icons/folder_config-catpuccin-macchiato.svg"
+
+[icons.folder_config_open.catpuccin-macchiato]
+svg = "icons/folder_config_open-catpuccin-macchiato.svg"
+
+[icons.folder_connection.catpuccin-macchiato]
+svg = "icons/folder_connection-catpuccin-macchiato.svg"
+
+[icons.folder_connection_open.catpuccin-macchiato]
+svg = "icons/folder_connection_open-catpuccin-macchiato.svg"
+
+[icons.folder_constant.catpuccin-macchiato]
+svg = "icons/folder_constant-catpuccin-macchiato.svg"
+
+[icons.folder_constant_open.catpuccin-macchiato]
+svg = "icons/folder_constant_open-catpuccin-macchiato.svg"
+
+[icons.folder_content.catpuccin-macchiato]
+svg = "icons/folder_content-catpuccin-macchiato.svg"
+
+[icons.folder_content_open.catpuccin-macchiato]
+svg = "icons/folder_content_open-catpuccin-macchiato.svg"
+
+[icons.folder_controllers.catpuccin-macchiato]
+svg = "icons/folder_controllers-catpuccin-macchiato.svg"
+
+[icons.folder_controllers_open.catpuccin-macchiato]
+svg = "icons/folder_controllers_open-catpuccin-macchiato.svg"
+
+[icons.folder_core.catpuccin-macchiato]
+svg = "icons/folder_core-catpuccin-macchiato.svg"
+
+[icons.folder_core_open.catpuccin-macchiato]
+svg = "icons/folder_core_open-catpuccin-macchiato.svg"
+
+[icons.folder_coverage.catpuccin-macchiato]
+svg = "icons/folder_coverage-catpuccin-macchiato.svg"
+
+[icons.folder_coverage_open.catpuccin-macchiato]
+svg = "icons/folder_coverage_open-catpuccin-macchiato.svg"
+
+[icons.folder_cursor.catpuccin-macchiato]
+svg = "icons/folder_cursor-catpuccin-macchiato.svg"
+
+[icons.folder_cursor_open.catpuccin-macchiato]
+svg = "icons/folder_cursor_open-catpuccin-macchiato.svg"
+
+[icons.folder_cypress.catpuccin-macchiato]
+svg = "icons/folder_cypress-catpuccin-macchiato.svg"
+
+[icons.folder_cypress_open.catpuccin-macchiato]
+svg = "icons/folder_cypress_open-catpuccin-macchiato.svg"
+
+[icons.folder_database.catpuccin-macchiato]
+svg = "icons/folder_database-catpuccin-macchiato.svg"
+
+[icons.folder_database_open.catpuccin-macchiato]
+svg = "icons/folder_database_open-catpuccin-macchiato.svg"
+
+[icons.folder_debug.catpuccin-macchiato]
+svg = "icons/folder_debug-catpuccin-macchiato.svg"
+
+[icons.folder_debug_open.catpuccin-macchiato]
+svg = "icons/folder_debug_open-catpuccin-macchiato.svg"
+
+[icons.folder_devcontainer.catpuccin-macchiato]
+svg = "icons/folder_devcontainer-catpuccin-macchiato.svg"
+
+[icons.folder_devcontainer_open.catpuccin-macchiato]
+svg = "icons/folder_devcontainer_open-catpuccin-macchiato.svg"
+
+[icons.folder_direnv.catpuccin-macchiato]
+svg = "icons/folder_direnv-catpuccin-macchiato.svg"
+
+[icons.folder_direnv_open.catpuccin-macchiato]
+svg = "icons/folder_direnv_open-catpuccin-macchiato.svg"
+
+[icons.folder_dist.catpuccin-macchiato]
+svg = "icons/folder_dist-catpuccin-macchiato.svg"
+
+[icons.folder_dist_open.catpuccin-macchiato]
+svg = "icons/folder_dist_open-catpuccin-macchiato.svg"
+
+[icons.folder_docker.catpuccin-macchiato]
+svg = "icons/folder_docker-catpuccin-macchiato.svg"
+
+[icons.folder_docker_open.catpuccin-macchiato]
+svg = "icons/folder_docker_open-catpuccin-macchiato.svg"
+
+[icons.folder_docs.catpuccin-macchiato]
+svg = "icons/folder_docs-catpuccin-macchiato.svg"
+
+[icons.folder_docs_open.catpuccin-macchiato]
+svg = "icons/folder_docs_open-catpuccin-macchiato.svg"
+
+[icons.folder_download.catpuccin-macchiato]
+svg = "icons/folder_download-catpuccin-macchiato.svg"
+
+[icons.folder_download_open.catpuccin-macchiato]
+svg = "icons/folder_download_open-catpuccin-macchiato.svg"
+
+[icons.folder_drizzle-orm.catpuccin-macchiato]
+svg = "icons/folder_drizzle-orm-catpuccin-macchiato.svg"
+
+[icons.folder_drizzle-orm_open.catpuccin-macchiato]
+svg = "icons/folder_drizzle-orm_open-catpuccin-macchiato.svg"
+
+[icons.folder_examples.catpuccin-macchiato]
+svg = "icons/folder_examples-catpuccin-macchiato.svg"
+
+[icons.folder_examples_open.catpuccin-macchiato]
+svg = "icons/folder_examples_open-catpuccin-macchiato.svg"
+
+[icons.folder_fastlane.catpuccin-macchiato]
+svg = "icons/folder_fastlane-catpuccin-macchiato.svg"
+
+[icons.folder_fastlane_open.catpuccin-macchiato]
+svg = "icons/folder_fastlane_open-catpuccin-macchiato.svg"
+
+[icons.folder_firebase.catpuccin-macchiato]
+svg = "icons/folder_firebase-catpuccin-macchiato.svg"
+
+[icons.folder_firebase_open.catpuccin-macchiato]
+svg = "icons/folder_firebase_open-catpuccin-macchiato.svg"
+
+[icons.folder_fonts.catpuccin-macchiato]
+svg = "icons/folder_fonts-catpuccin-macchiato.svg"
+
+[icons.folder_fonts_open.catpuccin-macchiato]
+svg = "icons/folder_fonts_open-catpuccin-macchiato.svg"
+
+[icons.folder_forgejo.catpuccin-macchiato]
+svg = "icons/folder_forgejo-catpuccin-macchiato.svg"
+
+[icons.folder_forgejo_open.catpuccin-macchiato]
+svg = "icons/folder_forgejo_open-catpuccin-macchiato.svg"
+
+[icons.folder_functions.catpuccin-macchiato]
+svg = "icons/folder_functions-catpuccin-macchiato.svg"
+
+[icons.folder_functions_open.catpuccin-macchiato]
+svg = "icons/folder_functions_open-catpuccin-macchiato.svg"
+
+[icons.folder_fvm.catpuccin-macchiato]
+svg = "icons/folder_fvm-catpuccin-macchiato.svg"
+
+[icons.folder_fvm_open.catpuccin-macchiato]
+svg = "icons/folder_fvm_open-catpuccin-macchiato.svg"
+
+[icons.folder_git.catpuccin-macchiato]
+svg = "icons/folder_git-catpuccin-macchiato.svg"
+
+[icons.folder_git_open.catpuccin-macchiato]
+svg = "icons/folder_git_open-catpuccin-macchiato.svg"
+
+[icons.folder_github.catpuccin-macchiato]
+svg = "icons/folder_github-catpuccin-macchiato.svg"
+
+[icons.folder_github_open.catpuccin-macchiato]
+svg = "icons/folder_github_open-catpuccin-macchiato.svg"
+
+[icons.folder_gitlab.catpuccin-macchiato]
+svg = "icons/folder_gitlab-catpuccin-macchiato.svg"
+
+[icons.folder_gitlab_open.catpuccin-macchiato]
+svg = "icons/folder_gitlab_open-catpuccin-macchiato.svg"
+
+[icons.folder_gradle.catpuccin-macchiato]
+svg = "icons/folder_gradle-catpuccin-macchiato.svg"
+
+[icons.folder_gradle_open.catpuccin-macchiato]
+svg = "icons/folder_gradle_open-catpuccin-macchiato.svg"
+
+[icons.folder_graphql.catpuccin-macchiato]
+svg = "icons/folder_graphql-catpuccin-macchiato.svg"
+
+[icons.folder_graphql_open.catpuccin-macchiato]
+svg = "icons/folder_graphql_open-catpuccin-macchiato.svg"
+
+[icons.folder_hooks.catpuccin-macchiato]
+svg = "icons/folder_hooks-catpuccin-macchiato.svg"
+
+[icons.folder_hooks_open.catpuccin-macchiato]
+svg = "icons/folder_hooks_open-catpuccin-macchiato.svg"
+
+[icons.folder_husky.catpuccin-macchiato]
+svg = "icons/folder_husky-catpuccin-macchiato.svg"
+
+[icons.folder_husky_open.catpuccin-macchiato]
+svg = "icons/folder_husky_open-catpuccin-macchiato.svg"
+
+[icons.folder_images.catpuccin-macchiato]
+svg = "icons/folder_images-catpuccin-macchiato.svg"
+
+[icons.folder_images_open.catpuccin-macchiato]
+svg = "icons/folder_images_open-catpuccin-macchiato.svg"
+
+[icons.folder_include.catpuccin-macchiato]
+svg = "icons/folder_include-catpuccin-macchiato.svg"
+
+[icons.folder_include_open.catpuccin-macchiato]
+svg = "icons/folder_include_open-catpuccin-macchiato.svg"
+
+[icons.folder_intellij.catpuccin-macchiato]
+svg = "icons/folder_intellij-catpuccin-macchiato.svg"
+
+[icons.folder_intellij_open.catpuccin-macchiato]
+svg = "icons/folder_intellij_open-catpuccin-macchiato.svg"
+
+[icons.folder_javascript.catpuccin-macchiato]
+svg = "icons/folder_javascript-catpuccin-macchiato.svg"
+
+[icons.folder_javascript_open.catpuccin-macchiato]
+svg = "icons/folder_javascript_open-catpuccin-macchiato.svg"
+
+[icons.folder_kubernetes.catpuccin-macchiato]
+svg = "icons/folder_kubernetes-catpuccin-macchiato.svg"
+
+[icons.folder_kubernetes_open.catpuccin-macchiato]
+svg = "icons/folder_kubernetes_open-catpuccin-macchiato.svg"
+
+[icons.folder_layouts.catpuccin-macchiato]
+svg = "icons/folder_layouts-catpuccin-macchiato.svg"
+
+[icons.folder_layouts_open.catpuccin-macchiato]
+svg = "icons/folder_layouts_open-catpuccin-macchiato.svg"
+
+[icons.folder_lib.catpuccin-macchiato]
+svg = "icons/folder_lib-catpuccin-macchiato.svg"
+
+[icons.folder_lib_open.catpuccin-macchiato]
+svg = "icons/folder_lib_open-catpuccin-macchiato.svg"
+
+[icons.folder_linux.catpuccin-macchiato]
+svg = "icons/folder_linux-catpuccin-macchiato.svg"
+
+[icons.folder_linux_open.catpuccin-macchiato]
+svg = "icons/folder_linux_open-catpuccin-macchiato.svg"
+
+[icons.folder_locales.catpuccin-macchiato]
+svg = "icons/folder_locales-catpuccin-macchiato.svg"
+
+[icons.folder_locales_open.catpuccin-macchiato]
+svg = "icons/folder_locales_open-catpuccin-macchiato.svg"
+
+[icons.folder_luau.catpuccin-macchiato]
+svg = "icons/folder_luau-catpuccin-macchiato.svg"
+
+[icons.folder_luau_open.catpuccin-macchiato]
+svg = "icons/folder_luau_open-catpuccin-macchiato.svg"
+
+[icons.folder_lune.catpuccin-macchiato]
+svg = "icons/folder_lune-catpuccin-macchiato.svg"
+
+[icons.folder_lune_open.catpuccin-macchiato]
+svg = "icons/folder_lune_open-catpuccin-macchiato.svg"
+
+[icons.folder_macos.catpuccin-macchiato]
+svg = "icons/folder_macos-catpuccin-macchiato.svg"
+
+[icons.folder_macos_open.catpuccin-macchiato]
+svg = "icons/folder_macos_open-catpuccin-macchiato.svg"
+
+[icons.folder_messages.catpuccin-macchiato]
+svg = "icons/folder_messages-catpuccin-macchiato.svg"
+
+[icons.folder_messages_open.catpuccin-macchiato]
+svg = "icons/folder_messages_open-catpuccin-macchiato.svg"
+
+[icons.folder_middleware.catpuccin-macchiato]
+svg = "icons/folder_middleware-catpuccin-macchiato.svg"
+
+[icons.folder_middleware_open.catpuccin-macchiato]
+svg = "icons/folder_middleware_open-catpuccin-macchiato.svg"
+
+[icons.folder_mocks.catpuccin-macchiato]
+svg = "icons/folder_mocks-catpuccin-macchiato.svg"
+
+[icons.folder_mocks_open.catpuccin-macchiato]
+svg = "icons/folder_mocks_open-catpuccin-macchiato.svg"
+
+[icons.folder_moonrepo.catpuccin-macchiato]
+svg = "icons/folder_moonrepo-catpuccin-macchiato.svg"
+
+[icons.folder_moonrepo_open.catpuccin-macchiato]
+svg = "icons/folder_moonrepo_open-catpuccin-macchiato.svg"
+
+[icons.folder_next.catpuccin-macchiato]
+svg = "icons/folder_next-catpuccin-macchiato.svg"
+
+[icons.folder_next_open.catpuccin-macchiato]
+svg = "icons/folder_next_open-catpuccin-macchiato.svg"
+
+[icons.folder_nix.catpuccin-macchiato]
+svg = "icons/folder_nix-catpuccin-macchiato.svg"
+
+[icons.folder_nix_open.catpuccin-macchiato]
+svg = "icons/folder_nix_open-catpuccin-macchiato.svg"
+
+[icons.folder_node.catpuccin-macchiato]
+svg = "icons/folder_node-catpuccin-macchiato.svg"
+
+[icons.folder_node_open.catpuccin-macchiato]
+svg = "icons/folder_node_open-catpuccin-macchiato.svg"
+
+[icons.folder_nuxt.catpuccin-macchiato]
+svg = "icons/folder_nuxt-catpuccin-macchiato.svg"
+
+[icons.folder_nuxt_open.catpuccin-macchiato]
+svg = "icons/folder_nuxt_open-catpuccin-macchiato.svg"
+
+[icons.folder_packages.catpuccin-macchiato]
+svg = "icons/folder_packages-catpuccin-macchiato.svg"
+
+[icons.folder_packages_open.catpuccin-macchiato]
+svg = "icons/folder_packages_open-catpuccin-macchiato.svg"
+
+[icons.folder_pesde.catpuccin-macchiato]
+svg = "icons/folder_pesde-catpuccin-macchiato.svg"
+
+[icons.folder_pesde_open.catpuccin-macchiato]
+svg = "icons/folder_pesde_open-catpuccin-macchiato.svg"
+
+[icons.folder_plugins.catpuccin-macchiato]
+svg = "icons/folder_plugins-catpuccin-macchiato.svg"
+
+[icons.folder_plugins_open.catpuccin-macchiato]
+svg = "icons/folder_plugins_open-catpuccin-macchiato.svg"
+
+[icons.folder_pre-commit.catpuccin-macchiato]
+svg = "icons/folder_pre-commit-catpuccin-macchiato.svg"
+
+[icons.folder_pre-commit_open.catpuccin-macchiato]
+svg = "icons/folder_pre-commit_open-catpuccin-macchiato.svg"
+
+[icons.folder_prisma.catpuccin-macchiato]
+svg = "icons/folder_prisma-catpuccin-macchiato.svg"
+
+[icons.folder_prisma_open.catpuccin-macchiato]
+svg = "icons/folder_prisma_open-catpuccin-macchiato.svg"
+
+[icons.folder_private.catpuccin-macchiato]
+svg = "icons/folder_private-catpuccin-macchiato.svg"
+
+[icons.folder_private_open.catpuccin-macchiato]
+svg = "icons/folder_private_open-catpuccin-macchiato.svg"
+
+[icons.folder_proto.catpuccin-macchiato]
+svg = "icons/folder_proto-catpuccin-macchiato.svg"
+
+[icons.folder_proto_open.catpuccin-macchiato]
+svg = "icons/folder_proto_open-catpuccin-macchiato.svg"
+
+[icons.folder_public.catpuccin-macchiato]
+svg = "icons/folder_public-catpuccin-macchiato.svg"
+
+[icons.folder_public_open.catpuccin-macchiato]
+svg = "icons/folder_public_open-catpuccin-macchiato.svg"
+
+[icons.folder_queue.catpuccin-macchiato]
+svg = "icons/folder_queue-catpuccin-macchiato.svg"
+
+[icons.folder_queue_open.catpuccin-macchiato]
+svg = "icons/folder_queue_open-catpuccin-macchiato.svg"
+
+[icons.folder_redux.catpuccin-macchiato]
+svg = "icons/folder_redux-catpuccin-macchiato.svg"
+
+[icons.folder_redux_open.catpuccin-macchiato]
+svg = "icons/folder_redux_open-catpuccin-macchiato.svg"
+
+[icons.folder_renovate.catpuccin-macchiato]
+svg = "icons/folder_renovate-catpuccin-macchiato.svg"
+
+[icons.folder_renovate_open.catpuccin-macchiato]
+svg = "icons/folder_renovate_open-catpuccin-macchiato.svg"
+
+[icons.folder_roblox.catpuccin-macchiato]
+svg = "icons/folder_roblox-catpuccin-macchiato.svg"
+
+[icons.folder_roblox_open.catpuccin-macchiato]
+svg = "icons/folder_roblox_open-catpuccin-macchiato.svg"
+
+[icons.folder_routes.catpuccin-macchiato]
+svg = "icons/folder_routes-catpuccin-macchiato.svg"
+
+[icons.folder_routes_open.catpuccin-macchiato]
+svg = "icons/folder_routes_open-catpuccin-macchiato.svg"
+
+[icons.folder_sass.catpuccin-macchiato]
+svg = "icons/folder_sass-catpuccin-macchiato.svg"
+
+[icons.folder_sass_open.catpuccin-macchiato]
+svg = "icons/folder_sass_open-catpuccin-macchiato.svg"
+
+[icons.folder_scripts.catpuccin-macchiato]
+svg = "icons/folder_scripts-catpuccin-macchiato.svg"
+
+[icons.folder_scripts_open.catpuccin-macchiato]
+svg = "icons/folder_scripts_open-catpuccin-macchiato.svg"
+
+[icons.folder_security.catpuccin-macchiato]
+svg = "icons/folder_security-catpuccin-macchiato.svg"
+
+[icons.folder_security_open.catpuccin-macchiato]
+svg = "icons/folder_security_open-catpuccin-macchiato.svg"
+
+[icons.folder_server.catpuccin-macchiato]
+svg = "icons/folder_server-catpuccin-macchiato.svg"
+
+[icons.folder_server_open.catpuccin-macchiato]
+svg = "icons/folder_server_open-catpuccin-macchiato.svg"
+
+[icons.folder_shared.catpuccin-macchiato]
+svg = "icons/folder_shared-catpuccin-macchiato.svg"
+
+[icons.folder_shared_open.catpuccin-macchiato]
+svg = "icons/folder_shared_open-catpuccin-macchiato.svg"
+
+[icons.folder_src.catpuccin-macchiato]
+svg = "icons/folder_src-catpuccin-macchiato.svg"
+
+[icons.folder_src_open.catpuccin-macchiato]
+svg = "icons/folder_src_open-catpuccin-macchiato.svg"
+
+[icons.folder_storybook.catpuccin-macchiato]
+svg = "icons/folder_storybook-catpuccin-macchiato.svg"
+
+[icons.folder_storybook_open.catpuccin-macchiato]
+svg = "icons/folder_storybook_open-catpuccin-macchiato.svg"
+
+[icons.folder_styles.catpuccin-macchiato]
+svg = "icons/folder_styles-catpuccin-macchiato.svg"
+
+[icons.folder_styles_open.catpuccin-macchiato]
+svg = "icons/folder_styles_open-catpuccin-macchiato.svg"
+
+[icons.folder_svg.catpuccin-macchiato]
+svg = "icons/folder_svg-catpuccin-macchiato.svg"
+
+[icons.folder_svg_open.catpuccin-macchiato]
+svg = "icons/folder_svg_open-catpuccin-macchiato.svg"
+
+[icons.folder_symlink.catpuccin-macchiato]
+svg = "icons/folder_symlink-catpuccin-macchiato.svg"
+
+[icons.folder_symlink_open.catpuccin-macchiato]
+svg = "icons/folder_symlink_open-catpuccin-macchiato.svg"
+
+[icons.folder_tauri.catpuccin-macchiato]
+svg = "icons/folder_tauri-catpuccin-macchiato.svg"
+
+[icons.folder_tauri_open.catpuccin-macchiato]
+svg = "icons/folder_tauri_open-catpuccin-macchiato.svg"
+
+[icons.folder_temp.catpuccin-macchiato]
+svg = "icons/folder_temp-catpuccin-macchiato.svg"
+
+[icons.folder_temp_open.catpuccin-macchiato]
+svg = "icons/folder_temp_open-catpuccin-macchiato.svg"
+
+[icons.folder_templates.catpuccin-macchiato]
+svg = "icons/folder_templates-catpuccin-macchiato.svg"
+
+[icons.folder_templates_open.catpuccin-macchiato]
+svg = "icons/folder_templates_open-catpuccin-macchiato.svg"
+
+[icons.folder_tests.catpuccin-macchiato]
+svg = "icons/folder_tests-catpuccin-macchiato.svg"
+
+[icons.folder_tests_open.catpuccin-macchiato]
+svg = "icons/folder_tests_open-catpuccin-macchiato.svg"
+
+[icons.folder_themes.catpuccin-macchiato]
+svg = "icons/folder_themes-catpuccin-macchiato.svg"
+
+[icons.folder_themes_open.catpuccin-macchiato]
+svg = "icons/folder_themes_open-catpuccin-macchiato.svg"
+
+[icons.folder_turbo.catpuccin-macchiato]
+svg = "icons/folder_turbo-catpuccin-macchiato.svg"
+
+[icons.folder_turbo_open.catpuccin-macchiato]
+svg = "icons/folder_turbo_open-catpuccin-macchiato.svg"
+
+[icons.folder_types.catpuccin-macchiato]
+svg = "icons/folder_types-catpuccin-macchiato.svg"
+
+[icons.folder_types_open.catpuccin-macchiato]
+svg = "icons/folder_types_open-catpuccin-macchiato.svg"
+
+[icons.folder_upload.catpuccin-macchiato]
+svg = "icons/folder_upload-catpuccin-macchiato.svg"
+
+[icons.folder_upload_open.catpuccin-macchiato]
+svg = "icons/folder_upload_open-catpuccin-macchiato.svg"
+
+[icons.folder_utils.catpuccin-macchiato]
+svg = "icons/folder_utils-catpuccin-macchiato.svg"
+
+[icons.folder_utils_open.catpuccin-macchiato]
+svg = "icons/folder_utils_open-catpuccin-macchiato.svg"
+
+[icons.folder_vercel.catpuccin-macchiato]
+svg = "icons/folder_vercel-catpuccin-macchiato.svg"
+
+[icons.folder_vercel_open.catpuccin-macchiato]
+svg = "icons/folder_vercel_open-catpuccin-macchiato.svg"
+
+[icons.folder_video.catpuccin-macchiato]
+svg = "icons/folder_video-catpuccin-macchiato.svg"
+
+[icons.folder_video_open.catpuccin-macchiato]
+svg = "icons/folder_video_open-catpuccin-macchiato.svg"
+
+[icons.folder_views.catpuccin-macchiato]
+svg = "icons/folder_views-catpuccin-macchiato.svg"
+
+[icons.folder_views_open.catpuccin-macchiato]
+svg = "icons/folder_views_open-catpuccin-macchiato.svg"
+
+[icons.folder_vscode.catpuccin-macchiato]
+svg = "icons/folder_vscode-catpuccin-macchiato.svg"
+
+[icons.folder_vscode_open.catpuccin-macchiato]
+svg = "icons/folder_vscode_open-catpuccin-macchiato.svg"
+
+[icons.folder_windows.catpuccin-macchiato]
+svg = "icons/folder_windows-catpuccin-macchiato.svg"
+
+[icons.folder_windows_open.catpuccin-macchiato]
+svg = "icons/folder_windows_open-catpuccin-macchiato.svg"
+
+[icons.folder_workflows.catpuccin-macchiato]
+svg = "icons/folder_workflows-catpuccin-macchiato.svg"
+
+[icons.folder_workflows_open.catpuccin-macchiato]
+svg = "icons/folder_workflows_open-catpuccin-macchiato.svg"
+
+[icons.folder_wxt.catpuccin-macchiato]
+svg = "icons/folder_wxt-catpuccin-macchiato.svg"
+
+[icons.folder_wxt_open.catpuccin-macchiato]
+svg = "icons/folder_wxt_open-catpuccin-macchiato.svg"
+
+[icons.folder_xcode.catpuccin-macchiato]
+svg = "icons/folder_xcode-catpuccin-macchiato.svg"
+
+[icons.folder_xcode_open.catpuccin-macchiato]
+svg = "icons/folder_xcode_open-catpuccin-macchiato.svg"
+
+[icons.folder_xmake.catpuccin-macchiato]
+svg = "icons/folder_xmake-catpuccin-macchiato.svg"
+
+[icons.folder_xmake_open.catpuccin-macchiato]
+svg = "icons/folder_xmake_open-catpuccin-macchiato.svg"
+
+[icons.folder_yarn.catpuccin-macchiato]
+svg = "icons/folder_yarn-catpuccin-macchiato.svg"
+
+[icons.folder_yarn_open.catpuccin-macchiato]
+svg = "icons/folder_yarn_open-catpuccin-macchiato.svg"
+# }}}
 # }}}
 
 # {{{ catpuccin-mocha
@@ -7042,6 +9915,692 @@ svg = "icons/zig-catpuccin-mocha.svg"
 
 [icons.zip.catpuccin-mocha]
 svg = "icons/zip-catpuccin-mocha.svg"
+
+# {{{ Base folder icons
+[icons.folder_admin.catpuccin-mocha]
+svg = "icons/folder_admin-catpuccin-mocha.svg"
+
+[icons.folder_admin_open.catpuccin-mocha]
+svg = "icons/folder_admin_open-catpuccin-mocha.svg"
+
+[icons.folder_android.catpuccin-mocha]
+svg = "icons/folder_android-catpuccin-mocha.svg"
+
+[icons.folder_android_open.catpuccin-mocha]
+svg = "icons/folder_android_open-catpuccin-mocha.svg"
+
+[icons.folder_animation.catpuccin-mocha]
+svg = "icons/folder_animation-catpuccin-mocha.svg"
+
+[icons.folder_animation_open.catpuccin-mocha]
+svg = "icons/folder_animation_open-catpuccin-mocha.svg"
+
+[icons.folder_api.catpuccin-mocha]
+svg = "icons/folder_api-catpuccin-mocha.svg"
+
+[icons.folder_api_open.catpuccin-mocha]
+svg = "icons/folder_api_open-catpuccin-mocha.svg"
+
+[icons.folder_app.catpuccin-mocha]
+svg = "icons/folder_app-catpuccin-mocha.svg"
+
+[icons.folder_app_open.catpuccin-mocha]
+svg = "icons/folder_app_open-catpuccin-mocha.svg"
+
+[icons.folder_assets.catpuccin-mocha]
+svg = "icons/folder_assets-catpuccin-mocha.svg"
+
+[icons.folder_assets_open.catpuccin-mocha]
+svg = "icons/folder_assets_open-catpuccin-mocha.svg"
+
+[icons.folder_audio.catpuccin-mocha]
+svg = "icons/folder_audio-catpuccin-mocha.svg"
+
+[icons.folder_audio_open.catpuccin-mocha]
+svg = "icons/folder_audio_open-catpuccin-mocha.svg"
+
+[icons.folder_audit.catpuccin-mocha]
+svg = "icons/folder_audit-catpuccin-mocha.svg"
+
+[icons.folder_audit_open.catpuccin-mocha]
+svg = "icons/folder_audit_open-catpuccin-mocha.svg"
+
+[icons.folder_aws.catpuccin-mocha]
+svg = "icons/folder_aws-catpuccin-mocha.svg"
+
+[icons.folder_aws_open.catpuccin-mocha]
+svg = "icons/folder_aws_open-catpuccin-mocha.svg"
+
+[icons.folder_azure-devops.catpuccin-mocha]
+svg = "icons/folder_azure-devops-catpuccin-mocha.svg"
+
+[icons.folder_azure-devops_open.catpuccin-mocha]
+svg = "icons/folder_azure-devops_open-catpuccin-mocha.svg"
+
+[icons.folder_azure-pipelines.catpuccin-mocha]
+svg = "icons/folder_azure-pipelines-catpuccin-mocha.svg"
+
+[icons.folder_azure-pipelines_open.catpuccin-mocha]
+svg = "icons/folder_azure-pipelines_open-catpuccin-mocha.svg"
+
+[icons.folder_benchmark.catpuccin-mocha]
+svg = "icons/folder_benchmark-catpuccin-mocha.svg"
+
+[icons.folder_benchmark_open.catpuccin-mocha]
+svg = "icons/folder_benchmark_open-catpuccin-mocha.svg"
+
+[icons.folder_caddy.catpuccin-mocha]
+svg = "icons/folder_caddy-catpuccin-mocha.svg"
+
+[icons.folder_caddy_open.catpuccin-mocha]
+svg = "icons/folder_caddy_open-catpuccin-mocha.svg"
+
+[icons.folder_cargo.catpuccin-mocha]
+svg = "icons/folder_cargo-catpuccin-mocha.svg"
+
+[icons.folder_cargo_open.catpuccin-mocha]
+svg = "icons/folder_cargo_open-catpuccin-mocha.svg"
+
+[icons.folder_circle-ci.catpuccin-mocha]
+svg = "icons/folder_circle-ci-catpuccin-mocha.svg"
+
+[icons.folder_circle-ci_open.catpuccin-mocha]
+svg = "icons/folder_circle-ci_open-catpuccin-mocha.svg"
+
+[icons.folder_client.catpuccin-mocha]
+svg = "icons/folder_client-catpuccin-mocha.svg"
+
+[icons.folder_client_open.catpuccin-mocha]
+svg = "icons/folder_client_open-catpuccin-mocha.svg"
+
+[icons.folder_cloud.catpuccin-mocha]
+svg = "icons/folder_cloud-catpuccin-mocha.svg"
+
+[icons.folder_cloud_open.catpuccin-mocha]
+svg = "icons/folder_cloud_open-catpuccin-mocha.svg"
+
+[icons.folder_command.catpuccin-mocha]
+svg = "icons/folder_command-catpuccin-mocha.svg"
+
+[icons.folder_command_open.catpuccin-mocha]
+svg = "icons/folder_command_open-catpuccin-mocha.svg"
+
+[icons.folder_components.catpuccin-mocha]
+svg = "icons/folder_components-catpuccin-mocha.svg"
+
+[icons.folder_components_open.catpuccin-mocha]
+svg = "icons/folder_components_open-catpuccin-mocha.svg"
+
+[icons.folder_composables.catpuccin-mocha]
+svg = "icons/folder_composables-catpuccin-mocha.svg"
+
+[icons.folder_composables_open.catpuccin-mocha]
+svg = "icons/folder_composables_open-catpuccin-mocha.svg"
+
+[icons.folder_config.catpuccin-mocha]
+svg = "icons/folder_config-catpuccin-mocha.svg"
+
+[icons.folder_config_open.catpuccin-mocha]
+svg = "icons/folder_config_open-catpuccin-mocha.svg"
+
+[icons.folder_connection.catpuccin-mocha]
+svg = "icons/folder_connection-catpuccin-mocha.svg"
+
+[icons.folder_connection_open.catpuccin-mocha]
+svg = "icons/folder_connection_open-catpuccin-mocha.svg"
+
+[icons.folder_constant.catpuccin-mocha]
+svg = "icons/folder_constant-catpuccin-mocha.svg"
+
+[icons.folder_constant_open.catpuccin-mocha]
+svg = "icons/folder_constant_open-catpuccin-mocha.svg"
+
+[icons.folder_content.catpuccin-mocha]
+svg = "icons/folder_content-catpuccin-mocha.svg"
+
+[icons.folder_content_open.catpuccin-mocha]
+svg = "icons/folder_content_open-catpuccin-mocha.svg"
+
+[icons.folder_controllers.catpuccin-mocha]
+svg = "icons/folder_controllers-catpuccin-mocha.svg"
+
+[icons.folder_controllers_open.catpuccin-mocha]
+svg = "icons/folder_controllers_open-catpuccin-mocha.svg"
+
+[icons.folder_core.catpuccin-mocha]
+svg = "icons/folder_core-catpuccin-mocha.svg"
+
+[icons.folder_core_open.catpuccin-mocha]
+svg = "icons/folder_core_open-catpuccin-mocha.svg"
+
+[icons.folder_coverage.catpuccin-mocha]
+svg = "icons/folder_coverage-catpuccin-mocha.svg"
+
+[icons.folder_coverage_open.catpuccin-mocha]
+svg = "icons/folder_coverage_open-catpuccin-mocha.svg"
+
+[icons.folder_cursor.catpuccin-mocha]
+svg = "icons/folder_cursor-catpuccin-mocha.svg"
+
+[icons.folder_cursor_open.catpuccin-mocha]
+svg = "icons/folder_cursor_open-catpuccin-mocha.svg"
+
+[icons.folder_cypress.catpuccin-mocha]
+svg = "icons/folder_cypress-catpuccin-mocha.svg"
+
+[icons.folder_cypress_open.catpuccin-mocha]
+svg = "icons/folder_cypress_open-catpuccin-mocha.svg"
+
+[icons.folder_database.catpuccin-mocha]
+svg = "icons/folder_database-catpuccin-mocha.svg"
+
+[icons.folder_database_open.catpuccin-mocha]
+svg = "icons/folder_database_open-catpuccin-mocha.svg"
+
+[icons.folder_debug.catpuccin-mocha]
+svg = "icons/folder_debug-catpuccin-mocha.svg"
+
+[icons.folder_debug_open.catpuccin-mocha]
+svg = "icons/folder_debug_open-catpuccin-mocha.svg"
+
+[icons.folder_devcontainer.catpuccin-mocha]
+svg = "icons/folder_devcontainer-catpuccin-mocha.svg"
+
+[icons.folder_devcontainer_open.catpuccin-mocha]
+svg = "icons/folder_devcontainer_open-catpuccin-mocha.svg"
+
+[icons.folder_direnv.catpuccin-mocha]
+svg = "icons/folder_direnv-catpuccin-mocha.svg"
+
+[icons.folder_direnv_open.catpuccin-mocha]
+svg = "icons/folder_direnv_open-catpuccin-mocha.svg"
+
+[icons.folder_dist.catpuccin-mocha]
+svg = "icons/folder_dist-catpuccin-mocha.svg"
+
+[icons.folder_dist_open.catpuccin-mocha]
+svg = "icons/folder_dist_open-catpuccin-mocha.svg"
+
+[icons.folder_docker.catpuccin-mocha]
+svg = "icons/folder_docker-catpuccin-mocha.svg"
+
+[icons.folder_docker_open.catpuccin-mocha]
+svg = "icons/folder_docker_open-catpuccin-mocha.svg"
+
+[icons.folder_docs.catpuccin-mocha]
+svg = "icons/folder_docs-catpuccin-mocha.svg"
+
+[icons.folder_docs_open.catpuccin-mocha]
+svg = "icons/folder_docs_open-catpuccin-mocha.svg"
+
+[icons.folder_download.catpuccin-mocha]
+svg = "icons/folder_download-catpuccin-mocha.svg"
+
+[icons.folder_download_open.catpuccin-mocha]
+svg = "icons/folder_download_open-catpuccin-mocha.svg"
+
+[icons.folder_drizzle-orm.catpuccin-mocha]
+svg = "icons/folder_drizzle-orm-catpuccin-mocha.svg"
+
+[icons.folder_drizzle-orm_open.catpuccin-mocha]
+svg = "icons/folder_drizzle-orm_open-catpuccin-mocha.svg"
+
+[icons.folder_examples.catpuccin-mocha]
+svg = "icons/folder_examples-catpuccin-mocha.svg"
+
+[icons.folder_examples_open.catpuccin-mocha]
+svg = "icons/folder_examples_open-catpuccin-mocha.svg"
+
+[icons.folder_fastlane.catpuccin-mocha]
+svg = "icons/folder_fastlane-catpuccin-mocha.svg"
+
+[icons.folder_fastlane_open.catpuccin-mocha]
+svg = "icons/folder_fastlane_open-catpuccin-mocha.svg"
+
+[icons.folder_firebase.catpuccin-mocha]
+svg = "icons/folder_firebase-catpuccin-mocha.svg"
+
+[icons.folder_firebase_open.catpuccin-mocha]
+svg = "icons/folder_firebase_open-catpuccin-mocha.svg"
+
+[icons.folder_fonts.catpuccin-mocha]
+svg = "icons/folder_fonts-catpuccin-mocha.svg"
+
+[icons.folder_fonts_open.catpuccin-mocha]
+svg = "icons/folder_fonts_open-catpuccin-mocha.svg"
+
+[icons.folder_forgejo.catpuccin-mocha]
+svg = "icons/folder_forgejo-catpuccin-mocha.svg"
+
+[icons.folder_forgejo_open.catpuccin-mocha]
+svg = "icons/folder_forgejo_open-catpuccin-mocha.svg"
+
+[icons.folder_functions.catpuccin-mocha]
+svg = "icons/folder_functions-catpuccin-mocha.svg"
+
+[icons.folder_functions_open.catpuccin-mocha]
+svg = "icons/folder_functions_open-catpuccin-mocha.svg"
+
+[icons.folder_fvm.catpuccin-mocha]
+svg = "icons/folder_fvm-catpuccin-mocha.svg"
+
+[icons.folder_fvm_open.catpuccin-mocha]
+svg = "icons/folder_fvm_open-catpuccin-mocha.svg"
+
+[icons.folder_git.catpuccin-mocha]
+svg = "icons/folder_git-catpuccin-mocha.svg"
+
+[icons.folder_git_open.catpuccin-mocha]
+svg = "icons/folder_git_open-catpuccin-mocha.svg"
+
+[icons.folder_github.catpuccin-mocha]
+svg = "icons/folder_github-catpuccin-mocha.svg"
+
+[icons.folder_github_open.catpuccin-mocha]
+svg = "icons/folder_github_open-catpuccin-mocha.svg"
+
+[icons.folder_gitlab.catpuccin-mocha]
+svg = "icons/folder_gitlab-catpuccin-mocha.svg"
+
+[icons.folder_gitlab_open.catpuccin-mocha]
+svg = "icons/folder_gitlab_open-catpuccin-mocha.svg"
+
+[icons.folder_gradle.catpuccin-mocha]
+svg = "icons/folder_gradle-catpuccin-mocha.svg"
+
+[icons.folder_gradle_open.catpuccin-mocha]
+svg = "icons/folder_gradle_open-catpuccin-mocha.svg"
+
+[icons.folder_graphql.catpuccin-mocha]
+svg = "icons/folder_graphql-catpuccin-mocha.svg"
+
+[icons.folder_graphql_open.catpuccin-mocha]
+svg = "icons/folder_graphql_open-catpuccin-mocha.svg"
+
+[icons.folder_hooks.catpuccin-mocha]
+svg = "icons/folder_hooks-catpuccin-mocha.svg"
+
+[icons.folder_hooks_open.catpuccin-mocha]
+svg = "icons/folder_hooks_open-catpuccin-mocha.svg"
+
+[icons.folder_husky.catpuccin-mocha]
+svg = "icons/folder_husky-catpuccin-mocha.svg"
+
+[icons.folder_husky_open.catpuccin-mocha]
+svg = "icons/folder_husky_open-catpuccin-mocha.svg"
+
+[icons.folder_images.catpuccin-mocha]
+svg = "icons/folder_images-catpuccin-mocha.svg"
+
+[icons.folder_images_open.catpuccin-mocha]
+svg = "icons/folder_images_open-catpuccin-mocha.svg"
+
+[icons.folder_include.catpuccin-mocha]
+svg = "icons/folder_include-catpuccin-mocha.svg"
+
+[icons.folder_include_open.catpuccin-mocha]
+svg = "icons/folder_include_open-catpuccin-mocha.svg"
+
+[icons.folder_intellij.catpuccin-mocha]
+svg = "icons/folder_intellij-catpuccin-mocha.svg"
+
+[icons.folder_intellij_open.catpuccin-mocha]
+svg = "icons/folder_intellij_open-catpuccin-mocha.svg"
+
+[icons.folder_javascript.catpuccin-mocha]
+svg = "icons/folder_javascript-catpuccin-mocha.svg"
+
+[icons.folder_javascript_open.catpuccin-mocha]
+svg = "icons/folder_javascript_open-catpuccin-mocha.svg"
+
+[icons.folder_kubernetes.catpuccin-mocha]
+svg = "icons/folder_kubernetes-catpuccin-mocha.svg"
+
+[icons.folder_kubernetes_open.catpuccin-mocha]
+svg = "icons/folder_kubernetes_open-catpuccin-mocha.svg"
+
+[icons.folder_layouts.catpuccin-mocha]
+svg = "icons/folder_layouts-catpuccin-mocha.svg"
+
+[icons.folder_layouts_open.catpuccin-mocha]
+svg = "icons/folder_layouts_open-catpuccin-mocha.svg"
+
+[icons.folder_lib.catpuccin-mocha]
+svg = "icons/folder_lib-catpuccin-mocha.svg"
+
+[icons.folder_lib_open.catpuccin-mocha]
+svg = "icons/folder_lib_open-catpuccin-mocha.svg"
+
+[icons.folder_linux.catpuccin-mocha]
+svg = "icons/folder_linux-catpuccin-mocha.svg"
+
+[icons.folder_linux_open.catpuccin-mocha]
+svg = "icons/folder_linux_open-catpuccin-mocha.svg"
+
+[icons.folder_locales.catpuccin-mocha]
+svg = "icons/folder_locales-catpuccin-mocha.svg"
+
+[icons.folder_locales_open.catpuccin-mocha]
+svg = "icons/folder_locales_open-catpuccin-mocha.svg"
+
+[icons.folder_luau.catpuccin-mocha]
+svg = "icons/folder_luau-catpuccin-mocha.svg"
+
+[icons.folder_luau_open.catpuccin-mocha]
+svg = "icons/folder_luau_open-catpuccin-mocha.svg"
+
+[icons.folder_lune.catpuccin-mocha]
+svg = "icons/folder_lune-catpuccin-mocha.svg"
+
+[icons.folder_lune_open.catpuccin-mocha]
+svg = "icons/folder_lune_open-catpuccin-mocha.svg"
+
+[icons.folder_macos.catpuccin-mocha]
+svg = "icons/folder_macos-catpuccin-mocha.svg"
+
+[icons.folder_macos_open.catpuccin-mocha]
+svg = "icons/folder_macos_open-catpuccin-mocha.svg"
+
+[icons.folder_messages.catpuccin-mocha]
+svg = "icons/folder_messages-catpuccin-mocha.svg"
+
+[icons.folder_messages_open.catpuccin-mocha]
+svg = "icons/folder_messages_open-catpuccin-mocha.svg"
+
+[icons.folder_middleware.catpuccin-mocha]
+svg = "icons/folder_middleware-catpuccin-mocha.svg"
+
+[icons.folder_middleware_open.catpuccin-mocha]
+svg = "icons/folder_middleware_open-catpuccin-mocha.svg"
+
+[icons.folder_mocks.catpuccin-mocha]
+svg = "icons/folder_mocks-catpuccin-mocha.svg"
+
+[icons.folder_mocks_open.catpuccin-mocha]
+svg = "icons/folder_mocks_open-catpuccin-mocha.svg"
+
+[icons.folder_moonrepo.catpuccin-mocha]
+svg = "icons/folder_moonrepo-catpuccin-mocha.svg"
+
+[icons.folder_moonrepo_open.catpuccin-mocha]
+svg = "icons/folder_moonrepo_open-catpuccin-mocha.svg"
+
+[icons.folder_next.catpuccin-mocha]
+svg = "icons/folder_next-catpuccin-mocha.svg"
+
+[icons.folder_next_open.catpuccin-mocha]
+svg = "icons/folder_next_open-catpuccin-mocha.svg"
+
+[icons.folder_nix.catpuccin-mocha]
+svg = "icons/folder_nix-catpuccin-mocha.svg"
+
+[icons.folder_nix_open.catpuccin-mocha]
+svg = "icons/folder_nix_open-catpuccin-mocha.svg"
+
+[icons.folder_node.catpuccin-mocha]
+svg = "icons/folder_node-catpuccin-mocha.svg"
+
+[icons.folder_node_open.catpuccin-mocha]
+svg = "icons/folder_node_open-catpuccin-mocha.svg"
+
+[icons.folder_nuxt.catpuccin-mocha]
+svg = "icons/folder_nuxt-catpuccin-mocha.svg"
+
+[icons.folder_nuxt_open.catpuccin-mocha]
+svg = "icons/folder_nuxt_open-catpuccin-mocha.svg"
+
+[icons.folder_packages.catpuccin-mocha]
+svg = "icons/folder_packages-catpuccin-mocha.svg"
+
+[icons.folder_packages_open.catpuccin-mocha]
+svg = "icons/folder_packages_open-catpuccin-mocha.svg"
+
+[icons.folder_pesde.catpuccin-mocha]
+svg = "icons/folder_pesde-catpuccin-mocha.svg"
+
+[icons.folder_pesde_open.catpuccin-mocha]
+svg = "icons/folder_pesde_open-catpuccin-mocha.svg"
+
+[icons.folder_plugins.catpuccin-mocha]
+svg = "icons/folder_plugins-catpuccin-mocha.svg"
+
+[icons.folder_plugins_open.catpuccin-mocha]
+svg = "icons/folder_plugins_open-catpuccin-mocha.svg"
+
+[icons.folder_pre-commit.catpuccin-mocha]
+svg = "icons/folder_pre-commit-catpuccin-mocha.svg"
+
+[icons.folder_pre-commit_open.catpuccin-mocha]
+svg = "icons/folder_pre-commit_open-catpuccin-mocha.svg"
+
+[icons.folder_prisma.catpuccin-mocha]
+svg = "icons/folder_prisma-catpuccin-mocha.svg"
+
+[icons.folder_prisma_open.catpuccin-mocha]
+svg = "icons/folder_prisma_open-catpuccin-mocha.svg"
+
+[icons.folder_private.catpuccin-mocha]
+svg = "icons/folder_private-catpuccin-mocha.svg"
+
+[icons.folder_private_open.catpuccin-mocha]
+svg = "icons/folder_private_open-catpuccin-mocha.svg"
+
+[icons.folder_proto.catpuccin-mocha]
+svg = "icons/folder_proto-catpuccin-mocha.svg"
+
+[icons.folder_proto_open.catpuccin-mocha]
+svg = "icons/folder_proto_open-catpuccin-mocha.svg"
+
+[icons.folder_public.catpuccin-mocha]
+svg = "icons/folder_public-catpuccin-mocha.svg"
+
+[icons.folder_public_open.catpuccin-mocha]
+svg = "icons/folder_public_open-catpuccin-mocha.svg"
+
+[icons.folder_queue.catpuccin-mocha]
+svg = "icons/folder_queue-catpuccin-mocha.svg"
+
+[icons.folder_queue_open.catpuccin-mocha]
+svg = "icons/folder_queue_open-catpuccin-mocha.svg"
+
+[icons.folder_redux.catpuccin-mocha]
+svg = "icons/folder_redux-catpuccin-mocha.svg"
+
+[icons.folder_redux_open.catpuccin-mocha]
+svg = "icons/folder_redux_open-catpuccin-mocha.svg"
+
+[icons.folder_renovate.catpuccin-mocha]
+svg = "icons/folder_renovate-catpuccin-mocha.svg"
+
+[icons.folder_renovate_open.catpuccin-mocha]
+svg = "icons/folder_renovate_open-catpuccin-mocha.svg"
+
+[icons.folder_roblox.catpuccin-mocha]
+svg = "icons/folder_roblox-catpuccin-mocha.svg"
+
+[icons.folder_roblox_open.catpuccin-mocha]
+svg = "icons/folder_roblox_open-catpuccin-mocha.svg"
+
+[icons.folder_routes.catpuccin-mocha]
+svg = "icons/folder_routes-catpuccin-mocha.svg"
+
+[icons.folder_routes_open.catpuccin-mocha]
+svg = "icons/folder_routes_open-catpuccin-mocha.svg"
+
+[icons.folder_sass.catpuccin-mocha]
+svg = "icons/folder_sass-catpuccin-mocha.svg"
+
+[icons.folder_sass_open.catpuccin-mocha]
+svg = "icons/folder_sass_open-catpuccin-mocha.svg"
+
+[icons.folder_scripts.catpuccin-mocha]
+svg = "icons/folder_scripts-catpuccin-mocha.svg"
+
+[icons.folder_scripts_open.catpuccin-mocha]
+svg = "icons/folder_scripts_open-catpuccin-mocha.svg"
+
+[icons.folder_security.catpuccin-mocha]
+svg = "icons/folder_security-catpuccin-mocha.svg"
+
+[icons.folder_security_open.catpuccin-mocha]
+svg = "icons/folder_security_open-catpuccin-mocha.svg"
+
+[icons.folder_server.catpuccin-mocha]
+svg = "icons/folder_server-catpuccin-mocha.svg"
+
+[icons.folder_server_open.catpuccin-mocha]
+svg = "icons/folder_server_open-catpuccin-mocha.svg"
+
+[icons.folder_shared.catpuccin-mocha]
+svg = "icons/folder_shared-catpuccin-mocha.svg"
+
+[icons.folder_shared_open.catpuccin-mocha]
+svg = "icons/folder_shared_open-catpuccin-mocha.svg"
+
+[icons.folder_src.catpuccin-mocha]
+svg = "icons/folder_src-catpuccin-mocha.svg"
+
+[icons.folder_src_open.catpuccin-mocha]
+svg = "icons/folder_src_open-catpuccin-mocha.svg"
+
+[icons.folder_storybook.catpuccin-mocha]
+svg = "icons/folder_storybook-catpuccin-mocha.svg"
+
+[icons.folder_storybook_open.catpuccin-mocha]
+svg = "icons/folder_storybook_open-catpuccin-mocha.svg"
+
+[icons.folder_styles.catpuccin-mocha]
+svg = "icons/folder_styles-catpuccin-mocha.svg"
+
+[icons.folder_styles_open.catpuccin-mocha]
+svg = "icons/folder_styles_open-catpuccin-mocha.svg"
+
+[icons.folder_svg.catpuccin-mocha]
+svg = "icons/folder_svg-catpuccin-mocha.svg"
+
+[icons.folder_svg_open.catpuccin-mocha]
+svg = "icons/folder_svg_open-catpuccin-mocha.svg"
+
+[icons.folder_symlink.catpuccin-mocha]
+svg = "icons/folder_symlink-catpuccin-mocha.svg"
+
+[icons.folder_symlink_open.catpuccin-mocha]
+svg = "icons/folder_symlink_open-catpuccin-mocha.svg"
+
+[icons.folder_tauri.catpuccin-mocha]
+svg = "icons/folder_tauri-catpuccin-mocha.svg"
+
+[icons.folder_tauri_open.catpuccin-mocha]
+svg = "icons/folder_tauri_open-catpuccin-mocha.svg"
+
+[icons.folder_temp.catpuccin-mocha]
+svg = "icons/folder_temp-catpuccin-mocha.svg"
+
+[icons.folder_temp_open.catpuccin-mocha]
+svg = "icons/folder_temp_open-catpuccin-mocha.svg"
+
+[icons.folder_templates.catpuccin-mocha]
+svg = "icons/folder_templates-catpuccin-mocha.svg"
+
+[icons.folder_templates_open.catpuccin-mocha]
+svg = "icons/folder_templates_open-catpuccin-mocha.svg"
+
+[icons.folder_tests.catpuccin-mocha]
+svg = "icons/folder_tests-catpuccin-mocha.svg"
+
+[icons.folder_tests_open.catpuccin-mocha]
+svg = "icons/folder_tests_open-catpuccin-mocha.svg"
+
+[icons.folder_themes.catpuccin-mocha]
+svg = "icons/folder_themes-catpuccin-mocha.svg"
+
+[icons.folder_themes_open.catpuccin-mocha]
+svg = "icons/folder_themes_open-catpuccin-mocha.svg"
+
+[icons.folder_turbo.catpuccin-mocha]
+svg = "icons/folder_turbo-catpuccin-mocha.svg"
+
+[icons.folder_turbo_open.catpuccin-mocha]
+svg = "icons/folder_turbo_open-catpuccin-mocha.svg"
+
+[icons.folder_types.catpuccin-mocha]
+svg = "icons/folder_types-catpuccin-mocha.svg"
+
+[icons.folder_types_open.catpuccin-mocha]
+svg = "icons/folder_types_open-catpuccin-mocha.svg"
+
+[icons.folder_upload.catpuccin-mocha]
+svg = "icons/folder_upload-catpuccin-mocha.svg"
+
+[icons.folder_upload_open.catpuccin-mocha]
+svg = "icons/folder_upload_open-catpuccin-mocha.svg"
+
+[icons.folder_utils.catpuccin-mocha]
+svg = "icons/folder_utils-catpuccin-mocha.svg"
+
+[icons.folder_utils_open.catpuccin-mocha]
+svg = "icons/folder_utils_open-catpuccin-mocha.svg"
+
+[icons.folder_vercel.catpuccin-mocha]
+svg = "icons/folder_vercel-catpuccin-mocha.svg"
+
+[icons.folder_vercel_open.catpuccin-mocha]
+svg = "icons/folder_vercel_open-catpuccin-mocha.svg"
+
+[icons.folder_video.catpuccin-mocha]
+svg = "icons/folder_video-catpuccin-mocha.svg"
+
+[icons.folder_video_open.catpuccin-mocha]
+svg = "icons/folder_video_open-catpuccin-mocha.svg"
+
+[icons.folder_views.catpuccin-mocha]
+svg = "icons/folder_views-catpuccin-mocha.svg"
+
+[icons.folder_views_open.catpuccin-mocha]
+svg = "icons/folder_views_open-catpuccin-mocha.svg"
+
+[icons.folder_vscode.catpuccin-mocha]
+svg = "icons/folder_vscode-catpuccin-mocha.svg"
+
+[icons.folder_vscode_open.catpuccin-mocha]
+svg = "icons/folder_vscode_open-catpuccin-mocha.svg"
+
+[icons.folder_windows.catpuccin-mocha]
+svg = "icons/folder_windows-catpuccin-mocha.svg"
+
+[icons.folder_windows_open.catpuccin-mocha]
+svg = "icons/folder_windows_open-catpuccin-mocha.svg"
+
+[icons.folder_workflows.catpuccin-mocha]
+svg = "icons/folder_workflows-catpuccin-mocha.svg"
+
+[icons.folder_workflows_open.catpuccin-mocha]
+svg = "icons/folder_workflows_open-catpuccin-mocha.svg"
+
+[icons.folder_wxt.catpuccin-mocha]
+svg = "icons/folder_wxt-catpuccin-mocha.svg"
+
+[icons.folder_wxt_open.catpuccin-mocha]
+svg = "icons/folder_wxt_open-catpuccin-mocha.svg"
+
+[icons.folder_xcode.catpuccin-mocha]
+svg = "icons/folder_xcode-catpuccin-mocha.svg"
+
+[icons.folder_xcode_open.catpuccin-mocha]
+svg = "icons/folder_xcode_open-catpuccin-mocha.svg"
+
+[icons.folder_xmake.catpuccin-mocha]
+svg = "icons/folder_xmake-catpuccin-mocha.svg"
+
+[icons.folder_xmake_open.catpuccin-mocha]
+svg = "icons/folder_xmake_open-catpuccin-mocha.svg"
+
+[icons.folder_yarn.catpuccin-mocha]
+svg = "icons/folder_yarn-catpuccin-mocha.svg"
+
+[icons.folder_yarn_open.catpuccin-mocha]
+svg = "icons/folder_yarn_open-catpuccin-mocha.svg"
+# }}}
 # }}}
 
 # {{{ Composites
