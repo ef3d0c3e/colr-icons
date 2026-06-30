@@ -47,10 +47,37 @@ M.themes = {
 --- @param opts IconRequest
 --- @return table? containing {text, hi?}
 function M.get_icon(opts)
-	local base_icon = ICONS[opts.name]
+	local icon = nil
+
+	-- Try to find a direct folder icon, do not fallback
+	function direct_match(name)
+		local theme_name = M.config.theme_selection[1]
+		local icon_name = "folder_" .. name
+		if opts.is_dir_open == true and theme_name ~= "material" then
+			icon_name = icon_name .. "_open"
+		end
+		local base = ICONS[icon_name]
+		if base then
+			local icon = base[theme_name]
+			if icon then
+				return { text = icon .. " " }
+			end
+		end
+		return nil
+	end
+	if opts.is_dir_open ~= nil then
+		local name = string.lower(opts.name)
+		icon = direct_match(name)
+		if not icon and name:sub(-1) == "s" then
+			icon = direct_match(name:sub(1, -2))
+		end
+
+		if icon then return icon end
+	end
+
 
 	-- Select the closest matching icon variations based on config.theme_selection
-	local icon = nil
+	local base_icon = ICONS[opts.name]
 	if base_icon then
 		for _, theme_name in ipairs(M.config.theme_selection) do
 			icon = base_icon[theme_name]

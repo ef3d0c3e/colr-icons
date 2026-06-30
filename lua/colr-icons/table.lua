@@ -1104,7 +1104,7 @@ return {
 		["catpuccin-macchiato"] = "󲆈", -- colr-icons-flutter-catpuccin-macchiato U+f2188
 		["catpuccin-mocha"] = "󲆉", -- colr-icons-flutter-catpuccin-mocha U+f2189
 	},
-	-- This section has been manually edited
+	-- Manually edited
 	["folder"] = {
 		["material"] = "󲆊", -- colr-icons-folder-material U+f218a
 		["catpuccin-frappe"] = "󲆓", -- colr-icons-folder-plain-catpuccin-frappe U+f2193
@@ -1119,2852 +1119,4882 @@ return {
 		["catpuccin-macchiato"] = "󲆘", -- colr-icons-folder-plain-catpuccin-macchiato-open U+f2198
 		["catpuccin-mocha"] = "󲆚", -- colr-icons-folder-plain-catpuccin-mocha-open U+f219a
 	},
+	["folder_admin"] = {
+		["material"] = "󲆛", -- colr-icons-folder_admin-material U+f219b
+		["catpuccin-frappe"] = "󲆜", -- colr-icons-folder_admin-catpuccin-frappe U+f219c
+		["catpuccin-latte"] = "󲆝", -- colr-icons-folder_admin-catpuccin-latte U+f219d
+		["catpuccin-macchiato"] = "󲆞", -- colr-icons-folder_admin-catpuccin-macchiato U+f219e
+		["catpuccin-mocha"] = "󲆟", -- colr-icons-folder_admin-catpuccin-mocha U+f219f
+	},
+	["folder_admin_open"] = {
+		["catpuccin-frappe"] = "󲆠", -- colr-icons-folder_admin_open-catpuccin-frappe U+f21a0
+		["catpuccin-latte"] = "󲆡", -- colr-icons-folder_admin_open-catpuccin-latte U+f21a1
+		["catpuccin-macchiato"] = "󲆢", -- colr-icons-folder_admin_open-catpuccin-macchiato U+f21a2
+		["catpuccin-mocha"] = "󲆣", -- colr-icons-folder_admin_open-catpuccin-mocha U+f21a3
+	},
+	["folder_android"] = {
+		["material"] = "󲆤", -- colr-icons-folder_android-material U+f21a4
+		["catpuccin-frappe"] = "󲆥", -- colr-icons-folder_android-catpuccin-frappe U+f21a5
+		["catpuccin-latte"] = "󲆦", -- colr-icons-folder_android-catpuccin-latte U+f21a6
+		["catpuccin-macchiato"] = "󲆧", -- colr-icons-folder_android-catpuccin-macchiato U+f21a7
+		["catpuccin-mocha"] = "󲆨", -- colr-icons-folder_android-catpuccin-mocha U+f21a8
+	},
+	["folder_android_open"] = {
+		["catpuccin-frappe"] = "󲆩", -- colr-icons-folder_android_open-catpuccin-frappe U+f21a9
+		["catpuccin-latte"] = "󲆪", -- colr-icons-folder_android_open-catpuccin-latte U+f21aa
+		["catpuccin-macchiato"] = "󲆫", -- colr-icons-folder_android_open-catpuccin-macchiato U+f21ab
+		["catpuccin-mocha"] = "󲆬", -- colr-icons-folder_android_open-catpuccin-mocha U+f21ac
+	},
+	["folder_angular"] = {
+		["material"] = "󲆭", -- colr-icons-folder_angular-material U+f21ad
+	},
+	["folder_animation"] = {
+		["material"] = "󲆮", -- colr-icons-folder_animation-material U+f21ae
+		["catpuccin-frappe"] = "󲆯", -- colr-icons-folder_animation-catpuccin-frappe U+f21af
+		["catpuccin-latte"] = "󲆰", -- colr-icons-folder_animation-catpuccin-latte U+f21b0
+		["catpuccin-macchiato"] = "󲆱", -- colr-icons-folder_animation-catpuccin-macchiato U+f21b1
+		["catpuccin-mocha"] = "󲆲", -- colr-icons-folder_animation-catpuccin-mocha U+f21b2
+	},
+	["folder_animation_open"] = {
+		["catpuccin-frappe"] = "󲆳", -- colr-icons-folder_animation_open-catpuccin-frappe U+f21b3
+		["catpuccin-latte"] = "󲆴", -- colr-icons-folder_animation_open-catpuccin-latte U+f21b4
+		["catpuccin-macchiato"] = "󲆵", -- colr-icons-folder_animation_open-catpuccin-macchiato U+f21b5
+		["catpuccin-mocha"] = "󲆶", -- colr-icons-folder_animation_open-catpuccin-mocha U+f21b6
+	},
+	["folder_ansible"] = {
+		["material"] = "󲆷", -- colr-icons-folder_ansible-material U+f21b7
+	},
+	["folder_api"] = {
+		["material"] = "󲆸", -- colr-icons-folder_api-material U+f21b8
+		["catpuccin-frappe"] = "󲆹", -- colr-icons-folder_api-catpuccin-frappe U+f21b9
+		["catpuccin-latte"] = "󲆺", -- colr-icons-folder_api-catpuccin-latte U+f21ba
+		["catpuccin-macchiato"] = "󲆻", -- colr-icons-folder_api-catpuccin-macchiato U+f21bb
+		["catpuccin-mocha"] = "󲆼", -- colr-icons-folder_api-catpuccin-mocha U+f21bc
+	},
+	["folder_api_open"] = {
+		["catpuccin-frappe"] = "󲆽", -- colr-icons-folder_api_open-catpuccin-frappe U+f21bd
+		["catpuccin-latte"] = "󲆾", -- colr-icons-folder_api_open-catpuccin-latte U+f21be
+		["catpuccin-macchiato"] = "󲆿", -- colr-icons-folder_api_open-catpuccin-macchiato U+f21bf
+		["catpuccin-mocha"] = "󲇀", -- colr-icons-folder_api_open-catpuccin-mocha U+f21c0
+	},
+	["folder_apollo"] = {
+		["material"] = "󲇁", -- colr-icons-folder_apollo-material U+f21c1
+	},
+	["folder_app"] = {
+		["material"] = "󲇂", -- colr-icons-folder_app-material U+f21c2
+		["catpuccin-frappe"] = "󲇃", -- colr-icons-folder_app-catpuccin-frappe U+f21c3
+		["catpuccin-latte"] = "󲇄", -- colr-icons-folder_app-catpuccin-latte U+f21c4
+		["catpuccin-macchiato"] = "󲇅", -- colr-icons-folder_app-catpuccin-macchiato U+f21c5
+		["catpuccin-mocha"] = "󲇆", -- colr-icons-folder_app-catpuccin-mocha U+f21c6
+	},
+	["folder_app_open"] = {
+		["catpuccin-frappe"] = "󲇇", -- colr-icons-folder_app_open-catpuccin-frappe U+f21c7
+		["catpuccin-latte"] = "󲇈", -- colr-icons-folder_app_open-catpuccin-latte U+f21c8
+		["catpuccin-macchiato"] = "󲇉", -- colr-icons-folder_app_open-catpuccin-macchiato U+f21c9
+		["catpuccin-mocha"] = "󲇊", -- colr-icons-folder_app_open-catpuccin-mocha U+f21ca
+	},
+	["folder_appwrite"] = {
+		["material"] = "󲇋", -- colr-icons-folder_appwrite-material U+f21cb
+	},
+	["folder_archive"] = {
+		["material"] = "󲇌", -- colr-icons-folder_archive-material U+f21cc
+	},
+	["folder_assembly"] = {
+		["material"] = "󲇍", -- colr-icons-folder_assembly-material U+f21cd
+	},
+	["folder_assets"] = {
+		["catpuccin-frappe"] = "󲇎", -- colr-icons-folder_assets-catpuccin-frappe U+f21ce
+		["catpuccin-latte"] = "󲇏", -- colr-icons-folder_assets-catpuccin-latte U+f21cf
+		["catpuccin-macchiato"] = "󲇐", -- colr-icons-folder_assets-catpuccin-macchiato U+f21d0
+		["catpuccin-mocha"] = "󲇑", -- colr-icons-folder_assets-catpuccin-mocha U+f21d1
+	},
+	["folder_assets_open"] = {
+		["catpuccin-frappe"] = "󲇒", -- colr-icons-folder_assets_open-catpuccin-frappe U+f21d2
+		["catpuccin-latte"] = "󲇓", -- colr-icons-folder_assets_open-catpuccin-latte U+f21d3
+		["catpuccin-macchiato"] = "󲇔", -- colr-icons-folder_assets_open-catpuccin-macchiato U+f21d4
+		["catpuccin-mocha"] = "󲇕", -- colr-icons-folder_assets_open-catpuccin-mocha U+f21d5
+	},
+	["folder_astro"] = {
+		["material"] = "󲇖", -- colr-icons-folder_astro-material U+f21d6
+	},
+	["folder_atom"] = {
+		["material"] = "󲇗", -- colr-icons-folder_atom-material U+f21d7
+	},
+	["folder_attachment"] = {
+		["material"] = "󲇘", -- colr-icons-folder_attachment-material U+f21d8
+	},
+	["folder_audio"] = {
+		["material"] = "󲇙", -- colr-icons-folder_audio-material U+f21d9
+		["catpuccin-frappe"] = "󲇚", -- colr-icons-folder_audio-catpuccin-frappe U+f21da
+		["catpuccin-latte"] = "󲇛", -- colr-icons-folder_audio-catpuccin-latte U+f21db
+		["catpuccin-macchiato"] = "󲇜", -- colr-icons-folder_audio-catpuccin-macchiato U+f21dc
+		["catpuccin-mocha"] = "󲇝", -- colr-icons-folder_audio-catpuccin-mocha U+f21dd
+	},
+	["folder_audio_open"] = {
+		["catpuccin-frappe"] = "󲇞", -- colr-icons-folder_audio_open-catpuccin-frappe U+f21de
+		["catpuccin-latte"] = "󲇟", -- colr-icons-folder_audio_open-catpuccin-latte U+f21df
+		["catpuccin-macchiato"] = "󲇠", -- colr-icons-folder_audio_open-catpuccin-macchiato U+f21e0
+		["catpuccin-mocha"] = "󲇡", -- colr-icons-folder_audio_open-catpuccin-mocha U+f21e1
+	},
+	["folder_audit"] = {
+		["catpuccin-frappe"] = "󲇢", -- colr-icons-folder_audit-catpuccin-frappe U+f21e2
+		["catpuccin-latte"] = "󲇣", -- colr-icons-folder_audit-catpuccin-latte U+f21e3
+		["catpuccin-macchiato"] = "󲇤", -- colr-icons-folder_audit-catpuccin-macchiato U+f21e4
+		["catpuccin-mocha"] = "󲇥", -- colr-icons-folder_audit-catpuccin-mocha U+f21e5
+	},
+	["folder_audit_open"] = {
+		["catpuccin-frappe"] = "󲇦", -- colr-icons-folder_audit_open-catpuccin-frappe U+f21e6
+		["catpuccin-latte"] = "󲇧", -- colr-icons-folder_audit_open-catpuccin-latte U+f21e7
+		["catpuccin-macchiato"] = "󲇨", -- colr-icons-folder_audit_open-catpuccin-macchiato U+f21e8
+		["catpuccin-mocha"] = "󲇩", -- colr-icons-folder_audit_open-catpuccin-mocha U+f21e9
+	},
+	["folder_aurelia"] = {
+		["material"] = "󲇪", -- colr-icons-folder_aurelia-material U+f21ea
+	},
+	["folder_aws"] = {
+		["material"] = "󲇫", -- colr-icons-folder_aws-material U+f21eb
+		["catpuccin-frappe"] = "󲇬", -- colr-icons-folder_aws-catpuccin-frappe U+f21ec
+		["catpuccin-latte"] = "󲇭", -- colr-icons-folder_aws-catpuccin-latte U+f21ed
+		["catpuccin-macchiato"] = "󲇮", -- colr-icons-folder_aws-catpuccin-macchiato U+f21ee
+		["catpuccin-mocha"] = "󲇯", -- colr-icons-folder_aws-catpuccin-mocha U+f21ef
+	},
+	["folder_aws_open"] = {
+		["catpuccin-frappe"] = "󲇰", -- colr-icons-folder_aws_open-catpuccin-frappe U+f21f0
+		["catpuccin-latte"] = "󲇱", -- colr-icons-folder_aws_open-catpuccin-latte U+f21f1
+		["catpuccin-macchiato"] = "󲇲", -- colr-icons-folder_aws_open-catpuccin-macchiato U+f21f2
+		["catpuccin-mocha"] = "󲇳", -- colr-icons-folder_aws_open-catpuccin-mocha U+f21f3
+	},
+	["folder_azure-devops"] = {
+		["catpuccin-frappe"] = "󲇴", -- colr-icons-folder_azure-devops-catpuccin-frappe U+f21f4
+		["catpuccin-latte"] = "󲇵", -- colr-icons-folder_azure-devops-catpuccin-latte U+f21f5
+		["catpuccin-macchiato"] = "󲇶", -- colr-icons-folder_azure-devops-catpuccin-macchiato U+f21f6
+		["catpuccin-mocha"] = "󲇷", -- colr-icons-folder_azure-devops-catpuccin-mocha U+f21f7
+	},
+	["folder_azure-devops_open"] = {
+		["catpuccin-frappe"] = "󲇸", -- colr-icons-folder_azure-devops_open-catpuccin-frappe U+f21f8
+		["catpuccin-latte"] = "󲇹", -- colr-icons-folder_azure-devops_open-catpuccin-latte U+f21f9
+		["catpuccin-macchiato"] = "󲇺", -- colr-icons-folder_azure-devops_open-catpuccin-macchiato U+f21fa
+		["catpuccin-mocha"] = "󲇻", -- colr-icons-folder_azure-devops_open-catpuccin-mocha U+f21fb
+	},
+	["folder_azure-pipelines"] = {
+		["material"] = "󲇼", -- colr-icons-folder_azure-pipelines-material U+f21fc
+		["catpuccin-frappe"] = "󲇽", -- colr-icons-folder_azure-pipelines-catpuccin-frappe U+f21fd
+		["catpuccin-latte"] = "󲇾", -- colr-icons-folder_azure-pipelines-catpuccin-latte U+f21fe
+		["catpuccin-macchiato"] = "󲇿", -- colr-icons-folder_azure-pipelines-catpuccin-macchiato U+f21ff
+		["catpuccin-mocha"] = "󲈀", -- colr-icons-folder_azure-pipelines-catpuccin-mocha U+f2200
+	},
+	["folder_azure-pipelines_open"] = {
+		["catpuccin-frappe"] = "󲈁", -- colr-icons-folder_azure-pipelines_open-catpuccin-frappe U+f2201
+		["catpuccin-latte"] = "󲈂", -- colr-icons-folder_azure-pipelines_open-catpuccin-latte U+f2202
+		["catpuccin-macchiato"] = "󲈃", -- colr-icons-folder_azure-pipelines_open-catpuccin-macchiato U+f2203
+		["catpuccin-mocha"] = "󲈄", -- colr-icons-folder_azure-pipelines_open-catpuccin-mocha U+f2204
+	},
+	["folder_backup"] = {
+		["material"] = "󲈅", -- colr-icons-folder_backup-material U+f2205
+	},
+	["folder_base"] = {
+		["material"] = "󲈆", -- colr-icons-folder_base-material U+f2206
+	},
+	["folder_batch"] = {
+		["material"] = "󲈇", -- colr-icons-folder_batch-material U+f2207
+	},
+	["folder_benchmark"] = {
+		["material"] = "󲈈", -- colr-icons-folder_benchmark-material U+f2208
+		["catpuccin-frappe"] = "󲈉", -- colr-icons-folder_benchmark-catpuccin-frappe U+f2209
+		["catpuccin-latte"] = "󲈊", -- colr-icons-folder_benchmark-catpuccin-latte U+f220a
+		["catpuccin-macchiato"] = "󲈋", -- colr-icons-folder_benchmark-catpuccin-macchiato U+f220b
+		["catpuccin-mocha"] = "󲈌", -- colr-icons-folder_benchmark-catpuccin-mocha U+f220c
+	},
+	["folder_benchmark_open"] = {
+		["catpuccin-frappe"] = "󲈍", -- colr-icons-folder_benchmark_open-catpuccin-frappe U+f220d
+		["catpuccin-latte"] = "󲈎", -- colr-icons-folder_benchmark_open-catpuccin-latte U+f220e
+		["catpuccin-macchiato"] = "󲈏", -- colr-icons-folder_benchmark_open-catpuccin-macchiato U+f220f
+		["catpuccin-mocha"] = "󲈐", -- colr-icons-folder_benchmark_open-catpuccin-mocha U+f2210
+	},
+	["folder_bibliography"] = {
+		["material"] = "󲈑", -- colr-icons-folder_bibliography-material U+f2211
+	},
+	["folder_bicep"] = {
+		["material"] = "󲈒", -- colr-icons-folder_bicep-material U+f2212
+	},
+	["folder_blender"] = {
+		["material"] = "󲈓", -- colr-icons-folder_blender-material U+f2213
+	},
+	["folder_bloc"] = {
+		["material"] = "󲈔", -- colr-icons-folder_bloc-material U+f2214
+	},
+	["folder_bower"] = {
+		["material"] = "󲈕", -- colr-icons-folder_bower-material U+f2215
+	},
+	["folder_buildkite"] = {
+		["material"] = "󲈖", -- colr-icons-folder_buildkite-material U+f2216
+	},
+	["folder_caddy"] = {
+		["catpuccin-frappe"] = "󲈗", -- colr-icons-folder_caddy-catpuccin-frappe U+f2217
+		["catpuccin-latte"] = "󲈘", -- colr-icons-folder_caddy-catpuccin-latte U+f2218
+		["catpuccin-macchiato"] = "󲈙", -- colr-icons-folder_caddy-catpuccin-macchiato U+f2219
+		["catpuccin-mocha"] = "󲈚", -- colr-icons-folder_caddy-catpuccin-mocha U+f221a
+	},
+	["folder_caddy_open"] = {
+		["catpuccin-frappe"] = "󲈛", -- colr-icons-folder_caddy_open-catpuccin-frappe U+f221b
+		["catpuccin-latte"] = "󲈜", -- colr-icons-folder_caddy_open-catpuccin-latte U+f221c
+		["catpuccin-macchiato"] = "󲈝", -- colr-icons-folder_caddy_open-catpuccin-macchiato U+f221d
+		["catpuccin-mocha"] = "󲈞", -- colr-icons-folder_caddy_open-catpuccin-mocha U+f221e
+	},
+	["folder_cargo"] = {
+		["catpuccin-frappe"] = "󲈟", -- colr-icons-folder_cargo-catpuccin-frappe U+f221f
+		["catpuccin-latte"] = "󲈠", -- colr-icons-folder_cargo-catpuccin-latte U+f2220
+		["catpuccin-macchiato"] = "󲈡", -- colr-icons-folder_cargo-catpuccin-macchiato U+f2221
+		["catpuccin-mocha"] = "󲈢", -- colr-icons-folder_cargo-catpuccin-mocha U+f2222
+	},
+	["folder_cargo_open"] = {
+		["catpuccin-frappe"] = "󲈣", -- colr-icons-folder_cargo_open-catpuccin-frappe U+f2223
+		["catpuccin-latte"] = "󲈤", -- colr-icons-folder_cargo_open-catpuccin-latte U+f2224
+		["catpuccin-macchiato"] = "󲈥", -- colr-icons-folder_cargo_open-catpuccin-macchiato U+f2225
+		["catpuccin-mocha"] = "󲈦", -- colr-icons-folder_cargo_open-catpuccin-mocha U+f2226
+	},
+	["folder_cart"] = {
+		["material"] = "󲈧", -- colr-icons-folder_cart-material U+f2227
+	},
+	["folder_changesets"] = {
+		["material"] = "󲈨", -- colr-icons-folder_changesets-material U+f2228
+	},
+	["folder_ci"] = {
+		["material"] = "󲈩", -- colr-icons-folder_ci-material U+f2229
+	},
+	["folder_circle-ci"] = {
+		["catpuccin-frappe"] = "󲈪", -- colr-icons-folder_circle-ci-catpuccin-frappe U+f222a
+		["catpuccin-latte"] = "󲈫", -- colr-icons-folder_circle-ci-catpuccin-latte U+f222b
+		["catpuccin-macchiato"] = "󲈬", -- colr-icons-folder_circle-ci-catpuccin-macchiato U+f222c
+		["catpuccin-mocha"] = "󲈭", -- colr-icons-folder_circle-ci-catpuccin-mocha U+f222d
+	},
+	["folder_circle-ci_open"] = {
+		["catpuccin-frappe"] = "󲈮", -- colr-icons-folder_circle-ci_open-catpuccin-frappe U+f222e
+		["catpuccin-latte"] = "󲈯", -- colr-icons-folder_circle-ci_open-catpuccin-latte U+f222f
+		["catpuccin-macchiato"] = "󲈰", -- colr-icons-folder_circle-ci_open-catpuccin-macchiato U+f2230
+		["catpuccin-mocha"] = "󲈱", -- colr-icons-folder_circle-ci_open-catpuccin-mocha U+f2231
+	},
+	["folder_circleci"] = {
+		["material"] = "󲈲", -- colr-icons-folder_circleci-material U+f2232
+	},
+	["folder_class"] = {
+		["material"] = "󲈳", -- colr-icons-folder_class-material U+f2233
+	},
+	["folder_claude"] = {
+		["material"] = "󲈴", -- colr-icons-folder_claude-material U+f2234
+	},
+	["folder_client"] = {
+		["material"] = "󲈵", -- colr-icons-folder_client-material U+f2235
+		["catpuccin-frappe"] = "󲈶", -- colr-icons-folder_client-catpuccin-frappe U+f2236
+		["catpuccin-latte"] = "󲈷", -- colr-icons-folder_client-catpuccin-latte U+f2237
+		["catpuccin-macchiato"] = "󲈸", -- colr-icons-folder_client-catpuccin-macchiato U+f2238
+		["catpuccin-mocha"] = "󲈹", -- colr-icons-folder_client-catpuccin-mocha U+f2239
+	},
+	["folder_client_open"] = {
+		["catpuccin-frappe"] = "󲈺", -- colr-icons-folder_client_open-catpuccin-frappe U+f223a
+		["catpuccin-latte"] = "󲈻", -- colr-icons-folder_client_open-catpuccin-latte U+f223b
+		["catpuccin-macchiato"] = "󲈼", -- colr-icons-folder_client_open-catpuccin-macchiato U+f223c
+		["catpuccin-mocha"] = "󲈽", -- colr-icons-folder_client_open-catpuccin-mocha U+f223d
+	},
+	["folder_cline"] = {
+		["material"] = "󲈾", -- colr-icons-folder_cline-material U+f223e
+	},
+	["folder_cloud"] = {
+		["catpuccin-frappe"] = "󲈿", -- colr-icons-folder_cloud-catpuccin-frappe U+f223f
+		["catpuccin-latte"] = "󲉀", -- colr-icons-folder_cloud-catpuccin-latte U+f2240
+		["catpuccin-macchiato"] = "󲉁", -- colr-icons-folder_cloud-catpuccin-macchiato U+f2241
+		["catpuccin-mocha"] = "󲉂", -- colr-icons-folder_cloud-catpuccin-mocha U+f2242
+	},
+	["folder_cloud-functions"] = {
+		["material"] = "󲉃", -- colr-icons-folder_cloud-functions-material U+f2243
+	},
+	["folder_cloud_open"] = {
+		["catpuccin-frappe"] = "󲉄", -- colr-icons-folder_cloud_open-catpuccin-frappe U+f2244
+		["catpuccin-latte"] = "󲉅", -- colr-icons-folder_cloud_open-catpuccin-latte U+f2245
+		["catpuccin-macchiato"] = "󲉆", -- colr-icons-folder_cloud_open-catpuccin-macchiato U+f2246
+		["catpuccin-mocha"] = "󲉇", -- colr-icons-folder_cloud_open-catpuccin-mocha U+f2247
+	},
+	["folder_cloudflare"] = {
+		["material"] = "󲉈", -- colr-icons-folder_cloudflare-material U+f2248
+	},
+	["folder_cluster"] = {
+		["material"] = "󲉉", -- colr-icons-folder_cluster-material U+f2249
+	},
+	["folder_cobol"] = {
+		["material"] = "󲉊", -- colr-icons-folder_cobol-material U+f224a
+	},
+	["folder_command"] = {
+		["material"] = "󲉋", -- colr-icons-folder_command-material U+f224b
+		["catpuccin-frappe"] = "󲉌", -- colr-icons-folder_command-catpuccin-frappe U+f224c
+		["catpuccin-latte"] = "󲉍", -- colr-icons-folder_command-catpuccin-latte U+f224d
+		["catpuccin-macchiato"] = "󲉎", -- colr-icons-folder_command-catpuccin-macchiato U+f224e
+		["catpuccin-mocha"] = "󲉏", -- colr-icons-folder_command-catpuccin-mocha U+f224f
+	},
+	["folder_command_open"] = {
+		["catpuccin-frappe"] = "󲉐", -- colr-icons-folder_command_open-catpuccin-frappe U+f2250
+		["catpuccin-latte"] = "󲉑", -- colr-icons-folder_command_open-catpuccin-latte U+f2251
+		["catpuccin-macchiato"] = "󲉒", -- colr-icons-folder_command_open-catpuccin-macchiato U+f2252
+		["catpuccin-mocha"] = "󲉓", -- colr-icons-folder_command_open-catpuccin-mocha U+f2253
+	},
+	["folder_components"] = {
+		["material"] = "󲉔", -- colr-icons-folder_components-material U+f2254
+		["catpuccin-frappe"] = "󲉕", -- colr-icons-folder_components-catpuccin-frappe U+f2255
+		["catpuccin-latte"] = "󲉖", -- colr-icons-folder_components-catpuccin-latte U+f2256
+		["catpuccin-macchiato"] = "󲉗", -- colr-icons-folder_components-catpuccin-macchiato U+f2257
+		["catpuccin-mocha"] = "󲉘", -- colr-icons-folder_components-catpuccin-mocha U+f2258
+	},
+	["folder_components_open"] = {
+		["catpuccin-frappe"] = "󲉙", -- colr-icons-folder_components_open-catpuccin-frappe U+f2259
+		["catpuccin-latte"] = "󲉚", -- colr-icons-folder_components_open-catpuccin-latte U+f225a
+		["catpuccin-macchiato"] = "󲉛", -- colr-icons-folder_components_open-catpuccin-macchiato U+f225b
+		["catpuccin-mocha"] = "󲉜", -- colr-icons-folder_components_open-catpuccin-mocha U+f225c
+	},
+	["folder_composables"] = {
+		["catpuccin-frappe"] = "󲉝", -- colr-icons-folder_composables-catpuccin-frappe U+f225d
+		["catpuccin-latte"] = "󲉞", -- colr-icons-folder_composables-catpuccin-latte U+f225e
+		["catpuccin-macchiato"] = "󲉟", -- colr-icons-folder_composables-catpuccin-macchiato U+f225f
+		["catpuccin-mocha"] = "󲉠", -- colr-icons-folder_composables-catpuccin-mocha U+f2260
+	},
+	["folder_composables_open"] = {
+		["catpuccin-frappe"] = "󲉡", -- colr-icons-folder_composables_open-catpuccin-frappe U+f2261
+		["catpuccin-latte"] = "󲉢", -- colr-icons-folder_composables_open-catpuccin-latte U+f2262
+		["catpuccin-macchiato"] = "󲉣", -- colr-icons-folder_composables_open-catpuccin-macchiato U+f2263
+		["catpuccin-mocha"] = "󲉤", -- colr-icons-folder_composables_open-catpuccin-mocha U+f2264
+	},
+	["folder_config"] = {
+		["material"] = "󲉥", -- colr-icons-folder_config-material U+f2265
+		["catpuccin-frappe"] = "󲉦", -- colr-icons-folder_config-catpuccin-frappe U+f2266
+		["catpuccin-latte"] = "󲉧", -- colr-icons-folder_config-catpuccin-latte U+f2267
+		["catpuccin-macchiato"] = "󲉨", -- colr-icons-folder_config-catpuccin-macchiato U+f2268
+		["catpuccin-mocha"] = "󲉩", -- colr-icons-folder_config-catpuccin-mocha U+f2269
+	},
+	["folder_config_open"] = {
+		["catpuccin-frappe"] = "󲉪", -- colr-icons-folder_config_open-catpuccin-frappe U+f226a
+		["catpuccin-latte"] = "󲉫", -- colr-icons-folder_config_open-catpuccin-latte U+f226b
+		["catpuccin-macchiato"] = "󲉬", -- colr-icons-folder_config_open-catpuccin-macchiato U+f226c
+		["catpuccin-mocha"] = "󲉭", -- colr-icons-folder_config_open-catpuccin-mocha U+f226d
+	},
+	["folder_connection"] = {
+		["material"] = "󲉮", -- colr-icons-folder_connection-material U+f226e
+		["catpuccin-frappe"] = "󲉯", -- colr-icons-folder_connection-catpuccin-frappe U+f226f
+		["catpuccin-latte"] = "󲉰", -- colr-icons-folder_connection-catpuccin-latte U+f2270
+		["catpuccin-macchiato"] = "󲉱", -- colr-icons-folder_connection-catpuccin-macchiato U+f2271
+		["catpuccin-mocha"] = "󲉲", -- colr-icons-folder_connection-catpuccin-mocha U+f2272
+	},
+	["folder_connection_open"] = {
+		["catpuccin-frappe"] = "󲉳", -- colr-icons-folder_connection_open-catpuccin-frappe U+f2273
+		["catpuccin-latte"] = "󲉴", -- colr-icons-folder_connection_open-catpuccin-latte U+f2274
+		["catpuccin-macchiato"] = "󲉵", -- colr-icons-folder_connection_open-catpuccin-macchiato U+f2275
+		["catpuccin-mocha"] = "󲉶", -- colr-icons-folder_connection_open-catpuccin-mocha U+f2276
+	},
+	["folder_console"] = {
+		["material"] = "󲉷", -- colr-icons-folder_console-material U+f2277
+	},
+	["folder_constant"] = {
+		["material"] = "󲉸", -- colr-icons-folder_constant-material U+f2278
+		["catpuccin-frappe"] = "󲉹", -- colr-icons-folder_constant-catpuccin-frappe U+f2279
+		["catpuccin-latte"] = "󲉺", -- colr-icons-folder_constant-catpuccin-latte U+f227a
+		["catpuccin-macchiato"] = "󲉻", -- colr-icons-folder_constant-catpuccin-macchiato U+f227b
+		["catpuccin-mocha"] = "󲉼", -- colr-icons-folder_constant-catpuccin-mocha U+f227c
+	},
+	["folder_constant_open"] = {
+		["catpuccin-frappe"] = "󲉽", -- colr-icons-folder_constant_open-catpuccin-frappe U+f227d
+		["catpuccin-latte"] = "󲉾", -- colr-icons-folder_constant_open-catpuccin-latte U+f227e
+		["catpuccin-macchiato"] = "󲉿", -- colr-icons-folder_constant_open-catpuccin-macchiato U+f227f
+		["catpuccin-mocha"] = "󲊀", -- colr-icons-folder_constant_open-catpuccin-mocha U+f2280
+	},
+	["folder_container"] = {
+		["material"] = "󲊁", -- colr-icons-folder_container-material U+f2281
+	},
+	["folder_content"] = {
+		["material"] = "󲊂", -- colr-icons-folder_content-material U+f2282
+		["catpuccin-frappe"] = "󲊃", -- colr-icons-folder_content-catpuccin-frappe U+f2283
+		["catpuccin-latte"] = "󲊄", -- colr-icons-folder_content-catpuccin-latte U+f2284
+		["catpuccin-macchiato"] = "󲊅", -- colr-icons-folder_content-catpuccin-macchiato U+f2285
+		["catpuccin-mocha"] = "󲊆", -- colr-icons-folder_content-catpuccin-mocha U+f2286
+	},
+	["folder_content_open"] = {
+		["catpuccin-frappe"] = "󲊇", -- colr-icons-folder_content_open-catpuccin-frappe U+f2287
+		["catpuccin-latte"] = "󲊈", -- colr-icons-folder_content_open-catpuccin-latte U+f2288
+		["catpuccin-macchiato"] = "󲊉", -- colr-icons-folder_content_open-catpuccin-macchiato U+f2289
+		["catpuccin-mocha"] = "󲊊", -- colr-icons-folder_content_open-catpuccin-mocha U+f228a
+	},
+	["folder_context"] = {
+		["material"] = "󲊋", -- colr-icons-folder_context-material U+f228b
+	},
+	["folder_contract"] = {
+		["material"] = "󲊌", -- colr-icons-folder_contract-material U+f228c
+	},
+	["folder_controller"] = {
+		["material"] = "󲊍", -- colr-icons-folder_controller-material U+f228d
+	},
+	["folder_controllers"] = {
+		["catpuccin-frappe"] = "󲊎", -- colr-icons-folder_controllers-catpuccin-frappe U+f228e
+		["catpuccin-latte"] = "󲊏", -- colr-icons-folder_controllers-catpuccin-latte U+f228f
+		["catpuccin-macchiato"] = "󲊐", -- colr-icons-folder_controllers-catpuccin-macchiato U+f2290
+		["catpuccin-mocha"] = "󲊑", -- colr-icons-folder_controllers-catpuccin-mocha U+f2291
+	},
+	["folder_controllers_open"] = {
+		["catpuccin-frappe"] = "󲊒", -- colr-icons-folder_controllers_open-catpuccin-frappe U+f2292
+		["catpuccin-latte"] = "󲊓", -- colr-icons-folder_controllers_open-catpuccin-latte U+f2293
+		["catpuccin-macchiato"] = "󲊔", -- colr-icons-folder_controllers_open-catpuccin-macchiato U+f2294
+		["catpuccin-mocha"] = "󲊕", -- colr-icons-folder_controllers_open-catpuccin-mocha U+f2295
+	},
+	["folder_core"] = {
+		["material"] = "󲊖", -- colr-icons-folder_core-material U+f2296
+		["catpuccin-frappe"] = "󲊗", -- colr-icons-folder_core-catpuccin-frappe U+f2297
+		["catpuccin-latte"] = "󲊘", -- colr-icons-folder_core-catpuccin-latte U+f2298
+		["catpuccin-macchiato"] = "󲊙", -- colr-icons-folder_core-catpuccin-macchiato U+f2299
+		["catpuccin-mocha"] = "󲊚", -- colr-icons-folder_core-catpuccin-mocha U+f229a
+	},
+	["folder_core_open"] = {
+		["catpuccin-frappe"] = "󲊛", -- colr-icons-folder_core_open-catpuccin-frappe U+f229b
+		["catpuccin-latte"] = "󲊜", -- colr-icons-folder_core_open-catpuccin-latte U+f229c
+		["catpuccin-macchiato"] = "󲊝", -- colr-icons-folder_core_open-catpuccin-macchiato U+f229d
+		["catpuccin-mocha"] = "󲊞", -- colr-icons-folder_core_open-catpuccin-mocha U+f229e
+	},
+	["folder_coverage"] = {
+		["material"] = "󲊟", -- colr-icons-folder_coverage-material U+f229f
+		["catpuccin-frappe"] = "󲊠", -- colr-icons-folder_coverage-catpuccin-frappe U+f22a0
+		["catpuccin-latte"] = "󲊡", -- colr-icons-folder_coverage-catpuccin-latte U+f22a1
+		["catpuccin-macchiato"] = "󲊢", -- colr-icons-folder_coverage-catpuccin-macchiato U+f22a2
+		["catpuccin-mocha"] = "󲊣", -- colr-icons-folder_coverage-catpuccin-mocha U+f22a3
+	},
+	["folder_coverage_open"] = {
+		["catpuccin-frappe"] = "󲊤", -- colr-icons-folder_coverage_open-catpuccin-frappe U+f22a4
+		["catpuccin-latte"] = "󲊥", -- colr-icons-folder_coverage_open-catpuccin-latte U+f22a5
+		["catpuccin-macchiato"] = "󲊦", -- colr-icons-folder_coverage_open-catpuccin-macchiato U+f22a6
+		["catpuccin-mocha"] = "󲊧", -- colr-icons-folder_coverage_open-catpuccin-mocha U+f22a7
+	},
+	["folder_css"] = {
+		["material"] = "󲊨", -- colr-icons-folder_css-material U+f22a8
+	},
+	["folder_cue"] = {
+		["material"] = "󲊩", -- colr-icons-folder_cue-material U+f22a9
+	},
+	["folder_cursor"] = {
+		["material"] = "󲊪", -- colr-icons-folder_cursor-material U+f22aa
+		["catpuccin-frappe"] = "󲊫", -- colr-icons-folder_cursor-catpuccin-frappe U+f22ab
+		["catpuccin-latte"] = "󲊬", -- colr-icons-folder_cursor-catpuccin-latte U+f22ac
+		["catpuccin-macchiato"] = "󲊭", -- colr-icons-folder_cursor-catpuccin-macchiato U+f22ad
+		["catpuccin-mocha"] = "󲊮", -- colr-icons-folder_cursor-catpuccin-mocha U+f22ae
+	},
+	["folder_cursor_light"] = {
+		["material"] = "󲊯", -- colr-icons-folder_cursor_light-material U+f22af
+	},
+	["folder_cursor_open"] = {
+		["catpuccin-frappe"] = "󲊰", -- colr-icons-folder_cursor_open-catpuccin-frappe U+f22b0
+		["catpuccin-latte"] = "󲊱", -- colr-icons-folder_cursor_open-catpuccin-latte U+f22b1
+		["catpuccin-macchiato"] = "󲊲", -- colr-icons-folder_cursor_open-catpuccin-macchiato U+f22b2
+		["catpuccin-mocha"] = "󲊳", -- colr-icons-folder_cursor_open-catpuccin-mocha U+f22b3
+	},
+	["folder_custom"] = {
+		["material"] = "󲊴", -- colr-icons-folder_custom-material U+f22b4
+	},
+	["folder_cypress"] = {
+		["material"] = "󲊵", -- colr-icons-folder_cypress-material U+f22b5
+		["catpuccin-frappe"] = "󲊶", -- colr-icons-folder_cypress-catpuccin-frappe U+f22b6
+		["catpuccin-latte"] = "󲊷", -- colr-icons-folder_cypress-catpuccin-latte U+f22b7
+		["catpuccin-macchiato"] = "󲊸", -- colr-icons-folder_cypress-catpuccin-macchiato U+f22b8
+		["catpuccin-mocha"] = "󲊹", -- colr-icons-folder_cypress-catpuccin-mocha U+f22b9
+	},
+	["folder_cypress_open"] = {
+		["catpuccin-frappe"] = "󲊺", -- colr-icons-folder_cypress_open-catpuccin-frappe U+f22ba
+		["catpuccin-latte"] = "󲊻", -- colr-icons-folder_cypress_open-catpuccin-latte U+f22bb
+		["catpuccin-macchiato"] = "󲊼", -- colr-icons-folder_cypress_open-catpuccin-macchiato U+f22bc
+		["catpuccin-mocha"] = "󲊽", -- colr-icons-folder_cypress_open-catpuccin-mocha U+f22bd
+	},
+	["folder_dal"] = {
+		["material"] = "󲊾", -- colr-icons-folder_dal-material U+f22be
+	},
+	["folder_dart"] = {
+		["material"] = "󲊿", -- colr-icons-folder_dart-material U+f22bf
+	},
+	["folder_database"] = {
+		["material"] = "󲋀", -- colr-icons-folder_database-material U+f22c0
+		["catpuccin-frappe"] = "󲋁", -- colr-icons-folder_database-catpuccin-frappe U+f22c1
+		["catpuccin-latte"] = "󲋂", -- colr-icons-folder_database-catpuccin-latte U+f22c2
+		["catpuccin-macchiato"] = "󲋃", -- colr-icons-folder_database-catpuccin-macchiato U+f22c3
+		["catpuccin-mocha"] = "󲋄", -- colr-icons-folder_database-catpuccin-mocha U+f22c4
+	},
+	["folder_database_open"] = {
+		["catpuccin-frappe"] = "󲋅", -- colr-icons-folder_database_open-catpuccin-frappe U+f22c5
+		["catpuccin-latte"] = "󲋆", -- colr-icons-folder_database_open-catpuccin-latte U+f22c6
+		["catpuccin-macchiato"] = "󲋇", -- colr-icons-folder_database_open-catpuccin-macchiato U+f22c7
+		["catpuccin-mocha"] = "󲋈", -- colr-icons-folder_database_open-catpuccin-mocha U+f22c8
+	},
+	["folder_debug"] = {
+		["material"] = "󲋉", -- colr-icons-folder_debug-material U+f22c9
+		["catpuccin-frappe"] = "󲋊", -- colr-icons-folder_debug-catpuccin-frappe U+f22ca
+		["catpuccin-latte"] = "󲋋", -- colr-icons-folder_debug-catpuccin-latte U+f22cb
+		["catpuccin-macchiato"] = "󲋌", -- colr-icons-folder_debug-catpuccin-macchiato U+f22cc
+		["catpuccin-mocha"] = "󲋍", -- colr-icons-folder_debug-catpuccin-mocha U+f22cd
+	},
+	["folder_debug_open"] = {
+		["catpuccin-frappe"] = "󲋎", -- colr-icons-folder_debug_open-catpuccin-frappe U+f22ce
+		["catpuccin-latte"] = "󲋏", -- colr-icons-folder_debug_open-catpuccin-latte U+f22cf
+		["catpuccin-macchiato"] = "󲋐", -- colr-icons-folder_debug_open-catpuccin-macchiato U+f22d0
+		["catpuccin-mocha"] = "󲋑", -- colr-icons-folder_debug_open-catpuccin-mocha U+f22d1
+	},
+	["folder_decorators"] = {
+		["material"] = "󲋒", -- colr-icons-folder_decorators-material U+f22d2
+	},
+	["folder_delta"] = {
+		["material"] = "󲋓", -- colr-icons-folder_delta-material U+f22d3
+	},
+	["folder_desktop"] = {
+		["material"] = "󲋔", -- colr-icons-folder_desktop-material U+f22d4
+	},
+	["folder_devcontainer"] = {
+		["catpuccin-frappe"] = "󲋕", -- colr-icons-folder_devcontainer-catpuccin-frappe U+f22d5
+		["catpuccin-latte"] = "󲋖", -- colr-icons-folder_devcontainer-catpuccin-latte U+f22d6
+		["catpuccin-macchiato"] = "󲋗", -- colr-icons-folder_devcontainer-catpuccin-macchiato U+f22d7
+		["catpuccin-mocha"] = "󲋘", -- colr-icons-folder_devcontainer-catpuccin-mocha U+f22d8
+	},
+	["folder_devcontainer_open"] = {
+		["catpuccin-frappe"] = "󲋙", -- colr-icons-folder_devcontainer_open-catpuccin-frappe U+f22d9
+		["catpuccin-latte"] = "󲋚", -- colr-icons-folder_devcontainer_open-catpuccin-latte U+f22da
+		["catpuccin-macchiato"] = "󲋛", -- colr-icons-folder_devcontainer_open-catpuccin-macchiato U+f22db
+		["catpuccin-mocha"] = "󲋜", -- colr-icons-folder_devcontainer_open-catpuccin-mocha U+f22dc
+	},
+	["folder_directive"] = {
+		["material"] = "󲋝", -- colr-icons-folder_directive-material U+f22dd
+	},
+	["folder_direnv"] = {
+		["catpuccin-frappe"] = "󲋞", -- colr-icons-folder_direnv-catpuccin-frappe U+f22de
+		["catpuccin-latte"] = "󲋟", -- colr-icons-folder_direnv-catpuccin-latte U+f22df
+		["catpuccin-macchiato"] = "󲋠", -- colr-icons-folder_direnv-catpuccin-macchiato U+f22e0
+		["catpuccin-mocha"] = "󲋡", -- colr-icons-folder_direnv-catpuccin-mocha U+f22e1
+	},
+	["folder_direnv_open"] = {
+		["catpuccin-frappe"] = "󲋢", -- colr-icons-folder_direnv_open-catpuccin-frappe U+f22e2
+		["catpuccin-latte"] = "󲋣", -- colr-icons-folder_direnv_open-catpuccin-latte U+f22e3
+		["catpuccin-macchiato"] = "󲋤", -- colr-icons-folder_direnv_open-catpuccin-macchiato U+f22e4
+		["catpuccin-mocha"] = "󲋥", -- colr-icons-folder_direnv_open-catpuccin-mocha U+f22e5
+	},
+	["folder_dist"] = {
+		["material"] = "󲋦", -- colr-icons-folder_dist-material U+f22e6
+		["catpuccin-frappe"] = "󲋧", -- colr-icons-folder_dist-catpuccin-frappe U+f22e7
+		["catpuccin-latte"] = "󲋨", -- colr-icons-folder_dist-catpuccin-latte U+f22e8
+		["catpuccin-macchiato"] = "󲋩", -- colr-icons-folder_dist-catpuccin-macchiato U+f22e9
+		["catpuccin-mocha"] = "󲋪", -- colr-icons-folder_dist-catpuccin-mocha U+f22ea
+	},
+	["folder_dist_open"] = {
+		["catpuccin-frappe"] = "󲋫", -- colr-icons-folder_dist_open-catpuccin-frappe U+f22eb
+		["catpuccin-latte"] = "󲋬", -- colr-icons-folder_dist_open-catpuccin-latte U+f22ec
+		["catpuccin-macchiato"] = "󲋭", -- colr-icons-folder_dist_open-catpuccin-macchiato U+f22ed
+		["catpuccin-mocha"] = "󲋮", -- colr-icons-folder_dist_open-catpuccin-mocha U+f22ee
+	},
+	["folder_docker"] = {
+		["material"] = "󲋯", -- colr-icons-folder_docker-material U+f22ef
+		["catpuccin-frappe"] = "󲋰", -- colr-icons-folder_docker-catpuccin-frappe U+f22f0
+		["catpuccin-latte"] = "󲋱", -- colr-icons-folder_docker-catpuccin-latte U+f22f1
+		["catpuccin-macchiato"] = "󲋲", -- colr-icons-folder_docker-catpuccin-macchiato U+f22f2
+		["catpuccin-mocha"] = "󲋳", -- colr-icons-folder_docker-catpuccin-mocha U+f22f3
+	},
+	["folder_docker_open"] = {
+		["catpuccin-frappe"] = "󲋴", -- colr-icons-folder_docker_open-catpuccin-frappe U+f22f4
+		["catpuccin-latte"] = "󲋵", -- colr-icons-folder_docker_open-catpuccin-latte U+f22f5
+		["catpuccin-macchiato"] = "󲋶", -- colr-icons-folder_docker_open-catpuccin-macchiato U+f22f6
+		["catpuccin-mocha"] = "󲋷", -- colr-icons-folder_docker_open-catpuccin-mocha U+f22f7
+	},
+	["folder_docs"] = {
+		["material"] = "󲋸", -- colr-icons-folder_docs-material U+f22f8
+		["catpuccin-frappe"] = "󲋹", -- colr-icons-folder_docs-catpuccin-frappe U+f22f9
+		["catpuccin-latte"] = "󲋺", -- colr-icons-folder_docs-catpuccin-latte U+f22fa
+		["catpuccin-macchiato"] = "󲋻", -- colr-icons-folder_docs-catpuccin-macchiato U+f22fb
+		["catpuccin-mocha"] = "󲋼", -- colr-icons-folder_docs-catpuccin-mocha U+f22fc
+	},
+	["folder_docs_open"] = {
+		["catpuccin-frappe"] = "󲋽", -- colr-icons-folder_docs_open-catpuccin-frappe U+f22fd
+		["catpuccin-latte"] = "󲋾", -- colr-icons-folder_docs_open-catpuccin-latte U+f22fe
+		["catpuccin-macchiato"] = "󲋿", -- colr-icons-folder_docs_open-catpuccin-macchiato U+f22ff
+		["catpuccin-mocha"] = "󲌀", -- colr-icons-folder_docs_open-catpuccin-mocha U+f2300
+	},
+	["folder_download"] = {
+		["material"] = "󲌁", -- colr-icons-folder_download-material U+f2301
+		["catpuccin-frappe"] = "󲌂", -- colr-icons-folder_download-catpuccin-frappe U+f2302
+		["catpuccin-latte"] = "󲌃", -- colr-icons-folder_download-catpuccin-latte U+f2303
+		["catpuccin-macchiato"] = "󲌄", -- colr-icons-folder_download-catpuccin-macchiato U+f2304
+		["catpuccin-mocha"] = "󲌅", -- colr-icons-folder_download-catpuccin-mocha U+f2305
+	},
+	["folder_download_open"] = {
+		["catpuccin-frappe"] = "󲌆", -- colr-icons-folder_download_open-catpuccin-frappe U+f2306
+		["catpuccin-latte"] = "󲌇", -- colr-icons-folder_download_open-catpuccin-latte U+f2307
+		["catpuccin-macchiato"] = "󲌈", -- colr-icons-folder_download_open-catpuccin-macchiato U+f2308
+		["catpuccin-mocha"] = "󲌉", -- colr-icons-folder_download_open-catpuccin-mocha U+f2309
+	},
+	["folder_drizzle"] = {
+		["material"] = "󲌊", -- colr-icons-folder_drizzle-material U+f230a
+	},
+	["folder_drizzle-orm"] = {
+		["catpuccin-frappe"] = "󲌋", -- colr-icons-folder_drizzle-orm-catpuccin-frappe U+f230b
+		["catpuccin-latte"] = "󲌌", -- colr-icons-folder_drizzle-orm-catpuccin-latte U+f230c
+		["catpuccin-macchiato"] = "󲌍", -- colr-icons-folder_drizzle-orm-catpuccin-macchiato U+f230d
+		["catpuccin-mocha"] = "󲌎", -- colr-icons-folder_drizzle-orm-catpuccin-mocha U+f230e
+	},
+	["folder_drizzle-orm_open"] = {
+		["catpuccin-frappe"] = "󲌏", -- colr-icons-folder_drizzle-orm_open-catpuccin-frappe U+f230f
+		["catpuccin-latte"] = "󲌐", -- colr-icons-folder_drizzle-orm_open-catpuccin-latte U+f2310
+		["catpuccin-macchiato"] = "󲌑", -- colr-icons-folder_drizzle-orm_open-catpuccin-macchiato U+f2311
+		["catpuccin-mocha"] = "󲌒", -- colr-icons-folder_drizzle-orm_open-catpuccin-mocha U+f2312
+	},
+	["folder_dump"] = {
+		["material"] = "󲌓", -- colr-icons-folder_dump-material U+f2313
+	},
+	["folder_element"] = {
+		["material"] = "󲌔", -- colr-icons-folder_element-material U+f2314
+	},
+	["folder_enum"] = {
+		["material"] = "󲌕", -- colr-icons-folder_enum-material U+f2315
+	},
+	["folder_environment"] = {
+		["material"] = "󲌖", -- colr-icons-folder_environment-material U+f2316
+	},
+	["folder_error"] = {
+		["material"] = "󲌗", -- colr-icons-folder_error-material U+f2317
+	},
+	["folder_eslint"] = {
+		["material"] = "󲌘", -- colr-icons-folder_eslint-material U+f2318
+	},
+	["folder_event"] = {
+		["material"] = "󲌙", -- colr-icons-folder_event-material U+f2319
+	},
+	["folder_examples"] = {
+		["material"] = "󲌚", -- colr-icons-folder_examples-material U+f231a
+		["catpuccin-frappe"] = "󲌛", -- colr-icons-folder_examples-catpuccin-frappe U+f231b
+		["catpuccin-latte"] = "󲌜", -- colr-icons-folder_examples-catpuccin-latte U+f231c
+		["catpuccin-macchiato"] = "󲌝", -- colr-icons-folder_examples-catpuccin-macchiato U+f231d
+		["catpuccin-mocha"] = "󲌞", -- colr-icons-folder_examples-catpuccin-mocha U+f231e
+	},
+	["folder_examples_open"] = {
+		["catpuccin-frappe"] = "󲌟", -- colr-icons-folder_examples_open-catpuccin-frappe U+f231f
+		["catpuccin-latte"] = "󲌠", -- colr-icons-folder_examples_open-catpuccin-latte U+f2320
+		["catpuccin-macchiato"] = "󲌡", -- colr-icons-folder_examples_open-catpuccin-macchiato U+f2321
+		["catpuccin-mocha"] = "󲌢", -- colr-icons-folder_examples_open-catpuccin-mocha U+f2322
+	},
+	["folder_expo"] = {
+		["material"] = "󲌣", -- colr-icons-folder_expo-material U+f2323
+	},
+	["folder_export"] = {
+		["material"] = "󲌤", -- colr-icons-folder_export-material U+f2324
+	},
+	["folder_fastlane"] = {
+		["material"] = "󲌥", -- colr-icons-folder_fastlane-material U+f2325
+		["catpuccin-frappe"] = "󲌦", -- colr-icons-folder_fastlane-catpuccin-frappe U+f2326
+		["catpuccin-latte"] = "󲌧", -- colr-icons-folder_fastlane-catpuccin-latte U+f2327
+		["catpuccin-macchiato"] = "󲌨", -- colr-icons-folder_fastlane-catpuccin-macchiato U+f2328
+		["catpuccin-mocha"] = "󲌩", -- colr-icons-folder_fastlane-catpuccin-mocha U+f2329
+	},
+	["folder_fastlane_open"] = {
+		["catpuccin-frappe"] = "󲌪", -- colr-icons-folder_fastlane_open-catpuccin-frappe U+f232a
+		["catpuccin-latte"] = "󲌫", -- colr-icons-folder_fastlane_open-catpuccin-latte U+f232b
+		["catpuccin-macchiato"] = "󲌬", -- colr-icons-folder_fastlane_open-catpuccin-macchiato U+f232c
+		["catpuccin-mocha"] = "󲌭", -- colr-icons-folder_fastlane_open-catpuccin-mocha U+f232d
+	},
+	["folder_favicon"] = {
+		["material"] = "󲌮", -- colr-icons-folder_favicon-material U+f232e
+	},
+	["folder_features"] = {
+		["material"] = "󲌯", -- colr-icons-folder_features-material U+f232f
+	},
+	["folder_filter"] = {
+		["material"] = "󲌰", -- colr-icons-folder_filter-material U+f2330
+	},
+	["folder_firebase"] = {
+		["material"] = "󲌱", -- colr-icons-folder_firebase-material U+f2331
+		["catpuccin-frappe"] = "󲌲", -- colr-icons-folder_firebase-catpuccin-frappe U+f2332
+		["catpuccin-latte"] = "󲌳", -- colr-icons-folder_firebase-catpuccin-latte U+f2333
+		["catpuccin-macchiato"] = "󲌴", -- colr-icons-folder_firebase-catpuccin-macchiato U+f2334
+		["catpuccin-mocha"] = "󲌵", -- colr-icons-folder_firebase-catpuccin-mocha U+f2335
+	},
+	["folder_firebase_open"] = {
+		["catpuccin-frappe"] = "󲌶", -- colr-icons-folder_firebase_open-catpuccin-frappe U+f2336
+		["catpuccin-latte"] = "󲌷", -- colr-icons-folder_firebase_open-catpuccin-latte U+f2337
+		["catpuccin-macchiato"] = "󲌸", -- colr-icons-folder_firebase_open-catpuccin-macchiato U+f2338
+		["catpuccin-mocha"] = "󲌹", -- colr-icons-folder_firebase_open-catpuccin-mocha U+f2339
+	},
+	["folder_firestore"] = {
+		["material"] = "󲌺", -- colr-icons-folder_firestore-material U+f233a
+	},
+	["folder_flow"] = {
+		["material"] = "󲌻", -- colr-icons-folder_flow-material U+f233b
+	},
+	["folder_flutter"] = {
+		["material"] = "󲌼", -- colr-icons-folder_flutter-material U+f233c
+	},
+	["folder_font"] = {
+		["material"] = "󲌽", -- colr-icons-folder_font-material U+f233d
+	},
+	["folder_fonts"] = {
+		["catpuccin-frappe"] = "󲌾", -- colr-icons-folder_fonts-catpuccin-frappe U+f233e
+		["catpuccin-latte"] = "󲌿", -- colr-icons-folder_fonts-catpuccin-latte U+f233f
+		["catpuccin-macchiato"] = "󲍀", -- colr-icons-folder_fonts-catpuccin-macchiato U+f2340
+		["catpuccin-mocha"] = "󲍁", -- colr-icons-folder_fonts-catpuccin-mocha U+f2341
+	},
+	["folder_fonts_open"] = {
+		["catpuccin-frappe"] = "󲍂", -- colr-icons-folder_fonts_open-catpuccin-frappe U+f2342
+		["catpuccin-latte"] = "󲍃", -- colr-icons-folder_fonts_open-catpuccin-latte U+f2343
+		["catpuccin-macchiato"] = "󲍄", -- colr-icons-folder_fonts_open-catpuccin-macchiato U+f2344
+		["catpuccin-mocha"] = "󲍅", -- colr-icons-folder_fonts_open-catpuccin-mocha U+f2345
+	},
+	["folder_forgejo"] = {
+		["material"] = "󲍆", -- colr-icons-folder_forgejo-material U+f2346
+		["catpuccin-frappe"] = "󲍇", -- colr-icons-folder_forgejo-catpuccin-frappe U+f2347
+		["catpuccin-latte"] = "󲍈", -- colr-icons-folder_forgejo-catpuccin-latte U+f2348
+		["catpuccin-macchiato"] = "󲍉", -- colr-icons-folder_forgejo-catpuccin-macchiato U+f2349
+		["catpuccin-mocha"] = "󲍊", -- colr-icons-folder_forgejo-catpuccin-mocha U+f234a
+	},
+	["folder_forgejo_open"] = {
+		["catpuccin-frappe"] = "󲍋", -- colr-icons-folder_forgejo_open-catpuccin-frappe U+f234b
+		["catpuccin-latte"] = "󲍌", -- colr-icons-folder_forgejo_open-catpuccin-latte U+f234c
+		["catpuccin-macchiato"] = "󲍍", -- colr-icons-folder_forgejo_open-catpuccin-macchiato U+f234d
+		["catpuccin-mocha"] = "󲍎", -- colr-icons-folder_forgejo_open-catpuccin-mocha U+f234e
+	},
+	["folder_form"] = {
+		["material"] = "󲍏", -- colr-icons-folder_form-material U+f234f
+	},
+	["folder_functions"] = {
+		["material"] = "󲍐", -- colr-icons-folder_functions-material U+f2350
+		["catpuccin-frappe"] = "󲍑", -- colr-icons-folder_functions-catpuccin-frappe U+f2351
+		["catpuccin-latte"] = "󲍒", -- colr-icons-folder_functions-catpuccin-latte U+f2352
+		["catpuccin-macchiato"] = "󲍓", -- colr-icons-folder_functions-catpuccin-macchiato U+f2353
+		["catpuccin-mocha"] = "󲍔", -- colr-icons-folder_functions-catpuccin-mocha U+f2354
+	},
+	["folder_functions_open"] = {
+		["catpuccin-frappe"] = "󲍕", -- colr-icons-folder_functions_open-catpuccin-frappe U+f2355
+		["catpuccin-latte"] = "󲍖", -- colr-icons-folder_functions_open-catpuccin-latte U+f2356
+		["catpuccin-macchiato"] = "󲍗", -- colr-icons-folder_functions_open-catpuccin-macchiato U+f2357
+		["catpuccin-mocha"] = "󲍘", -- colr-icons-folder_functions_open-catpuccin-mocha U+f2358
+	},
+	["folder_fvm"] = {
+		["catpuccin-frappe"] = "󲍙", -- colr-icons-folder_fvm-catpuccin-frappe U+f2359
+		["catpuccin-latte"] = "󲍚", -- colr-icons-folder_fvm-catpuccin-latte U+f235a
+		["catpuccin-macchiato"] = "󲍛", -- colr-icons-folder_fvm-catpuccin-macchiato U+f235b
+		["catpuccin-mocha"] = "󲍜", -- colr-icons-folder_fvm-catpuccin-mocha U+f235c
+	},
+	["folder_fvm_open"] = {
+		["catpuccin-frappe"] = "󲍝", -- colr-icons-folder_fvm_open-catpuccin-frappe U+f235d
+		["catpuccin-latte"] = "󲍞", -- colr-icons-folder_fvm_open-catpuccin-latte U+f235e
+		["catpuccin-macchiato"] = "󲍟", -- colr-icons-folder_fvm_open-catpuccin-macchiato U+f235f
+		["catpuccin-mocha"] = "󲍠", -- colr-icons-folder_fvm_open-catpuccin-mocha U+f2360
+	},
+	["folder_gamemaker"] = {
+		["material"] = "󲍡", -- colr-icons-folder_gamemaker-material U+f2361
+	},
+	["folder_gemini-ai"] = {
+		["material"] = "󲍢", -- colr-icons-folder_gemini-ai-material U+f2362
+	},
+	["folder_generator"] = {
+		["material"] = "󲍣", -- colr-icons-folder_generator-material U+f2363
+	},
+	["folder_gh-workflows"] = {
+		["material"] = "󲍤", -- colr-icons-folder_gh-workflows-material U+f2364
+	},
+	["folder_git"] = {
+		["material"] = "󲍥", -- colr-icons-folder_git-material U+f2365
+		["catpuccin-frappe"] = "󲍦", -- colr-icons-folder_git-catpuccin-frappe U+f2366
+		["catpuccin-latte"] = "󲍧", -- colr-icons-folder_git-catpuccin-latte U+f2367
+		["catpuccin-macchiato"] = "󲍨", -- colr-icons-folder_git-catpuccin-macchiato U+f2368
+		["catpuccin-mocha"] = "󲍩", -- colr-icons-folder_git-catpuccin-mocha U+f2369
+	},
+	["folder_git_open"] = {
+		["catpuccin-frappe"] = "󲍪", -- colr-icons-folder_git_open-catpuccin-frappe U+f236a
+		["catpuccin-latte"] = "󲍫", -- colr-icons-folder_git_open-catpuccin-latte U+f236b
+		["catpuccin-macchiato"] = "󲍬", -- colr-icons-folder_git_open-catpuccin-macchiato U+f236c
+		["catpuccin-mocha"] = "󲍭", -- colr-icons-folder_git_open-catpuccin-mocha U+f236d
+	},
+	["folder_gitea"] = {
+		["material"] = "󲍮", -- colr-icons-folder_gitea-material U+f236e
+	},
+	["folder_github"] = {
+		["material"] = "󲍯", -- colr-icons-folder_github-material U+f236f
+		["catpuccin-frappe"] = "󲍰", -- colr-icons-folder_github-catpuccin-frappe U+f2370
+		["catpuccin-latte"] = "󲍱", -- colr-icons-folder_github-catpuccin-latte U+f2371
+		["catpuccin-macchiato"] = "󲍲", -- colr-icons-folder_github-catpuccin-macchiato U+f2372
+		["catpuccin-mocha"] = "󲍳", -- colr-icons-folder_github-catpuccin-mocha U+f2373
+	},
+	["folder_github_open"] = {
+		["catpuccin-frappe"] = "󲍴", -- colr-icons-folder_github_open-catpuccin-frappe U+f2374
+		["catpuccin-latte"] = "󲍵", -- colr-icons-folder_github_open-catpuccin-latte U+f2375
+		["catpuccin-macchiato"] = "󲍶", -- colr-icons-folder_github_open-catpuccin-macchiato U+f2376
+		["catpuccin-mocha"] = "󲍷", -- colr-icons-folder_github_open-catpuccin-mocha U+f2377
+	},
+	["folder_gitlab"] = {
+		["material"] = "󲍸", -- colr-icons-folder_gitlab-material U+f2378
+		["catpuccin-frappe"] = "󲍹", -- colr-icons-folder_gitlab-catpuccin-frappe U+f2379
+		["catpuccin-latte"] = "󲍺", -- colr-icons-folder_gitlab-catpuccin-latte U+f237a
+		["catpuccin-macchiato"] = "󲍻", -- colr-icons-folder_gitlab-catpuccin-macchiato U+f237b
+		["catpuccin-mocha"] = "󲍼", -- colr-icons-folder_gitlab-catpuccin-mocha U+f237c
+	},
+	["folder_gitlab_open"] = {
+		["catpuccin-frappe"] = "󲍽", -- colr-icons-folder_gitlab_open-catpuccin-frappe U+f237d
+		["catpuccin-latte"] = "󲍾", -- colr-icons-folder_gitlab_open-catpuccin-latte U+f237e
+		["catpuccin-macchiato"] = "󲍿", -- colr-icons-folder_gitlab_open-catpuccin-macchiato U+f237f
+		["catpuccin-mocha"] = "󲎀", -- colr-icons-folder_gitlab_open-catpuccin-mocha U+f2380
+	},
+	["folder_global"] = {
+		["material"] = "󲎁", -- colr-icons-folder_global-material U+f2381
+	},
+	["folder_go"] = {
+		["material"] = "󲎂", -- colr-icons-folder_go-material U+f2382
+	},
+	["folder_godot"] = {
+		["material"] = "󲎃", -- colr-icons-folder_godot-material U+f2383
+	},
+	["folder_gradle"] = {
+		["material"] = "󲎄", -- colr-icons-folder_gradle-material U+f2384
+		["catpuccin-frappe"] = "󲎅", -- colr-icons-folder_gradle-catpuccin-frappe U+f2385
+		["catpuccin-latte"] = "󲎆", -- colr-icons-folder_gradle-catpuccin-latte U+f2386
+		["catpuccin-macchiato"] = "󲎇", -- colr-icons-folder_gradle-catpuccin-macchiato U+f2387
+		["catpuccin-mocha"] = "󲎈", -- colr-icons-folder_gradle-catpuccin-mocha U+f2388
+	},
+	["folder_gradle_open"] = {
+		["catpuccin-frappe"] = "󲎉", -- colr-icons-folder_gradle_open-catpuccin-frappe U+f2389
+		["catpuccin-latte"] = "󲎊", -- colr-icons-folder_gradle_open-catpuccin-latte U+f238a
+		["catpuccin-macchiato"] = "󲎋", -- colr-icons-folder_gradle_open-catpuccin-macchiato U+f238b
+		["catpuccin-mocha"] = "󲎌", -- colr-icons-folder_gradle_open-catpuccin-mocha U+f238c
+	},
+	["folder_graphql"] = {
+		["material"] = "󲎍", -- colr-icons-folder_graphql-material U+f238d
+		["catpuccin-frappe"] = "󲎎", -- colr-icons-folder_graphql-catpuccin-frappe U+f238e
+		["catpuccin-latte"] = "󲎏", -- colr-icons-folder_graphql-catpuccin-latte U+f238f
+		["catpuccin-macchiato"] = "󲎐", -- colr-icons-folder_graphql-catpuccin-macchiato U+f2390
+		["catpuccin-mocha"] = "󲎑", -- colr-icons-folder_graphql-catpuccin-mocha U+f2391
+	},
+	["folder_graphql_open"] = {
+		["catpuccin-frappe"] = "󲎒", -- colr-icons-folder_graphql_open-catpuccin-frappe U+f2392
+		["catpuccin-latte"] = "󲎓", -- colr-icons-folder_graphql_open-catpuccin-latte U+f2393
+		["catpuccin-macchiato"] = "󲎔", -- colr-icons-folder_graphql_open-catpuccin-macchiato U+f2394
+		["catpuccin-mocha"] = "󲎕", -- colr-icons-folder_graphql_open-catpuccin-mocha U+f2395
+	},
+	["folder_guard"] = {
+		["material"] = "󲎖", -- colr-icons-folder_guard-material U+f2396
+	},
+	["folder_gulp"] = {
+		["material"] = "󲎗", -- colr-icons-folder_gulp-material U+f2397
+	},
+	["folder_helm"] = {
+		["material"] = "󲎘", -- colr-icons-folder_helm-material U+f2398
+	},
+	["folder_helper"] = {
+		["material"] = "󲎙", -- colr-icons-folder_helper-material U+f2399
+	},
+	["folder_home"] = {
+		["material"] = "󲎚", -- colr-icons-folder_home-material U+f239a
+	},
+	["folder_hook"] = {
+		["material"] = "󲎛", -- colr-icons-folder_hook-material U+f239b
+	},
+	["folder_hooks"] = {
+		["catpuccin-frappe"] = "󲎜", -- colr-icons-folder_hooks-catpuccin-frappe U+f239c
+		["catpuccin-latte"] = "󲎝", -- colr-icons-folder_hooks-catpuccin-latte U+f239d
+		["catpuccin-macchiato"] = "󲎞", -- colr-icons-folder_hooks-catpuccin-macchiato U+f239e
+		["catpuccin-mocha"] = "󲎟", -- colr-icons-folder_hooks-catpuccin-mocha U+f239f
+	},
+	["folder_hooks_open"] = {
+		["catpuccin-frappe"] = "󲎠", -- colr-icons-folder_hooks_open-catpuccin-frappe U+f23a0
+		["catpuccin-latte"] = "󲎡", -- colr-icons-folder_hooks_open-catpuccin-latte U+f23a1
+		["catpuccin-macchiato"] = "󲎢", -- colr-icons-folder_hooks_open-catpuccin-macchiato U+f23a2
+		["catpuccin-mocha"] = "󲎣", -- colr-icons-folder_hooks_open-catpuccin-mocha U+f23a3
+	},
+	["folder_husky"] = {
+		["material"] = "󲎤", -- colr-icons-folder_husky-material U+f23a4
+		["catpuccin-frappe"] = "󲎥", -- colr-icons-folder_husky-catpuccin-frappe U+f23a5
+		["catpuccin-latte"] = "󲎦", -- colr-icons-folder_husky-catpuccin-latte U+f23a6
+		["catpuccin-macchiato"] = "󲎧", -- colr-icons-folder_husky-catpuccin-macchiato U+f23a7
+		["catpuccin-mocha"] = "󲎨", -- colr-icons-folder_husky-catpuccin-mocha U+f23a8
+	},
+	["folder_husky_open"] = {
+		["catpuccin-frappe"] = "󲎩", -- colr-icons-folder_husky_open-catpuccin-frappe U+f23a9
+		["catpuccin-latte"] = "󲎪", -- colr-icons-folder_husky_open-catpuccin-latte U+f23aa
+		["catpuccin-macchiato"] = "󲎫", -- colr-icons-folder_husky_open-catpuccin-macchiato U+f23ab
+		["catpuccin-mocha"] = "󲎬", -- colr-icons-folder_husky_open-catpuccin-mocha U+f23ac
+	},
+	["folder_i18n"] = {
+		["material"] = "󲎭", -- colr-icons-folder_i18n-material U+f23ad
+	},
+	["folder_images"] = {
+		["material"] = "󲎮", -- colr-icons-folder_images-material U+f23ae
+		["catpuccin-frappe"] = "󲎯", -- colr-icons-folder_images-catpuccin-frappe U+f23af
+		["catpuccin-latte"] = "󲎰", -- colr-icons-folder_images-catpuccin-latte U+f23b0
+		["catpuccin-macchiato"] = "󲎱", -- colr-icons-folder_images-catpuccin-macchiato U+f23b1
+		["catpuccin-mocha"] = "󲎲", -- colr-icons-folder_images-catpuccin-mocha U+f23b2
+	},
+	["folder_images_open"] = {
+		["catpuccin-frappe"] = "󲎳", -- colr-icons-folder_images_open-catpuccin-frappe U+f23b3
+		["catpuccin-latte"] = "󲎴", -- colr-icons-folder_images_open-catpuccin-latte U+f23b4
+		["catpuccin-macchiato"] = "󲎵", -- colr-icons-folder_images_open-catpuccin-macchiato U+f23b5
+		["catpuccin-mocha"] = "󲎶", -- colr-icons-folder_images_open-catpuccin-mocha U+f23b6
+	},
+	["folder_import"] = {
+		["material"] = "󲎷", -- colr-icons-folder_import-material U+f23b7
+	},
+	["folder_include"] = {
+		["material"] = "󲎸", -- colr-icons-folder_include-material U+f23b8
+		["catpuccin-frappe"] = "󲎹", -- colr-icons-folder_include-catpuccin-frappe U+f23b9
+		["catpuccin-latte"] = "󲎺", -- colr-icons-folder_include-catpuccin-latte U+f23ba
+		["catpuccin-macchiato"] = "󲎻", -- colr-icons-folder_include-catpuccin-macchiato U+f23bb
+		["catpuccin-mocha"] = "󲎼", -- colr-icons-folder_include-catpuccin-mocha U+f23bc
+	},
+	["folder_include_open"] = {
+		["catpuccin-frappe"] = "󲎽", -- colr-icons-folder_include_open-catpuccin-frappe U+f23bd
+		["catpuccin-latte"] = "󲎾", -- colr-icons-folder_include_open-catpuccin-latte U+f23be
+		["catpuccin-macchiato"] = "󲎿", -- colr-icons-folder_include_open-catpuccin-macchiato U+f23bf
+		["catpuccin-mocha"] = "󲏀", -- colr-icons-folder_include_open-catpuccin-mocha U+f23c0
+	},
+	["folder_input"] = {
+		["material"] = "󲏁", -- colr-icons-folder_input-material U+f23c1
+	},
+	["folder_intellij"] = {
+		["material"] = "󲏂", -- colr-icons-folder_intellij-material U+f23c2
+		["catpuccin-frappe"] = "󲏃", -- colr-icons-folder_intellij-catpuccin-frappe U+f23c3
+		["catpuccin-latte"] = "󲏄", -- colr-icons-folder_intellij-catpuccin-latte U+f23c4
+		["catpuccin-macchiato"] = "󲏅", -- colr-icons-folder_intellij-catpuccin-macchiato U+f23c5
+		["catpuccin-mocha"] = "󲏆", -- colr-icons-folder_intellij-catpuccin-mocha U+f23c6
+	},
+	["folder_intellij_light"] = {
+		["material"] = "󲏇", -- colr-icons-folder_intellij_light-material U+f23c7
+	},
+	["folder_intellij_open"] = {
+		["catpuccin-frappe"] = "󲏈", -- colr-icons-folder_intellij_open-catpuccin-frappe U+f23c8
+		["catpuccin-latte"] = "󲏉", -- colr-icons-folder_intellij_open-catpuccin-latte U+f23c9
+		["catpuccin-macchiato"] = "󲏊", -- colr-icons-folder_intellij_open-catpuccin-macchiato U+f23ca
+		["catpuccin-mocha"] = "󲏋", -- colr-icons-folder_intellij_open-catpuccin-mocha U+f23cb
+	},
+	["folder_interceptor"] = {
+		["material"] = "󲏌", -- colr-icons-folder_interceptor-material U+f23cc
+	},
+	["folder_interface"] = {
+		["material"] = "󲏍", -- colr-icons-folder_interface-material U+f23cd
+	},
+	["folder_ios"] = {
+		["material"] = "󲏎", -- colr-icons-folder_ios-material U+f23ce
+	},
+	["folder_java"] = {
+		["material"] = "󲏏", -- colr-icons-folder_java-material U+f23cf
+	},
+	["folder_javascript"] = {
+		["material"] = "󲏐", -- colr-icons-folder_javascript-material U+f23d0
+		["catpuccin-frappe"] = "󲏑", -- colr-icons-folder_javascript-catpuccin-frappe U+f23d1
+		["catpuccin-latte"] = "󲏒", -- colr-icons-folder_javascript-catpuccin-latte U+f23d2
+		["catpuccin-macchiato"] = "󲏓", -- colr-icons-folder_javascript-catpuccin-macchiato U+f23d3
+		["catpuccin-mocha"] = "󲏔", -- colr-icons-folder_javascript-catpuccin-mocha U+f23d4
+	},
+	["folder_javascript_open"] = {
+		["catpuccin-frappe"] = "󲏕", -- colr-icons-folder_javascript_open-catpuccin-frappe U+f23d5
+		["catpuccin-latte"] = "󲏖", -- colr-icons-folder_javascript_open-catpuccin-latte U+f23d6
+		["catpuccin-macchiato"] = "󲏗", -- colr-icons-folder_javascript_open-catpuccin-macchiato U+f23d7
+		["catpuccin-mocha"] = "󲏘", -- colr-icons-folder_javascript_open-catpuccin-mocha U+f23d8
+	},
+	["folder_jinja"] = {
+		["material"] = "󲏙", -- colr-icons-folder_jinja-material U+f23d9
+	},
+	["folder_jinja_light"] = {
+		["material"] = "󲏚", -- colr-icons-folder_jinja_light-material U+f23da
+	},
+	["folder_job"] = {
+		["material"] = "󲏛", -- colr-icons-folder_job-material U+f23db
+	},
+	["folder_json"] = {
+		["material"] = "󲏜", -- colr-icons-folder_json-material U+f23dc
+	},
+	["folder_jupyter"] = {
+		["material"] = "󲏝", -- colr-icons-folder_jupyter-material U+f23dd
+	},
+	["folder_keys"] = {
+		["material"] = "󲏞", -- colr-icons-folder_keys-material U+f23de
+	},
+	["folder_kotlin"] = {
+		["material"] = "󲏟", -- colr-icons-folder_kotlin-material U+f23df
+	},
+	["folder_kubernetes"] = {
+		["material"] = "󲏠", -- colr-icons-folder_kubernetes-material U+f23e0
+		["catpuccin-frappe"] = "󲏡", -- colr-icons-folder_kubernetes-catpuccin-frappe U+f23e1
+		["catpuccin-latte"] = "󲏢", -- colr-icons-folder_kubernetes-catpuccin-latte U+f23e2
+		["catpuccin-macchiato"] = "󲏣", -- colr-icons-folder_kubernetes-catpuccin-macchiato U+f23e3
+		["catpuccin-mocha"] = "󲏤", -- colr-icons-folder_kubernetes-catpuccin-mocha U+f23e4
+	},
+	["folder_kubernetes_open"] = {
+		["catpuccin-frappe"] = "󲏥", -- colr-icons-folder_kubernetes_open-catpuccin-frappe U+f23e5
+		["catpuccin-latte"] = "󲏦", -- colr-icons-folder_kubernetes_open-catpuccin-latte U+f23e6
+		["catpuccin-macchiato"] = "󲏧", -- colr-icons-folder_kubernetes_open-catpuccin-macchiato U+f23e7
+		["catpuccin-mocha"] = "󲏨", -- colr-icons-folder_kubernetes_open-catpuccin-mocha U+f23e8
+	},
+	["folder_kusto"] = {
+		["material"] = "󲏩", -- colr-icons-folder_kusto-material U+f23e9
+	},
+	["folder_layout"] = {
+		["material"] = "󲏪", -- colr-icons-folder_layout-material U+f23ea
+	},
+	["folder_layouts"] = {
+		["catpuccin-frappe"] = "󲏫", -- colr-icons-folder_layouts-catpuccin-frappe U+f23eb
+		["catpuccin-latte"] = "󲏬", -- colr-icons-folder_layouts-catpuccin-latte U+f23ec
+		["catpuccin-macchiato"] = "󲏭", -- colr-icons-folder_layouts-catpuccin-macchiato U+f23ed
+		["catpuccin-mocha"] = "󲏮", -- colr-icons-folder_layouts-catpuccin-mocha U+f23ee
+	},
+	["folder_layouts_open"] = {
+		["catpuccin-frappe"] = "󲏯", -- colr-icons-folder_layouts_open-catpuccin-frappe U+f23ef
+		["catpuccin-latte"] = "󲏰", -- colr-icons-folder_layouts_open-catpuccin-latte U+f23f0
+		["catpuccin-macchiato"] = "󲏱", -- colr-icons-folder_layouts_open-catpuccin-macchiato U+f23f1
+		["catpuccin-mocha"] = "󲏲", -- colr-icons-folder_layouts_open-catpuccin-mocha U+f23f2
+	},
+	["folder_lefthook"] = {
+		["material"] = "󲏳", -- colr-icons-folder_lefthook-material U+f23f3
+	},
+	["folder_less"] = {
+		["material"] = "󲏴", -- colr-icons-folder_less-material U+f23f4
+	},
+	["folder_lib"] = {
+		["material"] = "󲏵", -- colr-icons-folder_lib-material U+f23f5
+		["catpuccin-frappe"] = "󲏶", -- colr-icons-folder_lib-catpuccin-frappe U+f23f6
+		["catpuccin-latte"] = "󲏷", -- colr-icons-folder_lib-catpuccin-latte U+f23f7
+		["catpuccin-macchiato"] = "󲏸", -- colr-icons-folder_lib-catpuccin-macchiato U+f23f8
+		["catpuccin-mocha"] = "󲏹", -- colr-icons-folder_lib-catpuccin-mocha U+f23f9
+	},
+	["folder_lib_open"] = {
+		["catpuccin-frappe"] = "󲏺", -- colr-icons-folder_lib_open-catpuccin-frappe U+f23fa
+		["catpuccin-latte"] = "󲏻", -- colr-icons-folder_lib_open-catpuccin-latte U+f23fb
+		["catpuccin-macchiato"] = "󲏼", -- colr-icons-folder_lib_open-catpuccin-macchiato U+f23fc
+		["catpuccin-mocha"] = "󲏽", -- colr-icons-folder_lib_open-catpuccin-mocha U+f23fd
+	},
+	["folder_license"] = {
+		["material"] = "󲏾", -- colr-icons-folder_license-material U+f23fe
+	},
+	["folder_link"] = {
+		["material"] = "󲏿", -- colr-icons-folder_link-material U+f23ff
+	},
+	["folder_linux"] = {
+		["material"] = "󲐀", -- colr-icons-folder_linux-material U+f2400
+		["catpuccin-frappe"] = "󲐁", -- colr-icons-folder_linux-catpuccin-frappe U+f2401
+		["catpuccin-latte"] = "󲐂", -- colr-icons-folder_linux-catpuccin-latte U+f2402
+		["catpuccin-macchiato"] = "󲐃", -- colr-icons-folder_linux-catpuccin-macchiato U+f2403
+		["catpuccin-mocha"] = "󲐄", -- colr-icons-folder_linux-catpuccin-mocha U+f2404
+	},
+	["folder_linux_open"] = {
+		["catpuccin-frappe"] = "󲐅", -- colr-icons-folder_linux_open-catpuccin-frappe U+f2405
+		["catpuccin-latte"] = "󲐆", -- colr-icons-folder_linux_open-catpuccin-latte U+f2406
+		["catpuccin-macchiato"] = "󲐇", -- colr-icons-folder_linux_open-catpuccin-macchiato U+f2407
+		["catpuccin-mocha"] = "󲐈", -- colr-icons-folder_linux_open-catpuccin-mocha U+f2408
+	},
+	["folder_liquibase"] = {
+		["material"] = "󲐉", -- colr-icons-folder_liquibase-material U+f2409
+	},
+	["folder_locales"] = {
+		["catpuccin-frappe"] = "󲐊", -- colr-icons-folder_locales-catpuccin-frappe U+f240a
+		["catpuccin-latte"] = "󲐋", -- colr-icons-folder_locales-catpuccin-latte U+f240b
+		["catpuccin-macchiato"] = "󲐌", -- colr-icons-folder_locales-catpuccin-macchiato U+f240c
+		["catpuccin-mocha"] = "󲐍", -- colr-icons-folder_locales-catpuccin-mocha U+f240d
+	},
+	["folder_locales_open"] = {
+		["catpuccin-frappe"] = "󲐎", -- colr-icons-folder_locales_open-catpuccin-frappe U+f240e
+		["catpuccin-latte"] = "󲐏", -- colr-icons-folder_locales_open-catpuccin-latte U+f240f
+		["catpuccin-macchiato"] = "󲐐", -- colr-icons-folder_locales_open-catpuccin-macchiato U+f2410
+		["catpuccin-mocha"] = "󲐑", -- colr-icons-folder_locales_open-catpuccin-mocha U+f2411
+	},
+	["folder_log"] = {
+		["material"] = "󲐒", -- colr-icons-folder_log-material U+f2412
+	},
+	["folder_lottie"] = {
+		["material"] = "󲐓", -- colr-icons-folder_lottie-material U+f2413
+	},
+	["folder_lua"] = {
+		["material"] = "󲐔", -- colr-icons-folder_lua-material U+f2414
+	},
+	["folder_luau"] = {
+		["material"] = "󲐕", -- colr-icons-folder_luau-material U+f2415
+		["catpuccin-frappe"] = "󲐖", -- colr-icons-folder_luau-catpuccin-frappe U+f2416
+		["catpuccin-latte"] = "󲐗", -- colr-icons-folder_luau-catpuccin-latte U+f2417
+		["catpuccin-macchiato"] = "󲐘", -- colr-icons-folder_luau-catpuccin-macchiato U+f2418
+		["catpuccin-mocha"] = "󲐙", -- colr-icons-folder_luau-catpuccin-mocha U+f2419
+	},
+	["folder_luau_open"] = {
+		["catpuccin-frappe"] = "󲐚", -- colr-icons-folder_luau_open-catpuccin-frappe U+f241a
+		["catpuccin-latte"] = "󲐛", -- colr-icons-folder_luau_open-catpuccin-latte U+f241b
+		["catpuccin-macchiato"] = "󲐜", -- colr-icons-folder_luau_open-catpuccin-macchiato U+f241c
+		["catpuccin-mocha"] = "󲐝", -- colr-icons-folder_luau_open-catpuccin-mocha U+f241d
+	},
+	["folder_lune"] = {
+		["catpuccin-frappe"] = "󲐞", -- colr-icons-folder_lune-catpuccin-frappe U+f241e
+		["catpuccin-latte"] = "󲐟", -- colr-icons-folder_lune-catpuccin-latte U+f241f
+		["catpuccin-macchiato"] = "󲐠", -- colr-icons-folder_lune-catpuccin-macchiato U+f2420
+		["catpuccin-mocha"] = "󲐡", -- colr-icons-folder_lune-catpuccin-mocha U+f2421
+	},
+	["folder_lune_open"] = {
+		["catpuccin-frappe"] = "󲐢", -- colr-icons-folder_lune_open-catpuccin-frappe U+f2422
+		["catpuccin-latte"] = "󲐣", -- colr-icons-folder_lune_open-catpuccin-latte U+f2423
+		["catpuccin-macchiato"] = "󲐤", -- colr-icons-folder_lune_open-catpuccin-macchiato U+f2424
+		["catpuccin-mocha"] = "󲐥", -- colr-icons-folder_lune_open-catpuccin-mocha U+f2425
+	},
+	["folder_macos"] = {
+		["material"] = "󲐦", -- colr-icons-folder_macos-material U+f2426
+		["catpuccin-frappe"] = "󲐧", -- colr-icons-folder_macos-catpuccin-frappe U+f2427
+		["catpuccin-latte"] = "󲐨", -- colr-icons-folder_macos-catpuccin-latte U+f2428
+		["catpuccin-macchiato"] = "󲐩", -- colr-icons-folder_macos-catpuccin-macchiato U+f2429
+		["catpuccin-mocha"] = "󲐪", -- colr-icons-folder_macos-catpuccin-mocha U+f242a
+	},
+	["folder_macos_open"] = {
+		["catpuccin-frappe"] = "󲐫", -- colr-icons-folder_macos_open-catpuccin-frappe U+f242b
+		["catpuccin-latte"] = "󲐬", -- colr-icons-folder_macos_open-catpuccin-latte U+f242c
+		["catpuccin-macchiato"] = "󲐭", -- colr-icons-folder_macos_open-catpuccin-macchiato U+f242d
+		["catpuccin-mocha"] = "󲐮", -- colr-icons-folder_macos_open-catpuccin-mocha U+f242e
+	},
+	["folder_mail"] = {
+		["material"] = "󲐯", -- colr-icons-folder_mail-material U+f242f
+	},
+	["folder_mappings"] = {
+		["material"] = "󲐰", -- colr-icons-folder_mappings-material U+f2430
+	},
+	["folder_markdown"] = {
+		["material"] = "󲐱", -- colr-icons-folder_markdown-material U+f2431
+	},
+	["folder_mercurial"] = {
+		["material"] = "󲐲", -- colr-icons-folder_mercurial-material U+f2432
+	},
+	["folder_messages"] = {
+		["material"] = "󲐳", -- colr-icons-folder_messages-material U+f2433
+		["catpuccin-frappe"] = "󲐴", -- colr-icons-folder_messages-catpuccin-frappe U+f2434
+		["catpuccin-latte"] = "󲐵", -- colr-icons-folder_messages-catpuccin-latte U+f2435
+		["catpuccin-macchiato"] = "󲐶", -- colr-icons-folder_messages-catpuccin-macchiato U+f2436
+		["catpuccin-mocha"] = "󲐷", -- colr-icons-folder_messages-catpuccin-mocha U+f2437
+	},
+	["folder_messages_open"] = {
+		["catpuccin-frappe"] = "󲐸", -- colr-icons-folder_messages_open-catpuccin-frappe U+f2438
+		["catpuccin-latte"] = "󲐹", -- colr-icons-folder_messages_open-catpuccin-latte U+f2439
+		["catpuccin-macchiato"] = "󲐺", -- colr-icons-folder_messages_open-catpuccin-macchiato U+f243a
+		["catpuccin-mocha"] = "󲐻", -- colr-icons-folder_messages_open-catpuccin-mocha U+f243b
+	},
+	["folder_meta"] = {
+		["material"] = "󲐼", -- colr-icons-folder_meta-material U+f243c
+	},
+	["folder_metro"] = {
+		["material"] = "󲐽", -- colr-icons-folder_metro-material U+f243d
+	},
+	["folder_middleware"] = {
+		["material"] = "󲐾", -- colr-icons-folder_middleware-material U+f243e
+		["catpuccin-frappe"] = "󲐿", -- colr-icons-folder_middleware-catpuccin-frappe U+f243f
+		["catpuccin-latte"] = "󲑀", -- colr-icons-folder_middleware-catpuccin-latte U+f2440
+		["catpuccin-macchiato"] = "󲑁", -- colr-icons-folder_middleware-catpuccin-macchiato U+f2441
+		["catpuccin-mocha"] = "󲑂", -- colr-icons-folder_middleware-catpuccin-mocha U+f2442
+	},
+	["folder_middleware_open"] = {
+		["catpuccin-frappe"] = "󲑃", -- colr-icons-folder_middleware_open-catpuccin-frappe U+f2443
+		["catpuccin-latte"] = "󲑄", -- colr-icons-folder_middleware_open-catpuccin-latte U+f2444
+		["catpuccin-macchiato"] = "󲑅", -- colr-icons-folder_middleware_open-catpuccin-macchiato U+f2445
+		["catpuccin-mocha"] = "󲑆", -- colr-icons-folder_middleware_open-catpuccin-mocha U+f2446
+	},
+	["folder_migrations"] = {
+		["material"] = "󲑇", -- colr-icons-folder_migrations-material U+f2447
+	},
+	["folder_mjml"] = {
+		["material"] = "󲑈", -- colr-icons-folder_mjml-material U+f2448
+	},
+	["folder_mobile"] = {
+		["material"] = "󲑉", -- colr-icons-folder_mobile-material U+f2449
+	},
+	["folder_mock"] = {
+		["material"] = "󲑊", -- colr-icons-folder_mock-material U+f244a
+	},
+	["folder_mocks"] = {
+		["catpuccin-frappe"] = "󲑋", -- colr-icons-folder_mocks-catpuccin-frappe U+f244b
+		["catpuccin-latte"] = "󲑌", -- colr-icons-folder_mocks-catpuccin-latte U+f244c
+		["catpuccin-macchiato"] = "󲑍", -- colr-icons-folder_mocks-catpuccin-macchiato U+f244d
+		["catpuccin-mocha"] = "󲑎", -- colr-icons-folder_mocks-catpuccin-mocha U+f244e
+	},
+	["folder_mocks_open"] = {
+		["catpuccin-frappe"] = "󲑏", -- colr-icons-folder_mocks_open-catpuccin-frappe U+f244f
+		["catpuccin-latte"] = "󲑐", -- colr-icons-folder_mocks_open-catpuccin-latte U+f2450
+		["catpuccin-macchiato"] = "󲑑", -- colr-icons-folder_mocks_open-catpuccin-macchiato U+f2451
+		["catpuccin-mocha"] = "󲑒", -- colr-icons-folder_mocks_open-catpuccin-mocha U+f2452
+	},
+	["folder_mojo"] = {
+		["material"] = "󲑓", -- colr-icons-folder_mojo-material U+f2453
+	},
+	["folder_molecule"] = {
+		["material"] = "󲑔", -- colr-icons-folder_molecule-material U+f2454
+	},
+	["folder_moon"] = {
+		["material"] = "󲑕", -- colr-icons-folder_moon-material U+f2455
+	},
+	["folder_moonrepo"] = {
+		["catpuccin-frappe"] = "󲑖", -- colr-icons-folder_moonrepo-catpuccin-frappe U+f2456
+		["catpuccin-latte"] = "󲑗", -- colr-icons-folder_moonrepo-catpuccin-latte U+f2457
+		["catpuccin-macchiato"] = "󲑘", -- colr-icons-folder_moonrepo-catpuccin-macchiato U+f2458
+		["catpuccin-mocha"] = "󲑙", -- colr-icons-folder_moonrepo-catpuccin-mocha U+f2459
+	},
+	["folder_moonrepo_open"] = {
+		["catpuccin-frappe"] = "󲑚", -- colr-icons-folder_moonrepo_open-catpuccin-frappe U+f245a
+		["catpuccin-latte"] = "󲑛", -- colr-icons-folder_moonrepo_open-catpuccin-latte U+f245b
+		["catpuccin-macchiato"] = "󲑜", -- colr-icons-folder_moonrepo_open-catpuccin-macchiato U+f245c
+		["catpuccin-mocha"] = "󲑝", -- colr-icons-folder_moonrepo_open-catpuccin-mocha U+f245d
+	},
+	["folder_netlify"] = {
+		["material"] = "󲑞", -- colr-icons-folder_netlify-material U+f245e
+	},
+	["folder_next"] = {
+		["material"] = "󲑟", -- colr-icons-folder_next-material U+f245f
+		["catpuccin-frappe"] = "󲑠", -- colr-icons-folder_next-catpuccin-frappe U+f2460
+		["catpuccin-latte"] = "󲑡", -- colr-icons-folder_next-catpuccin-latte U+f2461
+		["catpuccin-macchiato"] = "󲑢", -- colr-icons-folder_next-catpuccin-macchiato U+f2462
+		["catpuccin-mocha"] = "󲑣", -- colr-icons-folder_next-catpuccin-mocha U+f2463
+	},
+	["folder_next_open"] = {
+		["catpuccin-frappe"] = "󲑤", -- colr-icons-folder_next_open-catpuccin-frappe U+f2464
+		["catpuccin-latte"] = "󲑥", -- colr-icons-folder_next_open-catpuccin-latte U+f2465
+		["catpuccin-macchiato"] = "󲑦", -- colr-icons-folder_next_open-catpuccin-macchiato U+f2466
+		["catpuccin-mocha"] = "󲑧", -- colr-icons-folder_next_open-catpuccin-mocha U+f2467
+	},
+	["folder_nginx"] = {
+		["material"] = "󲑨", -- colr-icons-folder_nginx-material U+f2468
+	},
+	["folder_ngrx-store"] = {
+		["material"] = "󲑩", -- colr-icons-folder_ngrx-store-material U+f2469
+	},
+	["folder_nix"] = {
+		["catpuccin-frappe"] = "󲑪", -- colr-icons-folder_nix-catpuccin-frappe U+f246a
+		["catpuccin-latte"] = "󲑫", -- colr-icons-folder_nix-catpuccin-latte U+f246b
+		["catpuccin-macchiato"] = "󲑬", -- colr-icons-folder_nix-catpuccin-macchiato U+f246c
+		["catpuccin-mocha"] = "󲑭", -- colr-icons-folder_nix-catpuccin-mocha U+f246d
+	},
+	["folder_nix_open"] = {
+		["catpuccin-frappe"] = "󲑮", -- colr-icons-folder_nix_open-catpuccin-frappe U+f246e
+		["catpuccin-latte"] = "󲑯", -- colr-icons-folder_nix_open-catpuccin-latte U+f246f
+		["catpuccin-macchiato"] = "󲑰", -- colr-icons-folder_nix_open-catpuccin-macchiato U+f2470
+		["catpuccin-mocha"] = "󲑱", -- colr-icons-folder_nix_open-catpuccin-mocha U+f2471
+	},
+	["folder_node"] = {
+		["material"] = "󲑲", -- colr-icons-folder_node-material U+f2472
+		["catpuccin-frappe"] = "󲑳", -- colr-icons-folder_node-catpuccin-frappe U+f2473
+		["catpuccin-latte"] = "󲑴", -- colr-icons-folder_node-catpuccin-latte U+f2474
+		["catpuccin-macchiato"] = "󲑵", -- colr-icons-folder_node-catpuccin-macchiato U+f2475
+		["catpuccin-mocha"] = "󲑶", -- colr-icons-folder_node-catpuccin-mocha U+f2476
+	},
+	["folder_node_open"] = {
+		["catpuccin-frappe"] = "󲑷", -- colr-icons-folder_node_open-catpuccin-frappe U+f2477
+		["catpuccin-latte"] = "󲑸", -- colr-icons-folder_node_open-catpuccin-latte U+f2478
+		["catpuccin-macchiato"] = "󲑹", -- colr-icons-folder_node_open-catpuccin-macchiato U+f2479
+		["catpuccin-mocha"] = "󲑺", -- colr-icons-folder_node_open-catpuccin-mocha U+f247a
+	},
+	["folder_nuxt"] = {
+		["material"] = "󲑻", -- colr-icons-folder_nuxt-material U+f247b
+		["catpuccin-frappe"] = "󲑼", -- colr-icons-folder_nuxt-catpuccin-frappe U+f247c
+		["catpuccin-latte"] = "󲑽", -- colr-icons-folder_nuxt-catpuccin-latte U+f247d
+		["catpuccin-macchiato"] = "󲑾", -- colr-icons-folder_nuxt-catpuccin-macchiato U+f247e
+		["catpuccin-mocha"] = "󲑿", -- colr-icons-folder_nuxt-catpuccin-mocha U+f247f
+	},
+	["folder_nuxt_open"] = {
+		["catpuccin-frappe"] = "󲒀", -- colr-icons-folder_nuxt_open-catpuccin-frappe U+f2480
+		["catpuccin-latte"] = "󲒁", -- colr-icons-folder_nuxt_open-catpuccin-latte U+f2481
+		["catpuccin-macchiato"] = "󲒂", -- colr-icons-folder_nuxt_open-catpuccin-macchiato U+f2482
+		["catpuccin-mocha"] = "󲒃", -- colr-icons-folder_nuxt_open-catpuccin-mocha U+f2483
+	},
+	["folder_obsidian"] = {
+		["material"] = "󲒄", -- colr-icons-folder_obsidian-material U+f2484
+	},
+	["folder_opencode"] = {
+		["material"] = "󲒅", -- colr-icons-folder_opencode-material U+f2485
+	},
+	["folder_organism"] = {
+		["material"] = "󲒆", -- colr-icons-folder_organism-material U+f2486
+	},
+	["folder_other"] = {
+		["material"] = "󲒇", -- colr-icons-folder_other-material U+f2487
+	},
+	["folder_packages"] = {
+		["material"] = "󲒈", -- colr-icons-folder_packages-material U+f2488
+		["catpuccin-frappe"] = "󲒉", -- colr-icons-folder_packages-catpuccin-frappe U+f2489
+		["catpuccin-latte"] = "󲒊", -- colr-icons-folder_packages-catpuccin-latte U+f248a
+		["catpuccin-macchiato"] = "󲒋", -- colr-icons-folder_packages-catpuccin-macchiato U+f248b
+		["catpuccin-mocha"] = "󲒌", -- colr-icons-folder_packages-catpuccin-mocha U+f248c
+	},
+	["folder_packages_open"] = {
+		["catpuccin-frappe"] = "󲒍", -- colr-icons-folder_packages_open-catpuccin-frappe U+f248d
+		["catpuccin-latte"] = "󲒎", -- colr-icons-folder_packages_open-catpuccin-latte U+f248e
+		["catpuccin-macchiato"] = "󲒏", -- colr-icons-folder_packages_open-catpuccin-macchiato U+f248f
+		["catpuccin-mocha"] = "󲒐", -- colr-icons-folder_packages_open-catpuccin-mocha U+f2490
+	},
+	["folder_pdf"] = {
+		["material"] = "󲒑", -- colr-icons-folder_pdf-material U+f2491
+	},
+	["folder_pdm"] = {
+		["material"] = "󲒒", -- colr-icons-folder_pdm-material U+f2492
+	},
+	["folder_pesde"] = {
+		["catpuccin-frappe"] = "󲒓", -- colr-icons-folder_pesde-catpuccin-frappe U+f2493
+		["catpuccin-latte"] = "󲒔", -- colr-icons-folder_pesde-catpuccin-latte U+f2494
+		["catpuccin-macchiato"] = "󲒕", -- colr-icons-folder_pesde-catpuccin-macchiato U+f2495
+		["catpuccin-mocha"] = "󲒖", -- colr-icons-folder_pesde-catpuccin-mocha U+f2496
+	},
+	["folder_pesde_open"] = {
+		["catpuccin-frappe"] = "󲒗", -- colr-icons-folder_pesde_open-catpuccin-frappe U+f2497
+		["catpuccin-latte"] = "󲒘", -- colr-icons-folder_pesde_open-catpuccin-latte U+f2498
+		["catpuccin-macchiato"] = "󲒙", -- colr-icons-folder_pesde_open-catpuccin-macchiato U+f2499
+		["catpuccin-mocha"] = "󲒚", -- colr-icons-folder_pesde_open-catpuccin-mocha U+f249a
+	},
+	["folder_php"] = {
+		["material"] = "󲒛", -- colr-icons-folder_php-material U+f249b
+	},
+	["folder_phpmailer"] = {
+		["material"] = "󲒜", -- colr-icons-folder_phpmailer-material U+f249c
+	},
+	["folder_pipe"] = {
+		["material"] = "󲒝", -- colr-icons-folder_pipe-material U+f249d
+	},
+	["folder_plastic"] = {
+		["material"] = "󲒞", -- colr-icons-folder_plastic-material U+f249e
+	},
+	["folder_plugin"] = {
+		["material"] = "󲒟", -- colr-icons-folder_plugin-material U+f249f
+	},
+	["folder_plugins"] = {
+		["catpuccin-frappe"] = "󲒠", -- colr-icons-folder_plugins-catpuccin-frappe U+f24a0
+		["catpuccin-latte"] = "󲒡", -- colr-icons-folder_plugins-catpuccin-latte U+f24a1
+		["catpuccin-macchiato"] = "󲒢", -- colr-icons-folder_plugins-catpuccin-macchiato U+f24a2
+		["catpuccin-mocha"] = "󲒣", -- colr-icons-folder_plugins-catpuccin-mocha U+f24a3
+	},
+	["folder_plugins_open"] = {
+		["catpuccin-frappe"] = "󲒤", -- colr-icons-folder_plugins_open-catpuccin-frappe U+f24a4
+		["catpuccin-latte"] = "󲒥", -- colr-icons-folder_plugins_open-catpuccin-latte U+f24a5
+		["catpuccin-macchiato"] = "󲒦", -- colr-icons-folder_plugins_open-catpuccin-macchiato U+f24a6
+		["catpuccin-mocha"] = "󲒧", -- colr-icons-folder_plugins_open-catpuccin-mocha U+f24a7
+	},
+	["folder_policy"] = {
+		["material"] = "󲒨", -- colr-icons-folder_policy-material U+f24a8
+	},
+	["folder_postman"] = {
+		["material"] = "󲒩", -- colr-icons-folder_postman-material U+f24a9
+	},
+	["folder_powershell"] = {
+		["material"] = "󲒪", -- colr-icons-folder_powershell-material U+f24aa
+	},
+	["folder_pre-commit"] = {
+		["catpuccin-frappe"] = "󲒫", -- colr-icons-folder_pre-commit-catpuccin-frappe U+f24ab
+		["catpuccin-latte"] = "󲒬", -- colr-icons-folder_pre-commit-catpuccin-latte U+f24ac
+		["catpuccin-macchiato"] = "󲒭", -- colr-icons-folder_pre-commit-catpuccin-macchiato U+f24ad
+		["catpuccin-mocha"] = "󲒮", -- colr-icons-folder_pre-commit-catpuccin-mocha U+f24ae
+	},
+	["folder_pre-commit_open"] = {
+		["catpuccin-frappe"] = "󲒯", -- colr-icons-folder_pre-commit_open-catpuccin-frappe U+f24af
+		["catpuccin-latte"] = "󲒰", -- colr-icons-folder_pre-commit_open-catpuccin-latte U+f24b0
+		["catpuccin-macchiato"] = "󲒱", -- colr-icons-folder_pre-commit_open-catpuccin-macchiato U+f24b1
+		["catpuccin-mocha"] = "󲒲", -- colr-icons-folder_pre-commit_open-catpuccin-mocha U+f24b2
+	},
+	["folder_prisma"] = {
+		["material"] = "󲒳", -- colr-icons-folder_prisma-material U+f24b3
+		["catpuccin-frappe"] = "󲒴", -- colr-icons-folder_prisma-catpuccin-frappe U+f24b4
+		["catpuccin-latte"] = "󲒵", -- colr-icons-folder_prisma-catpuccin-latte U+f24b5
+		["catpuccin-macchiato"] = "󲒶", -- colr-icons-folder_prisma-catpuccin-macchiato U+f24b6
+		["catpuccin-mocha"] = "󲒷", -- colr-icons-folder_prisma-catpuccin-mocha U+f24b7
+	},
+	["folder_prisma_open"] = {
+		["catpuccin-frappe"] = "󲒸", -- colr-icons-folder_prisma_open-catpuccin-frappe U+f24b8
+		["catpuccin-latte"] = "󲒹", -- colr-icons-folder_prisma_open-catpuccin-latte U+f24b9
+		["catpuccin-macchiato"] = "󲒺", -- colr-icons-folder_prisma_open-catpuccin-macchiato U+f24ba
+		["catpuccin-mocha"] = "󲒻", -- colr-icons-folder_prisma_open-catpuccin-mocha U+f24bb
+	},
+	["folder_private"] = {
+		["material"] = "󲒼", -- colr-icons-folder_private-material U+f24bc
+		["catpuccin-frappe"] = "󲒽", -- colr-icons-folder_private-catpuccin-frappe U+f24bd
+		["catpuccin-latte"] = "󲒾", -- colr-icons-folder_private-catpuccin-latte U+f24be
+		["catpuccin-macchiato"] = "󲒿", -- colr-icons-folder_private-catpuccin-macchiato U+f24bf
+		["catpuccin-mocha"] = "󲓀", -- colr-icons-folder_private-catpuccin-mocha U+f24c0
+	},
+	["folder_private_open"] = {
+		["catpuccin-frappe"] = "󲓁", -- colr-icons-folder_private_open-catpuccin-frappe U+f24c1
+		["catpuccin-latte"] = "󲓂", -- colr-icons-folder_private_open-catpuccin-latte U+f24c2
+		["catpuccin-macchiato"] = "󲓃", -- colr-icons-folder_private_open-catpuccin-macchiato U+f24c3
+		["catpuccin-mocha"] = "󲓄", -- colr-icons-folder_private_open-catpuccin-mocha U+f24c4
+	},
+	["folder_project"] = {
+		["material"] = "󲓅", -- colr-icons-folder_project-material U+f24c5
+	},
+	["folder_prompts"] = {
+		["material"] = "󲓆", -- colr-icons-folder_prompts-material U+f24c6
+	},
+	["folder_proto"] = {
+		["material"] = "󲓇", -- colr-icons-folder_proto-material U+f24c7
+		["catpuccin-frappe"] = "󲓈", -- colr-icons-folder_proto-catpuccin-frappe U+f24c8
+		["catpuccin-latte"] = "󲓉", -- colr-icons-folder_proto-catpuccin-latte U+f24c9
+		["catpuccin-macchiato"] = "󲓊", -- colr-icons-folder_proto-catpuccin-macchiato U+f24ca
+		["catpuccin-mocha"] = "󲓋", -- colr-icons-folder_proto-catpuccin-mocha U+f24cb
+	},
+	["folder_proto_open"] = {
+		["catpuccin-frappe"] = "󲓌", -- colr-icons-folder_proto_open-catpuccin-frappe U+f24cc
+		["catpuccin-latte"] = "󲓍", -- colr-icons-folder_proto_open-catpuccin-latte U+f24cd
+		["catpuccin-macchiato"] = "󲓎", -- colr-icons-folder_proto_open-catpuccin-macchiato U+f24ce
+		["catpuccin-mocha"] = "󲓏", -- colr-icons-folder_proto_open-catpuccin-mocha U+f24cf
+	},
+	["folder_public"] = {
+		["material"] = "󲓐", -- colr-icons-folder_public-material U+f24d0
+		["catpuccin-frappe"] = "󲓑", -- colr-icons-folder_public-catpuccin-frappe U+f24d1
+		["catpuccin-latte"] = "󲓒", -- colr-icons-folder_public-catpuccin-latte U+f24d2
+		["catpuccin-macchiato"] = "󲓓", -- colr-icons-folder_public-catpuccin-macchiato U+f24d3
+		["catpuccin-mocha"] = "󲓔", -- colr-icons-folder_public-catpuccin-mocha U+f24d4
+	},
+	["folder_public_open"] = {
+		["catpuccin-frappe"] = "󲓕", -- colr-icons-folder_public_open-catpuccin-frappe U+f24d5
+		["catpuccin-latte"] = "󲓖", -- colr-icons-folder_public_open-catpuccin-latte U+f24d6
+		["catpuccin-macchiato"] = "󲓗", -- colr-icons-folder_public_open-catpuccin-macchiato U+f24d7
+		["catpuccin-mocha"] = "󲓘", -- colr-icons-folder_public_open-catpuccin-mocha U+f24d8
+	},
+	["folder_python"] = {
+		["material"] = "󲓙", -- colr-icons-folder_python-material U+f24d9
+	},
+	["folder_pytorch"] = {
+		["material"] = "󲓚", -- colr-icons-folder_pytorch-material U+f24da
+	},
+	["folder_quasar"] = {
+		["material"] = "󲓛", -- colr-icons-folder_quasar-material U+f24db
+	},
+	["folder_queue"] = {
+		["material"] = "󲓜", -- colr-icons-folder_queue-material U+f24dc
+		["catpuccin-frappe"] = "󲓝", -- colr-icons-folder_queue-catpuccin-frappe U+f24dd
+		["catpuccin-latte"] = "󲓞", -- colr-icons-folder_queue-catpuccin-latte U+f24de
+		["catpuccin-macchiato"] = "󲓟", -- colr-icons-folder_queue-catpuccin-macchiato U+f24df
+		["catpuccin-mocha"] = "󲓠", -- colr-icons-folder_queue-catpuccin-mocha U+f24e0
+	},
+	["folder_queue_open"] = {
+		["catpuccin-frappe"] = "󲓡", -- colr-icons-folder_queue_open-catpuccin-frappe U+f24e1
+		["catpuccin-latte"] = "󲓢", -- colr-icons-folder_queue_open-catpuccin-latte U+f24e2
+		["catpuccin-macchiato"] = "󲓣", -- colr-icons-folder_queue_open-catpuccin-macchiato U+f24e3
+		["catpuccin-mocha"] = "󲓤", -- colr-icons-folder_queue_open-catpuccin-mocha U+f24e4
+	},
+	["folder_r"] = {
+		["material"] = "󲓥", -- colr-icons-folder_r-material U+f24e5
+	},
+	["folder_react-components"] = {
+		["material"] = "󲓦", -- colr-icons-folder_react-components-material U+f24e6
+	},
+	["folder_redux"] = {
+		["catpuccin-frappe"] = "󲓧", -- colr-icons-folder_redux-catpuccin-frappe U+f24e7
+		["catpuccin-latte"] = "󲓨", -- colr-icons-folder_redux-catpuccin-latte U+f24e8
+		["catpuccin-macchiato"] = "󲓩", -- colr-icons-folder_redux-catpuccin-macchiato U+f24e9
+		["catpuccin-mocha"] = "󲓪", -- colr-icons-folder_redux-catpuccin-mocha U+f24ea
+	},
+	["folder_redux-reducer"] = {
+		["material"] = "󲓫", -- colr-icons-folder_redux-reducer-material U+f24eb
+	},
+	["folder_redux_open"] = {
+		["catpuccin-frappe"] = "󲓬", -- colr-icons-folder_redux_open-catpuccin-frappe U+f24ec
+		["catpuccin-latte"] = "󲓭", -- colr-icons-folder_redux_open-catpuccin-latte U+f24ed
+		["catpuccin-macchiato"] = "󲓮", -- colr-icons-folder_redux_open-catpuccin-macchiato U+f24ee
+		["catpuccin-mocha"] = "󲓯", -- colr-icons-folder_redux_open-catpuccin-mocha U+f24ef
+	},
+	["folder_renovate"] = {
+		["catpuccin-frappe"] = "󲓰", -- colr-icons-folder_renovate-catpuccin-frappe U+f24f0
+		["catpuccin-latte"] = "󲓱", -- colr-icons-folder_renovate-catpuccin-latte U+f24f1
+		["catpuccin-macchiato"] = "󲓲", -- colr-icons-folder_renovate-catpuccin-macchiato U+f24f2
+		["catpuccin-mocha"] = "󲓳", -- colr-icons-folder_renovate-catpuccin-mocha U+f24f3
+	},
+	["folder_renovate_open"] = {
+		["catpuccin-frappe"] = "󲓴", -- colr-icons-folder_renovate_open-catpuccin-frappe U+f24f4
+		["catpuccin-latte"] = "󲓵", -- colr-icons-folder_renovate_open-catpuccin-latte U+f24f5
+		["catpuccin-macchiato"] = "󲓶", -- colr-icons-folder_renovate_open-catpuccin-macchiato U+f24f6
+		["catpuccin-mocha"] = "󲓷", -- colr-icons-folder_renovate_open-catpuccin-mocha U+f24f7
+	},
+	["folder_repository"] = {
+		["material"] = "󲓸", -- colr-icons-folder_repository-material U+f24f8
+	},
+	["folder_resolver"] = {
+		["material"] = "󲓹", -- colr-icons-folder_resolver-material U+f24f9
+	},
+	["folder_resource"] = {
+		["material"] = "󲓺", -- colr-icons-folder_resource-material U+f24fa
+	},
+	["folder_review"] = {
+		["material"] = "󲓻", -- colr-icons-folder_review-material U+f24fb
+	},
+	["folder_roblox"] = {
+		["catpuccin-frappe"] = "󲓼", -- colr-icons-folder_roblox-catpuccin-frappe U+f24fc
+		["catpuccin-latte"] = "󲓽", -- colr-icons-folder_roblox-catpuccin-latte U+f24fd
+		["catpuccin-macchiato"] = "󲓾", -- colr-icons-folder_roblox-catpuccin-macchiato U+f24fe
+		["catpuccin-mocha"] = "󲓿", -- colr-icons-folder_roblox-catpuccin-mocha U+f24ff
+	},
+	["folder_roblox_open"] = {
+		["catpuccin-frappe"] = "󲔀", -- colr-icons-folder_roblox_open-catpuccin-frappe U+f2500
+		["catpuccin-latte"] = "󲔁", -- colr-icons-folder_roblox_open-catpuccin-latte U+f2501
+		["catpuccin-macchiato"] = "󲔂", -- colr-icons-folder_roblox_open-catpuccin-macchiato U+f2502
+		["catpuccin-mocha"] = "󲔃", -- colr-icons-folder_roblox_open-catpuccin-mocha U+f2503
+	},
+	["folder_robot"] = {
+		["material"] = "󲔄", -- colr-icons-folder_robot-material U+f2504
+	},
+	["folder_routes"] = {
+		["material"] = "󲔅", -- colr-icons-folder_routes-material U+f2505
+		["catpuccin-frappe"] = "󲔆", -- colr-icons-folder_routes-catpuccin-frappe U+f2506
+		["catpuccin-latte"] = "󲔇", -- colr-icons-folder_routes-catpuccin-latte U+f2507
+		["catpuccin-macchiato"] = "󲔈", -- colr-icons-folder_routes-catpuccin-macchiato U+f2508
+		["catpuccin-mocha"] = "󲔉", -- colr-icons-folder_routes-catpuccin-mocha U+f2509
+	},
+	["folder_routes_open"] = {
+		["catpuccin-frappe"] = "󲔊", -- colr-icons-folder_routes_open-catpuccin-frappe U+f250a
+		["catpuccin-latte"] = "󲔋", -- colr-icons-folder_routes_open-catpuccin-latte U+f250b
+		["catpuccin-macchiato"] = "󲔌", -- colr-icons-folder_routes_open-catpuccin-macchiato U+f250c
+		["catpuccin-mocha"] = "󲔍", -- colr-icons-folder_routes_open-catpuccin-mocha U+f250d
+	},
+	["folder_rules"] = {
+		["material"] = "󲔎", -- colr-icons-folder_rules-material U+f250e
+	},
+	["folder_rust"] = {
+		["material"] = "󲔏", -- colr-icons-folder_rust-material U+f250f
+	},
+	["folder_salt"] = {
+		["material"] = "󲔐", -- colr-icons-folder_salt-material U+f2510
+	},
+	["folder_sandbox"] = {
+		["material"] = "󲔑", -- colr-icons-folder_sandbox-material U+f2511
+	},
+	["folder_sass"] = {
+		["material"] = "󲔒", -- colr-icons-folder_sass-material U+f2512
+		["catpuccin-frappe"] = "󲔓", -- colr-icons-folder_sass-catpuccin-frappe U+f2513
+		["catpuccin-latte"] = "󲔔", -- colr-icons-folder_sass-catpuccin-latte U+f2514
+		["catpuccin-macchiato"] = "󲔕", -- colr-icons-folder_sass-catpuccin-macchiato U+f2515
+		["catpuccin-mocha"] = "󲔖", -- colr-icons-folder_sass-catpuccin-mocha U+f2516
+	},
+	["folder_sass_open"] = {
+		["catpuccin-frappe"] = "󲔗", -- colr-icons-folder_sass_open-catpuccin-frappe U+f2517
+		["catpuccin-latte"] = "󲔘", -- colr-icons-folder_sass_open-catpuccin-latte U+f2518
+		["catpuccin-macchiato"] = "󲔙", -- colr-icons-folder_sass_open-catpuccin-macchiato U+f2519
+		["catpuccin-mocha"] = "󲔚", -- colr-icons-folder_sass_open-catpuccin-mocha U+f251a
+	},
+	["folder_scala"] = {
+		["material"] = "󲔛", -- colr-icons-folder_scala-material U+f251b
+	},
+	["folder_scons"] = {
+		["material"] = "󲔜", -- colr-icons-folder_scons-material U+f251c
+	},
+	["folder_scripts"] = {
+		["material"] = "󲔝", -- colr-icons-folder_scripts-material U+f251d
+		["catpuccin-frappe"] = "󲔞", -- colr-icons-folder_scripts-catpuccin-frappe U+f251e
+		["catpuccin-latte"] = "󲔟", -- colr-icons-folder_scripts-catpuccin-latte U+f251f
+		["catpuccin-macchiato"] = "󲔠", -- colr-icons-folder_scripts-catpuccin-macchiato U+f2520
+		["catpuccin-mocha"] = "󲔡", -- colr-icons-folder_scripts-catpuccin-mocha U+f2521
+	},
+	["folder_scripts_open"] = {
+		["catpuccin-frappe"] = "󲔢", -- colr-icons-folder_scripts_open-catpuccin-frappe U+f2522
+		["catpuccin-latte"] = "󲔣", -- colr-icons-folder_scripts_open-catpuccin-latte U+f2523
+		["catpuccin-macchiato"] = "󲔤", -- colr-icons-folder_scripts_open-catpuccin-macchiato U+f2524
+		["catpuccin-mocha"] = "󲔥", -- colr-icons-folder_scripts_open-catpuccin-mocha U+f2525
+	},
+	["folder_secure"] = {
+		["material"] = "󲔦", -- colr-icons-folder_secure-material U+f2526
+	},
+	["folder_security"] = {
+		["catpuccin-frappe"] = "󲔧", -- colr-icons-folder_security-catpuccin-frappe U+f2527
+		["catpuccin-latte"] = "󲔨", -- colr-icons-folder_security-catpuccin-latte U+f2528
+		["catpuccin-macchiato"] = "󲔩", -- colr-icons-folder_security-catpuccin-macchiato U+f2529
+		["catpuccin-mocha"] = "󲔪", -- colr-icons-folder_security-catpuccin-mocha U+f252a
+	},
+	["folder_security_open"] = {
+		["catpuccin-frappe"] = "󲔫", -- colr-icons-folder_security_open-catpuccin-frappe U+f252b
+		["catpuccin-latte"] = "󲔬", -- colr-icons-folder_security_open-catpuccin-latte U+f252c
+		["catpuccin-macchiato"] = "󲔭", -- colr-icons-folder_security_open-catpuccin-macchiato U+f252d
+		["catpuccin-mocha"] = "󲔮", -- colr-icons-folder_security_open-catpuccin-mocha U+f252e
+	},
+	["folder_seeders"] = {
+		["material"] = "󲔯", -- colr-icons-folder_seeders-material U+f252f
+	},
+	["folder_server"] = {
+		["material"] = "󲔰", -- colr-icons-folder_server-material U+f2530
+		["catpuccin-frappe"] = "󲔱", -- colr-icons-folder_server-catpuccin-frappe U+f2531
+		["catpuccin-latte"] = "󲔲", -- colr-icons-folder_server-catpuccin-latte U+f2532
+		["catpuccin-macchiato"] = "󲔳", -- colr-icons-folder_server-catpuccin-macchiato U+f2533
+		["catpuccin-mocha"] = "󲔴", -- colr-icons-folder_server-catpuccin-mocha U+f2534
+	},
+	["folder_server_open"] = {
+		["catpuccin-frappe"] = "󲔵", -- colr-icons-folder_server_open-catpuccin-frappe U+f2535
+		["catpuccin-latte"] = "󲔶", -- colr-icons-folder_server_open-catpuccin-latte U+f2536
+		["catpuccin-macchiato"] = "󲔷", -- colr-icons-folder_server_open-catpuccin-macchiato U+f2537
+		["catpuccin-mocha"] = "󲔸", -- colr-icons-folder_server_open-catpuccin-mocha U+f2538
+	},
+	["folder_serverless"] = {
+		["material"] = "󲔹", -- colr-icons-folder_serverless-material U+f2539
+	},
+	["folder_shader"] = {
+		["material"] = "󲔺", -- colr-icons-folder_shader-material U+f253a
+	},
+	["folder_shared"] = {
+		["material"] = "󲔻", -- colr-icons-folder_shared-material U+f253b
+		["catpuccin-frappe"] = "󲔼", -- colr-icons-folder_shared-catpuccin-frappe U+f253c
+		["catpuccin-latte"] = "󲔽", -- colr-icons-folder_shared-catpuccin-latte U+f253d
+		["catpuccin-macchiato"] = "󲔾", -- colr-icons-folder_shared-catpuccin-macchiato U+f253e
+		["catpuccin-mocha"] = "󲔿", -- colr-icons-folder_shared-catpuccin-mocha U+f253f
+	},
+	["folder_shared_open"] = {
+		["catpuccin-frappe"] = "󲕀", -- colr-icons-folder_shared_open-catpuccin-frappe U+f2540
+		["catpuccin-latte"] = "󲕁", -- colr-icons-folder_shared_open-catpuccin-latte U+f2541
+		["catpuccin-macchiato"] = "󲕂", -- colr-icons-folder_shared_open-catpuccin-macchiato U+f2542
+		["catpuccin-mocha"] = "󲕃", -- colr-icons-folder_shared_open-catpuccin-mocha U+f2543
+	},
+	["folder_simulations"] = {
+		["material"] = "󲕄", -- colr-icons-folder_simulations-material U+f2544
+	},
+	["folder_skills"] = {
+		["material"] = "󲕅", -- colr-icons-folder_skills-material U+f2545
+	},
+	["folder_snapcraft"] = {
+		["material"] = "󲕆", -- colr-icons-folder_snapcraft-material U+f2546
+	},
+	["folder_snippet"] = {
+		["material"] = "󲕇", -- colr-icons-folder_snippet-material U+f2547
+	},
+	["folder_src"] = {
+		["material"] = "󲕈", -- colr-icons-folder_src-material U+f2548
+		["catpuccin-frappe"] = "󲕉", -- colr-icons-folder_src-catpuccin-frappe U+f2549
+		["catpuccin-latte"] = "󲕊", -- colr-icons-folder_src-catpuccin-latte U+f254a
+		["catpuccin-macchiato"] = "󲕋", -- colr-icons-folder_src-catpuccin-macchiato U+f254b
+		["catpuccin-mocha"] = "󲕌", -- colr-icons-folder_src-catpuccin-mocha U+f254c
+	},
+	["folder_src-tauri"] = {
+		["material"] = "󲕍", -- colr-icons-folder_src-tauri-material U+f254d
+	},
+	["folder_src_open"] = {
+		["catpuccin-frappe"] = "󲕎", -- colr-icons-folder_src_open-catpuccin-frappe U+f254e
+		["catpuccin-latte"] = "󲕏", -- colr-icons-folder_src_open-catpuccin-latte U+f254f
+		["catpuccin-macchiato"] = "󲕐", -- colr-icons-folder_src_open-catpuccin-macchiato U+f2550
+		["catpuccin-mocha"] = "󲕑", -- colr-icons-folder_src_open-catpuccin-mocha U+f2551
+	},
+	["folder_stack"] = {
+		["material"] = "󲕒", -- colr-icons-folder_stack-material U+f2552
+	},
+	["folder_stencil"] = {
+		["material"] = "󲕓", -- colr-icons-folder_stencil-material U+f2553
+	},
+	["folder_store"] = {
+		["material"] = "󲕔", -- colr-icons-folder_store-material U+f2554
+	},
+	["folder_storybook"] = {
+		["material"] = "󲕕", -- colr-icons-folder_storybook-material U+f2555
+		["catpuccin-frappe"] = "󲕖", -- colr-icons-folder_storybook-catpuccin-frappe U+f2556
+		["catpuccin-latte"] = "󲕗", -- colr-icons-folder_storybook-catpuccin-latte U+f2557
+		["catpuccin-macchiato"] = "󲕘", -- colr-icons-folder_storybook-catpuccin-macchiato U+f2558
+		["catpuccin-mocha"] = "󲕙", -- colr-icons-folder_storybook-catpuccin-mocha U+f2559
+	},
+	["folder_storybook_open"] = {
+		["catpuccin-frappe"] = "󲕚", -- colr-icons-folder_storybook_open-catpuccin-frappe U+f255a
+		["catpuccin-latte"] = "󲕛", -- colr-icons-folder_storybook_open-catpuccin-latte U+f255b
+		["catpuccin-macchiato"] = "󲕜", -- colr-icons-folder_storybook_open-catpuccin-macchiato U+f255c
+		["catpuccin-mocha"] = "󲕝", -- colr-icons-folder_storybook_open-catpuccin-mocha U+f255d
+	},
+	["folder_styles"] = {
+		["catpuccin-frappe"] = "󲕞", -- colr-icons-folder_styles-catpuccin-frappe U+f255e
+		["catpuccin-latte"] = "󲕟", -- colr-icons-folder_styles-catpuccin-latte U+f255f
+		["catpuccin-macchiato"] = "󲕠", -- colr-icons-folder_styles-catpuccin-macchiato U+f2560
+		["catpuccin-mocha"] = "󲕡", -- colr-icons-folder_styles-catpuccin-mocha U+f2561
+	},
+	["folder_styles_open"] = {
+		["catpuccin-frappe"] = "󲕢", -- colr-icons-folder_styles_open-catpuccin-frappe U+f2562
+		["catpuccin-latte"] = "󲕣", -- colr-icons-folder_styles_open-catpuccin-latte U+f2563
+		["catpuccin-macchiato"] = "󲕤", -- colr-icons-folder_styles_open-catpuccin-macchiato U+f2564
+		["catpuccin-mocha"] = "󲕥", -- colr-icons-folder_styles_open-catpuccin-mocha U+f2565
+	},
+	["folder_stylus"] = {
+		["material"] = "󲕦", -- colr-icons-folder_stylus-material U+f2566
+	},
+	["folder_sublime"] = {
+		["material"] = "󲕧", -- colr-icons-folder_sublime-material U+f2567
+	},
+	["folder_supabase"] = {
+		["material"] = "󲕨", -- colr-icons-folder_supabase-material U+f2568
+	},
+	["folder_svelte"] = {
+		["material"] = "󲕩", -- colr-icons-folder_svelte-material U+f2569
+	},
+	["folder_svg"] = {
+		["material"] = "󲕪", -- colr-icons-folder_svg-material U+f256a
+		["catpuccin-frappe"] = "󲕫", -- colr-icons-folder_svg-catpuccin-frappe U+f256b
+		["catpuccin-latte"] = "󲕬", -- colr-icons-folder_svg-catpuccin-latte U+f256c
+		["catpuccin-macchiato"] = "󲕭", -- colr-icons-folder_svg-catpuccin-macchiato U+f256d
+		["catpuccin-mocha"] = "󲕮", -- colr-icons-folder_svg-catpuccin-mocha U+f256e
+	},
+	["folder_svg_open"] = {
+		["catpuccin-frappe"] = "󲕯", -- colr-icons-folder_svg_open-catpuccin-frappe U+f256f
+		["catpuccin-latte"] = "󲕰", -- colr-icons-folder_svg_open-catpuccin-latte U+f2570
+		["catpuccin-macchiato"] = "󲕱", -- colr-icons-folder_svg_open-catpuccin-macchiato U+f2571
+		["catpuccin-mocha"] = "󲕲", -- colr-icons-folder_svg_open-catpuccin-mocha U+f2572
+	},
+	["folder_symlink"] = {
+		["catpuccin-frappe"] = "󲕳", -- colr-icons-folder_symlink-catpuccin-frappe U+f2573
+		["catpuccin-latte"] = "󲕴", -- colr-icons-folder_symlink-catpuccin-latte U+f2574
+		["catpuccin-macchiato"] = "󲕵", -- colr-icons-folder_symlink-catpuccin-macchiato U+f2575
+		["catpuccin-mocha"] = "󲕶", -- colr-icons-folder_symlink-catpuccin-mocha U+f2576
+	},
+	["folder_symlink_open"] = {
+		["catpuccin-frappe"] = "󲕷", -- colr-icons-folder_symlink_open-catpuccin-frappe U+f2577
+		["catpuccin-latte"] = "󲕸", -- colr-icons-folder_symlink_open-catpuccin-latte U+f2578
+		["catpuccin-macchiato"] = "󲕹", -- colr-icons-folder_symlink_open-catpuccin-macchiato U+f2579
+		["catpuccin-mocha"] = "󲕺", -- colr-icons-folder_symlink_open-catpuccin-mocha U+f257a
+	},
+	["folder_syntax"] = {
+		["material"] = "󲕻", -- colr-icons-folder_syntax-material U+f257b
+	},
+	["folder_target"] = {
+		["material"] = "󲕼", -- colr-icons-folder_target-material U+f257c
+	},
+	["folder_taskfile"] = {
+		["material"] = "󲕽", -- colr-icons-folder_taskfile-material U+f257d
+	},
+	["folder_tasks"] = {
+		["material"] = "󲕾", -- colr-icons-folder_tasks-material U+f257e
+	},
+	["folder_tauri"] = {
+		["catpuccin-frappe"] = "󲕿", -- colr-icons-folder_tauri-catpuccin-frappe U+f257f
+		["catpuccin-latte"] = "󲖀", -- colr-icons-folder_tauri-catpuccin-latte U+f2580
+		["catpuccin-macchiato"] = "󲖁", -- colr-icons-folder_tauri-catpuccin-macchiato U+f2581
+		["catpuccin-mocha"] = "󲖂", -- colr-icons-folder_tauri-catpuccin-mocha U+f2582
+	},
+	["folder_tauri_open"] = {
+		["catpuccin-frappe"] = "󲖃", -- colr-icons-folder_tauri_open-catpuccin-frappe U+f2583
+		["catpuccin-latte"] = "󲖄", -- colr-icons-folder_tauri_open-catpuccin-latte U+f2584
+		["catpuccin-macchiato"] = "󲖅", -- colr-icons-folder_tauri_open-catpuccin-macchiato U+f2585
+		["catpuccin-mocha"] = "󲖆", -- colr-icons-folder_tauri_open-catpuccin-mocha U+f2586
+	},
+	["folder_television"] = {
+		["material"] = "󲖇", -- colr-icons-folder_television-material U+f2587
+	},
+	["folder_temp"] = {
+		["material"] = "󲖈", -- colr-icons-folder_temp-material U+f2588
+		["catpuccin-frappe"] = "󲖉", -- colr-icons-folder_temp-catpuccin-frappe U+f2589
+		["catpuccin-latte"] = "󲖊", -- colr-icons-folder_temp-catpuccin-latte U+f258a
+		["catpuccin-macchiato"] = "󲖋", -- colr-icons-folder_temp-catpuccin-macchiato U+f258b
+		["catpuccin-mocha"] = "󲖌", -- colr-icons-folder_temp-catpuccin-mocha U+f258c
+	},
+	["folder_temp_open"] = {
+		["catpuccin-frappe"] = "󲖍", -- colr-icons-folder_temp_open-catpuccin-frappe U+f258d
+		["catpuccin-latte"] = "󲖎", -- colr-icons-folder_temp_open-catpuccin-latte U+f258e
+		["catpuccin-macchiato"] = "󲖏", -- colr-icons-folder_temp_open-catpuccin-macchiato U+f258f
+		["catpuccin-mocha"] = "󲖐", -- colr-icons-folder_temp_open-catpuccin-mocha U+f2590
+	},
+	["folder_template"] = {
+		["material"] = "󲖑", -- colr-icons-folder_template-material U+f2591
+	},
+	["folder_templates"] = {
+		["catpuccin-frappe"] = "󲖒", -- colr-icons-folder_templates-catpuccin-frappe U+f2592
+		["catpuccin-latte"] = "󲖓", -- colr-icons-folder_templates-catpuccin-latte U+f2593
+		["catpuccin-macchiato"] = "󲖔", -- colr-icons-folder_templates-catpuccin-macchiato U+f2594
+		["catpuccin-mocha"] = "󲖕", -- colr-icons-folder_templates-catpuccin-mocha U+f2595
+	},
+	["folder_templates_open"] = {
+		["catpuccin-frappe"] = "󲖖", -- colr-icons-folder_templates_open-catpuccin-frappe U+f2596
+		["catpuccin-latte"] = "󲖗", -- colr-icons-folder_templates_open-catpuccin-latte U+f2597
+		["catpuccin-macchiato"] = "󲖘", -- colr-icons-folder_templates_open-catpuccin-macchiato U+f2598
+		["catpuccin-mocha"] = "󲖙", -- colr-icons-folder_templates_open-catpuccin-mocha U+f2599
+	},
+	["folder_terraform"] = {
+		["material"] = "󲖚", -- colr-icons-folder_terraform-material U+f259a
+	},
+	["folder_test"] = {
+		["material"] = "󲖛", -- colr-icons-folder_test-material U+f259b
+	},
+	["folder_tests"] = {
+		["catpuccin-frappe"] = "󲖜", -- colr-icons-folder_tests-catpuccin-frappe U+f259c
+		["catpuccin-latte"] = "󲖝", -- colr-icons-folder_tests-catpuccin-latte U+f259d
+		["catpuccin-macchiato"] = "󲖞", -- colr-icons-folder_tests-catpuccin-macchiato U+f259e
+		["catpuccin-mocha"] = "󲖟", -- colr-icons-folder_tests-catpuccin-mocha U+f259f
+	},
+	["folder_tests_open"] = {
+		["catpuccin-frappe"] = "󲖠", -- colr-icons-folder_tests_open-catpuccin-frappe U+f25a0
+		["catpuccin-latte"] = "󲖡", -- colr-icons-folder_tests_open-catpuccin-latte U+f25a1
+		["catpuccin-macchiato"] = "󲖢", -- colr-icons-folder_tests_open-catpuccin-macchiato U+f25a2
+		["catpuccin-mocha"] = "󲖣", -- colr-icons-folder_tests_open-catpuccin-mocha U+f25a3
+	},
+	["folder_theme"] = {
+		["material"] = "󲖤", -- colr-icons-folder_theme-material U+f25a4
+	},
+	["folder_themes"] = {
+		["catpuccin-frappe"] = "󲖥", -- colr-icons-folder_themes-catpuccin-frappe U+f25a5
+		["catpuccin-latte"] = "󲖦", -- colr-icons-folder_themes-catpuccin-latte U+f25a6
+		["catpuccin-macchiato"] = "󲖧", -- colr-icons-folder_themes-catpuccin-macchiato U+f25a7
+		["catpuccin-mocha"] = "󲖨", -- colr-icons-folder_themes-catpuccin-mocha U+f25a8
+	},
+	["folder_themes_open"] = {
+		["catpuccin-frappe"] = "󲖩", -- colr-icons-folder_themes_open-catpuccin-frappe U+f25a9
+		["catpuccin-latte"] = "󲖪", -- colr-icons-folder_themes_open-catpuccin-latte U+f25aa
+		["catpuccin-macchiato"] = "󲖫", -- colr-icons-folder_themes_open-catpuccin-macchiato U+f25ab
+		["catpuccin-mocha"] = "󲖬", -- colr-icons-folder_themes_open-catpuccin-mocha U+f25ac
+	},
+	["folder_toc"] = {
+		["material"] = "󲖭", -- colr-icons-folder_toc-material U+f25ad
+	},
+	["folder_tools"] = {
+		["material"] = "󲖮", -- colr-icons-folder_tools-material U+f25ae
+	},
+	["folder_trash"] = {
+		["material"] = "󲖯", -- colr-icons-folder_trash-material U+f25af
+	},
+	["folder_trigger"] = {
+		["material"] = "󲖰", -- colr-icons-folder_trigger-material U+f25b0
+	},
+	["folder_turbo"] = {
+		["catpuccin-frappe"] = "󲖱", -- colr-icons-folder_turbo-catpuccin-frappe U+f25b1
+		["catpuccin-latte"] = "󲖲", -- colr-icons-folder_turbo-catpuccin-latte U+f25b2
+		["catpuccin-macchiato"] = "󲖳", -- colr-icons-folder_turbo-catpuccin-macchiato U+f25b3
+		["catpuccin-mocha"] = "󲖴", -- colr-icons-folder_turbo-catpuccin-mocha U+f25b4
+	},
+	["folder_turbo_open"] = {
+		["catpuccin-frappe"] = "󲖵", -- colr-icons-folder_turbo_open-catpuccin-frappe U+f25b5
+		["catpuccin-latte"] = "󲖶", -- colr-icons-folder_turbo_open-catpuccin-latte U+f25b6
+		["catpuccin-macchiato"] = "󲖷", -- colr-icons-folder_turbo_open-catpuccin-macchiato U+f25b7
+		["catpuccin-mocha"] = "󲖸", -- colr-icons-folder_turbo_open-catpuccin-mocha U+f25b8
+	},
+	["folder_turborepo"] = {
+		["material"] = "󲖹", -- colr-icons-folder_turborepo-material U+f25b9
+	},
+	["folder_types"] = {
+		["catpuccin-frappe"] = "󲖺", -- colr-icons-folder_types-catpuccin-frappe U+f25ba
+		["catpuccin-latte"] = "󲖻", -- colr-icons-folder_types-catpuccin-latte U+f25bb
+		["catpuccin-macchiato"] = "󲖼", -- colr-icons-folder_types-catpuccin-macchiato U+f25bc
+		["catpuccin-mocha"] = "󲖽", -- colr-icons-folder_types-catpuccin-mocha U+f25bd
+	},
+	["folder_types_open"] = {
+		["catpuccin-frappe"] = "󲖾", -- colr-icons-folder_types_open-catpuccin-frappe U+f25be
+		["catpuccin-latte"] = "󲖿", -- colr-icons-folder_types_open-catpuccin-latte U+f25bf
+		["catpuccin-macchiato"] = "󲗀", -- colr-icons-folder_types_open-catpuccin-macchiato U+f25c0
+		["catpuccin-mocha"] = "󲗁", -- colr-icons-folder_types_open-catpuccin-mocha U+f25c1
+	},
+	["folder_typescript"] = {
+		["material"] = "󲗂", -- colr-icons-folder_typescript-material U+f25c2
+	},
+	["folder_ui"] = {
+		["material"] = "󲗃", -- colr-icons-folder_ui-material U+f25c3
+	},
+	["folder_unity"] = {
+		["material"] = "󲗄", -- colr-icons-folder_unity-material U+f25c4
+	},
+	["folder_update"] = {
+		["material"] = "󲗅", -- colr-icons-folder_update-material U+f25c5
+	},
+	["folder_upload"] = {
+		["material"] = "󲗆", -- colr-icons-folder_upload-material U+f25c6
+		["catpuccin-frappe"] = "󲗇", -- colr-icons-folder_upload-catpuccin-frappe U+f25c7
+		["catpuccin-latte"] = "󲗈", -- colr-icons-folder_upload-catpuccin-latte U+f25c8
+		["catpuccin-macchiato"] = "󲗉", -- colr-icons-folder_upload-catpuccin-macchiato U+f25c9
+		["catpuccin-mocha"] = "󲗊", -- colr-icons-folder_upload-catpuccin-mocha U+f25ca
+	},
+	["folder_upload_open"] = {
+		["catpuccin-frappe"] = "󲗋", -- colr-icons-folder_upload_open-catpuccin-frappe U+f25cb
+		["catpuccin-latte"] = "󲗌", -- colr-icons-folder_upload_open-catpuccin-latte U+f25cc
+		["catpuccin-macchiato"] = "󲗍", -- colr-icons-folder_upload_open-catpuccin-macchiato U+f25cd
+		["catpuccin-mocha"] = "󲗎", -- colr-icons-folder_upload_open-catpuccin-mocha U+f25ce
+	},
+	["folder_utils"] = {
+		["material"] = "󲗏", -- colr-icons-folder_utils-material U+f25cf
+		["catpuccin-frappe"] = "󲗐", -- colr-icons-folder_utils-catpuccin-frappe U+f25d0
+		["catpuccin-latte"] = "󲗑", -- colr-icons-folder_utils-catpuccin-latte U+f25d1
+		["catpuccin-macchiato"] = "󲗒", -- colr-icons-folder_utils-catpuccin-macchiato U+f25d2
+		["catpuccin-mocha"] = "󲗓", -- colr-icons-folder_utils-catpuccin-mocha U+f25d3
+	},
+	["folder_utils_open"] = {
+		["catpuccin-frappe"] = "󲗔", -- colr-icons-folder_utils_open-catpuccin-frappe U+f25d4
+		["catpuccin-latte"] = "󲗕", -- colr-icons-folder_utils_open-catpuccin-latte U+f25d5
+		["catpuccin-macchiato"] = "󲗖", -- colr-icons-folder_utils_open-catpuccin-macchiato U+f25d6
+		["catpuccin-mocha"] = "󲗗", -- colr-icons-folder_utils_open-catpuccin-mocha U+f25d7
+	},
+	["folder_vercel"] = {
+		["material"] = "󲗘", -- colr-icons-folder_vercel-material U+f25d8
+		["catpuccin-frappe"] = "󲗙", -- colr-icons-folder_vercel-catpuccin-frappe U+f25d9
+		["catpuccin-latte"] = "󲗚", -- colr-icons-folder_vercel-catpuccin-latte U+f25da
+		["catpuccin-macchiato"] = "󲗛", -- colr-icons-folder_vercel-catpuccin-macchiato U+f25db
+		["catpuccin-mocha"] = "󲗜", -- colr-icons-folder_vercel-catpuccin-mocha U+f25dc
+	},
+	["folder_vercel_open"] = {
+		["catpuccin-frappe"] = "󲗝", -- colr-icons-folder_vercel_open-catpuccin-frappe U+f25dd
+		["catpuccin-latte"] = "󲗞", -- colr-icons-folder_vercel_open-catpuccin-latte U+f25de
+		["catpuccin-macchiato"] = "󲗟", -- colr-icons-folder_vercel_open-catpuccin-macchiato U+f25df
+		["catpuccin-mocha"] = "󲗠", -- colr-icons-folder_vercel_open-catpuccin-mocha U+f25e0
+	},
+	["folder_verdaccio"] = {
+		["material"] = "󲗡", -- colr-icons-folder_verdaccio-material U+f25e1
+	},
+	["folder_video"] = {
+		["material"] = "󲗢", -- colr-icons-folder_video-material U+f25e2
+		["catpuccin-frappe"] = "󲗣", -- colr-icons-folder_video-catpuccin-frappe U+f25e3
+		["catpuccin-latte"] = "󲗤", -- colr-icons-folder_video-catpuccin-latte U+f25e4
+		["catpuccin-macchiato"] = "󲗥", -- colr-icons-folder_video-catpuccin-macchiato U+f25e5
+		["catpuccin-mocha"] = "󲗦", -- colr-icons-folder_video-catpuccin-mocha U+f25e6
+	},
+	["folder_video_open"] = {
+		["catpuccin-frappe"] = "󲗧", -- colr-icons-folder_video_open-catpuccin-frappe U+f25e7
+		["catpuccin-latte"] = "󲗨", -- colr-icons-folder_video_open-catpuccin-latte U+f25e8
+		["catpuccin-macchiato"] = "󲗩", -- colr-icons-folder_video_open-catpuccin-macchiato U+f25e9
+		["catpuccin-mocha"] = "󲗪", -- colr-icons-folder_video_open-catpuccin-mocha U+f25ea
+	},
+	["folder_views"] = {
+		["material"] = "󲗫", -- colr-icons-folder_views-material U+f25eb
+		["catpuccin-frappe"] = "󲗬", -- colr-icons-folder_views-catpuccin-frappe U+f25ec
+		["catpuccin-latte"] = "󲗭", -- colr-icons-folder_views-catpuccin-latte U+f25ed
+		["catpuccin-macchiato"] = "󲗮", -- colr-icons-folder_views-catpuccin-macchiato U+f25ee
+		["catpuccin-mocha"] = "󲗯", -- colr-icons-folder_views-catpuccin-mocha U+f25ef
+	},
+	["folder_views_open"] = {
+		["catpuccin-frappe"] = "󲗰", -- colr-icons-folder_views_open-catpuccin-frappe U+f25f0
+		["catpuccin-latte"] = "󲗱", -- colr-icons-folder_views_open-catpuccin-latte U+f25f1
+		["catpuccin-macchiato"] = "󲗲", -- colr-icons-folder_views_open-catpuccin-macchiato U+f25f2
+		["catpuccin-mocha"] = "󲗳", -- colr-icons-folder_views_open-catpuccin-mocha U+f25f3
+	},
+	["folder_vm"] = {
+		["material"] = "󲗴", -- colr-icons-folder_vm-material U+f25f4
+	},
+	["folder_vscode"] = {
+		["material"] = "󲗵", -- colr-icons-folder_vscode-material U+f25f5
+		["catpuccin-frappe"] = "󲗶", -- colr-icons-folder_vscode-catpuccin-frappe U+f25f6
+		["catpuccin-latte"] = "󲗷", -- colr-icons-folder_vscode-catpuccin-latte U+f25f7
+		["catpuccin-macchiato"] = "󲗸", -- colr-icons-folder_vscode-catpuccin-macchiato U+f25f8
+		["catpuccin-mocha"] = "󲗹", -- colr-icons-folder_vscode-catpuccin-mocha U+f25f9
+	},
+	["folder_vscode_open"] = {
+		["catpuccin-frappe"] = "󲗺", -- colr-icons-folder_vscode_open-catpuccin-frappe U+f25fa
+		["catpuccin-latte"] = "󲗻", -- colr-icons-folder_vscode_open-catpuccin-latte U+f25fb
+		["catpuccin-macchiato"] = "󲗼", -- colr-icons-folder_vscode_open-catpuccin-macchiato U+f25fc
+		["catpuccin-mocha"] = "󲗽", -- colr-icons-folder_vscode_open-catpuccin-mocha U+f25fd
+	},
+	["folder_vue"] = {
+		["material"] = "󲗾", -- colr-icons-folder_vue-material U+f25fe
+	},
+	["folder_vue-directives"] = {
+		["material"] = "󲗿", -- colr-icons-folder_vue-directives-material U+f25ff
+	},
+	["folder_vuepress"] = {
+		["material"] = "󲘀", -- colr-icons-folder_vuepress-material U+f2600
+	},
+	["folder_vuex-store"] = {
+		["material"] = "󲘁", -- colr-icons-folder_vuex-store-material U+f2601
+	},
+	["folder_wakatime"] = {
+		["material"] = "󲘂", -- colr-icons-folder_wakatime-material U+f2602
+	},
+	["folder_webpack"] = {
+		["material"] = "󲘃", -- colr-icons-folder_webpack-material U+f2603
+	},
+	["folder_windows"] = {
+		["material"] = "󲘄", -- colr-icons-folder_windows-material U+f2604
+		["catpuccin-frappe"] = "󲘅", -- colr-icons-folder_windows-catpuccin-frappe U+f2605
+		["catpuccin-latte"] = "󲘆", -- colr-icons-folder_windows-catpuccin-latte U+f2606
+		["catpuccin-macchiato"] = "󲘇", -- colr-icons-folder_windows-catpuccin-macchiato U+f2607
+		["catpuccin-mocha"] = "󲘈", -- colr-icons-folder_windows-catpuccin-mocha U+f2608
+	},
+	["folder_windows_open"] = {
+		["catpuccin-frappe"] = "󲘉", -- colr-icons-folder_windows_open-catpuccin-frappe U+f2609
+		["catpuccin-latte"] = "󲘊", -- colr-icons-folder_windows_open-catpuccin-latte U+f260a
+		["catpuccin-macchiato"] = "󲘋", -- colr-icons-folder_windows_open-catpuccin-macchiato U+f260b
+		["catpuccin-mocha"] = "󲘌", -- colr-icons-folder_windows_open-catpuccin-mocha U+f260c
+	},
+	["folder_wordpress"] = {
+		["material"] = "󲘍", -- colr-icons-folder_wordpress-material U+f260d
+	},
+	["folder_workflows"] = {
+		["catpuccin-frappe"] = "󲘎", -- colr-icons-folder_workflows-catpuccin-frappe U+f260e
+		["catpuccin-latte"] = "󲘏", -- colr-icons-folder_workflows-catpuccin-latte U+f260f
+		["catpuccin-macchiato"] = "󲘐", -- colr-icons-folder_workflows-catpuccin-macchiato U+f2610
+		["catpuccin-mocha"] = "󲘑", -- colr-icons-folder_workflows-catpuccin-mocha U+f2611
+	},
+	["folder_workflows_open"] = {
+		["catpuccin-frappe"] = "󲘒", -- colr-icons-folder_workflows_open-catpuccin-frappe U+f2612
+		["catpuccin-latte"] = "󲘓", -- colr-icons-folder_workflows_open-catpuccin-latte U+f2613
+		["catpuccin-macchiato"] = "󲘔", -- colr-icons-folder_workflows_open-catpuccin-macchiato U+f2614
+		["catpuccin-mocha"] = "󲘕", -- colr-icons-folder_workflows_open-catpuccin-mocha U+f2615
+	},
+	["folder_wxt"] = {
+		["catpuccin-frappe"] = "󲘖", -- colr-icons-folder_wxt-catpuccin-frappe U+f2616
+		["catpuccin-latte"] = "󲘗", -- colr-icons-folder_wxt-catpuccin-latte U+f2617
+		["catpuccin-macchiato"] = "󲘘", -- colr-icons-folder_wxt-catpuccin-macchiato U+f2618
+		["catpuccin-mocha"] = "󲘙", -- colr-icons-folder_wxt-catpuccin-mocha U+f2619
+	},
+	["folder_wxt_open"] = {
+		["catpuccin-frappe"] = "󲘚", -- colr-icons-folder_wxt_open-catpuccin-frappe U+f261a
+		["catpuccin-latte"] = "󲘛", -- colr-icons-folder_wxt_open-catpuccin-latte U+f261b
+		["catpuccin-macchiato"] = "󲘜", -- colr-icons-folder_wxt_open-catpuccin-macchiato U+f261c
+		["catpuccin-mocha"] = "󲘝", -- colr-icons-folder_wxt_open-catpuccin-mocha U+f261d
+	},
+	["folder_xcode"] = {
+		["catpuccin-frappe"] = "󲘞", -- colr-icons-folder_xcode-catpuccin-frappe U+f261e
+		["catpuccin-latte"] = "󲘟", -- colr-icons-folder_xcode-catpuccin-latte U+f261f
+		["catpuccin-macchiato"] = "󲘠", -- colr-icons-folder_xcode-catpuccin-macchiato U+f2620
+		["catpuccin-mocha"] = "󲘡", -- colr-icons-folder_xcode-catpuccin-mocha U+f2621
+	},
+	["folder_xcode_open"] = {
+		["catpuccin-frappe"] = "󲘢", -- colr-icons-folder_xcode_open-catpuccin-frappe U+f2622
+		["catpuccin-latte"] = "󲘣", -- colr-icons-folder_xcode_open-catpuccin-latte U+f2623
+		["catpuccin-macchiato"] = "󲘤", -- colr-icons-folder_xcode_open-catpuccin-macchiato U+f2624
+		["catpuccin-mocha"] = "󲘥", -- colr-icons-folder_xcode_open-catpuccin-mocha U+f2625
+	},
+	["folder_xmake"] = {
+		["catpuccin-frappe"] = "󲘦", -- colr-icons-folder_xmake-catpuccin-frappe U+f2626
+		["catpuccin-latte"] = "󲘧", -- colr-icons-folder_xmake-catpuccin-latte U+f2627
+		["catpuccin-macchiato"] = "󲘨", -- colr-icons-folder_xmake-catpuccin-macchiato U+f2628
+		["catpuccin-mocha"] = "󲘩", -- colr-icons-folder_xmake-catpuccin-mocha U+f2629
+	},
+	["folder_xmake_open"] = {
+		["catpuccin-frappe"] = "󲘪", -- colr-icons-folder_xmake_open-catpuccin-frappe U+f262a
+		["catpuccin-latte"] = "󲘫", -- colr-icons-folder_xmake_open-catpuccin-latte U+f262b
+		["catpuccin-macchiato"] = "󲘬", -- colr-icons-folder_xmake_open-catpuccin-macchiato U+f262c
+		["catpuccin-mocha"] = "󲘭", -- colr-icons-folder_xmake_open-catpuccin-mocha U+f262d
+	},
+	["folder_yarn"] = {
+		["material"] = "󲘮", -- colr-icons-folder_yarn-material U+f262e
+		["catpuccin-frappe"] = "󲘯", -- colr-icons-folder_yarn-catpuccin-frappe U+f262f
+		["catpuccin-latte"] = "󲘰", -- colr-icons-folder_yarn-catpuccin-latte U+f2630
+		["catpuccin-macchiato"] = "󲘱", -- colr-icons-folder_yarn-catpuccin-macchiato U+f2631
+		["catpuccin-mocha"] = "󲘲", -- colr-icons-folder_yarn-catpuccin-mocha U+f2632
+	},
+	["folder_yarn_open"] = {
+		["catpuccin-frappe"] = "󲘳", -- colr-icons-folder_yarn_open-catpuccin-frappe U+f2633
+		["catpuccin-latte"] = "󲘴", -- colr-icons-folder_yarn_open-catpuccin-latte U+f2634
+		["catpuccin-macchiato"] = "󲘵", -- colr-icons-folder_yarn_open-catpuccin-macchiato U+f2635
+		["catpuccin-mocha"] = "󲘶", -- colr-icons-folder_yarn_open-catpuccin-mocha U+f2636
+	},
+	["folder_zeabur"] = {
+		["material"] = "󲘷", -- colr-icons-folder_zeabur-material U+f2637
+	},
+	["folder_zed"] = {
+		["material"] = "󲘸", -- colr-icons-folder_zed-material U+f2638
+	},
 	["font"] = {
-		["material"] = "󲆛", -- colr-icons-font-material U+f219b
-		["catpuccin-frappe"] = "󲆜", -- colr-icons-font-catpuccin-frappe U+f219c
-		["catpuccin-latte"] = "󲆝", -- colr-icons-font-catpuccin-latte U+f219d
-		["catpuccin-macchiato"] = "󲆞", -- colr-icons-font-catpuccin-macchiato U+f219e
-		["catpuccin-mocha"] = "󲆟", -- colr-icons-font-catpuccin-mocha U+f219f
+		["material"] = "󲘹", -- colr-icons-font-material U+f2639
+		["catpuccin-frappe"] = "󲘺", -- colr-icons-font-catpuccin-frappe U+f263a
+		["catpuccin-latte"] = "󲘻", -- colr-icons-font-catpuccin-latte U+f263b
+		["catpuccin-macchiato"] = "󲘼", -- colr-icons-font-catpuccin-macchiato U+f263c
+		["catpuccin-mocha"] = "󲘽", -- colr-icons-font-catpuccin-mocha U+f263d
 	},
 	["foreman"] = {
-		["catpuccin-frappe"] = "󲆠", -- colr-icons-foreman-catpuccin-frappe U+f21a0
-		["catpuccin-latte"] = "󲆡", -- colr-icons-foreman-catpuccin-latte U+f21a1
-		["catpuccin-macchiato"] = "󲆢", -- colr-icons-foreman-catpuccin-macchiato U+f21a2
-		["catpuccin-mocha"] = "󲆣", -- colr-icons-foreman-catpuccin-mocha U+f21a3
+		["catpuccin-frappe"] = "󲘾", -- colr-icons-foreman-catpuccin-frappe U+f263e
+		["catpuccin-latte"] = "󲘿", -- colr-icons-foreman-catpuccin-latte U+f263f
+		["catpuccin-macchiato"] = "󲙀", -- colr-icons-foreman-catpuccin-macchiato U+f2640
+		["catpuccin-mocha"] = "󲙁", -- colr-icons-foreman-catpuccin-mocha U+f2641
 	},
 	["forgejo"] = {
-		["catpuccin-frappe"] = "󲆤", -- colr-icons-forgejo-catpuccin-frappe U+f21a4
-		["catpuccin-latte"] = "󲆥", -- colr-icons-forgejo-catpuccin-latte U+f21a5
-		["catpuccin-macchiato"] = "󲆦", -- colr-icons-forgejo-catpuccin-macchiato U+f21a6
-		["catpuccin-mocha"] = "󲆧", -- colr-icons-forgejo-catpuccin-mocha U+f21a7
+		["catpuccin-frappe"] = "󲙂", -- colr-icons-forgejo-catpuccin-frappe U+f2642
+		["catpuccin-latte"] = "󲙃", -- colr-icons-forgejo-catpuccin-latte U+f2643
+		["catpuccin-macchiato"] = "󲙄", -- colr-icons-forgejo-catpuccin-macchiato U+f2644
+		["catpuccin-mocha"] = "󲙅", -- colr-icons-forgejo-catpuccin-mocha U+f2645
 	},
 	["forth"] = {
-		["material"] = "󲆨", -- colr-icons-forth-material U+f21a8
+		["material"] = "󲙆", -- colr-icons-forth-material U+f2646
 	},
 	["fortran"] = {
-		["material"] = "󲆩", -- colr-icons-fortran-material U+f21a9
-		["catpuccin-frappe"] = "󲆪", -- colr-icons-fortran-catpuccin-frappe U+f21aa
-		["catpuccin-latte"] = "󲆫", -- colr-icons-fortran-catpuccin-latte U+f21ab
-		["catpuccin-macchiato"] = "󲆬", -- colr-icons-fortran-catpuccin-macchiato U+f21ac
-		["catpuccin-mocha"] = "󲆭", -- colr-icons-fortran-catpuccin-mocha U+f21ad
+		["material"] = "󲙇", -- colr-icons-fortran-material U+f2647
+		["catpuccin-frappe"] = "󲙈", -- colr-icons-fortran-catpuccin-frappe U+f2648
+		["catpuccin-latte"] = "󲙉", -- colr-icons-fortran-catpuccin-latte U+f2649
+		["catpuccin-macchiato"] = "󲙊", -- colr-icons-fortran-catpuccin-macchiato U+f264a
+		["catpuccin-mocha"] = "󲙋", -- colr-icons-fortran-catpuccin-mocha U+f264b
 	},
 	["foxpro"] = {
-		["material"] = "󲆮", -- colr-icons-foxpro-material U+f21ae
+		["material"] = "󲙌", -- colr-icons-foxpro-material U+f264c
 	},
 	["freemarker"] = {
-		["material"] = "󲆯", -- colr-icons-freemarker-material U+f21af
+		["material"] = "󲙍", -- colr-icons-freemarker-material U+f264d
 	},
 	["fsharp"] = {
-		["material"] = "󲆰", -- colr-icons-fsharp-material U+f21b0
-		["catpuccin-frappe"] = "󲆱", -- colr-icons-fsharp-catpuccin-frappe U+f21b1
-		["catpuccin-latte"] = "󲆲", -- colr-icons-fsharp-catpuccin-latte U+f21b2
-		["catpuccin-macchiato"] = "󲆳", -- colr-icons-fsharp-catpuccin-macchiato U+f21b3
-		["catpuccin-mocha"] = "󲆴", -- colr-icons-fsharp-catpuccin-mocha U+f21b4
+		["material"] = "󲙎", -- colr-icons-fsharp-material U+f264e
+		["catpuccin-frappe"] = "󲙏", -- colr-icons-fsharp-catpuccin-frappe U+f264f
+		["catpuccin-latte"] = "󲙐", -- colr-icons-fsharp-catpuccin-latte U+f2650
+		["catpuccin-macchiato"] = "󲙑", -- colr-icons-fsharp-catpuccin-macchiato U+f2651
+		["catpuccin-mocha"] = "󲙒", -- colr-icons-fsharp-catpuccin-mocha U+f2652
 	},
 	["fusebox"] = {
-		["material"] = "󲆵", -- colr-icons-fusebox-material U+f21b5
+		["material"] = "󲙓", -- colr-icons-fusebox-material U+f2653
 	},
 	["fvm"] = {
-		["catpuccin-frappe"] = "󲆶", -- colr-icons-fvm-catpuccin-frappe U+f21b6
-		["catpuccin-latte"] = "󲆷", -- colr-icons-fvm-catpuccin-latte U+f21b7
-		["catpuccin-macchiato"] = "󲆸", -- colr-icons-fvm-catpuccin-macchiato U+f21b8
-		["catpuccin-mocha"] = "󲆹", -- colr-icons-fvm-catpuccin-mocha U+f21b9
+		["catpuccin-frappe"] = "󲙔", -- colr-icons-fvm-catpuccin-frappe U+f2654
+		["catpuccin-latte"] = "󲙕", -- colr-icons-fvm-catpuccin-latte U+f2655
+		["catpuccin-macchiato"] = "󲙖", -- colr-icons-fvm-catpuccin-macchiato U+f2656
+		["catpuccin-mocha"] = "󲙗", -- colr-icons-fvm-catpuccin-mocha U+f2657
 	},
 	["gamemaker"] = {
-		["material"] = "󲆺", -- colr-icons-gamemaker-material U+f21ba
+		["material"] = "󲙘", -- colr-icons-gamemaker-material U+f2658
 	},
 	["garden"] = {
-		["material"] = "󲆻", -- colr-icons-garden-material U+f21bb
+		["material"] = "󲙙", -- colr-icons-garden-material U+f2659
 	},
 	["gatsby"] = {
-		["material"] = "󲆼", -- colr-icons-gatsby-material U+f21bc
-		["catpuccin-frappe"] = "󲆽", -- colr-icons-gatsby-catpuccin-frappe U+f21bd
-		["catpuccin-latte"] = "󲆾", -- colr-icons-gatsby-catpuccin-latte U+f21be
-		["catpuccin-macchiato"] = "󲆿", -- colr-icons-gatsby-catpuccin-macchiato U+f21bf
-		["catpuccin-mocha"] = "󲇀", -- colr-icons-gatsby-catpuccin-mocha U+f21c0
+		["material"] = "󲙚", -- colr-icons-gatsby-material U+f265a
+		["catpuccin-frappe"] = "󲙛", -- colr-icons-gatsby-catpuccin-frappe U+f265b
+		["catpuccin-latte"] = "󲙜", -- colr-icons-gatsby-catpuccin-latte U+f265c
+		["catpuccin-macchiato"] = "󲙝", -- colr-icons-gatsby-catpuccin-macchiato U+f265d
+		["catpuccin-mocha"] = "󲙞", -- colr-icons-gatsby-catpuccin-mocha U+f265e
 	},
 	["gcp"] = {
-		["material"] = "󲇁", -- colr-icons-gcp-material U+f21c1
-		["catpuccin-frappe"] = "󲇂", -- colr-icons-gcp-catpuccin-frappe U+f21c2
-		["catpuccin-latte"] = "󲇃", -- colr-icons-gcp-catpuccin-latte U+f21c3
-		["catpuccin-macchiato"] = "󲇄", -- colr-icons-gcp-catpuccin-macchiato U+f21c4
-		["catpuccin-mocha"] = "󲇅", -- colr-icons-gcp-catpuccin-mocha U+f21c5
+		["material"] = "󲙟", -- colr-icons-gcp-material U+f265f
+		["catpuccin-frappe"] = "󲙠", -- colr-icons-gcp-catpuccin-frappe U+f2660
+		["catpuccin-latte"] = "󲙡", -- colr-icons-gcp-catpuccin-latte U+f2661
+		["catpuccin-macchiato"] = "󲙢", -- colr-icons-gcp-catpuccin-macchiato U+f2662
+		["catpuccin-mocha"] = "󲙣", -- colr-icons-gcp-catpuccin-mocha U+f2663
 	},
 	["gemfile"] = {
-		["material"] = "󲇆", -- colr-icons-gemfile-material U+f21c6
+		["material"] = "󲙤", -- colr-icons-gemfile-material U+f2664
 	},
 	["gemini"] = {
-		["material"] = "󲇇", -- colr-icons-gemini-material U+f21c7
+		["material"] = "󲙥", -- colr-icons-gemini-material U+f2665
 	},
 	["gemini-ai"] = {
-		["material"] = "󲇈", -- colr-icons-gemini-ai-material U+f21c8
+		["material"] = "󲙦", -- colr-icons-gemini-ai-material U+f2666
 	},
 	["git"] = {
-		["material"] = "󲇉", -- colr-icons-git-material U+f21c9
-		["catpuccin-frappe"] = "󲇊", -- colr-icons-git-catpuccin-frappe U+f21ca
-		["catpuccin-latte"] = "󲇋", -- colr-icons-git-catpuccin-latte U+f21cb
-		["catpuccin-macchiato"] = "󲇌", -- colr-icons-git-catpuccin-macchiato U+f21cc
-		["catpuccin-mocha"] = "󲇍", -- colr-icons-git-catpuccin-mocha U+f21cd
+		["material"] = "󲙧", -- colr-icons-git-material U+f2667
+		["catpuccin-frappe"] = "󲙨", -- colr-icons-git-catpuccin-frappe U+f2668
+		["catpuccin-latte"] = "󲙩", -- colr-icons-git-catpuccin-latte U+f2669
+		["catpuccin-macchiato"] = "󲙪", -- colr-icons-git-catpuccin-macchiato U+f266a
+		["catpuccin-mocha"] = "󲙫", -- colr-icons-git-catpuccin-mocha U+f266b
 	},
 	["git-cliff"] = {
-		["catpuccin-frappe"] = "󲇎", -- colr-icons-git-cliff-catpuccin-frappe U+f21ce
-		["catpuccin-latte"] = "󲇏", -- colr-icons-git-cliff-catpuccin-latte U+f21cf
-		["catpuccin-macchiato"] = "󲇐", -- colr-icons-git-cliff-catpuccin-macchiato U+f21d0
-		["catpuccin-mocha"] = "󲇑", -- colr-icons-git-cliff-catpuccin-mocha U+f21d1
+		["catpuccin-frappe"] = "󲙬", -- colr-icons-git-cliff-catpuccin-frappe U+f266c
+		["catpuccin-latte"] = "󲙭", -- colr-icons-git-cliff-catpuccin-latte U+f266d
+		["catpuccin-macchiato"] = "󲙮", -- colr-icons-git-cliff-catpuccin-macchiato U+f266e
+		["catpuccin-mocha"] = "󲙯", -- colr-icons-git-cliff-catpuccin-mocha U+f266f
 	},
 	["github-actions-workflow"] = {
-		["material"] = "󲇒", -- colr-icons-github-actions-workflow-material U+f21d2
+		["material"] = "󲙰", -- colr-icons-github-actions-workflow-material U+f2670
 	},
 	["github-sponsors"] = {
-		["material"] = "󲇓", -- colr-icons-github-sponsors-material U+f21d3
+		["material"] = "󲙱", -- colr-icons-github-sponsors-material U+f2671
 	},
 	["gitlab"] = {
-		["material"] = "󲇔", -- colr-icons-gitlab-material U+f21d4
-		["catpuccin-frappe"] = "󲇕", -- colr-icons-gitlab-catpuccin-frappe U+f21d5
-		["catpuccin-latte"] = "󲇖", -- colr-icons-gitlab-catpuccin-latte U+f21d6
-		["catpuccin-macchiato"] = "󲇗", -- colr-icons-gitlab-catpuccin-macchiato U+f21d7
-		["catpuccin-mocha"] = "󲇘", -- colr-icons-gitlab-catpuccin-mocha U+f21d8
+		["material"] = "󲙲", -- colr-icons-gitlab-material U+f2672
+		["catpuccin-frappe"] = "󲙳", -- colr-icons-gitlab-catpuccin-frappe U+f2673
+		["catpuccin-latte"] = "󲙴", -- colr-icons-gitlab-catpuccin-latte U+f2674
+		["catpuccin-macchiato"] = "󲙵", -- colr-icons-gitlab-catpuccin-macchiato U+f2675
+		["catpuccin-mocha"] = "󲙶", -- colr-icons-gitlab-catpuccin-mocha U+f2676
 	},
 	["gitpod"] = {
-		["material"] = "󲇙", -- colr-icons-gitpod-material U+f21d9
-		["catpuccin-frappe"] = "󲇚", -- colr-icons-gitpod-catpuccin-frappe U+f21da
-		["catpuccin-latte"] = "󲇛", -- colr-icons-gitpod-catpuccin-latte U+f21db
-		["catpuccin-macchiato"] = "󲇜", -- colr-icons-gitpod-catpuccin-macchiato U+f21dc
-		["catpuccin-mocha"] = "󲇝", -- colr-icons-gitpod-catpuccin-mocha U+f21dd
+		["material"] = "󲙷", -- colr-icons-gitpod-material U+f2677
+		["catpuccin-frappe"] = "󲙸", -- colr-icons-gitpod-catpuccin-frappe U+f2678
+		["catpuccin-latte"] = "󲙹", -- colr-icons-gitpod-catpuccin-latte U+f2679
+		["catpuccin-macchiato"] = "󲙺", -- colr-icons-gitpod-catpuccin-macchiato U+f267a
+		["catpuccin-mocha"] = "󲙻", -- colr-icons-gitpod-catpuccin-mocha U+f267b
 	},
 	["gleam"] = {
-		["material"] = "󲇞", -- colr-icons-gleam-material U+f21de
-		["catpuccin-frappe"] = "󲇟", -- colr-icons-gleam-catpuccin-frappe U+f21df
-		["catpuccin-latte"] = "󲇠", -- colr-icons-gleam-catpuccin-latte U+f21e0
-		["catpuccin-macchiato"] = "󲇡", -- colr-icons-gleam-catpuccin-macchiato U+f21e1
-		["catpuccin-mocha"] = "󲇢", -- colr-icons-gleam-catpuccin-mocha U+f21e2
+		["material"] = "󲙼", -- colr-icons-gleam-material U+f267c
+		["catpuccin-frappe"] = "󲙽", -- colr-icons-gleam-catpuccin-frappe U+f267d
+		["catpuccin-latte"] = "󲙾", -- colr-icons-gleam-catpuccin-latte U+f267e
+		["catpuccin-macchiato"] = "󲙿", -- colr-icons-gleam-catpuccin-macchiato U+f267f
+		["catpuccin-mocha"] = "󲚀", -- colr-icons-gleam-catpuccin-mocha U+f2680
 	},
 	["gleam-config"] = {
-		["catpuccin-frappe"] = "󲇣", -- colr-icons-gleam-config-catpuccin-frappe U+f21e3
-		["catpuccin-latte"] = "󲇤", -- colr-icons-gleam-config-catpuccin-latte U+f21e4
-		["catpuccin-macchiato"] = "󲇥", -- colr-icons-gleam-config-catpuccin-macchiato U+f21e5
-		["catpuccin-mocha"] = "󲇦", -- colr-icons-gleam-config-catpuccin-mocha U+f21e6
+		["catpuccin-frappe"] = "󲚁", -- colr-icons-gleam-config-catpuccin-frappe U+f2681
+		["catpuccin-latte"] = "󲚂", -- colr-icons-gleam-config-catpuccin-latte U+f2682
+		["catpuccin-macchiato"] = "󲚃", -- colr-icons-gleam-config-catpuccin-macchiato U+f2683
+		["catpuccin-mocha"] = "󲚄", -- colr-icons-gleam-config-catpuccin-mocha U+f2684
 	},
 	["gnuplot"] = {
-		["material"] = "󲇧", -- colr-icons-gnuplot-material U+f21e7
+		["material"] = "󲚅", -- colr-icons-gnuplot-material U+f2685
 	},
 	["go"] = {
-		["material"] = "󲇨", -- colr-icons-go-material U+f21e8
-		["catpuccin-frappe"] = "󲇩", -- colr-icons-go-catpuccin-frappe U+f21e9
-		["catpuccin-latte"] = "󲇪", -- colr-icons-go-catpuccin-latte U+f21ea
-		["catpuccin-macchiato"] = "󲇫", -- colr-icons-go-catpuccin-macchiato U+f21eb
-		["catpuccin-mocha"] = "󲇬", -- colr-icons-go-catpuccin-mocha U+f21ec
+		["material"] = "󲚆", -- colr-icons-go-material U+f2686
+		["catpuccin-frappe"] = "󲚇", -- colr-icons-go-catpuccin-frappe U+f2687
+		["catpuccin-latte"] = "󲚈", -- colr-icons-go-catpuccin-latte U+f2688
+		["catpuccin-macchiato"] = "󲚉", -- colr-icons-go-catpuccin-macchiato U+f2689
+		["catpuccin-mocha"] = "󲚊", -- colr-icons-go-catpuccin-mocha U+f268a
 	},
 	["go-mod"] = {
-		["material"] = "󲇭", -- colr-icons-go-mod-material U+f21ed
-		["catpuccin-frappe"] = "󲇮", -- colr-icons-go-mod-catpuccin-frappe U+f21ee
-		["catpuccin-latte"] = "󲇯", -- colr-icons-go-mod-catpuccin-latte U+f21ef
-		["catpuccin-macchiato"] = "󲇰", -- colr-icons-go-mod-catpuccin-macchiato U+f21f0
-		["catpuccin-mocha"] = "󲇱", -- colr-icons-go-mod-catpuccin-mocha U+f21f1
+		["material"] = "󲚋", -- colr-icons-go-mod-material U+f268b
+		["catpuccin-frappe"] = "󲚌", -- colr-icons-go-mod-catpuccin-frappe U+f268c
+		["catpuccin-latte"] = "󲚍", -- colr-icons-go-mod-catpuccin-latte U+f268d
+		["catpuccin-macchiato"] = "󲚎", -- colr-icons-go-mod-catpuccin-macchiato U+f268e
+		["catpuccin-mocha"] = "󲚏", -- colr-icons-go-mod-catpuccin-mocha U+f268f
 	},
 	["go-template"] = {
-		["catpuccin-frappe"] = "󲇲", -- colr-icons-go-template-catpuccin-frappe U+f21f2
-		["catpuccin-latte"] = "󲇳", -- colr-icons-go-template-catpuccin-latte U+f21f3
-		["catpuccin-macchiato"] = "󲇴", -- colr-icons-go-template-catpuccin-macchiato U+f21f4
-		["catpuccin-mocha"] = "󲇵", -- colr-icons-go-template-catpuccin-mocha U+f21f5
+		["catpuccin-frappe"] = "󲚐", -- colr-icons-go-template-catpuccin-frappe U+f2690
+		["catpuccin-latte"] = "󲚑", -- colr-icons-go-template-catpuccin-latte U+f2691
+		["catpuccin-macchiato"] = "󲚒", -- colr-icons-go-template-catpuccin-macchiato U+f2692
+		["catpuccin-mocha"] = "󲚓", -- colr-icons-go-template-catpuccin-mocha U+f2693
 	},
 	["go_gopher"] = {
-		["material"] = "󲇶", -- colr-icons-go_gopher-material U+f21f6
+		["material"] = "󲚔", -- colr-icons-go_gopher-material U+f2694
 	},
 	["godot"] = {
-		["material"] = "󲇷", -- colr-icons-godot-material U+f21f7
-		["catpuccin-frappe"] = "󲇸", -- colr-icons-godot-catpuccin-frappe U+f21f8
-		["catpuccin-latte"] = "󲇹", -- colr-icons-godot-catpuccin-latte U+f21f9
-		["catpuccin-macchiato"] = "󲇺", -- colr-icons-godot-catpuccin-macchiato U+f21fa
-		["catpuccin-mocha"] = "󲇻", -- colr-icons-godot-catpuccin-mocha U+f21fb
+		["material"] = "󲚕", -- colr-icons-godot-material U+f2695
+		["catpuccin-frappe"] = "󲚖", -- colr-icons-godot-catpuccin-frappe U+f2696
+		["catpuccin-latte"] = "󲚗", -- colr-icons-godot-catpuccin-latte U+f2697
+		["catpuccin-macchiato"] = "󲚘", -- colr-icons-godot-catpuccin-macchiato U+f2698
+		["catpuccin-mocha"] = "󲚙", -- colr-icons-godot-catpuccin-mocha U+f2699
 	},
 	["godot-assets"] = {
-		["material"] = "󲇼", -- colr-icons-godot-assets-material U+f21fc
-		["catpuccin-frappe"] = "󲇽", -- colr-icons-godot-assets-catpuccin-frappe U+f21fd
-		["catpuccin-latte"] = "󲇾", -- colr-icons-godot-assets-catpuccin-latte U+f21fe
-		["catpuccin-macchiato"] = "󲇿", -- colr-icons-godot-assets-catpuccin-macchiato U+f21ff
-		["catpuccin-mocha"] = "󲈀", -- colr-icons-godot-assets-catpuccin-mocha U+f2200
+		["material"] = "󲚚", -- colr-icons-godot-assets-material U+f269a
+		["catpuccin-frappe"] = "󲚛", -- colr-icons-godot-assets-catpuccin-frappe U+f269b
+		["catpuccin-latte"] = "󲚜", -- colr-icons-godot-assets-catpuccin-latte U+f269c
+		["catpuccin-macchiato"] = "󲚝", -- colr-icons-godot-assets-catpuccin-macchiato U+f269d
+		["catpuccin-mocha"] = "󲚞", -- colr-icons-godot-assets-catpuccin-mocha U+f269e
 	},
 	["google"] = {
-		["material"] = "󲈁", -- colr-icons-google-material U+f2201
+		["material"] = "󲚟", -- colr-icons-google-material U+f269f
 	},
 	["gradle"] = {
-		["material"] = "󲈂", -- colr-icons-gradle-material U+f2202
-		["catpuccin-frappe"] = "󲈃", -- colr-icons-gradle-catpuccin-frappe U+f2203
-		["catpuccin-latte"] = "󲈄", -- colr-icons-gradle-catpuccin-latte U+f2204
-		["catpuccin-macchiato"] = "󲈅", -- colr-icons-gradle-catpuccin-macchiato U+f2205
-		["catpuccin-mocha"] = "󲈆", -- colr-icons-gradle-catpuccin-mocha U+f2206
+		["material"] = "󲚠", -- colr-icons-gradle-material U+f26a0
+		["catpuccin-frappe"] = "󲚡", -- colr-icons-gradle-catpuccin-frappe U+f26a1
+		["catpuccin-latte"] = "󲚢", -- colr-icons-gradle-catpuccin-latte U+f26a2
+		["catpuccin-macchiato"] = "󲚣", -- colr-icons-gradle-catpuccin-macchiato U+f26a3
+		["catpuccin-mocha"] = "󲚤", -- colr-icons-gradle-catpuccin-mocha U+f26a4
 	},
 	["grafana-alloy"] = {
-		["material"] = "󲈇", -- colr-icons-grafana-alloy-material U+f2207
+		["material"] = "󲚥", -- colr-icons-grafana-alloy-material U+f26a5
 	},
 	["grain"] = {
-		["material"] = "󲈈", -- colr-icons-grain-material U+f2208
+		["material"] = "󲚦", -- colr-icons-grain-material U+f26a6
 	},
 	["graphcool"] = {
-		["material"] = "󲈉", -- colr-icons-graphcool-material U+f2209
+		["material"] = "󲚧", -- colr-icons-graphcool-material U+f26a7
 	},
 	["graphql"] = {
-		["material"] = "󲈊", -- colr-icons-graphql-material U+f220a
-		["catpuccin-frappe"] = "󲈋", -- colr-icons-graphql-catpuccin-frappe U+f220b
-		["catpuccin-latte"] = "󲈌", -- colr-icons-graphql-catpuccin-latte U+f220c
-		["catpuccin-macchiato"] = "󲈍", -- colr-icons-graphql-catpuccin-macchiato U+f220d
-		["catpuccin-mocha"] = "󲈎", -- colr-icons-graphql-catpuccin-mocha U+f220e
+		["material"] = "󲚨", -- colr-icons-graphql-material U+f26a8
+		["catpuccin-frappe"] = "󲚩", -- colr-icons-graphql-catpuccin-frappe U+f26a9
+		["catpuccin-latte"] = "󲚪", -- colr-icons-graphql-catpuccin-latte U+f26aa
+		["catpuccin-macchiato"] = "󲚫", -- colr-icons-graphql-catpuccin-macchiato U+f26ab
+		["catpuccin-mocha"] = "󲚬", -- colr-icons-graphql-catpuccin-mocha U+f26ac
 	},
 	["gridsome"] = {
-		["material"] = "󲈏", -- colr-icons-gridsome-material U+f220f
+		["material"] = "󲚭", -- colr-icons-gridsome-material U+f26ad
 	},
 	["groovy"] = {
-		["material"] = "󲈐", -- colr-icons-groovy-material U+f2210
-		["catpuccin-frappe"] = "󲈑", -- colr-icons-groovy-catpuccin-frappe U+f2211
-		["catpuccin-latte"] = "󲈒", -- colr-icons-groovy-catpuccin-latte U+f2212
-		["catpuccin-macchiato"] = "󲈓", -- colr-icons-groovy-catpuccin-macchiato U+f2213
-		["catpuccin-mocha"] = "󲈔", -- colr-icons-groovy-catpuccin-mocha U+f2214
+		["material"] = "󲚮", -- colr-icons-groovy-material U+f26ae
+		["catpuccin-frappe"] = "󲚯", -- colr-icons-groovy-catpuccin-frappe U+f26af
+		["catpuccin-latte"] = "󲚰", -- colr-icons-groovy-catpuccin-latte U+f26b0
+		["catpuccin-macchiato"] = "󲚱", -- colr-icons-groovy-catpuccin-macchiato U+f26b1
+		["catpuccin-mocha"] = "󲚲", -- colr-icons-groovy-catpuccin-mocha U+f26b2
 	},
 	["grunt"] = {
-		["material"] = "󲈕", -- colr-icons-grunt-material U+f2215
+		["material"] = "󲚳", -- colr-icons-grunt-material U+f26b3
 	},
 	["gulp"] = {
-		["material"] = "󲈖", -- colr-icons-gulp-material U+f2216
-		["catpuccin-frappe"] = "󲈗", -- colr-icons-gulp-catpuccin-frappe U+f2217
-		["catpuccin-latte"] = "󲈘", -- colr-icons-gulp-catpuccin-latte U+f2218
-		["catpuccin-macchiato"] = "󲈙", -- colr-icons-gulp-catpuccin-macchiato U+f2219
-		["catpuccin-mocha"] = "󲈚", -- colr-icons-gulp-catpuccin-mocha U+f221a
+		["material"] = "󲚴", -- colr-icons-gulp-material U+f26b4
+		["catpuccin-frappe"] = "󲚵", -- colr-icons-gulp-catpuccin-frappe U+f26b5
+		["catpuccin-latte"] = "󲚶", -- colr-icons-gulp-catpuccin-latte U+f26b6
+		["catpuccin-macchiato"] = "󲚷", -- colr-icons-gulp-catpuccin-macchiato U+f26b7
+		["catpuccin-mocha"] = "󲚸", -- colr-icons-gulp-catpuccin-mocha U+f26b8
 	},
 	["h"] = {
-		["material"] = "󲈛", -- colr-icons-h-material U+f221b
+		["material"] = "󲚹", -- colr-icons-h-material U+f26b9
 	},
 	["hack"] = {
-		["material"] = "󲈜", -- colr-icons-hack-material U+f221c
+		["material"] = "󲚺", -- colr-icons-hack-material U+f26ba
 	},
 	["hacking"] = {
-		["catpuccin-frappe"] = "󲈝", -- colr-icons-hacking-catpuccin-frappe U+f221d
-		["catpuccin-latte"] = "󲈞", -- colr-icons-hacking-catpuccin-latte U+f221e
-		["catpuccin-macchiato"] = "󲈟", -- colr-icons-hacking-catpuccin-macchiato U+f221f
-		["catpuccin-mocha"] = "󲈠", -- colr-icons-hacking-catpuccin-mocha U+f2220
+		["catpuccin-frappe"] = "󲚻", -- colr-icons-hacking-catpuccin-frappe U+f26bb
+		["catpuccin-latte"] = "󲚼", -- colr-icons-hacking-catpuccin-latte U+f26bc
+		["catpuccin-macchiato"] = "󲚽", -- colr-icons-hacking-catpuccin-macchiato U+f26bd
+		["catpuccin-mocha"] = "󲚾", -- colr-icons-hacking-catpuccin-mocha U+f26be
 	},
 	["hadolint"] = {
-		["material"] = "󲈡", -- colr-icons-hadolint-material U+f2221
+		["material"] = "󲚿", -- colr-icons-hadolint-material U+f26bf
 	},
 	["haml"] = {
-		["material"] = "󲈢", -- colr-icons-haml-material U+f2222
-		["catpuccin-frappe"] = "󲈣", -- colr-icons-haml-catpuccin-frappe U+f2223
-		["catpuccin-latte"] = "󲈤", -- colr-icons-haml-catpuccin-latte U+f2224
-		["catpuccin-macchiato"] = "󲈥", -- colr-icons-haml-catpuccin-macchiato U+f2225
-		["catpuccin-mocha"] = "󲈦", -- colr-icons-haml-catpuccin-mocha U+f2226
+		["material"] = "󲛀", -- colr-icons-haml-material U+f26c0
+		["catpuccin-frappe"] = "󲛁", -- colr-icons-haml-catpuccin-frappe U+f26c1
+		["catpuccin-latte"] = "󲛂", -- colr-icons-haml-catpuccin-latte U+f26c2
+		["catpuccin-macchiato"] = "󲛃", -- colr-icons-haml-catpuccin-macchiato U+f26c3
+		["catpuccin-mocha"] = "󲛄", -- colr-icons-haml-catpuccin-mocha U+f26c4
 	},
 	["handlebars"] = {
-		["material"] = "󲈧", -- colr-icons-handlebars-material U+f2227
-		["catpuccin-frappe"] = "󲈨", -- colr-icons-handlebars-catpuccin-frappe U+f2228
-		["catpuccin-latte"] = "󲈩", -- colr-icons-handlebars-catpuccin-latte U+f2229
-		["catpuccin-macchiato"] = "󲈪", -- colr-icons-handlebars-catpuccin-macchiato U+f222a
-		["catpuccin-mocha"] = "󲈫", -- colr-icons-handlebars-catpuccin-mocha U+f222b
+		["material"] = "󲛅", -- colr-icons-handlebars-material U+f26c5
+		["catpuccin-frappe"] = "󲛆", -- colr-icons-handlebars-catpuccin-frappe U+f26c6
+		["catpuccin-latte"] = "󲛇", -- colr-icons-handlebars-catpuccin-latte U+f26c7
+		["catpuccin-macchiato"] = "󲛈", -- colr-icons-handlebars-catpuccin-macchiato U+f26c8
+		["catpuccin-mocha"] = "󲛉", -- colr-icons-handlebars-catpuccin-mocha U+f26c9
 	},
 	["happo"] = {
-		["material"] = "󲈬", -- colr-icons-happo-material U+f222c
+		["material"] = "󲛊", -- colr-icons-happo-material U+f26ca
 	},
 	["hardhat"] = {
-		["material"] = "󲈭", -- colr-icons-hardhat-material U+f222d
-		["catpuccin-frappe"] = "󲈮", -- colr-icons-hardhat-catpuccin-frappe U+f222e
-		["catpuccin-latte"] = "󲈯", -- colr-icons-hardhat-catpuccin-latte U+f222f
-		["catpuccin-macchiato"] = "󲈰", -- colr-icons-hardhat-catpuccin-macchiato U+f2230
-		["catpuccin-mocha"] = "󲈱", -- colr-icons-hardhat-catpuccin-mocha U+f2231
+		["material"] = "󲛋", -- colr-icons-hardhat-material U+f26cb
+		["catpuccin-frappe"] = "󲛌", -- colr-icons-hardhat-catpuccin-frappe U+f26cc
+		["catpuccin-latte"] = "󲛍", -- colr-icons-hardhat-catpuccin-latte U+f26cd
+		["catpuccin-macchiato"] = "󲛎", -- colr-icons-hardhat-catpuccin-macchiato U+f26ce
+		["catpuccin-mocha"] = "󲛏", -- colr-icons-hardhat-catpuccin-mocha U+f26cf
 	},
 	["hare"] = {
-		["catpuccin-frappe"] = "󲈲", -- colr-icons-hare-catpuccin-frappe U+f2232
-		["catpuccin-latte"] = "󲈳", -- colr-icons-hare-catpuccin-latte U+f2233
-		["catpuccin-macchiato"] = "󲈴", -- colr-icons-hare-catpuccin-macchiato U+f2234
-		["catpuccin-mocha"] = "󲈵", -- colr-icons-hare-catpuccin-mocha U+f2235
+		["catpuccin-frappe"] = "󲛐", -- colr-icons-hare-catpuccin-frappe U+f26d0
+		["catpuccin-latte"] = "󲛑", -- colr-icons-hare-catpuccin-latte U+f26d1
+		["catpuccin-macchiato"] = "󲛒", -- colr-icons-hare-catpuccin-macchiato U+f26d2
+		["catpuccin-mocha"] = "󲛓", -- colr-icons-hare-catpuccin-mocha U+f26d3
 	},
 	["harmonix"] = {
-		["material"] = "󲈶", -- colr-icons-harmonix-material U+f2236
+		["material"] = "󲛔", -- colr-icons-harmonix-material U+f26d4
 	},
 	["haskell"] = {
-		["material"] = "󲈷", -- colr-icons-haskell-material U+f2237
-		["catpuccin-frappe"] = "󲈸", -- colr-icons-haskell-catpuccin-frappe U+f2238
-		["catpuccin-latte"] = "󲈹", -- colr-icons-haskell-catpuccin-latte U+f2239
-		["catpuccin-macchiato"] = "󲈺", -- colr-icons-haskell-catpuccin-macchiato U+f223a
-		["catpuccin-mocha"] = "󲈻", -- colr-icons-haskell-catpuccin-mocha U+f223b
+		["material"] = "󲛕", -- colr-icons-haskell-material U+f26d5
+		["catpuccin-frappe"] = "󲛖", -- colr-icons-haskell-catpuccin-frappe U+f26d6
+		["catpuccin-latte"] = "󲛗", -- colr-icons-haskell-catpuccin-latte U+f26d7
+		["catpuccin-macchiato"] = "󲛘", -- colr-icons-haskell-catpuccin-macchiato U+f26d8
+		["catpuccin-mocha"] = "󲛙", -- colr-icons-haskell-catpuccin-mocha U+f26d9
 	},
 	["haxe"] = {
-		["material"] = "󲈼", -- colr-icons-haxe-material U+f223c
-		["catpuccin-frappe"] = "󲈽", -- colr-icons-haxe-catpuccin-frappe U+f223d
-		["catpuccin-latte"] = "󲈾", -- colr-icons-haxe-catpuccin-latte U+f223e
-		["catpuccin-macchiato"] = "󲈿", -- colr-icons-haxe-catpuccin-macchiato U+f223f
-		["catpuccin-mocha"] = "󲉀", -- colr-icons-haxe-catpuccin-mocha U+f2240
+		["material"] = "󲛚", -- colr-icons-haxe-material U+f26da
+		["catpuccin-frappe"] = "󲛛", -- colr-icons-haxe-catpuccin-frappe U+f26db
+		["catpuccin-latte"] = "󲛜", -- colr-icons-haxe-catpuccin-latte U+f26dc
+		["catpuccin-macchiato"] = "󲛝", -- colr-icons-haxe-catpuccin-macchiato U+f26dd
+		["catpuccin-mocha"] = "󲛞", -- colr-icons-haxe-catpuccin-mocha U+f26de
 	},
 	["hcl"] = {
-		["material"] = "󲉁", -- colr-icons-hcl-material U+f2241
+		["material"] = "󲛟", -- colr-icons-hcl-material U+f26df
 	},
 	["hcl_light"] = {
-		["material"] = "󲉂", -- colr-icons-hcl_light-material U+f2242
+		["material"] = "󲛠", -- colr-icons-hcl_light-material U+f26e0
 	},
 	["helm"] = {
-		["material"] = "󲉃", -- colr-icons-helm-material U+f2243
-		["catpuccin-frappe"] = "󲉄", -- colr-icons-helm-catpuccin-frappe U+f2244
-		["catpuccin-latte"] = "󲉅", -- colr-icons-helm-catpuccin-latte U+f2245
-		["catpuccin-macchiato"] = "󲉆", -- colr-icons-helm-catpuccin-macchiato U+f2246
-		["catpuccin-mocha"] = "󲉇", -- colr-icons-helm-catpuccin-mocha U+f2247
+		["material"] = "󲛡", -- colr-icons-helm-material U+f26e1
+		["catpuccin-frappe"] = "󲛢", -- colr-icons-helm-catpuccin-frappe U+f26e2
+		["catpuccin-latte"] = "󲛣", -- colr-icons-helm-catpuccin-latte U+f26e3
+		["catpuccin-macchiato"] = "󲛤", -- colr-icons-helm-catpuccin-macchiato U+f26e4
+		["catpuccin-mocha"] = "󲛥", -- colr-icons-helm-catpuccin-mocha U+f26e5
 	},
 	["heroku"] = {
-		["material"] = "󲉈", -- colr-icons-heroku-material U+f2248
-		["catpuccin-frappe"] = "󲉉", -- colr-icons-heroku-catpuccin-frappe U+f2249
-		["catpuccin-latte"] = "󲉊", -- colr-icons-heroku-catpuccin-latte U+f224a
-		["catpuccin-macchiato"] = "󲉋", -- colr-icons-heroku-catpuccin-macchiato U+f224b
-		["catpuccin-mocha"] = "󲉌", -- colr-icons-heroku-catpuccin-mocha U+f224c
+		["material"] = "󲛦", -- colr-icons-heroku-material U+f26e6
+		["catpuccin-frappe"] = "󲛧", -- colr-icons-heroku-catpuccin-frappe U+f26e7
+		["catpuccin-latte"] = "󲛨", -- colr-icons-heroku-catpuccin-latte U+f26e8
+		["catpuccin-macchiato"] = "󲛩", -- colr-icons-heroku-catpuccin-macchiato U+f26e9
+		["catpuccin-mocha"] = "󲛪", -- colr-icons-heroku-catpuccin-mocha U+f26ea
 	},
 	["hex"] = {
-		["material"] = "󲉍", -- colr-icons-hex-material U+f224d
+		["material"] = "󲛫", -- colr-icons-hex-material U+f26eb
 	},
 	["hip"] = {
-		["material"] = "󲉎", -- colr-icons-hip-material U+f224e
+		["material"] = "󲛬", -- colr-icons-hip-material U+f26ec
 	},
 	["histoire"] = {
-		["material"] = "󲉏", -- colr-icons-histoire-material U+f224f
-		["catpuccin-frappe"] = "󲉐", -- colr-icons-histoire-catpuccin-frappe U+f2250
-		["catpuccin-latte"] = "󲉑", -- colr-icons-histoire-catpuccin-latte U+f2251
-		["catpuccin-macchiato"] = "󲉒", -- colr-icons-histoire-catpuccin-macchiato U+f2252
-		["catpuccin-mocha"] = "󲉓", -- colr-icons-histoire-catpuccin-mocha U+f2253
+		["material"] = "󲛭", -- colr-icons-histoire-material U+f26ed
+		["catpuccin-frappe"] = "󲛮", -- colr-icons-histoire-catpuccin-frappe U+f26ee
+		["catpuccin-latte"] = "󲛯", -- colr-icons-histoire-catpuccin-latte U+f26ef
+		["catpuccin-macchiato"] = "󲛰", -- colr-icons-histoire-catpuccin-macchiato U+f26f0
+		["catpuccin-mocha"] = "󲛱", -- colr-icons-histoire-catpuccin-mocha U+f26f1
 	},
 	["hjson"] = {
-		["material"] = "󲉔", -- colr-icons-hjson-material U+f2254
+		["material"] = "󲛲", -- colr-icons-hjson-material U+f26f2
 	},
 	["horusec"] = {
-		["material"] = "󲉕", -- colr-icons-horusec-material U+f2255
+		["material"] = "󲛳", -- colr-icons-horusec-material U+f26f3
 	},
 	["hosts"] = {
-		["material"] = "󲉖", -- colr-icons-hosts-material U+f2256
+		["material"] = "󲛴", -- colr-icons-hosts-material U+f26f4
 	},
 	["hosts_light"] = {
-		["material"] = "󲉗", -- colr-icons-hosts_light-material U+f2257
+		["material"] = "󲛵", -- colr-icons-hosts_light-material U+f26f5
 	},
 	["hpp"] = {
-		["material"] = "󲉘", -- colr-icons-hpp-material U+f2258
+		["material"] = "󲛶", -- colr-icons-hpp-material U+f26f6
 	},
 	["html"] = {
-		["material"] = "󲉙", -- colr-icons-html-material U+f2259
-		["catpuccin-frappe"] = "󲉚", -- colr-icons-html-catpuccin-frappe U+f225a
-		["catpuccin-latte"] = "󲉛", -- colr-icons-html-catpuccin-latte U+f225b
-		["catpuccin-macchiato"] = "󲉜", -- colr-icons-html-catpuccin-macchiato U+f225c
-		["catpuccin-mocha"] = "󲉝", -- colr-icons-html-catpuccin-mocha U+f225d
+		["material"] = "󲛷", -- colr-icons-html-material U+f26f7
+		["catpuccin-frappe"] = "󲛸", -- colr-icons-html-catpuccin-frappe U+f26f8
+		["catpuccin-latte"] = "󲛹", -- colr-icons-html-catpuccin-latte U+f26f9
+		["catpuccin-macchiato"] = "󲛺", -- colr-icons-html-catpuccin-macchiato U+f26fa
+		["catpuccin-mocha"] = "󲛻", -- colr-icons-html-catpuccin-mocha U+f26fb
 	},
 	["http"] = {
-		["material"] = "󲉞", -- colr-icons-http-material U+f225e
-		["catpuccin-frappe"] = "󲉟", -- colr-icons-http-catpuccin-frappe U+f225f
-		["catpuccin-latte"] = "󲉠", -- colr-icons-http-catpuccin-latte U+f2260
-		["catpuccin-macchiato"] = "󲉡", -- colr-icons-http-catpuccin-macchiato U+f2261
-		["catpuccin-mocha"] = "󲉢", -- colr-icons-http-catpuccin-mocha U+f2262
+		["material"] = "󲛼", -- colr-icons-http-material U+f26fc
+		["catpuccin-frappe"] = "󲛽", -- colr-icons-http-catpuccin-frappe U+f26fd
+		["catpuccin-latte"] = "󲛾", -- colr-icons-http-catpuccin-latte U+f26fe
+		["catpuccin-macchiato"] = "󲛿", -- colr-icons-http-catpuccin-macchiato U+f26ff
+		["catpuccin-mocha"] = "󲜀", -- colr-icons-http-catpuccin-mocha U+f2700
 	},
 	["huff"] = {
-		["material"] = "󲉣", -- colr-icons-huff-material U+f2263
-		["catpuccin-frappe"] = "󲉤", -- colr-icons-huff-catpuccin-frappe U+f2264
-		["catpuccin-latte"] = "󲉥", -- colr-icons-huff-catpuccin-latte U+f2265
-		["catpuccin-macchiato"] = "󲉦", -- colr-icons-huff-catpuccin-macchiato U+f2266
-		["catpuccin-mocha"] = "󲉧", -- colr-icons-huff-catpuccin-mocha U+f2267
+		["material"] = "󲜁", -- colr-icons-huff-material U+f2701
+		["catpuccin-frappe"] = "󲜂", -- colr-icons-huff-catpuccin-frappe U+f2702
+		["catpuccin-latte"] = "󲜃", -- colr-icons-huff-catpuccin-latte U+f2703
+		["catpuccin-macchiato"] = "󲜄", -- colr-icons-huff-catpuccin-macchiato U+f2704
+		["catpuccin-mocha"] = "󲜅", -- colr-icons-huff-catpuccin-mocha U+f2705
 	},
 	["huff_light"] = {
-		["material"] = "󲉨", -- colr-icons-huff_light-material U+f2268
+		["material"] = "󲜆", -- colr-icons-huff_light-material U+f2706
 	},
 	["hugo"] = {
-		["catpuccin-frappe"] = "󲉩", -- colr-icons-hugo-catpuccin-frappe U+f2269
-		["catpuccin-latte"] = "󲉪", -- colr-icons-hugo-catpuccin-latte U+f226a
-		["catpuccin-macchiato"] = "󲉫", -- colr-icons-hugo-catpuccin-macchiato U+f226b
-		["catpuccin-mocha"] = "󲉬", -- colr-icons-hugo-catpuccin-mocha U+f226c
+		["catpuccin-frappe"] = "󲜇", -- colr-icons-hugo-catpuccin-frappe U+f2707
+		["catpuccin-latte"] = "󲜈", -- colr-icons-hugo-catpuccin-latte U+f2708
+		["catpuccin-macchiato"] = "󲜉", -- colr-icons-hugo-catpuccin-macchiato U+f2709
+		["catpuccin-mocha"] = "󲜊", -- colr-icons-hugo-catpuccin-mocha U+f270a
 	},
 	["humans"] = {
-		["catpuccin-frappe"] = "󲉭", -- colr-icons-humans-catpuccin-frappe U+f226d
-		["catpuccin-latte"] = "󲉮", -- colr-icons-humans-catpuccin-latte U+f226e
-		["catpuccin-macchiato"] = "󲉯", -- colr-icons-humans-catpuccin-macchiato U+f226f
-		["catpuccin-mocha"] = "󲉰", -- colr-icons-humans-catpuccin-mocha U+f2270
+		["catpuccin-frappe"] = "󲜋", -- colr-icons-humans-catpuccin-frappe U+f270b
+		["catpuccin-latte"] = "󲜌", -- colr-icons-humans-catpuccin-latte U+f270c
+		["catpuccin-macchiato"] = "󲜍", -- colr-icons-humans-catpuccin-macchiato U+f270d
+		["catpuccin-mocha"] = "󲜎", -- colr-icons-humans-catpuccin-mocha U+f270e
 	},
 	["hurl"] = {
-		["material"] = "󲉱", -- colr-icons-hurl-material U+f2271
+		["material"] = "󲜏", -- colr-icons-hurl-material U+f270f
 	},
 	["husky"] = {
-		["material"] = "󲉲", -- colr-icons-husky-material U+f2272
-		["catpuccin-frappe"] = "󲉳", -- colr-icons-husky-catpuccin-frappe U+f2273
-		["catpuccin-latte"] = "󲉴", -- colr-icons-husky-catpuccin-latte U+f2274
-		["catpuccin-macchiato"] = "󲉵", -- colr-icons-husky-catpuccin-macchiato U+f2275
-		["catpuccin-mocha"] = "󲉶", -- colr-icons-husky-catpuccin-mocha U+f2276
+		["material"] = "󲜐", -- colr-icons-husky-material U+f2710
+		["catpuccin-frappe"] = "󲜑", -- colr-icons-husky-catpuccin-frappe U+f2711
+		["catpuccin-latte"] = "󲜒", -- colr-icons-husky-catpuccin-latte U+f2712
+		["catpuccin-macchiato"] = "󲜓", -- colr-icons-husky-catpuccin-macchiato U+f2713
+		["catpuccin-mocha"] = "󲜔", -- colr-icons-husky-catpuccin-mocha U+f2714
 	},
 	["i18n"] = {
-		["material"] = "󲉷", -- colr-icons-i18n-material U+f2277
+		["material"] = "󲜕", -- colr-icons-i18n-material U+f2715
 	},
 	["idris"] = {
-		["material"] = "󲉸", -- colr-icons-idris-material U+f2278
+		["material"] = "󲜖", -- colr-icons-idris-material U+f2716
 	},
 	["ifanr-cloud"] = {
-		["material"] = "󲉹", -- colr-icons-ifanr-cloud-material U+f2279
+		["material"] = "󲜗", -- colr-icons-ifanr-cloud-material U+f2717
 	},
 	["image"] = {
-		["material"] = "󲉺", -- colr-icons-image-material U+f227a
-		["catpuccin-frappe"] = "󲉻", -- colr-icons-image-catpuccin-frappe U+f227b
-		["catpuccin-latte"] = "󲉼", -- colr-icons-image-catpuccin-latte U+f227c
-		["catpuccin-macchiato"] = "󲉽", -- colr-icons-image-catpuccin-macchiato U+f227d
-		["catpuccin-mocha"] = "󲉾", -- colr-icons-image-catpuccin-mocha U+f227e
+		["material"] = "󲜘", -- colr-icons-image-material U+f2718
+		["catpuccin-frappe"] = "󲜙", -- colr-icons-image-catpuccin-frappe U+f2719
+		["catpuccin-latte"] = "󲜚", -- colr-icons-image-catpuccin-latte U+f271a
+		["catpuccin-macchiato"] = "󲜛", -- colr-icons-image-catpuccin-macchiato U+f271b
+		["catpuccin-mocha"] = "󲜜", -- colr-icons-image-catpuccin-mocha U+f271c
 	},
 	["imba"] = {
-		["material"] = "󲉿", -- colr-icons-imba-material U+f227f
+		["material"] = "󲜝", -- colr-icons-imba-material U+f271d
 	},
 	["installation"] = {
-		["material"] = "󲊀", -- colr-icons-installation-material U+f2280
+		["material"] = "󲜞", -- colr-icons-installation-material U+f271e
 	},
 	["ionic"] = {
-		["material"] = "󲊁", -- colr-icons-ionic-material U+f2281
-		["catpuccin-frappe"] = "󲊂", -- colr-icons-ionic-catpuccin-frappe U+f2282
-		["catpuccin-latte"] = "󲊃", -- colr-icons-ionic-catpuccin-latte U+f2283
-		["catpuccin-macchiato"] = "󲊄", -- colr-icons-ionic-catpuccin-macchiato U+f2284
-		["catpuccin-mocha"] = "󲊅", -- colr-icons-ionic-catpuccin-mocha U+f2285
+		["material"] = "󲜟", -- colr-icons-ionic-material U+f271f
+		["catpuccin-frappe"] = "󲜠", -- colr-icons-ionic-catpuccin-frappe U+f2720
+		["catpuccin-latte"] = "󲜡", -- colr-icons-ionic-catpuccin-latte U+f2721
+		["catpuccin-macchiato"] = "󲜢", -- colr-icons-ionic-catpuccin-macchiato U+f2722
+		["catpuccin-mocha"] = "󲜣", -- colr-icons-ionic-catpuccin-mocha U+f2723
 	},
 	["istanbul"] = {
-		["material"] = "󲊆", -- colr-icons-istanbul-material U+f2286
+		["material"] = "󲜤", -- colr-icons-istanbul-material U+f2724
 	},
 	["jar"] = {
-		["material"] = "󲊇", -- colr-icons-jar-material U+f2287
+		["material"] = "󲜥", -- colr-icons-jar-material U+f2725
 	},
 	["java"] = {
-		["material"] = "󲊈", -- colr-icons-java-material U+f2288
-		["catpuccin-frappe"] = "󲊉", -- colr-icons-java-catpuccin-frappe U+f2289
-		["catpuccin-latte"] = "󲊊", -- colr-icons-java-catpuccin-latte U+f228a
-		["catpuccin-macchiato"] = "󲊋", -- colr-icons-java-catpuccin-macchiato U+f228b
-		["catpuccin-mocha"] = "󲊌", -- colr-icons-java-catpuccin-mocha U+f228c
+		["material"] = "󲜦", -- colr-icons-java-material U+f2726
+		["catpuccin-frappe"] = "󲜧", -- colr-icons-java-catpuccin-frappe U+f2727
+		["catpuccin-latte"] = "󲜨", -- colr-icons-java-catpuccin-latte U+f2728
+		["catpuccin-macchiato"] = "󲜩", -- colr-icons-java-catpuccin-macchiato U+f2729
+		["catpuccin-mocha"] = "󲜪", -- colr-icons-java-catpuccin-mocha U+f272a
 	},
 	["java-annotation"] = {
-		["catpuccin-frappe"] = "󲊍", -- colr-icons-java-annotation-catpuccin-frappe U+f228d
-		["catpuccin-latte"] = "󲊎", -- colr-icons-java-annotation-catpuccin-latte U+f228e
-		["catpuccin-macchiato"] = "󲊏", -- colr-icons-java-annotation-catpuccin-macchiato U+f228f
-		["catpuccin-mocha"] = "󲊐", -- colr-icons-java-annotation-catpuccin-mocha U+f2290
+		["catpuccin-frappe"] = "󲜫", -- colr-icons-java-annotation-catpuccin-frappe U+f272b
+		["catpuccin-latte"] = "󲜬", -- colr-icons-java-annotation-catpuccin-latte U+f272c
+		["catpuccin-macchiato"] = "󲜭", -- colr-icons-java-annotation-catpuccin-macchiato U+f272d
+		["catpuccin-mocha"] = "󲜮", -- colr-icons-java-annotation-catpuccin-mocha U+f272e
 	},
 	["java-class"] = {
-		["catpuccin-frappe"] = "󲊑", -- colr-icons-java-class-catpuccin-frappe U+f2291
-		["catpuccin-latte"] = "󲊒", -- colr-icons-java-class-catpuccin-latte U+f2292
-		["catpuccin-macchiato"] = "󲊓", -- colr-icons-java-class-catpuccin-macchiato U+f2293
-		["catpuccin-mocha"] = "󲊔", -- colr-icons-java-class-catpuccin-mocha U+f2294
+		["catpuccin-frappe"] = "󲜯", -- colr-icons-java-class-catpuccin-frappe U+f272f
+		["catpuccin-latte"] = "󲜰", -- colr-icons-java-class-catpuccin-latte U+f2730
+		["catpuccin-macchiato"] = "󲜱", -- colr-icons-java-class-catpuccin-macchiato U+f2731
+		["catpuccin-mocha"] = "󲜲", -- colr-icons-java-class-catpuccin-mocha U+f2732
 	},
 	["java-class-abstract"] = {
-		["catpuccin-frappe"] = "󲊕", -- colr-icons-java-class-abstract-catpuccin-frappe U+f2295
-		["catpuccin-latte"] = "󲊖", -- colr-icons-java-class-abstract-catpuccin-latte U+f2296
-		["catpuccin-macchiato"] = "󲊗", -- colr-icons-java-class-abstract-catpuccin-macchiato U+f2297
-		["catpuccin-mocha"] = "󲊘", -- colr-icons-java-class-abstract-catpuccin-mocha U+f2298
+		["catpuccin-frappe"] = "󲜳", -- colr-icons-java-class-abstract-catpuccin-frappe U+f2733
+		["catpuccin-latte"] = "󲜴", -- colr-icons-java-class-abstract-catpuccin-latte U+f2734
+		["catpuccin-macchiato"] = "󲜵", -- colr-icons-java-class-abstract-catpuccin-macchiato U+f2735
+		["catpuccin-mocha"] = "󲜶", -- colr-icons-java-class-abstract-catpuccin-mocha U+f2736
 	},
 	["java-class-final"] = {
-		["catpuccin-frappe"] = "󲊙", -- colr-icons-java-class-final-catpuccin-frappe U+f2299
-		["catpuccin-latte"] = "󲊚", -- colr-icons-java-class-final-catpuccin-latte U+f229a
-		["catpuccin-macchiato"] = "󲊛", -- colr-icons-java-class-final-catpuccin-macchiato U+f229b
-		["catpuccin-mocha"] = "󲊜", -- colr-icons-java-class-final-catpuccin-mocha U+f229c
+		["catpuccin-frappe"] = "󲜷", -- colr-icons-java-class-final-catpuccin-frappe U+f2737
+		["catpuccin-latte"] = "󲜸", -- colr-icons-java-class-final-catpuccin-latte U+f2738
+		["catpuccin-macchiato"] = "󲜹", -- colr-icons-java-class-final-catpuccin-macchiato U+f2739
+		["catpuccin-mocha"] = "󲜺", -- colr-icons-java-class-final-catpuccin-mocha U+f273a
 	},
 	["java-class-sealed"] = {
-		["catpuccin-frappe"] = "󲊝", -- colr-icons-java-class-sealed-catpuccin-frappe U+f229d
-		["catpuccin-latte"] = "󲊞", -- colr-icons-java-class-sealed-catpuccin-latte U+f229e
-		["catpuccin-macchiato"] = "󲊟", -- colr-icons-java-class-sealed-catpuccin-macchiato U+f229f
-		["catpuccin-mocha"] = "󲊠", -- colr-icons-java-class-sealed-catpuccin-mocha U+f22a0
+		["catpuccin-frappe"] = "󲜻", -- colr-icons-java-class-sealed-catpuccin-frappe U+f273b
+		["catpuccin-latte"] = "󲜼", -- colr-icons-java-class-sealed-catpuccin-latte U+f273c
+		["catpuccin-macchiato"] = "󲜽", -- colr-icons-java-class-sealed-catpuccin-macchiato U+f273d
+		["catpuccin-mocha"] = "󲜾", -- colr-icons-java-class-sealed-catpuccin-mocha U+f273e
 	},
 	["java-enum"] = {
-		["catpuccin-frappe"] = "󲊡", -- colr-icons-java-enum-catpuccin-frappe U+f22a1
-		["catpuccin-latte"] = "󲊢", -- colr-icons-java-enum-catpuccin-latte U+f22a2
-		["catpuccin-macchiato"] = "󲊣", -- colr-icons-java-enum-catpuccin-macchiato U+f22a3
-		["catpuccin-mocha"] = "󲊤", -- colr-icons-java-enum-catpuccin-mocha U+f22a4
+		["catpuccin-frappe"] = "󲜿", -- colr-icons-java-enum-catpuccin-frappe U+f273f
+		["catpuccin-latte"] = "󲝀", -- colr-icons-java-enum-catpuccin-latte U+f2740
+		["catpuccin-macchiato"] = "󲝁", -- colr-icons-java-enum-catpuccin-macchiato U+f2741
+		["catpuccin-mocha"] = "󲝂", -- colr-icons-java-enum-catpuccin-mocha U+f2742
 	},
 	["java-exception"] = {
-		["catpuccin-frappe"] = "󲊥", -- colr-icons-java-exception-catpuccin-frappe U+f22a5
-		["catpuccin-latte"] = "󲊦", -- colr-icons-java-exception-catpuccin-latte U+f22a6
-		["catpuccin-macchiato"] = "󲊧", -- colr-icons-java-exception-catpuccin-macchiato U+f22a7
-		["catpuccin-mocha"] = "󲊨", -- colr-icons-java-exception-catpuccin-mocha U+f22a8
+		["catpuccin-frappe"] = "󲝃", -- colr-icons-java-exception-catpuccin-frappe U+f2743
+		["catpuccin-latte"] = "󲝄", -- colr-icons-java-exception-catpuccin-latte U+f2744
+		["catpuccin-macchiato"] = "󲝅", -- colr-icons-java-exception-catpuccin-macchiato U+f2745
+		["catpuccin-mocha"] = "󲝆", -- colr-icons-java-exception-catpuccin-mocha U+f2746
 	},
 	["java-interface"] = {
-		["catpuccin-frappe"] = "󲊩", -- colr-icons-java-interface-catpuccin-frappe U+f22a9
-		["catpuccin-latte"] = "󲊪", -- colr-icons-java-interface-catpuccin-latte U+f22aa
-		["catpuccin-macchiato"] = "󲊫", -- colr-icons-java-interface-catpuccin-macchiato U+f22ab
-		["catpuccin-mocha"] = "󲊬", -- colr-icons-java-interface-catpuccin-mocha U+f22ac
+		["catpuccin-frappe"] = "󲝇", -- colr-icons-java-interface-catpuccin-frappe U+f2747
+		["catpuccin-latte"] = "󲝈", -- colr-icons-java-interface-catpuccin-latte U+f2748
+		["catpuccin-macchiato"] = "󲝉", -- colr-icons-java-interface-catpuccin-macchiato U+f2749
+		["catpuccin-mocha"] = "󲝊", -- colr-icons-java-interface-catpuccin-mocha U+f274a
 	},
 	["java-jar"] = {
-		["catpuccin-frappe"] = "󲊭", -- colr-icons-java-jar-catpuccin-frappe U+f22ad
-		["catpuccin-latte"] = "󲊮", -- colr-icons-java-jar-catpuccin-latte U+f22ae
-		["catpuccin-macchiato"] = "󲊯", -- colr-icons-java-jar-catpuccin-macchiato U+f22af
-		["catpuccin-mocha"] = "󲊰", -- colr-icons-java-jar-catpuccin-mocha U+f22b0
+		["catpuccin-frappe"] = "󲝋", -- colr-icons-java-jar-catpuccin-frappe U+f274b
+		["catpuccin-latte"] = "󲝌", -- colr-icons-java-jar-catpuccin-latte U+f274c
+		["catpuccin-macchiato"] = "󲝍", -- colr-icons-java-jar-catpuccin-macchiato U+f274d
+		["catpuccin-mocha"] = "󲝎", -- colr-icons-java-jar-catpuccin-mocha U+f274e
 	},
 	["java-record"] = {
-		["catpuccin-frappe"] = "󲊱", -- colr-icons-java-record-catpuccin-frappe U+f22b1
-		["catpuccin-latte"] = "󲊲", -- colr-icons-java-record-catpuccin-latte U+f22b2
-		["catpuccin-macchiato"] = "󲊳", -- colr-icons-java-record-catpuccin-macchiato U+f22b3
-		["catpuccin-mocha"] = "󲊴", -- colr-icons-java-record-catpuccin-mocha U+f22b4
+		["catpuccin-frappe"] = "󲝏", -- colr-icons-java-record-catpuccin-frappe U+f274f
+		["catpuccin-latte"] = "󲝐", -- colr-icons-java-record-catpuccin-latte U+f2750
+		["catpuccin-macchiato"] = "󲝑", -- colr-icons-java-record-catpuccin-macchiato U+f2751
+		["catpuccin-mocha"] = "󲝒", -- colr-icons-java-record-catpuccin-mocha U+f2752
 	},
 	["javaclass"] = {
-		["material"] = "󲊵", -- colr-icons-javaclass-material U+f22b5
+		["material"] = "󲝓", -- colr-icons-javaclass-material U+f2753
 	},
 	["javascript"] = {
-		["material"] = "󲊶", -- colr-icons-javascript-material U+f22b6
-		["catpuccin-frappe"] = "󲊷", -- colr-icons-javascript-catpuccin-frappe U+f22b7
-		["catpuccin-latte"] = "󲊸", -- colr-icons-javascript-catpuccin-latte U+f22b8
-		["catpuccin-macchiato"] = "󲊹", -- colr-icons-javascript-catpuccin-macchiato U+f22b9
-		["catpuccin-mocha"] = "󲊺", -- colr-icons-javascript-catpuccin-mocha U+f22ba
+		["material"] = "󲝔", -- colr-icons-javascript-material U+f2754
+		["catpuccin-frappe"] = "󲝕", -- colr-icons-javascript-catpuccin-frappe U+f2755
+		["catpuccin-latte"] = "󲝖", -- colr-icons-javascript-catpuccin-latte U+f2756
+		["catpuccin-macchiato"] = "󲝗", -- colr-icons-javascript-catpuccin-macchiato U+f2757
+		["catpuccin-mocha"] = "󲝘", -- colr-icons-javascript-catpuccin-mocha U+f2758
 	},
 	["javascript-config"] = {
-		["catpuccin-frappe"] = "󲊻", -- colr-icons-javascript-config-catpuccin-frappe U+f22bb
-		["catpuccin-latte"] = "󲊼", -- colr-icons-javascript-config-catpuccin-latte U+f22bc
-		["catpuccin-macchiato"] = "󲊽", -- colr-icons-javascript-config-catpuccin-macchiato U+f22bd
-		["catpuccin-mocha"] = "󲊾", -- colr-icons-javascript-config-catpuccin-mocha U+f22be
+		["catpuccin-frappe"] = "󲝙", -- colr-icons-javascript-config-catpuccin-frappe U+f2759
+		["catpuccin-latte"] = "󲝚", -- colr-icons-javascript-config-catpuccin-latte U+f275a
+		["catpuccin-macchiato"] = "󲝛", -- colr-icons-javascript-config-catpuccin-macchiato U+f275b
+		["catpuccin-mocha"] = "󲝜", -- colr-icons-javascript-config-catpuccin-mocha U+f275c
 	},
 	["javascript-map"] = {
-		["material"] = "󲊿", -- colr-icons-javascript-map-material U+f22bf
-		["catpuccin-frappe"] = "󲋀", -- colr-icons-javascript-map-catpuccin-frappe U+f22c0
-		["catpuccin-latte"] = "󲋁", -- colr-icons-javascript-map-catpuccin-latte U+f22c1
-		["catpuccin-macchiato"] = "󲋂", -- colr-icons-javascript-map-catpuccin-macchiato U+f22c2
-		["catpuccin-mocha"] = "󲋃", -- colr-icons-javascript-map-catpuccin-mocha U+f22c3
+		["material"] = "󲝝", -- colr-icons-javascript-map-material U+f275d
+		["catpuccin-frappe"] = "󲝞", -- colr-icons-javascript-map-catpuccin-frappe U+f275e
+		["catpuccin-latte"] = "󲝟", -- colr-icons-javascript-map-catpuccin-latte U+f275f
+		["catpuccin-macchiato"] = "󲝠", -- colr-icons-javascript-map-catpuccin-macchiato U+f2760
+		["catpuccin-mocha"] = "󲝡", -- colr-icons-javascript-map-catpuccin-mocha U+f2761
 	},
 	["javascript-react"] = {
-		["catpuccin-frappe"] = "󲋄", -- colr-icons-javascript-react-catpuccin-frappe U+f22c4
-		["catpuccin-latte"] = "󲋅", -- colr-icons-javascript-react-catpuccin-latte U+f22c5
-		["catpuccin-macchiato"] = "󲋆", -- colr-icons-javascript-react-catpuccin-macchiato U+f22c6
-		["catpuccin-mocha"] = "󲋇", -- colr-icons-javascript-react-catpuccin-mocha U+f22c7
+		["catpuccin-frappe"] = "󲝢", -- colr-icons-javascript-react-catpuccin-frappe U+f2762
+		["catpuccin-latte"] = "󲝣", -- colr-icons-javascript-react-catpuccin-latte U+f2763
+		["catpuccin-macchiato"] = "󲝤", -- colr-icons-javascript-react-catpuccin-macchiato U+f2764
+		["catpuccin-mocha"] = "󲝥", -- colr-icons-javascript-react-catpuccin-mocha U+f2765
 	},
 	["javascript-test"] = {
-		["catpuccin-frappe"] = "󲋈", -- colr-icons-javascript-test-catpuccin-frappe U+f22c8
-		["catpuccin-latte"] = "󲋉", -- colr-icons-javascript-test-catpuccin-latte U+f22c9
-		["catpuccin-macchiato"] = "󲋊", -- colr-icons-javascript-test-catpuccin-macchiato U+f22ca
-		["catpuccin-mocha"] = "󲋋", -- colr-icons-javascript-test-catpuccin-mocha U+f22cb
+		["catpuccin-frappe"] = "󲝦", -- colr-icons-javascript-test-catpuccin-frappe U+f2766
+		["catpuccin-latte"] = "󲝧", -- colr-icons-javascript-test-catpuccin-latte U+f2767
+		["catpuccin-macchiato"] = "󲝨", -- colr-icons-javascript-test-catpuccin-macchiato U+f2768
+		["catpuccin-mocha"] = "󲝩", -- colr-icons-javascript-test-catpuccin-mocha U+f2769
 	},
 	["jenkins"] = {
-		["material"] = "󲋌", -- colr-icons-jenkins-material U+f22cc
+		["material"] = "󲝪", -- colr-icons-jenkins-material U+f276a
 	},
 	["jest"] = {
-		["material"] = "󲋍", -- colr-icons-jest-material U+f22cd
-		["catpuccin-frappe"] = "󲋎", -- colr-icons-jest-catpuccin-frappe U+f22ce
-		["catpuccin-latte"] = "󲋏", -- colr-icons-jest-catpuccin-latte U+f22cf
-		["catpuccin-macchiato"] = "󲋐", -- colr-icons-jest-catpuccin-macchiato U+f22d0
-		["catpuccin-mocha"] = "󲋑", -- colr-icons-jest-catpuccin-mocha U+f22d1
+		["material"] = "󲝫", -- colr-icons-jest-material U+f276b
+		["catpuccin-frappe"] = "󲝬", -- colr-icons-jest-catpuccin-frappe U+f276c
+		["catpuccin-latte"] = "󲝭", -- colr-icons-jest-catpuccin-latte U+f276d
+		["catpuccin-macchiato"] = "󲝮", -- colr-icons-jest-catpuccin-macchiato U+f276e
+		["catpuccin-mocha"] = "󲝯", -- colr-icons-jest-catpuccin-mocha U+f276f
 	},
 	["jinja"] = {
-		["material"] = "󲋒", -- colr-icons-jinja-material U+f22d2
-		["catpuccin-frappe"] = "󲋓", -- colr-icons-jinja-catpuccin-frappe U+f22d3
-		["catpuccin-latte"] = "󲋔", -- colr-icons-jinja-catpuccin-latte U+f22d4
-		["catpuccin-macchiato"] = "󲋕", -- colr-icons-jinja-catpuccin-macchiato U+f22d5
-		["catpuccin-mocha"] = "󲋖", -- colr-icons-jinja-catpuccin-mocha U+f22d6
+		["material"] = "󲝰", -- colr-icons-jinja-material U+f2770
+		["catpuccin-frappe"] = "󲝱", -- colr-icons-jinja-catpuccin-frappe U+f2771
+		["catpuccin-latte"] = "󲝲", -- colr-icons-jinja-catpuccin-latte U+f2772
+		["catpuccin-macchiato"] = "󲝳", -- colr-icons-jinja-catpuccin-macchiato U+f2773
+		["catpuccin-mocha"] = "󲝴", -- colr-icons-jinja-catpuccin-mocha U+f2774
 	},
 	["jinja_light"] = {
-		["material"] = "󲋗", -- colr-icons-jinja_light-material U+f22d7
+		["material"] = "󲝵", -- colr-icons-jinja_light-material U+f2775
 	},
 	["jsconfig"] = {
-		["material"] = "󲋘", -- colr-icons-jsconfig-material U+f22d8
+		["material"] = "󲝶", -- colr-icons-jsconfig-material U+f2776
 	},
 	["json"] = {
-		["material"] = "󲋙", -- colr-icons-json-material U+f22d9
-		["catpuccin-frappe"] = "󲋚", -- colr-icons-json-catpuccin-frappe U+f22da
-		["catpuccin-latte"] = "󲋛", -- colr-icons-json-catpuccin-latte U+f22db
-		["catpuccin-macchiato"] = "󲋜", -- colr-icons-json-catpuccin-macchiato U+f22dc
-		["catpuccin-mocha"] = "󲋝", -- colr-icons-json-catpuccin-mocha U+f22dd
+		["material"] = "󲝷", -- colr-icons-json-material U+f2777
+		["catpuccin-frappe"] = "󲝸", -- colr-icons-json-catpuccin-frappe U+f2778
+		["catpuccin-latte"] = "󲝹", -- colr-icons-json-catpuccin-latte U+f2779
+		["catpuccin-macchiato"] = "󲝺", -- colr-icons-json-catpuccin-macchiato U+f277a
+		["catpuccin-mocha"] = "󲝻", -- colr-icons-json-catpuccin-mocha U+f277b
 	},
 	["json-schema"] = {
-		["catpuccin-frappe"] = "󲋞", -- colr-icons-json-schema-catpuccin-frappe U+f22de
-		["catpuccin-latte"] = "󲋟", -- colr-icons-json-schema-catpuccin-latte U+f22df
-		["catpuccin-macchiato"] = "󲋠", -- colr-icons-json-schema-catpuccin-macchiato U+f22e0
-		["catpuccin-mocha"] = "󲋡", -- colr-icons-json-schema-catpuccin-mocha U+f22e1
+		["catpuccin-frappe"] = "󲝼", -- colr-icons-json-schema-catpuccin-frappe U+f277c
+		["catpuccin-latte"] = "󲝽", -- colr-icons-json-schema-catpuccin-latte U+f277d
+		["catpuccin-macchiato"] = "󲝾", -- colr-icons-json-schema-catpuccin-macchiato U+f277e
+		["catpuccin-mocha"] = "󲝿", -- colr-icons-json-schema-catpuccin-mocha U+f277f
 	},
 	["json_schema"] = {
-		["material"] = "󲋢", -- colr-icons-json_schema-material U+f22e2
+		["material"] = "󲞀", -- colr-icons-json_schema-material U+f2780
 	},
 	["jsr"] = {
-		["material"] = "󲋣", -- colr-icons-jsr-material U+f22e3
+		["material"] = "󲞁", -- colr-icons-jsr-material U+f2781
 	},
 	["jsr_light"] = {
-		["material"] = "󲋤", -- colr-icons-jsr_light-material U+f22e4
+		["material"] = "󲞂", -- colr-icons-jsr_light-material U+f2782
 	},
 	["juce"] = {
-		["catpuccin-frappe"] = "󲋥", -- colr-icons-juce-catpuccin-frappe U+f22e5
-		["catpuccin-latte"] = "󲋦", -- colr-icons-juce-catpuccin-latte U+f22e6
-		["catpuccin-macchiato"] = "󲋧", -- colr-icons-juce-catpuccin-macchiato U+f22e7
-		["catpuccin-mocha"] = "󲋨", -- colr-icons-juce-catpuccin-mocha U+f22e8
+		["catpuccin-frappe"] = "󲞃", -- colr-icons-juce-catpuccin-frappe U+f2783
+		["catpuccin-latte"] = "󲞄", -- colr-icons-juce-catpuccin-latte U+f2784
+		["catpuccin-macchiato"] = "󲞅", -- colr-icons-juce-catpuccin-macchiato U+f2785
+		["catpuccin-mocha"] = "󲞆", -- colr-icons-juce-catpuccin-mocha U+f2786
 	},
 	["jule"] = {
-		["catpuccin-frappe"] = "󲋩", -- colr-icons-jule-catpuccin-frappe U+f22e9
-		["catpuccin-latte"] = "󲋪", -- colr-icons-jule-catpuccin-latte U+f22ea
-		["catpuccin-macchiato"] = "󲋫", -- colr-icons-jule-catpuccin-macchiato U+f22eb
-		["catpuccin-mocha"] = "󲋬", -- colr-icons-jule-catpuccin-mocha U+f22ec
+		["catpuccin-frappe"] = "󲞇", -- colr-icons-jule-catpuccin-frappe U+f2787
+		["catpuccin-latte"] = "󲞈", -- colr-icons-jule-catpuccin-latte U+f2788
+		["catpuccin-macchiato"] = "󲞉", -- colr-icons-jule-catpuccin-macchiato U+f2789
+		["catpuccin-mocha"] = "󲞊", -- colr-icons-jule-catpuccin-mocha U+f278a
 	},
 	["julia"] = {
-		["material"] = "󲋭", -- colr-icons-julia-material U+f22ed
-		["catpuccin-frappe"] = "󲋮", -- colr-icons-julia-catpuccin-frappe U+f22ee
-		["catpuccin-latte"] = "󲋯", -- colr-icons-julia-catpuccin-latte U+f22ef
-		["catpuccin-macchiato"] = "󲋰", -- colr-icons-julia-catpuccin-macchiato U+f22f0
-		["catpuccin-mocha"] = "󲋱", -- colr-icons-julia-catpuccin-mocha U+f22f1
+		["material"] = "󲞋", -- colr-icons-julia-material U+f278b
+		["catpuccin-frappe"] = "󲞌", -- colr-icons-julia-catpuccin-frappe U+f278c
+		["catpuccin-latte"] = "󲞍", -- colr-icons-julia-catpuccin-latte U+f278d
+		["catpuccin-macchiato"] = "󲞎", -- colr-icons-julia-catpuccin-macchiato U+f278e
+		["catpuccin-mocha"] = "󲞏", -- colr-icons-julia-catpuccin-mocha U+f278f
 	},
 	["jupyter"] = {
-		["material"] = "󲋲", -- colr-icons-jupyter-material U+f22f2
-		["catpuccin-frappe"] = "󲋳", -- colr-icons-jupyter-catpuccin-frappe U+f22f3
-		["catpuccin-latte"] = "󲋴", -- colr-icons-jupyter-catpuccin-latte U+f22f4
-		["catpuccin-macchiato"] = "󲋵", -- colr-icons-jupyter-catpuccin-macchiato U+f22f5
-		["catpuccin-mocha"] = "󲋶", -- colr-icons-jupyter-catpuccin-mocha U+f22f6
+		["material"] = "󲞐", -- colr-icons-jupyter-material U+f2790
+		["catpuccin-frappe"] = "󲞑", -- colr-icons-jupyter-catpuccin-frappe U+f2791
+		["catpuccin-latte"] = "󲞒", -- colr-icons-jupyter-catpuccin-latte U+f2792
+		["catpuccin-macchiato"] = "󲞓", -- colr-icons-jupyter-catpuccin-macchiato U+f2793
+		["catpuccin-mocha"] = "󲞔", -- colr-icons-jupyter-catpuccin-mocha U+f2794
 	},
 	["just"] = {
-		["material"] = "󲋷", -- colr-icons-just-material U+f22f7
-		["catpuccin-frappe"] = "󲋸", -- colr-icons-just-catpuccin-frappe U+f22f8
-		["catpuccin-latte"] = "󲋹", -- colr-icons-just-catpuccin-latte U+f22f9
-		["catpuccin-macchiato"] = "󲋺", -- colr-icons-just-catpuccin-macchiato U+f22fa
-		["catpuccin-mocha"] = "󲋻", -- colr-icons-just-catpuccin-mocha U+f22fb
+		["material"] = "󲞕", -- colr-icons-just-material U+f2795
+		["catpuccin-frappe"] = "󲞖", -- colr-icons-just-catpuccin-frappe U+f2796
+		["catpuccin-latte"] = "󲞗", -- colr-icons-just-catpuccin-latte U+f2797
+		["catpuccin-macchiato"] = "󲞘", -- colr-icons-just-catpuccin-macchiato U+f2798
+		["catpuccin-mocha"] = "󲞙", -- colr-icons-just-catpuccin-mocha U+f2799
 	},
 	["karma"] = {
-		["material"] = "󲋼", -- colr-icons-karma-material U+f22fc
+		["material"] = "󲞚", -- colr-icons-karma-material U+f279a
 	},
 	["kcl"] = {
-		["material"] = "󲋽", -- colr-icons-kcl-material U+f22fd
+		["material"] = "󲞛", -- colr-icons-kcl-material U+f279b
 	},
 	["kdl"] = {
-		["catpuccin-frappe"] = "󲋾", -- colr-icons-kdl-catpuccin-frappe U+f22fe
-		["catpuccin-latte"] = "󲋿", -- colr-icons-kdl-catpuccin-latte U+f22ff
-		["catpuccin-macchiato"] = "󲌀", -- colr-icons-kdl-catpuccin-macchiato U+f2300
-		["catpuccin-mocha"] = "󲌁", -- colr-icons-kdl-catpuccin-mocha U+f2301
+		["catpuccin-frappe"] = "󲞜", -- colr-icons-kdl-catpuccin-frappe U+f279c
+		["catpuccin-latte"] = "󲞝", -- colr-icons-kdl-catpuccin-latte U+f279d
+		["catpuccin-macchiato"] = "󲞞", -- colr-icons-kdl-catpuccin-macchiato U+f279e
+		["catpuccin-mocha"] = "󲞟", -- colr-icons-kdl-catpuccin-mocha U+f279f
 	},
 	["key"] = {
-		["material"] = "󲌂", -- colr-icons-key-material U+f2302
-		["catpuccin-frappe"] = "󲌃", -- colr-icons-key-catpuccin-frappe U+f2303
-		["catpuccin-latte"] = "󲌄", -- colr-icons-key-catpuccin-latte U+f2304
-		["catpuccin-macchiato"] = "󲌅", -- colr-icons-key-catpuccin-macchiato U+f2305
-		["catpuccin-mocha"] = "󲌆", -- colr-icons-key-catpuccin-mocha U+f2306
+		["material"] = "󲞠", -- colr-icons-key-material U+f27a0
+		["catpuccin-frappe"] = "󲞡", -- colr-icons-key-catpuccin-frappe U+f27a1
+		["catpuccin-latte"] = "󲞢", -- colr-icons-key-catpuccin-latte U+f27a2
+		["catpuccin-macchiato"] = "󲞣", -- colr-icons-key-catpuccin-macchiato U+f27a3
+		["catpuccin-mocha"] = "󲞤", -- colr-icons-key-catpuccin-mocha U+f27a4
 	},
 	["keystatic"] = {
-		["material"] = "󲌇", -- colr-icons-keystatic-material U+f2307
+		["material"] = "󲞥", -- colr-icons-keystatic-material U+f27a5
 	},
 	["kivy"] = {
-		["material"] = "󲌈", -- colr-icons-kivy-material U+f2308
+		["material"] = "󲞦", -- colr-icons-kivy-material U+f27a6
 	},
 	["kl"] = {
-		["material"] = "󲌉", -- colr-icons-kl-material U+f2309
+		["material"] = "󲞧", -- colr-icons-kl-material U+f27a7
 	},
 	["knip"] = {
-		["material"] = "󲌊", -- colr-icons-knip-material U+f230a
-		["catpuccin-frappe"] = "󲌋", -- colr-icons-knip-catpuccin-frappe U+f230b
-		["catpuccin-latte"] = "󲌌", -- colr-icons-knip-catpuccin-latte U+f230c
-		["catpuccin-macchiato"] = "󲌍", -- colr-icons-knip-catpuccin-macchiato U+f230d
-		["catpuccin-mocha"] = "󲌎", -- colr-icons-knip-catpuccin-mocha U+f230e
+		["material"] = "󲞨", -- colr-icons-knip-material U+f27a8
+		["catpuccin-frappe"] = "󲞩", -- colr-icons-knip-catpuccin-frappe U+f27a9
+		["catpuccin-latte"] = "󲞪", -- colr-icons-knip-catpuccin-latte U+f27aa
+		["catpuccin-macchiato"] = "󲞫", -- colr-icons-knip-catpuccin-macchiato U+f27ab
+		["catpuccin-mocha"] = "󲞬", -- colr-icons-knip-catpuccin-mocha U+f27ac
 	},
 	["kotlin"] = {
-		["material"] = "󲌏", -- colr-icons-kotlin-material U+f230f
-		["catpuccin-frappe"] = "󲌐", -- colr-icons-kotlin-catpuccin-frappe U+f2310
-		["catpuccin-latte"] = "󲌑", -- colr-icons-kotlin-catpuccin-latte U+f2311
-		["catpuccin-macchiato"] = "󲌒", -- colr-icons-kotlin-catpuccin-macchiato U+f2312
-		["catpuccin-mocha"] = "󲌓", -- colr-icons-kotlin-catpuccin-mocha U+f2313
+		["material"] = "󲞭", -- colr-icons-kotlin-material U+f27ad
+		["catpuccin-frappe"] = "󲞮", -- colr-icons-kotlin-catpuccin-frappe U+f27ae
+		["catpuccin-latte"] = "󲞯", -- colr-icons-kotlin-catpuccin-latte U+f27af
+		["catpuccin-macchiato"] = "󲞰", -- colr-icons-kotlin-catpuccin-macchiato U+f27b0
+		["catpuccin-mocha"] = "󲞱", -- colr-icons-kotlin-catpuccin-mocha U+f27b1
 	},
 	["kubernetes"] = {
-		["material"] = "󲌔", -- colr-icons-kubernetes-material U+f2314
+		["material"] = "󲞲", -- colr-icons-kubernetes-material U+f27b2
 	},
 	["kusto"] = {
-		["material"] = "󲌕", -- colr-icons-kusto-material U+f2315
+		["material"] = "󲞳", -- colr-icons-kusto-material U+f27b3
 	},
 	["label"] = {
-		["material"] = "󲌖", -- colr-icons-label-material U+f2316
+		["material"] = "󲞴", -- colr-icons-label-material U+f27b4
 	},
 	["laravel"] = {
-		["material"] = "󲌗", -- colr-icons-laravel-material U+f2317
-		["catpuccin-frappe"] = "󲌘", -- colr-icons-laravel-catpuccin-frappe U+f2318
-		["catpuccin-latte"] = "󲌙", -- colr-icons-laravel-catpuccin-latte U+f2319
-		["catpuccin-macchiato"] = "󲌚", -- colr-icons-laravel-catpuccin-macchiato U+f231a
-		["catpuccin-mocha"] = "󲌛", -- colr-icons-laravel-catpuccin-mocha U+f231b
+		["material"] = "󲞵", -- colr-icons-laravel-material U+f27b5
+		["catpuccin-frappe"] = "󲞶", -- colr-icons-laravel-catpuccin-frappe U+f27b6
+		["catpuccin-latte"] = "󲞷", -- colr-icons-laravel-catpuccin-latte U+f27b7
+		["catpuccin-macchiato"] = "󲞸", -- colr-icons-laravel-catpuccin-macchiato U+f27b8
+		["catpuccin-mocha"] = "󲞹", -- colr-icons-laravel-catpuccin-mocha U+f27b9
 	},
 	["latex"] = {
-		["catpuccin-frappe"] = "󲌜", -- colr-icons-latex-catpuccin-frappe U+f231c
-		["catpuccin-latte"] = "󲌝", -- colr-icons-latex-catpuccin-latte U+f231d
-		["catpuccin-macchiato"] = "󲌞", -- colr-icons-latex-catpuccin-macchiato U+f231e
-		["catpuccin-mocha"] = "󲌟", -- colr-icons-latex-catpuccin-mocha U+f231f
+		["catpuccin-frappe"] = "󲞺", -- colr-icons-latex-catpuccin-frappe U+f27ba
+		["catpuccin-latte"] = "󲞻", -- colr-icons-latex-catpuccin-latte U+f27bb
+		["catpuccin-macchiato"] = "󲞼", -- colr-icons-latex-catpuccin-macchiato U+f27bc
+		["catpuccin-mocha"] = "󲞽", -- colr-icons-latex-catpuccin-mocha U+f27bd
 	},
 	["latexmk"] = {
-		["material"] = "󲌠", -- colr-icons-latexmk-material U+f2320
+		["material"] = "󲞾", -- colr-icons-latexmk-material U+f27be
 	},
 	["latte"] = {
-		["catpuccin-frappe"] = "󲌡", -- colr-icons-latte-catpuccin-frappe U+f2321
-		["catpuccin-latte"] = "󲌢", -- colr-icons-latte-catpuccin-latte U+f2322
-		["catpuccin-macchiato"] = "󲌣", -- colr-icons-latte-catpuccin-macchiato U+f2323
-		["catpuccin-mocha"] = "󲌤", -- colr-icons-latte-catpuccin-mocha U+f2324
+		["catpuccin-frappe"] = "󲞿", -- colr-icons-latte-catpuccin-frappe U+f27bf
+		["catpuccin-latte"] = "󲟀", -- colr-icons-latte-catpuccin-latte U+f27c0
+		["catpuccin-macchiato"] = "󲟁", -- colr-icons-latte-catpuccin-macchiato U+f27c1
+		["catpuccin-mocha"] = "󲟂", -- colr-icons-latte-catpuccin-mocha U+f27c2
 	},
 	["lbx"] = {
-		["material"] = "󲌥", -- colr-icons-lbx-material U+f2325
+		["material"] = "󲟃", -- colr-icons-lbx-material U+f27c3
 	},
 	["lean"] = {
-		["material"] = "󲌦", -- colr-icons-lean-material U+f2326
+		["material"] = "󲟄", -- colr-icons-lean-material U+f27c4
 	},
 	["lefthook"] = {
-		["material"] = "󲌧", -- colr-icons-lefthook-material U+f2327
+		["material"] = "󲟅", -- colr-icons-lefthook-material U+f27c5
 	},
 	["lerna"] = {
-		["material"] = "󲌨", -- colr-icons-lerna-material U+f2328
-		["catpuccin-frappe"] = "󲌩", -- colr-icons-lerna-catpuccin-frappe U+f2329
-		["catpuccin-latte"] = "󲌪", -- colr-icons-lerna-catpuccin-latte U+f232a
-		["catpuccin-macchiato"] = "󲌫", -- colr-icons-lerna-catpuccin-macchiato U+f232b
-		["catpuccin-mocha"] = "󲌬", -- colr-icons-lerna-catpuccin-mocha U+f232c
+		["material"] = "󲟆", -- colr-icons-lerna-material U+f27c6
+		["catpuccin-frappe"] = "󲟇", -- colr-icons-lerna-catpuccin-frappe U+f27c7
+		["catpuccin-latte"] = "󲟈", -- colr-icons-lerna-catpuccin-latte U+f27c8
+		["catpuccin-macchiato"] = "󲟉", -- colr-icons-lerna-catpuccin-macchiato U+f27c9
+		["catpuccin-mocha"] = "󲟊", -- colr-icons-lerna-catpuccin-mocha U+f27ca
 	},
 	["less"] = {
-		["material"] = "󲌭", -- colr-icons-less-material U+f232d
-		["catpuccin-frappe"] = "󲌮", -- colr-icons-less-catpuccin-frappe U+f232e
-		["catpuccin-latte"] = "󲌯", -- colr-icons-less-catpuccin-latte U+f232f
-		["catpuccin-macchiato"] = "󲌰", -- colr-icons-less-catpuccin-macchiato U+f2330
-		["catpuccin-mocha"] = "󲌱", -- colr-icons-less-catpuccin-mocha U+f2331
+		["material"] = "󲟋", -- colr-icons-less-material U+f27cb
+		["catpuccin-frappe"] = "󲟌", -- colr-icons-less-catpuccin-frappe U+f27cc
+		["catpuccin-latte"] = "󲟍", -- colr-icons-less-catpuccin-latte U+f27cd
+		["catpuccin-macchiato"] = "󲟎", -- colr-icons-less-catpuccin-macchiato U+f27ce
+		["catpuccin-mocha"] = "󲟏", -- colr-icons-less-catpuccin-mocha U+f27cf
 	},
 	["liara"] = {
-		["material"] = "󲌲", -- colr-icons-liara-material U+f2332
+		["material"] = "󲟐", -- colr-icons-liara-material U+f27d0
 	},
 	["lib"] = {
-		["material"] = "󲌳", -- colr-icons-lib-material U+f2333
-		["catpuccin-frappe"] = "󲌴", -- colr-icons-lib-catpuccin-frappe U+f2334
-		["catpuccin-latte"] = "󲌵", -- colr-icons-lib-catpuccin-latte U+f2335
-		["catpuccin-macchiato"] = "󲌶", -- colr-icons-lib-catpuccin-macchiato U+f2336
-		["catpuccin-mocha"] = "󲌷", -- colr-icons-lib-catpuccin-mocha U+f2337
+		["material"] = "󲟑", -- colr-icons-lib-material U+f27d1
+		["catpuccin-frappe"] = "󲟒", -- colr-icons-lib-catpuccin-frappe U+f27d2
+		["catpuccin-latte"] = "󲟓", -- colr-icons-lib-catpuccin-latte U+f27d3
+		["catpuccin-macchiato"] = "󲟔", -- colr-icons-lib-catpuccin-macchiato U+f27d4
+		["catpuccin-mocha"] = "󲟕", -- colr-icons-lib-catpuccin-mocha U+f27d5
 	},
 	["license"] = {
-		["material"] = "󲌸", -- colr-icons-license-material U+f2338
-		["catpuccin-frappe"] = "󲌹", -- colr-icons-license-catpuccin-frappe U+f2339
-		["catpuccin-latte"] = "󲌺", -- colr-icons-license-catpuccin-latte U+f233a
-		["catpuccin-macchiato"] = "󲌻", -- colr-icons-license-catpuccin-macchiato U+f233b
-		["catpuccin-mocha"] = "󲌼", -- colr-icons-license-catpuccin-mocha U+f233c
+		["material"] = "󲟖", -- colr-icons-license-material U+f27d6
+		["catpuccin-frappe"] = "󲟗", -- colr-icons-license-catpuccin-frappe U+f27d7
+		["catpuccin-latte"] = "󲟘", -- colr-icons-license-catpuccin-latte U+f27d8
+		["catpuccin-macchiato"] = "󲟙", -- colr-icons-license-catpuccin-macchiato U+f27d9
+		["catpuccin-mocha"] = "󲟚", -- colr-icons-license-catpuccin-mocha U+f27da
 	},
 	["lighthouse"] = {
-		["material"] = "󲌽", -- colr-icons-lighthouse-material U+f233d
+		["material"] = "󲟛", -- colr-icons-lighthouse-material U+f27db
 	},
 	["lilypond"] = {
-		["material"] = "󲌾", -- colr-icons-lilypond-material U+f233e
+		["material"] = "󲟜", -- colr-icons-lilypond-material U+f27dc
 	},
 	["lint-staged"] = {
-		["catpuccin-frappe"] = "󲌿", -- colr-icons-lint-staged-catpuccin-frappe U+f233f
-		["catpuccin-latte"] = "󲍀", -- colr-icons-lint-staged-catpuccin-latte U+f2340
-		["catpuccin-macchiato"] = "󲍁", -- colr-icons-lint-staged-catpuccin-macchiato U+f2341
-		["catpuccin-mocha"] = "󲍂", -- colr-icons-lint-staged-catpuccin-mocha U+f2342
+		["catpuccin-frappe"] = "󲟝", -- colr-icons-lint-staged-catpuccin-frappe U+f27dd
+		["catpuccin-latte"] = "󲟞", -- colr-icons-lint-staged-catpuccin-latte U+f27de
+		["catpuccin-macchiato"] = "󲟟", -- colr-icons-lint-staged-catpuccin-macchiato U+f27df
+		["catpuccin-mocha"] = "󲟠", -- colr-icons-lint-staged-catpuccin-mocha U+f27e0
 	},
 	["lintstaged"] = {
-		["material"] = "󲍃", -- colr-icons-lintstaged-material U+f2343
+		["material"] = "󲟡", -- colr-icons-lintstaged-material U+f27e1
 	},
 	["liquid"] = {
-		["material"] = "󲍄", -- colr-icons-liquid-material U+f2344
-		["catpuccin-frappe"] = "󲍅", -- colr-icons-liquid-catpuccin-frappe U+f2345
-		["catpuccin-latte"] = "󲍆", -- colr-icons-liquid-catpuccin-latte U+f2346
-		["catpuccin-macchiato"] = "󲍇", -- colr-icons-liquid-catpuccin-macchiato U+f2347
-		["catpuccin-mocha"] = "󲍈", -- colr-icons-liquid-catpuccin-mocha U+f2348
+		["material"] = "󲟢", -- colr-icons-liquid-material U+f27e2
+		["catpuccin-frappe"] = "󲟣", -- colr-icons-liquid-catpuccin-frappe U+f27e3
+		["catpuccin-latte"] = "󲟤", -- colr-icons-liquid-catpuccin-latte U+f27e4
+		["catpuccin-macchiato"] = "󲟥", -- colr-icons-liquid-catpuccin-macchiato U+f27e5
+		["catpuccin-mocha"] = "󲟦", -- colr-icons-liquid-catpuccin-mocha U+f27e6
 	},
 	["lisp"] = {
-		["material"] = "󲍉", -- colr-icons-lisp-material U+f2349
-		["catpuccin-frappe"] = "󲍊", -- colr-icons-lisp-catpuccin-frappe U+f234a
-		["catpuccin-latte"] = "󲍋", -- colr-icons-lisp-catpuccin-latte U+f234b
-		["catpuccin-macchiato"] = "󲍌", -- colr-icons-lisp-catpuccin-macchiato U+f234c
-		["catpuccin-mocha"] = "󲍍", -- colr-icons-lisp-catpuccin-mocha U+f234d
+		["material"] = "󲟧", -- colr-icons-lisp-material U+f27e7
+		["catpuccin-frappe"] = "󲟨", -- colr-icons-lisp-catpuccin-frappe U+f27e8
+		["catpuccin-latte"] = "󲟩", -- colr-icons-lisp-catpuccin-latte U+f27e9
+		["catpuccin-macchiato"] = "󲟪", -- colr-icons-lisp-catpuccin-macchiato U+f27ea
+		["catpuccin-mocha"] = "󲟫", -- colr-icons-lisp-catpuccin-mocha U+f27eb
 	},
 	["livescript"] = {
-		["material"] = "󲍎", -- colr-icons-livescript-material U+f234e
+		["material"] = "󲟬", -- colr-icons-livescript-material U+f27ec
 	},
 	["lock"] = {
-		["material"] = "󲍏", -- colr-icons-lock-material U+f234f
-		["catpuccin-frappe"] = "󲍐", -- colr-icons-lock-catpuccin-frappe U+f2350
-		["catpuccin-latte"] = "󲍑", -- colr-icons-lock-catpuccin-latte U+f2351
-		["catpuccin-macchiato"] = "󲍒", -- colr-icons-lock-catpuccin-macchiato U+f2352
-		["catpuccin-mocha"] = "󲍓", -- colr-icons-lock-catpuccin-mocha U+f2353
+		["material"] = "󲟭", -- colr-icons-lock-material U+f27ed
+		["catpuccin-frappe"] = "󲟮", -- colr-icons-lock-catpuccin-frappe U+f27ee
+		["catpuccin-latte"] = "󲟯", -- colr-icons-lock-catpuccin-latte U+f27ef
+		["catpuccin-macchiato"] = "󲟰", -- colr-icons-lock-catpuccin-macchiato U+f27f0
+		["catpuccin-mocha"] = "󲟱", -- colr-icons-lock-catpuccin-mocha U+f27f1
 	},
 	["log"] = {
-		["material"] = "󲍔", -- colr-icons-log-material U+f2354
-		["catpuccin-frappe"] = "󲍕", -- colr-icons-log-catpuccin-frappe U+f2355
-		["catpuccin-latte"] = "󲍖", -- colr-icons-log-catpuccin-latte U+f2356
-		["catpuccin-macchiato"] = "󲍗", -- colr-icons-log-catpuccin-macchiato U+f2357
-		["catpuccin-mocha"] = "󲍘", -- colr-icons-log-catpuccin-mocha U+f2358
+		["material"] = "󲟲", -- colr-icons-log-material U+f27f2
+		["catpuccin-frappe"] = "󲟳", -- colr-icons-log-catpuccin-frappe U+f27f3
+		["catpuccin-latte"] = "󲟴", -- colr-icons-log-catpuccin-latte U+f27f4
+		["catpuccin-macchiato"] = "󲟵", -- colr-icons-log-catpuccin-macchiato U+f27f5
+		["catpuccin-mocha"] = "󲟶", -- colr-icons-log-catpuccin-mocha U+f27f6
 	},
 	["lolcode"] = {
-		["material"] = "󲍙", -- colr-icons-lolcode-material U+f2359
+		["material"] = "󲟷", -- colr-icons-lolcode-material U+f27f7
 	},
 	["lottie"] = {
-		["material"] = "󲍚", -- colr-icons-lottie-material U+f235a
+		["material"] = "󲟸", -- colr-icons-lottie-material U+f27f8
 	},
 	["lua"] = {
-		["material"] = "󲍛", -- colr-icons-lua-material U+f235b
-		["catpuccin-frappe"] = "󲍜", -- colr-icons-lua-catpuccin-frappe U+f235c
-		["catpuccin-latte"] = "󲍝", -- colr-icons-lua-catpuccin-latte U+f235d
-		["catpuccin-macchiato"] = "󲍞", -- colr-icons-lua-catpuccin-macchiato U+f235e
-		["catpuccin-mocha"] = "󲍟", -- colr-icons-lua-catpuccin-mocha U+f235f
+		["material"] = "󲟹", -- colr-icons-lua-material U+f27f9
+		["catpuccin-frappe"] = "󲟺", -- colr-icons-lua-catpuccin-frappe U+f27fa
+		["catpuccin-latte"] = "󲟻", -- colr-icons-lua-catpuccin-latte U+f27fb
+		["catpuccin-macchiato"] = "󲟼", -- colr-icons-lua-catpuccin-macchiato U+f27fc
+		["catpuccin-mocha"] = "󲟽", -- colr-icons-lua-catpuccin-mocha U+f27fd
 	},
 	["lua-check"] = {
-		["catpuccin-frappe"] = "󲍠", -- colr-icons-lua-check-catpuccin-frappe U+f2360
-		["catpuccin-latte"] = "󲍡", -- colr-icons-lua-check-catpuccin-latte U+f2361
-		["catpuccin-macchiato"] = "󲍢", -- colr-icons-lua-check-catpuccin-macchiato U+f2362
-		["catpuccin-mocha"] = "󲍣", -- colr-icons-lua-check-catpuccin-mocha U+f2363
+		["catpuccin-frappe"] = "󲟾", -- colr-icons-lua-check-catpuccin-frappe U+f27fe
+		["catpuccin-latte"] = "󲟿", -- colr-icons-lua-check-catpuccin-latte U+f27ff
+		["catpuccin-macchiato"] = "󲠀", -- colr-icons-lua-check-catpuccin-macchiato U+f2800
+		["catpuccin-mocha"] = "󲠁", -- colr-icons-lua-check-catpuccin-mocha U+f2801
 	},
 	["lua-client"] = {
-		["catpuccin-frappe"] = "󲍤", -- colr-icons-lua-client-catpuccin-frappe U+f2364
-		["catpuccin-latte"] = "󲍥", -- colr-icons-lua-client-catpuccin-latte U+f2365
-		["catpuccin-macchiato"] = "󲍦", -- colr-icons-lua-client-catpuccin-macchiato U+f2366
-		["catpuccin-mocha"] = "󲍧", -- colr-icons-lua-client-catpuccin-mocha U+f2367
+		["catpuccin-frappe"] = "󲠂", -- colr-icons-lua-client-catpuccin-frappe U+f2802
+		["catpuccin-latte"] = "󲠃", -- colr-icons-lua-client-catpuccin-latte U+f2803
+		["catpuccin-macchiato"] = "󲠄", -- colr-icons-lua-client-catpuccin-macchiato U+f2804
+		["catpuccin-mocha"] = "󲠅", -- colr-icons-lua-client-catpuccin-mocha U+f2805
 	},
 	["lua-rocks"] = {
-		["catpuccin-frappe"] = "󲍨", -- colr-icons-lua-rocks-catpuccin-frappe U+f2368
-		["catpuccin-latte"] = "󲍩", -- colr-icons-lua-rocks-catpuccin-latte U+f2369
-		["catpuccin-macchiato"] = "󲍪", -- colr-icons-lua-rocks-catpuccin-macchiato U+f236a
-		["catpuccin-mocha"] = "󲍫", -- colr-icons-lua-rocks-catpuccin-mocha U+f236b
+		["catpuccin-frappe"] = "󲠆", -- colr-icons-lua-rocks-catpuccin-frappe U+f2806
+		["catpuccin-latte"] = "󲠇", -- colr-icons-lua-rocks-catpuccin-latte U+f2807
+		["catpuccin-macchiato"] = "󲠈", -- colr-icons-lua-rocks-catpuccin-macchiato U+f2808
+		["catpuccin-mocha"] = "󲠉", -- colr-icons-lua-rocks-catpuccin-mocha U+f2809
 	},
 	["lua-server"] = {
-		["catpuccin-frappe"] = "󲍬", -- colr-icons-lua-server-catpuccin-frappe U+f236c
-		["catpuccin-latte"] = "󲍭", -- colr-icons-lua-server-catpuccin-latte U+f236d
-		["catpuccin-macchiato"] = "󲍮", -- colr-icons-lua-server-catpuccin-macchiato U+f236e
-		["catpuccin-mocha"] = "󲍯", -- colr-icons-lua-server-catpuccin-mocha U+f236f
+		["catpuccin-frappe"] = "󲠊", -- colr-icons-lua-server-catpuccin-frappe U+f280a
+		["catpuccin-latte"] = "󲠋", -- colr-icons-lua-server-catpuccin-latte U+f280b
+		["catpuccin-macchiato"] = "󲠌", -- colr-icons-lua-server-catpuccin-macchiato U+f280c
+		["catpuccin-mocha"] = "󲠍", -- colr-icons-lua-server-catpuccin-mocha U+f280d
 	},
 	["lua-test"] = {
-		["catpuccin-frappe"] = "󲍰", -- colr-icons-lua-test-catpuccin-frappe U+f2370
-		["catpuccin-latte"] = "󲍱", -- colr-icons-lua-test-catpuccin-latte U+f2371
-		["catpuccin-macchiato"] = "󲍲", -- colr-icons-lua-test-catpuccin-macchiato U+f2372
-		["catpuccin-mocha"] = "󲍳", -- colr-icons-lua-test-catpuccin-mocha U+f2373
+		["catpuccin-frappe"] = "󲠎", -- colr-icons-lua-test-catpuccin-frappe U+f280e
+		["catpuccin-latte"] = "󲠏", -- colr-icons-lua-test-catpuccin-latte U+f280f
+		["catpuccin-macchiato"] = "󲠐", -- colr-icons-lua-test-catpuccin-macchiato U+f2810
+		["catpuccin-mocha"] = "󲠑", -- colr-icons-lua-test-catpuccin-mocha U+f2811
 	},
 	["luau"] = {
-		["material"] = "󲍴", -- colr-icons-luau-material U+f2374
-		["catpuccin-frappe"] = "󲍵", -- colr-icons-luau-catpuccin-frappe U+f2375
-		["catpuccin-latte"] = "󲍶", -- colr-icons-luau-catpuccin-latte U+f2376
-		["catpuccin-macchiato"] = "󲍷", -- colr-icons-luau-catpuccin-macchiato U+f2377
-		["catpuccin-mocha"] = "󲍸", -- colr-icons-luau-catpuccin-mocha U+f2378
+		["material"] = "󲠒", -- colr-icons-luau-material U+f2812
+		["catpuccin-frappe"] = "󲠓", -- colr-icons-luau-catpuccin-frappe U+f2813
+		["catpuccin-latte"] = "󲠔", -- colr-icons-luau-catpuccin-latte U+f2814
+		["catpuccin-macchiato"] = "󲠕", -- colr-icons-luau-catpuccin-macchiato U+f2815
+		["catpuccin-mocha"] = "󲠖", -- colr-icons-luau-catpuccin-mocha U+f2816
 	},
 	["luau-check"] = {
-		["catpuccin-frappe"] = "󲍹", -- colr-icons-luau-check-catpuccin-frappe U+f2379
-		["catpuccin-latte"] = "󲍺", -- colr-icons-luau-check-catpuccin-latte U+f237a
-		["catpuccin-macchiato"] = "󲍻", -- colr-icons-luau-check-catpuccin-macchiato U+f237b
-		["catpuccin-mocha"] = "󲍼", -- colr-icons-luau-check-catpuccin-mocha U+f237c
+		["catpuccin-frappe"] = "󲠗", -- colr-icons-luau-check-catpuccin-frappe U+f2817
+		["catpuccin-latte"] = "󲠘", -- colr-icons-luau-check-catpuccin-latte U+f2818
+		["catpuccin-macchiato"] = "󲠙", -- colr-icons-luau-check-catpuccin-macchiato U+f2819
+		["catpuccin-mocha"] = "󲠚", -- colr-icons-luau-check-catpuccin-mocha U+f281a
 	},
 	["luau-client"] = {
-		["catpuccin-frappe"] = "󲍽", -- colr-icons-luau-client-catpuccin-frappe U+f237d
-		["catpuccin-latte"] = "󲍾", -- colr-icons-luau-client-catpuccin-latte U+f237e
-		["catpuccin-macchiato"] = "󲍿", -- colr-icons-luau-client-catpuccin-macchiato U+f237f
-		["catpuccin-mocha"] = "󲎀", -- colr-icons-luau-client-catpuccin-mocha U+f2380
+		["catpuccin-frappe"] = "󲠛", -- colr-icons-luau-client-catpuccin-frappe U+f281b
+		["catpuccin-latte"] = "󲠜", -- colr-icons-luau-client-catpuccin-latte U+f281c
+		["catpuccin-macchiato"] = "󲠝", -- colr-icons-luau-client-catpuccin-macchiato U+f281d
+		["catpuccin-mocha"] = "󲠞", -- colr-icons-luau-client-catpuccin-mocha U+f281e
 	},
 	["luau-config"] = {
-		["catpuccin-frappe"] = "󲎁", -- colr-icons-luau-config-catpuccin-frappe U+f2381
-		["catpuccin-latte"] = "󲎂", -- colr-icons-luau-config-catpuccin-latte U+f2382
-		["catpuccin-macchiato"] = "󲎃", -- colr-icons-luau-config-catpuccin-macchiato U+f2383
-		["catpuccin-mocha"] = "󲎄", -- colr-icons-luau-config-catpuccin-mocha U+f2384
+		["catpuccin-frappe"] = "󲠟", -- colr-icons-luau-config-catpuccin-frappe U+f281f
+		["catpuccin-latte"] = "󲠠", -- colr-icons-luau-config-catpuccin-latte U+f2820
+		["catpuccin-macchiato"] = "󲠡", -- colr-icons-luau-config-catpuccin-macchiato U+f2821
+		["catpuccin-mocha"] = "󲠢", -- colr-icons-luau-config-catpuccin-mocha U+f2822
 	},
 	["luau-server"] = {
-		["catpuccin-frappe"] = "󲎅", -- colr-icons-luau-server-catpuccin-frappe U+f2385
-		["catpuccin-latte"] = "󲎆", -- colr-icons-luau-server-catpuccin-latte U+f2386
-		["catpuccin-macchiato"] = "󲎇", -- colr-icons-luau-server-catpuccin-macchiato U+f2387
-		["catpuccin-mocha"] = "󲎈", -- colr-icons-luau-server-catpuccin-mocha U+f2388
+		["catpuccin-frappe"] = "󲠣", -- colr-icons-luau-server-catpuccin-frappe U+f2823
+		["catpuccin-latte"] = "󲠤", -- colr-icons-luau-server-catpuccin-latte U+f2824
+		["catpuccin-macchiato"] = "󲠥", -- colr-icons-luau-server-catpuccin-macchiato U+f2825
+		["catpuccin-mocha"] = "󲠦", -- colr-icons-luau-server-catpuccin-mocha U+f2826
 	},
 	["luau-test"] = {
-		["catpuccin-frappe"] = "󲎉", -- colr-icons-luau-test-catpuccin-frappe U+f2389
-		["catpuccin-latte"] = "󲎊", -- colr-icons-luau-test-catpuccin-latte U+f238a
-		["catpuccin-macchiato"] = "󲎋", -- colr-icons-luau-test-catpuccin-macchiato U+f238b
-		["catpuccin-mocha"] = "󲎌", -- colr-icons-luau-test-catpuccin-mocha U+f238c
+		["catpuccin-frappe"] = "󲠧", -- colr-icons-luau-test-catpuccin-frappe U+f2827
+		["catpuccin-latte"] = "󲠨", -- colr-icons-luau-test-catpuccin-latte U+f2828
+		["catpuccin-macchiato"] = "󲠩", -- colr-icons-luau-test-catpuccin-macchiato U+f2829
+		["catpuccin-mocha"] = "󲠪", -- colr-icons-luau-test-catpuccin-mocha U+f282a
 	},
 	["lynx"] = {
-		["material"] = "󲎍", -- colr-icons-lynx-material U+f238d
+		["material"] = "󲠫", -- colr-icons-lynx-material U+f282b
 	},
 	["lyric"] = {
-		["material"] = "󲎎", -- colr-icons-lyric-material U+f238e
+		["material"] = "󲠬", -- colr-icons-lyric-material U+f282c
 	},
 	["macaulay2"] = {
-		["material"] = "󲎏", -- colr-icons-macaulay2-material U+f238f
+		["material"] = "󲠭", -- colr-icons-macaulay2-material U+f282d
 	},
 	["macos"] = {
-		["catpuccin-frappe"] = "󲎐", -- colr-icons-macos-catpuccin-frappe U+f2390
-		["catpuccin-latte"] = "󲎑", -- colr-icons-macos-catpuccin-latte U+f2391
-		["catpuccin-macchiato"] = "󲎒", -- colr-icons-macos-catpuccin-macchiato U+f2392
-		["catpuccin-mocha"] = "󲎓", -- colr-icons-macos-catpuccin-mocha U+f2393
+		["catpuccin-frappe"] = "󲠮", -- colr-icons-macos-catpuccin-frappe U+f282e
+		["catpuccin-latte"] = "󲠯", -- colr-icons-macos-catpuccin-latte U+f282f
+		["catpuccin-macchiato"] = "󲠰", -- colr-icons-macos-catpuccin-macchiato U+f2830
+		["catpuccin-mocha"] = "󲠱", -- colr-icons-macos-catpuccin-mocha U+f2831
 	},
 	["makefile"] = {
-		["material"] = "󲎔", -- colr-icons-makefile-material U+f2394
-		["catpuccin-frappe"] = "󲎕", -- colr-icons-makefile-catpuccin-frappe U+f2395
-		["catpuccin-latte"] = "󲎖", -- colr-icons-makefile-catpuccin-latte U+f2396
-		["catpuccin-macchiato"] = "󲎗", -- colr-icons-makefile-catpuccin-macchiato U+f2397
-		["catpuccin-mocha"] = "󲎘", -- colr-icons-makefile-catpuccin-mocha U+f2398
+		["material"] = "󲠲", -- colr-icons-makefile-material U+f2832
+		["catpuccin-frappe"] = "󲠳", -- colr-icons-makefile-catpuccin-frappe U+f2833
+		["catpuccin-latte"] = "󲠴", -- colr-icons-makefile-catpuccin-latte U+f2834
+		["catpuccin-macchiato"] = "󲠵", -- colr-icons-makefile-catpuccin-macchiato U+f2835
+		["catpuccin-mocha"] = "󲠶", -- colr-icons-makefile-catpuccin-mocha U+f2836
 	},
 	["mantle"] = {
-		["catpuccin-frappe"] = "󲎙", -- colr-icons-mantle-catpuccin-frappe U+f2399
-		["catpuccin-latte"] = "󲎚", -- colr-icons-mantle-catpuccin-latte U+f239a
-		["catpuccin-macchiato"] = "󲎛", -- colr-icons-mantle-catpuccin-macchiato U+f239b
-		["catpuccin-mocha"] = "󲎜", -- colr-icons-mantle-catpuccin-mocha U+f239c
+		["catpuccin-frappe"] = "󲠷", -- colr-icons-mantle-catpuccin-frappe U+f2837
+		["catpuccin-latte"] = "󲠸", -- colr-icons-mantle-catpuccin-latte U+f2838
+		["catpuccin-macchiato"] = "󲠹", -- colr-icons-mantle-catpuccin-macchiato U+f2839
+		["catpuccin-mocha"] = "󲠺", -- colr-icons-mantle-catpuccin-mocha U+f283a
 	},
 	["markdoc"] = {
-		["material"] = "󲎝", -- colr-icons-markdoc-material U+f239d
+		["material"] = "󲠻", -- colr-icons-markdoc-material U+f283b
 	},
 	["markdoc-config"] = {
-		["material"] = "󲎞", -- colr-icons-markdoc-config-material U+f239e
+		["material"] = "󲠼", -- colr-icons-markdoc-config-material U+f283c
 	},
 	["markdown"] = {
-		["material"] = "󲎟", -- colr-icons-markdown-material U+f239f
-		["catpuccin-frappe"] = "󲎠", -- colr-icons-markdown-catpuccin-frappe U+f23a0
-		["catpuccin-latte"] = "󲎡", -- colr-icons-markdown-catpuccin-latte U+f23a1
-		["catpuccin-macchiato"] = "󲎢", -- colr-icons-markdown-catpuccin-macchiato U+f23a2
-		["catpuccin-mocha"] = "󲎣", -- colr-icons-markdown-catpuccin-mocha U+f23a3
+		["material"] = "󲠽", -- colr-icons-markdown-material U+f283d
+		["catpuccin-frappe"] = "󲠾", -- colr-icons-markdown-catpuccin-frappe U+f283e
+		["catpuccin-latte"] = "󲠿", -- colr-icons-markdown-catpuccin-latte U+f283f
+		["catpuccin-macchiato"] = "󲡀", -- colr-icons-markdown-catpuccin-macchiato U+f2840
+		["catpuccin-mocha"] = "󲡁", -- colr-icons-markdown-catpuccin-mocha U+f2841
 	},
 	["markdown-mdx"] = {
-		["catpuccin-frappe"] = "󲎤", -- colr-icons-markdown-mdx-catpuccin-frappe U+f23a4
-		["catpuccin-latte"] = "󲎥", -- colr-icons-markdown-mdx-catpuccin-latte U+f23a5
-		["catpuccin-macchiato"] = "󲎦", -- colr-icons-markdown-mdx-catpuccin-macchiato U+f23a6
-		["catpuccin-mocha"] = "󲎧", -- colr-icons-markdown-mdx-catpuccin-mocha U+f23a7
+		["catpuccin-frappe"] = "󲡂", -- colr-icons-markdown-mdx-catpuccin-frappe U+f2842
+		["catpuccin-latte"] = "󲡃", -- colr-icons-markdown-mdx-catpuccin-latte U+f2843
+		["catpuccin-macchiato"] = "󲡄", -- colr-icons-markdown-mdx-catpuccin-macchiato U+f2844
+		["catpuccin-mocha"] = "󲡅", -- colr-icons-markdown-mdx-catpuccin-mocha U+f2845
 	},
 	["markdownlint"] = {
-		["material"] = "󲎨", -- colr-icons-markdownlint-material U+f23a8
+		["material"] = "󲡆", -- colr-icons-markdownlint-material U+f2846
 	},
 	["marko"] = {
-		["catpuccin-frappe"] = "󲎩", -- colr-icons-marko-catpuccin-frappe U+f23a9
-		["catpuccin-latte"] = "󲎪", -- colr-icons-marko-catpuccin-latte U+f23aa
-		["catpuccin-macchiato"] = "󲎫", -- colr-icons-marko-catpuccin-macchiato U+f23ab
-		["catpuccin-mocha"] = "󲎬", -- colr-icons-marko-catpuccin-mocha U+f23ac
+		["catpuccin-frappe"] = "󲡇", -- colr-icons-marko-catpuccin-frappe U+f2847
+		["catpuccin-latte"] = "󲡈", -- colr-icons-marko-catpuccin-latte U+f2848
+		["catpuccin-macchiato"] = "󲡉", -- colr-icons-marko-catpuccin-macchiato U+f2849
+		["catpuccin-mocha"] = "󲡊", -- colr-icons-marko-catpuccin-mocha U+f284a
 	},
 	["markojs"] = {
-		["material"] = "󲎭", -- colr-icons-markojs-material U+f23ad
+		["material"] = "󲡋", -- colr-icons-markojs-material U+f284b
 	},
 	["mathematica"] = {
-		["material"] = "󲎮", -- colr-icons-mathematica-material U+f23ae
+		["material"] = "󲡌", -- colr-icons-mathematica-material U+f284c
 	},
 	["matlab"] = {
-		["material"] = "󲎯", -- colr-icons-matlab-material U+f23af
-		["catpuccin-frappe"] = "󲎰", -- colr-icons-matlab-catpuccin-frappe U+f23b0
-		["catpuccin-latte"] = "󲎱", -- colr-icons-matlab-catpuccin-latte U+f23b1
-		["catpuccin-macchiato"] = "󲎲", -- colr-icons-matlab-catpuccin-macchiato U+f23b2
-		["catpuccin-mocha"] = "󲎳", -- colr-icons-matlab-catpuccin-mocha U+f23b3
+		["material"] = "󲡍", -- colr-icons-matlab-material U+f284d
+		["catpuccin-frappe"] = "󲡎", -- colr-icons-matlab-catpuccin-frappe U+f284e
+		["catpuccin-latte"] = "󲡏", -- colr-icons-matlab-catpuccin-latte U+f284f
+		["catpuccin-macchiato"] = "󲡐", -- colr-icons-matlab-catpuccin-macchiato U+f2850
+		["catpuccin-mocha"] = "󲡑", -- colr-icons-matlab-catpuccin-mocha U+f2851
 	},
 	["maven"] = {
-		["material"] = "󲎴", -- colr-icons-maven-material U+f23b4
+		["material"] = "󲡒", -- colr-icons-maven-material U+f2852
 	},
 	["mdbook"] = {
-		["catpuccin-frappe"] = "󲎵", -- colr-icons-mdbook-catpuccin-frappe U+f23b5
-		["catpuccin-latte"] = "󲎶", -- colr-icons-mdbook-catpuccin-latte U+f23b6
-		["catpuccin-macchiato"] = "󲎷", -- colr-icons-mdbook-catpuccin-macchiato U+f23b7
-		["catpuccin-mocha"] = "󲎸", -- colr-icons-mdbook-catpuccin-mocha U+f23b8
+		["catpuccin-frappe"] = "󲡓", -- colr-icons-mdbook-catpuccin-frappe U+f2853
+		["catpuccin-latte"] = "󲡔", -- colr-icons-mdbook-catpuccin-latte U+f2854
+		["catpuccin-macchiato"] = "󲡕", -- colr-icons-mdbook-catpuccin-macchiato U+f2855
+		["catpuccin-mocha"] = "󲡖", -- colr-icons-mdbook-catpuccin-mocha U+f2856
 	},
 	["mdsvex"] = {
-		["material"] = "󲎹", -- colr-icons-mdsvex-material U+f23b9
+		["material"] = "󲡗", -- colr-icons-mdsvex-material U+f2857
 	},
 	["mdx"] = {
-		["material"] = "󲎺", -- colr-icons-mdx-material U+f23ba
+		["material"] = "󲡘", -- colr-icons-mdx-material U+f2858
 	},
 	["mercurial"] = {
-		["material"] = "󲎻", -- colr-icons-mercurial-material U+f23bb
+		["material"] = "󲡙", -- colr-icons-mercurial-material U+f2859
 	},
 	["merlin"] = {
-		["material"] = "󲎼", -- colr-icons-merlin-material U+f23bc
+		["material"] = "󲡚", -- colr-icons-merlin-material U+f285a
 	},
 	["mermaid"] = {
-		["material"] = "󲎽", -- colr-icons-mermaid-material U+f23bd
-		["catpuccin-frappe"] = "󲎾", -- colr-icons-mermaid-catpuccin-frappe U+f23be
-		["catpuccin-latte"] = "󲎿", -- colr-icons-mermaid-catpuccin-latte U+f23bf
-		["catpuccin-macchiato"] = "󲏀", -- colr-icons-mermaid-catpuccin-macchiato U+f23c0
-		["catpuccin-mocha"] = "󲏁", -- colr-icons-mermaid-catpuccin-mocha U+f23c1
+		["material"] = "󲡛", -- colr-icons-mermaid-material U+f285b
+		["catpuccin-frappe"] = "󲡜", -- colr-icons-mermaid-catpuccin-frappe U+f285c
+		["catpuccin-latte"] = "󲡝", -- colr-icons-mermaid-catpuccin-latte U+f285d
+		["catpuccin-macchiato"] = "󲡞", -- colr-icons-mermaid-catpuccin-macchiato U+f285e
+		["catpuccin-mocha"] = "󲡟", -- colr-icons-mermaid-catpuccin-mocha U+f285f
 	},
 	["meson"] = {
-		["material"] = "󲏂", -- colr-icons-meson-material U+f23c2
-		["catpuccin-frappe"] = "󲏃", -- colr-icons-meson-catpuccin-frappe U+f23c3
-		["catpuccin-latte"] = "󲏄", -- colr-icons-meson-catpuccin-latte U+f23c4
-		["catpuccin-macchiato"] = "󲏅", -- colr-icons-meson-catpuccin-macchiato U+f23c5
-		["catpuccin-mocha"] = "󲏆", -- colr-icons-meson-catpuccin-mocha U+f23c6
+		["material"] = "󲡠", -- colr-icons-meson-material U+f2860
+		["catpuccin-frappe"] = "󲡡", -- colr-icons-meson-catpuccin-frappe U+f2861
+		["catpuccin-latte"] = "󲡢", -- colr-icons-meson-catpuccin-latte U+f2862
+		["catpuccin-macchiato"] = "󲡣", -- colr-icons-meson-catpuccin-macchiato U+f2863
+		["catpuccin-mocha"] = "󲡤", -- colr-icons-meson-catpuccin-mocha U+f2864
 	},
 	["metro"] = {
-		["material"] = "󲏇", -- colr-icons-metro-material U+f23c7
+		["material"] = "󲡥", -- colr-icons-metro-material U+f2865
 	},
 	["midi"] = {
-		["catpuccin-frappe"] = "󲏈", -- colr-icons-midi-catpuccin-frappe U+f23c8
-		["catpuccin-latte"] = "󲏉", -- colr-icons-midi-catpuccin-latte U+f23c9
-		["catpuccin-macchiato"] = "󲏊", -- colr-icons-midi-catpuccin-macchiato U+f23ca
-		["catpuccin-mocha"] = "󲏋", -- colr-icons-midi-catpuccin-mocha U+f23cb
+		["catpuccin-frappe"] = "󲡦", -- colr-icons-midi-catpuccin-frappe U+f2866
+		["catpuccin-latte"] = "󲡧", -- colr-icons-midi-catpuccin-latte U+f2867
+		["catpuccin-macchiato"] = "󲡨", -- colr-icons-midi-catpuccin-macchiato U+f2868
+		["catpuccin-mocha"] = "󲡩", -- colr-icons-midi-catpuccin-mocha U+f2869
 	},
 	["minecraft"] = {
-		["material"] = "󲏌", -- colr-icons-minecraft-material U+f23cc
+		["material"] = "󲡪", -- colr-icons-minecraft-material U+f286a
 	},
 	["minecraft-fabric"] = {
-		["material"] = "󲏍", -- colr-icons-minecraft-fabric-material U+f23cd
+		["material"] = "󲡫", -- colr-icons-minecraft-fabric-material U+f286b
 	},
 	["mint"] = {
-		["material"] = "󲏎", -- colr-icons-mint-material U+f23ce
+		["material"] = "󲡬", -- colr-icons-mint-material U+f286c
 	},
 	["mjml"] = {
-		["material"] = "󲏏", -- colr-icons-mjml-material U+f23cf
-		["catpuccin-frappe"] = "󲏐", -- colr-icons-mjml-catpuccin-frappe U+f23d0
-		["catpuccin-latte"] = "󲏑", -- colr-icons-mjml-catpuccin-latte U+f23d1
-		["catpuccin-macchiato"] = "󲏒", -- colr-icons-mjml-catpuccin-macchiato U+f23d2
-		["catpuccin-mocha"] = "󲏓", -- colr-icons-mjml-catpuccin-mocha U+f23d3
+		["material"] = "󲡭", -- colr-icons-mjml-material U+f286d
+		["catpuccin-frappe"] = "󲡮", -- colr-icons-mjml-catpuccin-frappe U+f286e
+		["catpuccin-latte"] = "󲡯", -- colr-icons-mjml-catpuccin-latte U+f286f
+		["catpuccin-macchiato"] = "󲡰", -- colr-icons-mjml-catpuccin-macchiato U+f2870
+		["catpuccin-mocha"] = "󲡱", -- colr-icons-mjml-catpuccin-mocha U+f2871
 	},
 	["mocha"] = {
-		["material"] = "󲏔", -- colr-icons-mocha-material U+f23d4
+		["material"] = "󲡲", -- colr-icons-mocha-material U+f2872
 	},
 	["modernizr"] = {
-		["material"] = "󲏕", -- colr-icons-modernizr-material U+f23d5
-		["catpuccin-frappe"] = "󲏖", -- colr-icons-modernizr-catpuccin-frappe U+f23d6
-		["catpuccin-latte"] = "󲏗", -- colr-icons-modernizr-catpuccin-latte U+f23d7
-		["catpuccin-macchiato"] = "󲏘", -- colr-icons-modernizr-catpuccin-macchiato U+f23d8
-		["catpuccin-mocha"] = "󲏙", -- colr-icons-modernizr-catpuccin-mocha U+f23d9
+		["material"] = "󲡳", -- colr-icons-modernizr-material U+f2873
+		["catpuccin-frappe"] = "󲡴", -- colr-icons-modernizr-catpuccin-frappe U+f2874
+		["catpuccin-latte"] = "󲡵", -- colr-icons-modernizr-catpuccin-latte U+f2875
+		["catpuccin-macchiato"] = "󲡶", -- colr-icons-modernizr-catpuccin-macchiato U+f2876
+		["catpuccin-mocha"] = "󲡷", -- colr-icons-modernizr-catpuccin-mocha U+f2877
 	},
 	["mojo"] = {
-		["material"] = "󲏚", -- colr-icons-mojo-material U+f23da
+		["material"] = "󲡸", -- colr-icons-mojo-material U+f2878
 	},
 	["moon"] = {
-		["material"] = "󲏛", -- colr-icons-moon-material U+f23db
+		["material"] = "󲡹", -- colr-icons-moon-material U+f2879
 	},
 	["moonrepo"] = {
-		["catpuccin-frappe"] = "󲏜", -- colr-icons-moonrepo-catpuccin-frappe U+f23dc
-		["catpuccin-latte"] = "󲏝", -- colr-icons-moonrepo-catpuccin-latte U+f23dd
-		["catpuccin-macchiato"] = "󲏞", -- colr-icons-moonrepo-catpuccin-macchiato U+f23de
-		["catpuccin-mocha"] = "󲏟", -- colr-icons-moonrepo-catpuccin-mocha U+f23df
+		["catpuccin-frappe"] = "󲡺", -- colr-icons-moonrepo-catpuccin-frappe U+f287a
+		["catpuccin-latte"] = "󲡻", -- colr-icons-moonrepo-catpuccin-latte U+f287b
+		["catpuccin-macchiato"] = "󲡼", -- colr-icons-moonrepo-catpuccin-macchiato U+f287c
+		["catpuccin-mocha"] = "󲡽", -- colr-icons-moonrepo-catpuccin-mocha U+f287d
 	},
 	["moonscript"] = {
-		["material"] = "󲏠", -- colr-icons-moonscript-material U+f23e0
+		["material"] = "󲡾", -- colr-icons-moonscript-material U+f287e
 	},
 	["moonwave"] = {
-		["catpuccin-frappe"] = "󲏡", -- colr-icons-moonwave-catpuccin-frappe U+f23e1
-		["catpuccin-latte"] = "󲏢", -- colr-icons-moonwave-catpuccin-latte U+f23e2
-		["catpuccin-macchiato"] = "󲏣", -- colr-icons-moonwave-catpuccin-macchiato U+f23e3
-		["catpuccin-mocha"] = "󲏤", -- colr-icons-moonwave-catpuccin-mocha U+f23e4
+		["catpuccin-frappe"] = "󲡿", -- colr-icons-moonwave-catpuccin-frappe U+f287f
+		["catpuccin-latte"] = "󲢀", -- colr-icons-moonwave-catpuccin-latte U+f2880
+		["catpuccin-macchiato"] = "󲢁", -- colr-icons-moonwave-catpuccin-macchiato U+f2881
+		["catpuccin-mocha"] = "󲢂", -- colr-icons-moonwave-catpuccin-mocha U+f2882
 	},
 	["mrpack"] = {
-		["material"] = "󲏥", -- colr-icons-mrpack-material U+f23e5
+		["material"] = "󲢃", -- colr-icons-mrpack-material U+f2883
 	},
 	["ms-excel"] = {
-		["catpuccin-frappe"] = "󲏦", -- colr-icons-ms-excel-catpuccin-frappe U+f23e6
-		["catpuccin-latte"] = "󲏧", -- colr-icons-ms-excel-catpuccin-latte U+f23e7
-		["catpuccin-macchiato"] = "󲏨", -- colr-icons-ms-excel-catpuccin-macchiato U+f23e8
-		["catpuccin-mocha"] = "󲏩", -- colr-icons-ms-excel-catpuccin-mocha U+f23e9
+		["catpuccin-frappe"] = "󲢄", -- colr-icons-ms-excel-catpuccin-frappe U+f2884
+		["catpuccin-latte"] = "󲢅", -- colr-icons-ms-excel-catpuccin-latte U+f2885
+		["catpuccin-macchiato"] = "󲢆", -- colr-icons-ms-excel-catpuccin-macchiato U+f2886
+		["catpuccin-mocha"] = "󲢇", -- colr-icons-ms-excel-catpuccin-mocha U+f2887
 	},
 	["ms-powerpoint"] = {
-		["catpuccin-frappe"] = "󲏪", -- colr-icons-ms-powerpoint-catpuccin-frappe U+f23ea
-		["catpuccin-latte"] = "󲏫", -- colr-icons-ms-powerpoint-catpuccin-latte U+f23eb
-		["catpuccin-macchiato"] = "󲏬", -- colr-icons-ms-powerpoint-catpuccin-macchiato U+f23ec
-		["catpuccin-mocha"] = "󲏭", -- colr-icons-ms-powerpoint-catpuccin-mocha U+f23ed
+		["catpuccin-frappe"] = "󲢈", -- colr-icons-ms-powerpoint-catpuccin-frappe U+f2888
+		["catpuccin-latte"] = "󲢉", -- colr-icons-ms-powerpoint-catpuccin-latte U+f2889
+		["catpuccin-macchiato"] = "󲢊", -- colr-icons-ms-powerpoint-catpuccin-macchiato U+f288a
+		["catpuccin-mocha"] = "󲢋", -- colr-icons-ms-powerpoint-catpuccin-mocha U+f288b
 	},
 	["ms-word"] = {
-		["catpuccin-frappe"] = "󲏮", -- colr-icons-ms-word-catpuccin-frappe U+f23ee
-		["catpuccin-latte"] = "󲏯", -- colr-icons-ms-word-catpuccin-latte U+f23ef
-		["catpuccin-macchiato"] = "󲏰", -- colr-icons-ms-word-catpuccin-macchiato U+f23f0
-		["catpuccin-mocha"] = "󲏱", -- colr-icons-ms-word-catpuccin-mocha U+f23f1
+		["catpuccin-frappe"] = "󲢌", -- colr-icons-ms-word-catpuccin-frappe U+f288c
+		["catpuccin-latte"] = "󲢍", -- colr-icons-ms-word-catpuccin-latte U+f288d
+		["catpuccin-macchiato"] = "󲢎", -- colr-icons-ms-word-catpuccin-macchiato U+f288e
+		["catpuccin-mocha"] = "󲢏", -- colr-icons-ms-word-catpuccin-mocha U+f288f
 	},
 	["msbuild"] = {
-		["catpuccin-frappe"] = "󲏲", -- colr-icons-msbuild-catpuccin-frappe U+f23f2
-		["catpuccin-latte"] = "󲏳", -- colr-icons-msbuild-catpuccin-latte U+f23f3
-		["catpuccin-macchiato"] = "󲏴", -- colr-icons-msbuild-catpuccin-macchiato U+f23f4
-		["catpuccin-mocha"] = "󲏵", -- colr-icons-msbuild-catpuccin-mocha U+f23f5
+		["catpuccin-frappe"] = "󲢐", -- colr-icons-msbuild-catpuccin-frappe U+f2890
+		["catpuccin-latte"] = "󲢑", -- colr-icons-msbuild-catpuccin-latte U+f2891
+		["catpuccin-macchiato"] = "󲢒", -- colr-icons-msbuild-catpuccin-macchiato U+f2892
+		["catpuccin-mocha"] = "󲢓", -- colr-icons-msbuild-catpuccin-mocha U+f2893
 	},
 	["mxml"] = {
-		["material"] = "󲏶", -- colr-icons-mxml-material U+f23f6
+		["material"] = "󲢔", -- colr-icons-mxml-material U+f2894
 	},
 	["nano-staged"] = {
-		["material"] = "󲏷", -- colr-icons-nano-staged-material U+f23f7
+		["material"] = "󲢕", -- colr-icons-nano-staged-material U+f2895
 	},
 	["nano-staged_light"] = {
-		["material"] = "󲏸", -- colr-icons-nano-staged_light-material U+f23f8
+		["material"] = "󲢖", -- colr-icons-nano-staged_light-material U+f2896
 	},
 	["nativescript"] = {
-		["catpuccin-frappe"] = "󲏹", -- colr-icons-nativescript-catpuccin-frappe U+f23f9
-		["catpuccin-latte"] = "󲏺", -- colr-icons-nativescript-catpuccin-latte U+f23fa
-		["catpuccin-macchiato"] = "󲏻", -- colr-icons-nativescript-catpuccin-macchiato U+f23fb
-		["catpuccin-mocha"] = "󲏼", -- colr-icons-nativescript-catpuccin-mocha U+f23fc
+		["catpuccin-frappe"] = "󲢗", -- colr-icons-nativescript-catpuccin-frappe U+f2897
+		["catpuccin-latte"] = "󲢘", -- colr-icons-nativescript-catpuccin-latte U+f2898
+		["catpuccin-macchiato"] = "󲢙", -- colr-icons-nativescript-catpuccin-macchiato U+f2899
+		["catpuccin-mocha"] = "󲢚", -- colr-icons-nativescript-catpuccin-mocha U+f289a
 	},
 	["ndst"] = {
-		["material"] = "󲏽", -- colr-icons-ndst-material U+f23fd
+		["material"] = "󲢛", -- colr-icons-ndst-material U+f289b
 	},
 	["nest"] = {
-		["material"] = "󲏾", -- colr-icons-nest-material U+f23fe
-		["catpuccin-frappe"] = "󲏿", -- colr-icons-nest-catpuccin-frappe U+f23ff
-		["catpuccin-latte"] = "󲐀", -- colr-icons-nest-catpuccin-latte U+f2400
-		["catpuccin-macchiato"] = "󲐁", -- colr-icons-nest-catpuccin-macchiato U+f2401
-		["catpuccin-mocha"] = "󲐂", -- colr-icons-nest-catpuccin-mocha U+f2402
+		["material"] = "󲢜", -- colr-icons-nest-material U+f289c
+		["catpuccin-frappe"] = "󲢝", -- colr-icons-nest-catpuccin-frappe U+f289d
+		["catpuccin-latte"] = "󲢞", -- colr-icons-nest-catpuccin-latte U+f289e
+		["catpuccin-macchiato"] = "󲢟", -- colr-icons-nest-catpuccin-macchiato U+f289f
+		["catpuccin-mocha"] = "󲢠", -- colr-icons-nest-catpuccin-mocha U+f28a0
 	},
 	["nest-controller"] = {
-		["catpuccin-frappe"] = "󲐃", -- colr-icons-nest-controller-catpuccin-frappe U+f2403
-		["catpuccin-latte"] = "󲐄", -- colr-icons-nest-controller-catpuccin-latte U+f2404
-		["catpuccin-macchiato"] = "󲐅", -- colr-icons-nest-controller-catpuccin-macchiato U+f2405
-		["catpuccin-mocha"] = "󲐆", -- colr-icons-nest-controller-catpuccin-mocha U+f2406
+		["catpuccin-frappe"] = "󲢡", -- colr-icons-nest-controller-catpuccin-frappe U+f28a1
+		["catpuccin-latte"] = "󲢢", -- colr-icons-nest-controller-catpuccin-latte U+f28a2
+		["catpuccin-macchiato"] = "󲢣", -- colr-icons-nest-controller-catpuccin-macchiato U+f28a3
+		["catpuccin-mocha"] = "󲢤", -- colr-icons-nest-controller-catpuccin-mocha U+f28a4
 	},
 	["nest-decorator"] = {
-		["catpuccin-frappe"] = "󲐇", -- colr-icons-nest-decorator-catpuccin-frappe U+f2407
-		["catpuccin-latte"] = "󲐈", -- colr-icons-nest-decorator-catpuccin-latte U+f2408
-		["catpuccin-macchiato"] = "󲐉", -- colr-icons-nest-decorator-catpuccin-macchiato U+f2409
-		["catpuccin-mocha"] = "󲐊", -- colr-icons-nest-decorator-catpuccin-mocha U+f240a
+		["catpuccin-frappe"] = "󲢥", -- colr-icons-nest-decorator-catpuccin-frappe U+f28a5
+		["catpuccin-latte"] = "󲢦", -- colr-icons-nest-decorator-catpuccin-latte U+f28a6
+		["catpuccin-macchiato"] = "󲢧", -- colr-icons-nest-decorator-catpuccin-macchiato U+f28a7
+		["catpuccin-mocha"] = "󲢨", -- colr-icons-nest-decorator-catpuccin-mocha U+f28a8
 	},
 	["nest-filter"] = {
-		["catpuccin-frappe"] = "󲐋", -- colr-icons-nest-filter-catpuccin-frappe U+f240b
-		["catpuccin-latte"] = "󲐌", -- colr-icons-nest-filter-catpuccin-latte U+f240c
-		["catpuccin-macchiato"] = "󲐍", -- colr-icons-nest-filter-catpuccin-macchiato U+f240d
-		["catpuccin-mocha"] = "󲐎", -- colr-icons-nest-filter-catpuccin-mocha U+f240e
+		["catpuccin-frappe"] = "󲢩", -- colr-icons-nest-filter-catpuccin-frappe U+f28a9
+		["catpuccin-latte"] = "󲢪", -- colr-icons-nest-filter-catpuccin-latte U+f28aa
+		["catpuccin-macchiato"] = "󲢫", -- colr-icons-nest-filter-catpuccin-macchiato U+f28ab
+		["catpuccin-mocha"] = "󲢬", -- colr-icons-nest-filter-catpuccin-mocha U+f28ac
 	},
 	["nest-gateway"] = {
-		["catpuccin-frappe"] = "󲐏", -- colr-icons-nest-gateway-catpuccin-frappe U+f240f
-		["catpuccin-latte"] = "󲐐", -- colr-icons-nest-gateway-catpuccin-latte U+f2410
-		["catpuccin-macchiato"] = "󲐑", -- colr-icons-nest-gateway-catpuccin-macchiato U+f2411
-		["catpuccin-mocha"] = "󲐒", -- colr-icons-nest-gateway-catpuccin-mocha U+f2412
+		["catpuccin-frappe"] = "󲢭", -- colr-icons-nest-gateway-catpuccin-frappe U+f28ad
+		["catpuccin-latte"] = "󲢮", -- colr-icons-nest-gateway-catpuccin-latte U+f28ae
+		["catpuccin-macchiato"] = "󲢯", -- colr-icons-nest-gateway-catpuccin-macchiato U+f28af
+		["catpuccin-mocha"] = "󲢰", -- colr-icons-nest-gateway-catpuccin-mocha U+f28b0
 	},
 	["nest-guard"] = {
-		["catpuccin-frappe"] = "󲐓", -- colr-icons-nest-guard-catpuccin-frappe U+f2413
-		["catpuccin-latte"] = "󲐔", -- colr-icons-nest-guard-catpuccin-latte U+f2414
-		["catpuccin-macchiato"] = "󲐕", -- colr-icons-nest-guard-catpuccin-macchiato U+f2415
-		["catpuccin-mocha"] = "󲐖", -- colr-icons-nest-guard-catpuccin-mocha U+f2416
+		["catpuccin-frappe"] = "󲢱", -- colr-icons-nest-guard-catpuccin-frappe U+f28b1
+		["catpuccin-latte"] = "󲢲", -- colr-icons-nest-guard-catpuccin-latte U+f28b2
+		["catpuccin-macchiato"] = "󲢳", -- colr-icons-nest-guard-catpuccin-macchiato U+f28b3
+		["catpuccin-mocha"] = "󲢴", -- colr-icons-nest-guard-catpuccin-mocha U+f28b4
 	},
 	["nest-middleware"] = {
-		["catpuccin-frappe"] = "󲐗", -- colr-icons-nest-middleware-catpuccin-frappe U+f2417
-		["catpuccin-latte"] = "󲐘", -- colr-icons-nest-middleware-catpuccin-latte U+f2418
-		["catpuccin-macchiato"] = "󲐙", -- colr-icons-nest-middleware-catpuccin-macchiato U+f2419
-		["catpuccin-mocha"] = "󲐚", -- colr-icons-nest-middleware-catpuccin-mocha U+f241a
+		["catpuccin-frappe"] = "󲢵", -- colr-icons-nest-middleware-catpuccin-frappe U+f28b5
+		["catpuccin-latte"] = "󲢶", -- colr-icons-nest-middleware-catpuccin-latte U+f28b6
+		["catpuccin-macchiato"] = "󲢷", -- colr-icons-nest-middleware-catpuccin-macchiato U+f28b7
+		["catpuccin-mocha"] = "󲢸", -- colr-icons-nest-middleware-catpuccin-mocha U+f28b8
 	},
 	["nest-pipe"] = {
-		["catpuccin-frappe"] = "󲐛", -- colr-icons-nest-pipe-catpuccin-frappe U+f241b
-		["catpuccin-latte"] = "󲐜", -- colr-icons-nest-pipe-catpuccin-latte U+f241c
-		["catpuccin-macchiato"] = "󲐝", -- colr-icons-nest-pipe-catpuccin-macchiato U+f241d
-		["catpuccin-mocha"] = "󲐞", -- colr-icons-nest-pipe-catpuccin-mocha U+f241e
+		["catpuccin-frappe"] = "󲢹", -- colr-icons-nest-pipe-catpuccin-frappe U+f28b9
+		["catpuccin-latte"] = "󲢺", -- colr-icons-nest-pipe-catpuccin-latte U+f28ba
+		["catpuccin-macchiato"] = "󲢻", -- colr-icons-nest-pipe-catpuccin-macchiato U+f28bb
+		["catpuccin-mocha"] = "󲢼", -- colr-icons-nest-pipe-catpuccin-mocha U+f28bc
 	},
 	["nest-service"] = {
-		["catpuccin-frappe"] = "󲐟", -- colr-icons-nest-service-catpuccin-frappe U+f241f
-		["catpuccin-latte"] = "󲐠", -- colr-icons-nest-service-catpuccin-latte U+f2420
-		["catpuccin-macchiato"] = "󲐡", -- colr-icons-nest-service-catpuccin-macchiato U+f2421
-		["catpuccin-mocha"] = "󲐢", -- colr-icons-nest-service-catpuccin-mocha U+f2422
+		["catpuccin-frappe"] = "󲢽", -- colr-icons-nest-service-catpuccin-frappe U+f28bd
+		["catpuccin-latte"] = "󲢾", -- colr-icons-nest-service-catpuccin-latte U+f28be
+		["catpuccin-macchiato"] = "󲢿", -- colr-icons-nest-service-catpuccin-macchiato U+f28bf
+		["catpuccin-mocha"] = "󲣀", -- colr-icons-nest-service-catpuccin-mocha U+f28c0
 	},
 	["netlify"] = {
-		["material"] = "󲐣", -- colr-icons-netlify-material U+f2423
-		["catpuccin-frappe"] = "󲐤", -- colr-icons-netlify-catpuccin-frappe U+f2424
-		["catpuccin-latte"] = "󲐥", -- colr-icons-netlify-catpuccin-latte U+f2425
-		["catpuccin-macchiato"] = "󲐦", -- colr-icons-netlify-catpuccin-macchiato U+f2426
-		["catpuccin-mocha"] = "󲐧", -- colr-icons-netlify-catpuccin-mocha U+f2427
+		["material"] = "󲣁", -- colr-icons-netlify-material U+f28c1
+		["catpuccin-frappe"] = "󲣂", -- colr-icons-netlify-catpuccin-frappe U+f28c2
+		["catpuccin-latte"] = "󲣃", -- colr-icons-netlify-catpuccin-latte U+f28c3
+		["catpuccin-macchiato"] = "󲣄", -- colr-icons-netlify-catpuccin-macchiato U+f28c4
+		["catpuccin-mocha"] = "󲣅", -- colr-icons-netlify-catpuccin-mocha U+f28c5
 	},
 	["netlify_light"] = {
-		["material"] = "󲐨", -- colr-icons-netlify_light-material U+f2428
+		["material"] = "󲣆", -- colr-icons-netlify_light-material U+f28c6
 	},
 	["next"] = {
-		["material"] = "󲐩", -- colr-icons-next-material U+f2429
-		["catpuccin-frappe"] = "󲐪", -- colr-icons-next-catpuccin-frappe U+f242a
-		["catpuccin-latte"] = "󲐫", -- colr-icons-next-catpuccin-latte U+f242b
-		["catpuccin-macchiato"] = "󲐬", -- colr-icons-next-catpuccin-macchiato U+f242c
-		["catpuccin-mocha"] = "󲐭", -- colr-icons-next-catpuccin-mocha U+f242d
+		["material"] = "󲣇", -- colr-icons-next-material U+f28c7
+		["catpuccin-frappe"] = "󲣈", -- colr-icons-next-catpuccin-frappe U+f28c8
+		["catpuccin-latte"] = "󲣉", -- colr-icons-next-catpuccin-latte U+f28c9
+		["catpuccin-macchiato"] = "󲣊", -- colr-icons-next-catpuccin-macchiato U+f28ca
+		["catpuccin-mocha"] = "󲣋", -- colr-icons-next-catpuccin-mocha U+f28cb
 	},
 	["next_light"] = {
-		["material"] = "󲐮", -- colr-icons-next_light-material U+f242e
+		["material"] = "󲣌", -- colr-icons-next_light-material U+f28cc
 	},
 	["nextflow"] = {
-		["catpuccin-frappe"] = "󲐯", -- colr-icons-nextflow-catpuccin-frappe U+f242f
-		["catpuccin-latte"] = "󲐰", -- colr-icons-nextflow-catpuccin-latte U+f2430
-		["catpuccin-macchiato"] = "󲐱", -- colr-icons-nextflow-catpuccin-macchiato U+f2431
-		["catpuccin-mocha"] = "󲐲", -- colr-icons-nextflow-catpuccin-mocha U+f2432
+		["catpuccin-frappe"] = "󲣍", -- colr-icons-nextflow-catpuccin-frappe U+f28cd
+		["catpuccin-latte"] = "󲣎", -- colr-icons-nextflow-catpuccin-latte U+f28ce
+		["catpuccin-macchiato"] = "󲣏", -- colr-icons-nextflow-catpuccin-macchiato U+f28cf
+		["catpuccin-mocha"] = "󲣐", -- colr-icons-nextflow-catpuccin-mocha U+f28d0
 	},
 	["nginx"] = {
-		["material"] = "󲐳", -- colr-icons-nginx-material U+f2433
-		["catpuccin-frappe"] = "󲐴", -- colr-icons-nginx-catpuccin-frappe U+f2434
-		["catpuccin-latte"] = "󲐵", -- colr-icons-nginx-catpuccin-latte U+f2435
-		["catpuccin-macchiato"] = "󲐶", -- colr-icons-nginx-catpuccin-macchiato U+f2436
-		["catpuccin-mocha"] = "󲐷", -- colr-icons-nginx-catpuccin-mocha U+f2437
+		["material"] = "󲣑", -- colr-icons-nginx-material U+f28d1
+		["catpuccin-frappe"] = "󲣒", -- colr-icons-nginx-catpuccin-frappe U+f28d2
+		["catpuccin-latte"] = "󲣓", -- colr-icons-nginx-catpuccin-latte U+f28d3
+		["catpuccin-macchiato"] = "󲣔", -- colr-icons-nginx-catpuccin-macchiato U+f28d4
+		["catpuccin-mocha"] = "󲣕", -- colr-icons-nginx-catpuccin-mocha U+f28d5
 	},
 	["ngrx-actions"] = {
-		["material"] = "󲐸", -- colr-icons-ngrx-actions-material U+f2438
+		["material"] = "󲣖", -- colr-icons-ngrx-actions-material U+f28d6
 	},
 	["ngrx-effects"] = {
-		["material"] = "󲐹", -- colr-icons-ngrx-effects-material U+f2439
+		["material"] = "󲣗", -- colr-icons-ngrx-effects-material U+f28d7
 	},
 	["ngrx-entity"] = {
-		["material"] = "󲐺", -- colr-icons-ngrx-entity-material U+f243a
+		["material"] = "󲣘", -- colr-icons-ngrx-entity-material U+f28d8
 	},
 	["ngrx-reducer"] = {
-		["material"] = "󲐻", -- colr-icons-ngrx-reducer-material U+f243b
+		["material"] = "󲣙", -- colr-icons-ngrx-reducer-material U+f28d9
 	},
 	["ngrx-selectors"] = {
-		["material"] = "󲐼", -- colr-icons-ngrx-selectors-material U+f243c
+		["material"] = "󲣚", -- colr-icons-ngrx-selectors-material U+f28da
 	},
 	["ngrx-state"] = {
-		["material"] = "󲐽", -- colr-icons-ngrx-state-material U+f243d
+		["material"] = "󲣛", -- colr-icons-ngrx-state-material U+f28db
 	},
 	["nim"] = {
-		["material"] = "󲐾", -- colr-icons-nim-material U+f243e
-		["catpuccin-frappe"] = "󲐿", -- colr-icons-nim-catpuccin-frappe U+f243f
-		["catpuccin-latte"] = "󲑀", -- colr-icons-nim-catpuccin-latte U+f2440
-		["catpuccin-macchiato"] = "󲑁", -- colr-icons-nim-catpuccin-macchiato U+f2441
-		["catpuccin-mocha"] = "󲑂", -- colr-icons-nim-catpuccin-mocha U+f2442
+		["material"] = "󲣜", -- colr-icons-nim-material U+f28dc
+		["catpuccin-frappe"] = "󲣝", -- colr-icons-nim-catpuccin-frappe U+f28dd
+		["catpuccin-latte"] = "󲣞", -- colr-icons-nim-catpuccin-latte U+f28de
+		["catpuccin-macchiato"] = "󲣟", -- colr-icons-nim-catpuccin-macchiato U+f28df
+		["catpuccin-mocha"] = "󲣠", -- colr-icons-nim-catpuccin-mocha U+f28e0
 	},
 	["ninja"] = {
-		["catpuccin-frappe"] = "󲑃", -- colr-icons-ninja-catpuccin-frappe U+f2443
-		["catpuccin-latte"] = "󲑄", -- colr-icons-ninja-catpuccin-latte U+f2444
-		["catpuccin-macchiato"] = "󲑅", -- colr-icons-ninja-catpuccin-macchiato U+f2445
-		["catpuccin-mocha"] = "󲑆", -- colr-icons-ninja-catpuccin-mocha U+f2446
+		["catpuccin-frappe"] = "󲣡", -- colr-icons-ninja-catpuccin-frappe U+f28e1
+		["catpuccin-latte"] = "󲣢", -- colr-icons-ninja-catpuccin-latte U+f28e2
+		["catpuccin-macchiato"] = "󲣣", -- colr-icons-ninja-catpuccin-macchiato U+f28e3
+		["catpuccin-mocha"] = "󲣤", -- colr-icons-ninja-catpuccin-mocha U+f28e4
 	},
 	["nix"] = {
-		["material"] = "󲑇", -- colr-icons-nix-material U+f2447
-		["catpuccin-frappe"] = "󲑈", -- colr-icons-nix-catpuccin-frappe U+f2448
-		["catpuccin-latte"] = "󲑉", -- colr-icons-nix-catpuccin-latte U+f2449
-		["catpuccin-macchiato"] = "󲑊", -- colr-icons-nix-catpuccin-macchiato U+f244a
-		["catpuccin-mocha"] = "󲑋", -- colr-icons-nix-catpuccin-mocha U+f244b
+		["material"] = "󲣥", -- colr-icons-nix-material U+f28e5
+		["catpuccin-frappe"] = "󲣦", -- colr-icons-nix-catpuccin-frappe U+f28e6
+		["catpuccin-latte"] = "󲣧", -- colr-icons-nix-catpuccin-latte U+f28e7
+		["catpuccin-macchiato"] = "󲣨", -- colr-icons-nix-catpuccin-macchiato U+f28e8
+		["catpuccin-mocha"] = "󲣩", -- colr-icons-nix-catpuccin-mocha U+f28e9
 	},
 	["nix-lock"] = {
-		["catpuccin-frappe"] = "󲑌", -- colr-icons-nix-lock-catpuccin-frappe U+f244c
-		["catpuccin-latte"] = "󲑍", -- colr-icons-nix-lock-catpuccin-latte U+f244d
-		["catpuccin-macchiato"] = "󲑎", -- colr-icons-nix-lock-catpuccin-macchiato U+f244e
-		["catpuccin-mocha"] = "󲑏", -- colr-icons-nix-lock-catpuccin-mocha U+f244f
+		["catpuccin-frappe"] = "󲣪", -- colr-icons-nix-lock-catpuccin-frappe U+f28ea
+		["catpuccin-latte"] = "󲣫", -- colr-icons-nix-lock-catpuccin-latte U+f28eb
+		["catpuccin-macchiato"] = "󲣬", -- colr-icons-nix-lock-catpuccin-macchiato U+f28ec
+		["catpuccin-mocha"] = "󲣭", -- colr-icons-nix-lock-catpuccin-mocha U+f28ed
 	},
 	["nodejs"] = {
-		["material"] = "󲑐", -- colr-icons-nodejs-material U+f2450
+		["material"] = "󲣮", -- colr-icons-nodejs-material U+f28ee
 	},
 	["nodejs_alt"] = {
-		["material"] = "󲑑", -- colr-icons-nodejs_alt-material U+f2451
+		["material"] = "󲣯", -- colr-icons-nodejs_alt-material U+f28ef
 	},
 	["nodemon"] = {
-		["material"] = "󲑒", -- colr-icons-nodemon-material U+f2452
-		["catpuccin-frappe"] = "󲑓", -- colr-icons-nodemon-catpuccin-frappe U+f2453
-		["catpuccin-latte"] = "󲑔", -- colr-icons-nodemon-catpuccin-latte U+f2454
-		["catpuccin-macchiato"] = "󲑕", -- colr-icons-nodemon-catpuccin-macchiato U+f2455
-		["catpuccin-mocha"] = "󲑖", -- colr-icons-nodemon-catpuccin-mocha U+f2456
+		["material"] = "󲣰", -- colr-icons-nodemon-material U+f28f0
+		["catpuccin-frappe"] = "󲣱", -- colr-icons-nodemon-catpuccin-frappe U+f28f1
+		["catpuccin-latte"] = "󲣲", -- colr-icons-nodemon-catpuccin-latte U+f28f2
+		["catpuccin-macchiato"] = "󲣳", -- colr-icons-nodemon-catpuccin-macchiato U+f28f3
+		["catpuccin-mocha"] = "󲣴", -- colr-icons-nodemon-catpuccin-mocha U+f28f4
 	},
 	["npm"] = {
-		["material"] = "󲑗", -- colr-icons-npm-material U+f2457
-		["catpuccin-frappe"] = "󲑘", -- colr-icons-npm-catpuccin-frappe U+f2458
-		["catpuccin-latte"] = "󲑙", -- colr-icons-npm-catpuccin-latte U+f2459
-		["catpuccin-macchiato"] = "󲑚", -- colr-icons-npm-catpuccin-macchiato U+f245a
-		["catpuccin-mocha"] = "󲑛", -- colr-icons-npm-catpuccin-mocha U+f245b
+		["material"] = "󲣵", -- colr-icons-npm-material U+f28f5
+		["catpuccin-frappe"] = "󲣶", -- colr-icons-npm-catpuccin-frappe U+f28f6
+		["catpuccin-latte"] = "󲣷", -- colr-icons-npm-catpuccin-latte U+f28f7
+		["catpuccin-macchiato"] = "󲣸", -- colr-icons-npm-catpuccin-macchiato U+f28f8
+		["catpuccin-mocha"] = "󲣹", -- colr-icons-npm-catpuccin-mocha U+f28f9
 	},
 	["npm-ignore"] = {
-		["catpuccin-frappe"] = "󲑜", -- colr-icons-npm-ignore-catpuccin-frappe U+f245c
-		["catpuccin-latte"] = "󲑝", -- colr-icons-npm-ignore-catpuccin-latte U+f245d
-		["catpuccin-macchiato"] = "󲑞", -- colr-icons-npm-ignore-catpuccin-macchiato U+f245e
-		["catpuccin-mocha"] = "󲑟", -- colr-icons-npm-ignore-catpuccin-mocha U+f245f
+		["catpuccin-frappe"] = "󲣺", -- colr-icons-npm-ignore-catpuccin-frappe U+f28fa
+		["catpuccin-latte"] = "󲣻", -- colr-icons-npm-ignore-catpuccin-latte U+f28fb
+		["catpuccin-macchiato"] = "󲣼", -- colr-icons-npm-ignore-catpuccin-macchiato U+f28fc
+		["catpuccin-mocha"] = "󲣽", -- colr-icons-npm-ignore-catpuccin-mocha U+f28fd
 	},
 	["npm-lock"] = {
-		["catpuccin-frappe"] = "󲑠", -- colr-icons-npm-lock-catpuccin-frappe U+f2460
-		["catpuccin-latte"] = "󲑡", -- colr-icons-npm-lock-catpuccin-latte U+f2461
-		["catpuccin-macchiato"] = "󲑢", -- colr-icons-npm-lock-catpuccin-macchiato U+f2462
-		["catpuccin-mocha"] = "󲑣", -- colr-icons-npm-lock-catpuccin-mocha U+f2463
+		["catpuccin-frappe"] = "󲣾", -- colr-icons-npm-lock-catpuccin-frappe U+f28fe
+		["catpuccin-latte"] = "󲣿", -- colr-icons-npm-lock-catpuccin-latte U+f28ff
+		["catpuccin-macchiato"] = "󲤀", -- colr-icons-npm-lock-catpuccin-macchiato U+f2900
+		["catpuccin-mocha"] = "󲤁", -- colr-icons-npm-lock-catpuccin-mocha U+f2901
 	},
 	["nuget"] = {
-		["material"] = "󲑤", -- colr-icons-nuget-material U+f2464
-		["catpuccin-frappe"] = "󲑥", -- colr-icons-nuget-catpuccin-frappe U+f2465
-		["catpuccin-latte"] = "󲑦", -- colr-icons-nuget-catpuccin-latte U+f2466
-		["catpuccin-macchiato"] = "󲑧", -- colr-icons-nuget-catpuccin-macchiato U+f2467
-		["catpuccin-mocha"] = "󲑨", -- colr-icons-nuget-catpuccin-mocha U+f2468
+		["material"] = "󲤂", -- colr-icons-nuget-material U+f2902
+		["catpuccin-frappe"] = "󲤃", -- colr-icons-nuget-catpuccin-frappe U+f2903
+		["catpuccin-latte"] = "󲤄", -- colr-icons-nuget-catpuccin-latte U+f2904
+		["catpuccin-macchiato"] = "󲤅", -- colr-icons-nuget-catpuccin-macchiato U+f2905
+		["catpuccin-mocha"] = "󲤆", -- colr-icons-nuget-catpuccin-mocha U+f2906
 	},
 	["nunjucks"] = {
-		["material"] = "󲑩", -- colr-icons-nunjucks-material U+f2469
-		["catpuccin-frappe"] = "󲑪", -- colr-icons-nunjucks-catpuccin-frappe U+f246a
-		["catpuccin-latte"] = "󲑫", -- colr-icons-nunjucks-catpuccin-latte U+f246b
-		["catpuccin-macchiato"] = "󲑬", -- colr-icons-nunjucks-catpuccin-macchiato U+f246c
-		["catpuccin-mocha"] = "󲑭", -- colr-icons-nunjucks-catpuccin-mocha U+f246d
+		["material"] = "󲤇", -- colr-icons-nunjucks-material U+f2907
+		["catpuccin-frappe"] = "󲤈", -- colr-icons-nunjucks-catpuccin-frappe U+f2908
+		["catpuccin-latte"] = "󲤉", -- colr-icons-nunjucks-catpuccin-latte U+f2909
+		["catpuccin-macchiato"] = "󲤊", -- colr-icons-nunjucks-catpuccin-macchiato U+f290a
+		["catpuccin-mocha"] = "󲤋", -- colr-icons-nunjucks-catpuccin-mocha U+f290b
 	},
 	["nuxt"] = {
-		["material"] = "󲑮", -- colr-icons-nuxt-material U+f246e
-		["catpuccin-frappe"] = "󲑯", -- colr-icons-nuxt-catpuccin-frappe U+f246f
-		["catpuccin-latte"] = "󲑰", -- colr-icons-nuxt-catpuccin-latte U+f2470
-		["catpuccin-macchiato"] = "󲑱", -- colr-icons-nuxt-catpuccin-macchiato U+f2471
-		["catpuccin-mocha"] = "󲑲", -- colr-icons-nuxt-catpuccin-mocha U+f2472
+		["material"] = "󲤌", -- colr-icons-nuxt-material U+f290c
+		["catpuccin-frappe"] = "󲤍", -- colr-icons-nuxt-catpuccin-frappe U+f290d
+		["catpuccin-latte"] = "󲤎", -- colr-icons-nuxt-catpuccin-latte U+f290e
+		["catpuccin-macchiato"] = "󲤏", -- colr-icons-nuxt-catpuccin-macchiato U+f290f
+		["catpuccin-mocha"] = "󲤐", -- colr-icons-nuxt-catpuccin-mocha U+f2910
 	},
 	["nuxt-ignore"] = {
-		["catpuccin-frappe"] = "󲑳", -- colr-icons-nuxt-ignore-catpuccin-frappe U+f2473
-		["catpuccin-latte"] = "󲑴", -- colr-icons-nuxt-ignore-catpuccin-latte U+f2474
-		["catpuccin-macchiato"] = "󲑵", -- colr-icons-nuxt-ignore-catpuccin-macchiato U+f2475
-		["catpuccin-mocha"] = "󲑶", -- colr-icons-nuxt-ignore-catpuccin-mocha U+f2476
+		["catpuccin-frappe"] = "󲤑", -- colr-icons-nuxt-ignore-catpuccin-frappe U+f2911
+		["catpuccin-latte"] = "󲤒", -- colr-icons-nuxt-ignore-catpuccin-latte U+f2912
+		["catpuccin-macchiato"] = "󲤓", -- colr-icons-nuxt-ignore-catpuccin-macchiato U+f2913
+		["catpuccin-mocha"] = "󲤔", -- colr-icons-nuxt-ignore-catpuccin-mocha U+f2914
 	},
 	["nx"] = {
-		["material"] = "󲑷", -- colr-icons-nx-material U+f2477
-		["catpuccin-frappe"] = "󲑸", -- colr-icons-nx-catpuccin-frappe U+f2478
-		["catpuccin-latte"] = "󲑹", -- colr-icons-nx-catpuccin-latte U+f2479
-		["catpuccin-macchiato"] = "󲑺", -- colr-icons-nx-catpuccin-macchiato U+f247a
-		["catpuccin-mocha"] = "󲑻", -- colr-icons-nx-catpuccin-mocha U+f247b
+		["material"] = "󲤕", -- colr-icons-nx-material U+f2915
+		["catpuccin-frappe"] = "󲤖", -- colr-icons-nx-catpuccin-frappe U+f2916
+		["catpuccin-latte"] = "󲤗", -- colr-icons-nx-catpuccin-latte U+f2917
+		["catpuccin-macchiato"] = "󲤘", -- colr-icons-nx-catpuccin-macchiato U+f2918
+		["catpuccin-mocha"] = "󲤙", -- colr-icons-nx-catpuccin-mocha U+f2919
 	},
 	["nx-ignore"] = {
-		["catpuccin-frappe"] = "󲑼", -- colr-icons-nx-ignore-catpuccin-frappe U+f247c
-		["catpuccin-latte"] = "󲑽", -- colr-icons-nx-ignore-catpuccin-latte U+f247d
-		["catpuccin-macchiato"] = "󲑾", -- colr-icons-nx-ignore-catpuccin-macchiato U+f247e
-		["catpuccin-mocha"] = "󲑿", -- colr-icons-nx-ignore-catpuccin-mocha U+f247f
+		["catpuccin-frappe"] = "󲤚", -- colr-icons-nx-ignore-catpuccin-frappe U+f291a
+		["catpuccin-latte"] = "󲤛", -- colr-icons-nx-ignore-catpuccin-latte U+f291b
+		["catpuccin-macchiato"] = "󲤜", -- colr-icons-nx-ignore-catpuccin-macchiato U+f291c
+		["catpuccin-mocha"] = "󲤝", -- colr-icons-nx-ignore-catpuccin-mocha U+f291d
 	},
 	["objective-c"] = {
-		["material"] = "󲒀", -- colr-icons-objective-c-material U+f2480
+		["material"] = "󲤞", -- colr-icons-objective-c-material U+f291e
 	},
 	["objective-cpp"] = {
-		["material"] = "󲒁", -- colr-icons-objective-cpp-material U+f2481
+		["material"] = "󲤟", -- colr-icons-objective-cpp-material U+f291f
 	},
 	["ocaml"] = {
-		["material"] = "󲒂", -- colr-icons-ocaml-material U+f2482
-		["catpuccin-frappe"] = "󲒃", -- colr-icons-ocaml-catpuccin-frappe U+f2483
-		["catpuccin-latte"] = "󲒄", -- colr-icons-ocaml-catpuccin-latte U+f2484
-		["catpuccin-macchiato"] = "󲒅", -- colr-icons-ocaml-catpuccin-macchiato U+f2485
-		["catpuccin-mocha"] = "󲒆", -- colr-icons-ocaml-catpuccin-mocha U+f2486
+		["material"] = "󲤠", -- colr-icons-ocaml-material U+f2920
+		["catpuccin-frappe"] = "󲤡", -- colr-icons-ocaml-catpuccin-frappe U+f2921
+		["catpuccin-latte"] = "󲤢", -- colr-icons-ocaml-catpuccin-latte U+f2922
+		["catpuccin-macchiato"] = "󲤣", -- colr-icons-ocaml-catpuccin-macchiato U+f2923
+		["catpuccin-mocha"] = "󲤤", -- colr-icons-ocaml-catpuccin-mocha U+f2924
 	},
 	["odin"] = {
-		["material"] = "󲒇", -- colr-icons-odin-material U+f2487
-		["catpuccin-frappe"] = "󲒈", -- colr-icons-odin-catpuccin-frappe U+f2488
-		["catpuccin-latte"] = "󲒉", -- colr-icons-odin-catpuccin-latte U+f2489
-		["catpuccin-macchiato"] = "󲒊", -- colr-icons-odin-catpuccin-macchiato U+f248a
-		["catpuccin-mocha"] = "󲒋", -- colr-icons-odin-catpuccin-mocha U+f248b
+		["material"] = "󲤥", -- colr-icons-odin-material U+f2925
+		["catpuccin-frappe"] = "󲤦", -- colr-icons-odin-catpuccin-frappe U+f2926
+		["catpuccin-latte"] = "󲤧", -- colr-icons-odin-catpuccin-latte U+f2927
+		["catpuccin-macchiato"] = "󲤨", -- colr-icons-odin-catpuccin-macchiato U+f2928
+		["catpuccin-mocha"] = "󲤩", -- colr-icons-odin-catpuccin-mocha U+f2929
 	},
 	["onnx"] = {
-		["material"] = "󲒌", -- colr-icons-onnx-material U+f248c
+		["material"] = "󲤪", -- colr-icons-onnx-material U+f292a
 	},
 	["opa"] = {
-		["material"] = "󲒍", -- colr-icons-opa-material U+f248d
+		["material"] = "󲤫", -- colr-icons-opa-material U+f292b
 	},
 	["opam"] = {
-		["material"] = "󲒎", -- colr-icons-opam-material U+f248e
+		["material"] = "󲤬", -- colr-icons-opam-material U+f292c
 	},
 	["openapi"] = {
-		["material"] = "󲒏", -- colr-icons-openapi-material U+f248f
+		["material"] = "󲤭", -- colr-icons-openapi-material U+f292d
 	},
 	["openapi_light"] = {
-		["material"] = "󲒐", -- colr-icons-openapi_light-material U+f2490
+		["material"] = "󲤮", -- colr-icons-openapi_light-material U+f292e
 	},
 	["opencode"] = {
-		["material"] = "󲒑", -- colr-icons-opencode-material U+f2491
+		["material"] = "󲤯", -- colr-icons-opencode-material U+f292f
 	},
 	["opencode_light"] = {
-		["material"] = "󲒒", -- colr-icons-opencode_light-material U+f2492
+		["material"] = "󲤰", -- colr-icons-opencode_light-material U+f2930
 	},
 	["opentofu"] = {
-		["material"] = "󲒓", -- colr-icons-opentofu-material U+f2493
-		["catpuccin-frappe"] = "󲒔", -- colr-icons-opentofu-catpuccin-frappe U+f2494
-		["catpuccin-latte"] = "󲒕", -- colr-icons-opentofu-catpuccin-latte U+f2495
-		["catpuccin-macchiato"] = "󲒖", -- colr-icons-opentofu-catpuccin-macchiato U+f2496
-		["catpuccin-mocha"] = "󲒗", -- colr-icons-opentofu-catpuccin-mocha U+f2497
+		["material"] = "󲤱", -- colr-icons-opentofu-material U+f2931
+		["catpuccin-frappe"] = "󲤲", -- colr-icons-opentofu-catpuccin-frappe U+f2932
+		["catpuccin-latte"] = "󲤳", -- colr-icons-opentofu-catpuccin-latte U+f2933
+		["catpuccin-macchiato"] = "󲤴", -- colr-icons-opentofu-catpuccin-macchiato U+f2934
+		["catpuccin-mocha"] = "󲤵", -- colr-icons-opentofu-catpuccin-mocha U+f2935
 	},
 	["opentofu_light"] = {
-		["material"] = "󲒘", -- colr-icons-opentofu_light-material U+f2498
+		["material"] = "󲤶", -- colr-icons-opentofu_light-material U+f2936
 	},
 	["org"] = {
-		["catpuccin-frappe"] = "󲒙", -- colr-icons-org-catpuccin-frappe U+f2499
-		["catpuccin-latte"] = "󲒚", -- colr-icons-org-catpuccin-latte U+f249a
-		["catpuccin-macchiato"] = "󲒛", -- colr-icons-org-catpuccin-macchiato U+f249b
-		["catpuccin-mocha"] = "󲒜", -- colr-icons-org-catpuccin-mocha U+f249c
+		["catpuccin-frappe"] = "󲤷", -- colr-icons-org-catpuccin-frappe U+f2937
+		["catpuccin-latte"] = "󲤸", -- colr-icons-org-catpuccin-latte U+f2938
+		["catpuccin-macchiato"] = "󲤹", -- colr-icons-org-catpuccin-macchiato U+f2939
+		["catpuccin-mocha"] = "󲤺", -- colr-icons-org-catpuccin-mocha U+f293a
 	},
 	["otne"] = {
-		["material"] = "󲒝", -- colr-icons-otne-material U+f249d
+		["material"] = "󲤻", -- colr-icons-otne-material U+f293b
 	},
 	["oxc"] = {
-		["material"] = "󲒞", -- colr-icons-oxc-material U+f249e
+		["material"] = "󲤼", -- colr-icons-oxc-material U+f293c
 	},
 	["package-json"] = {
-		["catpuccin-frappe"] = "󲒟", -- colr-icons-package-json-catpuccin-frappe U+f249f
-		["catpuccin-latte"] = "󲒠", -- colr-icons-package-json-catpuccin-latte U+f24a0
-		["catpuccin-macchiato"] = "󲒡", -- colr-icons-package-json-catpuccin-macchiato U+f24a1
-		["catpuccin-mocha"] = "󲒢", -- colr-icons-package-json-catpuccin-mocha U+f24a2
+		["catpuccin-frappe"] = "󲤽", -- colr-icons-package-json-catpuccin-frappe U+f293d
+		["catpuccin-latte"] = "󲤾", -- colr-icons-package-json-catpuccin-latte U+f293e
+		["catpuccin-macchiato"] = "󲤿", -- colr-icons-package-json-catpuccin-macchiato U+f293f
+		["catpuccin-mocha"] = "󲥀", -- colr-icons-package-json-catpuccin-mocha U+f2940
 	},
 	["packship"] = {
-		["material"] = "󲒣", -- colr-icons-packship-material U+f24a3
+		["material"] = "󲥁", -- colr-icons-packship-material U+f2941
 	},
 	["palette"] = {
-		["material"] = "󲒤", -- colr-icons-palette-material U+f24a4
+		["material"] = "󲥂", -- colr-icons-palette-material U+f2942
 	},
 	["panda"] = {
-		["material"] = "󲒥", -- colr-icons-panda-material U+f24a5
+		["material"] = "󲥃", -- colr-icons-panda-material U+f2943
 	},
 	["panda-css"] = {
-		["catpuccin-frappe"] = "󲒦", -- colr-icons-panda-css-catpuccin-frappe U+f24a6
-		["catpuccin-latte"] = "󲒧", -- colr-icons-panda-css-catpuccin-latte U+f24a7
-		["catpuccin-macchiato"] = "󲒨", -- colr-icons-panda-css-catpuccin-macchiato U+f24a8
-		["catpuccin-mocha"] = "󲒩", -- colr-icons-panda-css-catpuccin-mocha U+f24a9
+		["catpuccin-frappe"] = "󲥄", -- colr-icons-panda-css-catpuccin-frappe U+f2944
+		["catpuccin-latte"] = "󲥅", -- colr-icons-panda-css-catpuccin-latte U+f2945
+		["catpuccin-macchiato"] = "󲥆", -- colr-icons-panda-css-catpuccin-macchiato U+f2946
+		["catpuccin-mocha"] = "󲥇", -- colr-icons-panda-css-catpuccin-mocha U+f2947
 	},
 	["parcel"] = {
-		["material"] = "󲒪", -- colr-icons-parcel-material U+f24aa
+		["material"] = "󲥈", -- colr-icons-parcel-material U+f2948
 	},
 	["pascal"] = {
-		["material"] = "󲒫", -- colr-icons-pascal-material U+f24ab
+		["material"] = "󲥉", -- colr-icons-pascal-material U+f2949
 	},
 	["pawn"] = {
-		["material"] = "󲒬", -- colr-icons-pawn-material U+f24ac
+		["material"] = "󲥊", -- colr-icons-pawn-material U+f294a
 	},
 	["payload"] = {
-		["material"] = "󲒭", -- colr-icons-payload-material U+f24ad
+		["material"] = "󲥋", -- colr-icons-payload-material U+f294b
 	},
 	["payload_light"] = {
-		["material"] = "󲒮", -- colr-icons-payload_light-material U+f24ae
+		["material"] = "󲥌", -- colr-icons-payload_light-material U+f294c
 	},
 	["pdf"] = {
-		["material"] = "󲒯", -- colr-icons-pdf-material U+f24af
-		["catpuccin-frappe"] = "󲒰", -- colr-icons-pdf-catpuccin-frappe U+f24b0
-		["catpuccin-latte"] = "󲒱", -- colr-icons-pdf-catpuccin-latte U+f24b1
-		["catpuccin-macchiato"] = "󲒲", -- colr-icons-pdf-catpuccin-macchiato U+f24b2
-		["catpuccin-mocha"] = "󲒳", -- colr-icons-pdf-catpuccin-mocha U+f24b3
+		["material"] = "󲥍", -- colr-icons-pdf-material U+f294d
+		["catpuccin-frappe"] = "󲥎", -- colr-icons-pdf-catpuccin-frappe U+f294e
+		["catpuccin-latte"] = "󲥏", -- colr-icons-pdf-catpuccin-latte U+f294f
+		["catpuccin-macchiato"] = "󲥐", -- colr-icons-pdf-catpuccin-macchiato U+f2950
+		["catpuccin-mocha"] = "󲥑", -- colr-icons-pdf-catpuccin-mocha U+f2951
 	},
 	["pdm"] = {
-		["material"] = "󲒴", -- colr-icons-pdm-material U+f24b4
+		["material"] = "󲥒", -- colr-icons-pdm-material U+f2952
 	},
 	["percy"] = {
-		["material"] = "󲒵", -- colr-icons-percy-material U+f24b5
+		["material"] = "󲥓", -- colr-icons-percy-material U+f2953
 	},
 	["perl"] = {
-		["material"] = "󲒶", -- colr-icons-perl-material U+f24b6
-		["catpuccin-frappe"] = "󲒷", -- colr-icons-perl-catpuccin-frappe U+f24b7
-		["catpuccin-latte"] = "󲒸", -- colr-icons-perl-catpuccin-latte U+f24b8
-		["catpuccin-macchiato"] = "󲒹", -- colr-icons-perl-catpuccin-macchiato U+f24b9
-		["catpuccin-mocha"] = "󲒺", -- colr-icons-perl-catpuccin-mocha U+f24ba
+		["material"] = "󲥔", -- colr-icons-perl-material U+f2954
+		["catpuccin-frappe"] = "󲥕", -- colr-icons-perl-catpuccin-frappe U+f2955
+		["catpuccin-latte"] = "󲥖", -- colr-icons-perl-catpuccin-latte U+f2956
+		["catpuccin-macchiato"] = "󲥗", -- colr-icons-perl-catpuccin-macchiato U+f2957
+		["catpuccin-mocha"] = "󲥘", -- colr-icons-perl-catpuccin-mocha U+f2958
 	},
 	["pesde"] = {
-		["catpuccin-frappe"] = "󲒻", -- colr-icons-pesde-catpuccin-frappe U+f24bb
-		["catpuccin-latte"] = "󲒼", -- colr-icons-pesde-catpuccin-latte U+f24bc
-		["catpuccin-macchiato"] = "󲒽", -- colr-icons-pesde-catpuccin-macchiato U+f24bd
-		["catpuccin-mocha"] = "󲒾", -- colr-icons-pesde-catpuccin-mocha U+f24be
+		["catpuccin-frappe"] = "󲥙", -- colr-icons-pesde-catpuccin-frappe U+f2959
+		["catpuccin-latte"] = "󲥚", -- colr-icons-pesde-catpuccin-latte U+f295a
+		["catpuccin-macchiato"] = "󲥛", -- colr-icons-pesde-catpuccin-macchiato U+f295b
+		["catpuccin-mocha"] = "󲥜", -- colr-icons-pesde-catpuccin-mocha U+f295c
 	},
 	["pesde-lock"] = {
-		["catpuccin-frappe"] = "󲒿", -- colr-icons-pesde-lock-catpuccin-frappe U+f24bf
-		["catpuccin-latte"] = "󲓀", -- colr-icons-pesde-lock-catpuccin-latte U+f24c0
-		["catpuccin-macchiato"] = "󲓁", -- colr-icons-pesde-lock-catpuccin-macchiato U+f24c1
-		["catpuccin-mocha"] = "󲓂", -- colr-icons-pesde-lock-catpuccin-mocha U+f24c2
+		["catpuccin-frappe"] = "󲥝", -- colr-icons-pesde-lock-catpuccin-frappe U+f295d
+		["catpuccin-latte"] = "󲥞", -- colr-icons-pesde-lock-catpuccin-latte U+f295e
+		["catpuccin-macchiato"] = "󲥟", -- colr-icons-pesde-lock-catpuccin-macchiato U+f295f
+		["catpuccin-mocha"] = "󲥠", -- colr-icons-pesde-lock-catpuccin-mocha U+f2960
 	},
 	["php"] = {
-		["material"] = "󲓃", -- colr-icons-php-material U+f24c3
-		["catpuccin-frappe"] = "󲓄", -- colr-icons-php-catpuccin-frappe U+f24c4
-		["catpuccin-latte"] = "󲓅", -- colr-icons-php-catpuccin-latte U+f24c5
-		["catpuccin-macchiato"] = "󲓆", -- colr-icons-php-catpuccin-macchiato U+f24c6
-		["catpuccin-mocha"] = "󲓇", -- colr-icons-php-catpuccin-mocha U+f24c7
+		["material"] = "󲥡", -- colr-icons-php-material U+f2961
+		["catpuccin-frappe"] = "󲥢", -- colr-icons-php-catpuccin-frappe U+f2962
+		["catpuccin-latte"] = "󲥣", -- colr-icons-php-catpuccin-latte U+f2963
+		["catpuccin-macchiato"] = "󲥤", -- colr-icons-php-catpuccin-macchiato U+f2964
+		["catpuccin-mocha"] = "󲥥", -- colr-icons-php-catpuccin-mocha U+f2965
 	},
 	["php-cs-fixer"] = {
-		["material"] = "󲓈", -- colr-icons-php-cs-fixer-material U+f24c8
+		["material"] = "󲥦", -- colr-icons-php-cs-fixer-material U+f2966
 	},
 	["php_elephant"] = {
-		["material"] = "󲓉", -- colr-icons-php_elephant-material U+f24c9
+		["material"] = "󲥧", -- colr-icons-php_elephant-material U+f2967
 	},
 	["php_elephant_pink"] = {
-		["material"] = "󲓊", -- colr-icons-php_elephant_pink-material U+f24ca
+		["material"] = "󲥨", -- colr-icons-php_elephant_pink-material U+f2968
 	},
 	["phpstan"] = {
-		["material"] = "󲓋", -- colr-icons-phpstan-material U+f24cb
+		["material"] = "󲥩", -- colr-icons-phpstan-material U+f2969
 	},
 	["phpunit"] = {
-		["material"] = "󲓌", -- colr-icons-phpunit-material U+f24cc
+		["material"] = "󲥪", -- colr-icons-phpunit-material U+f296a
 	},
 	["phrase"] = {
-		["catpuccin-frappe"] = "󲓍", -- colr-icons-phrase-catpuccin-frappe U+f24cd
-		["catpuccin-latte"] = "󲓎", -- colr-icons-phrase-catpuccin-latte U+f24ce
-		["catpuccin-macchiato"] = "󲓏", -- colr-icons-phrase-catpuccin-macchiato U+f24cf
-		["catpuccin-mocha"] = "󲓐", -- colr-icons-phrase-catpuccin-mocha U+f24d0
+		["catpuccin-frappe"] = "󲥫", -- colr-icons-phrase-catpuccin-frappe U+f296b
+		["catpuccin-latte"] = "󲥬", -- colr-icons-phrase-catpuccin-latte U+f296c
+		["catpuccin-macchiato"] = "󲥭", -- colr-icons-phrase-catpuccin-macchiato U+f296d
+		["catpuccin-mocha"] = "󲥮", -- colr-icons-phrase-catpuccin-mocha U+f296e
 	},
 	["phtml"] = {
-		["catpuccin-frappe"] = "󲓑", -- colr-icons-phtml-catpuccin-frappe U+f24d1
-		["catpuccin-latte"] = "󲓒", -- colr-icons-phtml-catpuccin-latte U+f24d2
-		["catpuccin-macchiato"] = "󲓓", -- colr-icons-phtml-catpuccin-macchiato U+f24d3
-		["catpuccin-mocha"] = "󲓔", -- colr-icons-phtml-catpuccin-mocha U+f24d4
+		["catpuccin-frappe"] = "󲥯", -- colr-icons-phtml-catpuccin-frappe U+f296f
+		["catpuccin-latte"] = "󲥰", -- colr-icons-phtml-catpuccin-latte U+f2970
+		["catpuccin-macchiato"] = "󲥱", -- colr-icons-phtml-catpuccin-macchiato U+f2971
+		["catpuccin-mocha"] = "󲥲", -- colr-icons-phtml-catpuccin-mocha U+f2972
 	},
 	["pinejs"] = {
-		["material"] = "󲓕", -- colr-icons-pinejs-material U+f24d5
+		["material"] = "󲥳", -- colr-icons-pinejs-material U+f2973
 	},
 	["pipeline"] = {
-		["material"] = "󲓖", -- colr-icons-pipeline-material U+f24d6
+		["material"] = "󲥴", -- colr-icons-pipeline-material U+f2974
 	},
 	["pixi"] = {
-		["catpuccin-frappe"] = "󲓗", -- colr-icons-pixi-catpuccin-frappe U+f24d7
-		["catpuccin-latte"] = "󲓘", -- colr-icons-pixi-catpuccin-latte U+f24d8
-		["catpuccin-macchiato"] = "󲓙", -- colr-icons-pixi-catpuccin-macchiato U+f24d9
-		["catpuccin-mocha"] = "󲓚", -- colr-icons-pixi-catpuccin-mocha U+f24da
+		["catpuccin-frappe"] = "󲥵", -- colr-icons-pixi-catpuccin-frappe U+f2975
+		["catpuccin-latte"] = "󲥶", -- colr-icons-pixi-catpuccin-latte U+f2976
+		["catpuccin-macchiato"] = "󲥷", -- colr-icons-pixi-catpuccin-macchiato U+f2977
+		["catpuccin-mocha"] = "󲥸", -- colr-icons-pixi-catpuccin-mocha U+f2978
 	},
 	["pixi-lock"] = {
-		["catpuccin-frappe"] = "󲓛", -- colr-icons-pixi-lock-catpuccin-frappe U+f24db
-		["catpuccin-latte"] = "󲓜", -- colr-icons-pixi-lock-catpuccin-latte U+f24dc
-		["catpuccin-macchiato"] = "󲓝", -- colr-icons-pixi-lock-catpuccin-macchiato U+f24dd
-		["catpuccin-mocha"] = "󲓞", -- colr-icons-pixi-lock-catpuccin-mocha U+f24de
+		["catpuccin-frappe"] = "󲥹", -- colr-icons-pixi-lock-catpuccin-frappe U+f2979
+		["catpuccin-latte"] = "󲥺", -- colr-icons-pixi-lock-catpuccin-latte U+f297a
+		["catpuccin-macchiato"] = "󲥻", -- colr-icons-pixi-lock-catpuccin-macchiato U+f297b
+		["catpuccin-mocha"] = "󲥼", -- colr-icons-pixi-lock-catpuccin-mocha U+f297c
 	},
 	["pkl"] = {
-		["material"] = "󲓟", -- colr-icons-pkl-material U+f24df
+		["material"] = "󲥽", -- colr-icons-pkl-material U+f297d
 	},
 	["plantuml"] = {
-		["catpuccin-frappe"] = "󲓠", -- colr-icons-plantuml-catpuccin-frappe U+f24e0
-		["catpuccin-latte"] = "󲓡", -- colr-icons-plantuml-catpuccin-latte U+f24e1
-		["catpuccin-macchiato"] = "󲓢", -- colr-icons-plantuml-catpuccin-macchiato U+f24e2
-		["catpuccin-mocha"] = "󲓣", -- colr-icons-plantuml-catpuccin-mocha U+f24e3
+		["catpuccin-frappe"] = "󲥾", -- colr-icons-plantuml-catpuccin-frappe U+f297e
+		["catpuccin-latte"] = "󲥿", -- colr-icons-plantuml-catpuccin-latte U+f297f
+		["catpuccin-macchiato"] = "󲦀", -- colr-icons-plantuml-catpuccin-macchiato U+f2980
+		["catpuccin-mocha"] = "󲦁", -- colr-icons-plantuml-catpuccin-mocha U+f2981
 	},
 	["plastic"] = {
-		["material"] = "󲓤", -- colr-icons-plastic-material U+f24e4
+		["material"] = "󲦂", -- colr-icons-plastic-material U+f2982
 	},
 	["playwright"] = {
-		["material"] = "󲓥", -- colr-icons-playwright-material U+f24e5
-		["catpuccin-frappe"] = "󲓦", -- colr-icons-playwright-catpuccin-frappe U+f24e6
-		["catpuccin-latte"] = "󲓧", -- colr-icons-playwright-catpuccin-latte U+f24e7
-		["catpuccin-macchiato"] = "󲓨", -- colr-icons-playwright-catpuccin-macchiato U+f24e8
-		["catpuccin-mocha"] = "󲓩", -- colr-icons-playwright-catpuccin-mocha U+f24e9
+		["material"] = "󲦃", -- colr-icons-playwright-material U+f2983
+		["catpuccin-frappe"] = "󲦄", -- colr-icons-playwright-catpuccin-frappe U+f2984
+		["catpuccin-latte"] = "󲦅", -- colr-icons-playwright-catpuccin-latte U+f2985
+		["catpuccin-macchiato"] = "󲦆", -- colr-icons-playwright-catpuccin-macchiato U+f2986
+		["catpuccin-mocha"] = "󲦇", -- colr-icons-playwright-catpuccin-mocha U+f2987
 	},
 	["plop"] = {
-		["material"] = "󲓪", -- colr-icons-plop-material U+f24ea
-		["catpuccin-frappe"] = "󲓫", -- colr-icons-plop-catpuccin-frappe U+f24eb
-		["catpuccin-latte"] = "󲓬", -- colr-icons-plop-catpuccin-latte U+f24ec
-		["catpuccin-macchiato"] = "󲓭", -- colr-icons-plop-catpuccin-macchiato U+f24ed
-		["catpuccin-mocha"] = "󲓮", -- colr-icons-plop-catpuccin-mocha U+f24ee
+		["material"] = "󲦈", -- colr-icons-plop-material U+f2988
+		["catpuccin-frappe"] = "󲦉", -- colr-icons-plop-catpuccin-frappe U+f2989
+		["catpuccin-latte"] = "󲦊", -- colr-icons-plop-catpuccin-latte U+f298a
+		["catpuccin-macchiato"] = "󲦋", -- colr-icons-plop-catpuccin-macchiato U+f298b
+		["catpuccin-mocha"] = "󲦌", -- colr-icons-plop-catpuccin-mocha U+f298c
 	},
 	["pm2-ecosystem"] = {
-		["material"] = "󲓯", -- colr-icons-pm2-ecosystem-material U+f24ef
+		["material"] = "󲦍", -- colr-icons-pm2-ecosystem-material U+f298d
 	},
 	["pnpm"] = {
-		["material"] = "󲓰", -- colr-icons-pnpm-material U+f24f0
-		["catpuccin-frappe"] = "󲓱", -- colr-icons-pnpm-catpuccin-frappe U+f24f1
-		["catpuccin-latte"] = "󲓲", -- colr-icons-pnpm-catpuccin-latte U+f24f2
-		["catpuccin-macchiato"] = "󲓳", -- colr-icons-pnpm-catpuccin-macchiato U+f24f3
-		["catpuccin-mocha"] = "󲓴", -- colr-icons-pnpm-catpuccin-mocha U+f24f4
+		["material"] = "󲦎", -- colr-icons-pnpm-material U+f298e
+		["catpuccin-frappe"] = "󲦏", -- colr-icons-pnpm-catpuccin-frappe U+f298f
+		["catpuccin-latte"] = "󲦐", -- colr-icons-pnpm-catpuccin-latte U+f2990
+		["catpuccin-macchiato"] = "󲦑", -- colr-icons-pnpm-catpuccin-macchiato U+f2991
+		["catpuccin-mocha"] = "󲦒", -- colr-icons-pnpm-catpuccin-mocha U+f2992
 	},
 	["pnpm-lock"] = {
-		["catpuccin-frappe"] = "󲓵", -- colr-icons-pnpm-lock-catpuccin-frappe U+f24f5
-		["catpuccin-latte"] = "󲓶", -- colr-icons-pnpm-lock-catpuccin-latte U+f24f6
-		["catpuccin-macchiato"] = "󲓷", -- colr-icons-pnpm-lock-catpuccin-macchiato U+f24f7
-		["catpuccin-mocha"] = "󲓸", -- colr-icons-pnpm-lock-catpuccin-mocha U+f24f8
+		["catpuccin-frappe"] = "󲦓", -- colr-icons-pnpm-lock-catpuccin-frappe U+f2993
+		["catpuccin-latte"] = "󲦔", -- colr-icons-pnpm-lock-catpuccin-latte U+f2994
+		["catpuccin-macchiato"] = "󲦕", -- colr-icons-pnpm-lock-catpuccin-macchiato U+f2995
+		["catpuccin-mocha"] = "󲦖", -- colr-icons-pnpm-lock-catpuccin-mocha U+f2996
 	},
 	["pnpm_light"] = {
-		["material"] = "󲓹", -- colr-icons-pnpm_light-material U+f24f9
+		["material"] = "󲦗", -- colr-icons-pnpm_light-material U+f2997
 	},
 	["poetry"] = {
-		["material"] = "󲓺", -- colr-icons-poetry-material U+f24fa
+		["material"] = "󲦘", -- colr-icons-poetry-material U+f2998
 	},
 	["poetry-lock"] = {
-		["catpuccin-frappe"] = "󲓻", -- colr-icons-poetry-lock-catpuccin-frappe U+f24fb
-		["catpuccin-latte"] = "󲓼", -- colr-icons-poetry-lock-catpuccin-latte U+f24fc
-		["catpuccin-macchiato"] = "󲓽", -- colr-icons-poetry-lock-catpuccin-macchiato U+f24fd
-		["catpuccin-mocha"] = "󲓾", -- colr-icons-poetry-lock-catpuccin-mocha U+f24fe
+		["catpuccin-frappe"] = "󲦙", -- colr-icons-poetry-lock-catpuccin-frappe U+f2999
+		["catpuccin-latte"] = "󲦚", -- colr-icons-poetry-lock-catpuccin-latte U+f299a
+		["catpuccin-macchiato"] = "󲦛", -- colr-icons-poetry-lock-catpuccin-macchiato U+f299b
+		["catpuccin-mocha"] = "󲦜", -- colr-icons-poetry-lock-catpuccin-mocha U+f299c
 	},
 	["postcss"] = {
-		["material"] = "󲓿", -- colr-icons-postcss-material U+f24ff
-		["catpuccin-frappe"] = "󲔀", -- colr-icons-postcss-catpuccin-frappe U+f2500
-		["catpuccin-latte"] = "󲔁", -- colr-icons-postcss-catpuccin-latte U+f2501
-		["catpuccin-macchiato"] = "󲔂", -- colr-icons-postcss-catpuccin-macchiato U+f2502
-		["catpuccin-mocha"] = "󲔃", -- colr-icons-postcss-catpuccin-mocha U+f2503
+		["material"] = "󲦝", -- colr-icons-postcss-material U+f299d
+		["catpuccin-frappe"] = "󲦞", -- colr-icons-postcss-catpuccin-frappe U+f299e
+		["catpuccin-latte"] = "󲦟", -- colr-icons-postcss-catpuccin-latte U+f299f
+		["catpuccin-macchiato"] = "󲦠", -- colr-icons-postcss-catpuccin-macchiato U+f29a0
+		["catpuccin-mocha"] = "󲦡", -- colr-icons-postcss-catpuccin-mocha U+f29a1
 	},
 	["posthtml"] = {
-		["material"] = "󲔄", -- colr-icons-posthtml-material U+f2504
+		["material"] = "󲦢", -- colr-icons-posthtml-material U+f29a2
 	},
 	["powerpoint"] = {
-		["material"] = "󲔅", -- colr-icons-powerpoint-material U+f2505
+		["material"] = "󲦣", -- colr-icons-powerpoint-material U+f29a3
 	},
 	["powershell"] = {
-		["material"] = "󲔆", -- colr-icons-powershell-material U+f2506
-		["catpuccin-frappe"] = "󲔇", -- colr-icons-powershell-catpuccin-frappe U+f2507
-		["catpuccin-latte"] = "󲔈", -- colr-icons-powershell-catpuccin-latte U+f2508
-		["catpuccin-macchiato"] = "󲔉", -- colr-icons-powershell-catpuccin-macchiato U+f2509
-		["catpuccin-mocha"] = "󲔊", -- colr-icons-powershell-catpuccin-mocha U+f250a
+		["material"] = "󲦤", -- colr-icons-powershell-material U+f29a4
+		["catpuccin-frappe"] = "󲦥", -- colr-icons-powershell-catpuccin-frappe U+f29a5
+		["catpuccin-latte"] = "󲦦", -- colr-icons-powershell-catpuccin-latte U+f29a6
+		["catpuccin-macchiato"] = "󲦧", -- colr-icons-powershell-catpuccin-macchiato U+f29a7
+		["catpuccin-mocha"] = "󲦨", -- colr-icons-powershell-catpuccin-mocha U+f29a8
 	},
 	["pre-commit"] = {
-		["material"] = "󲔋", -- colr-icons-pre-commit-material U+f250b
-		["catpuccin-frappe"] = "󲔌", -- colr-icons-pre-commit-catpuccin-frappe U+f250c
-		["catpuccin-latte"] = "󲔍", -- colr-icons-pre-commit-catpuccin-latte U+f250d
-		["catpuccin-macchiato"] = "󲔎", -- colr-icons-pre-commit-catpuccin-macchiato U+f250e
-		["catpuccin-mocha"] = "󲔏", -- colr-icons-pre-commit-catpuccin-mocha U+f250f
+		["material"] = "󲦩", -- colr-icons-pre-commit-material U+f29a9
+		["catpuccin-frappe"] = "󲦪", -- colr-icons-pre-commit-catpuccin-frappe U+f29aa
+		["catpuccin-latte"] = "󲦫", -- colr-icons-pre-commit-catpuccin-latte U+f29ab
+		["catpuccin-macchiato"] = "󲦬", -- colr-icons-pre-commit-catpuccin-macchiato U+f29ac
+		["catpuccin-mocha"] = "󲦭", -- colr-icons-pre-commit-catpuccin-mocha U+f29ad
 	},
 	["premake"] = {
-		["catpuccin-frappe"] = "󲔐", -- colr-icons-premake-catpuccin-frappe U+f2510
-		["catpuccin-latte"] = "󲔑", -- colr-icons-premake-catpuccin-latte U+f2511
-		["catpuccin-macchiato"] = "󲔒", -- colr-icons-premake-catpuccin-macchiato U+f2512
-		["catpuccin-mocha"] = "󲔓", -- colr-icons-premake-catpuccin-mocha U+f2513
+		["catpuccin-frappe"] = "󲦮", -- colr-icons-premake-catpuccin-frappe U+f29ae
+		["catpuccin-latte"] = "󲦯", -- colr-icons-premake-catpuccin-latte U+f29af
+		["catpuccin-macchiato"] = "󲦰", -- colr-icons-premake-catpuccin-macchiato U+f29b0
+		["catpuccin-mocha"] = "󲦱", -- colr-icons-premake-catpuccin-mocha U+f29b1
 	},
 	["prettier"] = {
-		["material"] = "󲔔", -- colr-icons-prettier-material U+f2514
-		["catpuccin-frappe"] = "󲔕", -- colr-icons-prettier-catpuccin-frappe U+f2515
-		["catpuccin-latte"] = "󲔖", -- colr-icons-prettier-catpuccin-latte U+f2516
-		["catpuccin-macchiato"] = "󲔗", -- colr-icons-prettier-catpuccin-macchiato U+f2517
-		["catpuccin-mocha"] = "󲔘", -- colr-icons-prettier-catpuccin-mocha U+f2518
+		["material"] = "󲦲", -- colr-icons-prettier-material U+f29b2
+		["catpuccin-frappe"] = "󲦳", -- colr-icons-prettier-catpuccin-frappe U+f29b3
+		["catpuccin-latte"] = "󲦴", -- colr-icons-prettier-catpuccin-latte U+f29b4
+		["catpuccin-macchiato"] = "󲦵", -- colr-icons-prettier-catpuccin-macchiato U+f29b5
+		["catpuccin-mocha"] = "󲦶", -- colr-icons-prettier-catpuccin-mocha U+f29b6
 	},
 	["prettier-ignore"] = {
-		["catpuccin-frappe"] = "󲔙", -- colr-icons-prettier-ignore-catpuccin-frappe U+f2519
-		["catpuccin-latte"] = "󲔚", -- colr-icons-prettier-ignore-catpuccin-latte U+f251a
-		["catpuccin-macchiato"] = "󲔛", -- colr-icons-prettier-ignore-catpuccin-macchiato U+f251b
-		["catpuccin-mocha"] = "󲔜", -- colr-icons-prettier-ignore-catpuccin-mocha U+f251c
+		["catpuccin-frappe"] = "󲦷", -- colr-icons-prettier-ignore-catpuccin-frappe U+f29b7
+		["catpuccin-latte"] = "󲦸", -- colr-icons-prettier-ignore-catpuccin-latte U+f29b8
+		["catpuccin-macchiato"] = "󲦹", -- colr-icons-prettier-ignore-catpuccin-macchiato U+f29b9
+		["catpuccin-mocha"] = "󲦺", -- colr-icons-prettier-ignore-catpuccin-mocha U+f29ba
 	},
 	["prisma"] = {
-		["material"] = "󲔝", -- colr-icons-prisma-material U+f251d
-		["catpuccin-frappe"] = "󲔞", -- colr-icons-prisma-catpuccin-frappe U+f251e
-		["catpuccin-latte"] = "󲔟", -- colr-icons-prisma-catpuccin-latte U+f251f
-		["catpuccin-macchiato"] = "󲔠", -- colr-icons-prisma-catpuccin-macchiato U+f2520
-		["catpuccin-mocha"] = "󲔡", -- colr-icons-prisma-catpuccin-mocha U+f2521
+		["material"] = "󲦻", -- colr-icons-prisma-material U+f29bb
+		["catpuccin-frappe"] = "󲦼", -- colr-icons-prisma-catpuccin-frappe U+f29bc
+		["catpuccin-latte"] = "󲦽", -- colr-icons-prisma-catpuccin-latte U+f29bd
+		["catpuccin-macchiato"] = "󲦾", -- colr-icons-prisma-catpuccin-macchiato U+f29be
+		["catpuccin-mocha"] = "󲦿", -- colr-icons-prisma-catpuccin-mocha U+f29bf
 	},
 	["processing"] = {
-		["material"] = "󲔢", -- colr-icons-processing-material U+f2522
+		["material"] = "󲧀", -- colr-icons-processing-material U+f29c0
 	},
 	["prolog"] = {
-		["material"] = "󲔣", -- colr-icons-prolog-material U+f2523
-		["catpuccin-frappe"] = "󲔤", -- colr-icons-prolog-catpuccin-frappe U+f2524
-		["catpuccin-latte"] = "󲔥", -- colr-icons-prolog-catpuccin-latte U+f2525
-		["catpuccin-macchiato"] = "󲔦", -- colr-icons-prolog-catpuccin-macchiato U+f2526
-		["catpuccin-mocha"] = "󲔧", -- colr-icons-prolog-catpuccin-mocha U+f2527
+		["material"] = "󲧁", -- colr-icons-prolog-material U+f29c1
+		["catpuccin-frappe"] = "󲧂", -- colr-icons-prolog-catpuccin-frappe U+f29c2
+		["catpuccin-latte"] = "󲧃", -- colr-icons-prolog-catpuccin-latte U+f29c3
+		["catpuccin-macchiato"] = "󲧄", -- colr-icons-prolog-catpuccin-macchiato U+f29c4
+		["catpuccin-mocha"] = "󲧅", -- colr-icons-prolog-catpuccin-mocha U+f29c5
 	},
 	["prompt"] = {
-		["material"] = "󲔨", -- colr-icons-prompt-material U+f2528
+		["material"] = "󲧆", -- colr-icons-prompt-material U+f29c6
 	},
 	["properties"] = {
-		["catpuccin-frappe"] = "󲔩", -- colr-icons-properties-catpuccin-frappe U+f2529
-		["catpuccin-latte"] = "󲔪", -- colr-icons-properties-catpuccin-latte U+f252a
-		["catpuccin-macchiato"] = "󲔫", -- colr-icons-properties-catpuccin-macchiato U+f252b
-		["catpuccin-mocha"] = "󲔬", -- colr-icons-properties-catpuccin-mocha U+f252c
+		["catpuccin-frappe"] = "󲧇", -- colr-icons-properties-catpuccin-frappe U+f29c7
+		["catpuccin-latte"] = "󲧈", -- colr-icons-properties-catpuccin-latte U+f29c8
+		["catpuccin-macchiato"] = "󲧉", -- colr-icons-properties-catpuccin-macchiato U+f29c9
+		["catpuccin-mocha"] = "󲧊", -- colr-icons-properties-catpuccin-mocha U+f29ca
 	},
 	["proto"] = {
-		["material"] = "󲔭", -- colr-icons-proto-material U+f252d
-		["catpuccin-frappe"] = "󲔮", -- colr-icons-proto-catpuccin-frappe U+f252e
-		["catpuccin-latte"] = "󲔯", -- colr-icons-proto-catpuccin-latte U+f252f
-		["catpuccin-macchiato"] = "󲔰", -- colr-icons-proto-catpuccin-macchiato U+f2530
-		["catpuccin-mocha"] = "󲔱", -- colr-icons-proto-catpuccin-mocha U+f2531
+		["material"] = "󲧋", -- colr-icons-proto-material U+f29cb
+		["catpuccin-frappe"] = "󲧌", -- colr-icons-proto-catpuccin-frappe U+f29cc
+		["catpuccin-latte"] = "󲧍", -- colr-icons-proto-catpuccin-latte U+f29cd
+		["catpuccin-macchiato"] = "󲧎", -- colr-icons-proto-catpuccin-macchiato U+f29ce
+		["catpuccin-mocha"] = "󲧏", -- colr-icons-proto-catpuccin-mocha U+f29cf
 	},
 	["prototools"] = {
-		["catpuccin-frappe"] = "󲔲", -- colr-icons-prototools-catpuccin-frappe U+f2532
-		["catpuccin-latte"] = "󲔳", -- colr-icons-prototools-catpuccin-latte U+f2533
-		["catpuccin-macchiato"] = "󲔴", -- colr-icons-prototools-catpuccin-macchiato U+f2534
-		["catpuccin-mocha"] = "󲔵", -- colr-icons-prototools-catpuccin-mocha U+f2535
+		["catpuccin-frappe"] = "󲧐", -- colr-icons-prototools-catpuccin-frappe U+f29d0
+		["catpuccin-latte"] = "󲧑", -- colr-icons-prototools-catpuccin-latte U+f29d1
+		["catpuccin-macchiato"] = "󲧒", -- colr-icons-prototools-catpuccin-macchiato U+f29d2
+		["catpuccin-mocha"] = "󲧓", -- colr-icons-prototools-catpuccin-mocha U+f29d3
 	},
 	["protractor"] = {
-		["material"] = "󲔶", -- colr-icons-protractor-material U+f2536
+		["material"] = "󲧔", -- colr-icons-protractor-material U+f29d4
 	},
 	["pug"] = {
-		["material"] = "󲔷", -- colr-icons-pug-material U+f2537
-		["catpuccin-frappe"] = "󲔸", -- colr-icons-pug-catpuccin-frappe U+f2538
-		["catpuccin-latte"] = "󲔹", -- colr-icons-pug-catpuccin-latte U+f2539
-		["catpuccin-macchiato"] = "󲔺", -- colr-icons-pug-catpuccin-macchiato U+f253a
-		["catpuccin-mocha"] = "󲔻", -- colr-icons-pug-catpuccin-mocha U+f253b
+		["material"] = "󲧕", -- colr-icons-pug-material U+f29d5
+		["catpuccin-frappe"] = "󲧖", -- colr-icons-pug-catpuccin-frappe U+f29d6
+		["catpuccin-latte"] = "󲧗", -- colr-icons-pug-catpuccin-latte U+f29d7
+		["catpuccin-macchiato"] = "󲧘", -- colr-icons-pug-catpuccin-macchiato U+f29d8
+		["catpuccin-mocha"] = "󲧙", -- colr-icons-pug-catpuccin-mocha U+f29d9
 	},
 	["puppet"] = {
-		["material"] = "󲔼", -- colr-icons-puppet-material U+f253c
-		["catpuccin-frappe"] = "󲔽", -- colr-icons-puppet-catpuccin-frappe U+f253d
-		["catpuccin-latte"] = "󲔾", -- colr-icons-puppet-catpuccin-latte U+f253e
-		["catpuccin-macchiato"] = "󲔿", -- colr-icons-puppet-catpuccin-macchiato U+f253f
-		["catpuccin-mocha"] = "󲕀", -- colr-icons-puppet-catpuccin-mocha U+f2540
+		["material"] = "󲧚", -- colr-icons-puppet-material U+f29da
+		["catpuccin-frappe"] = "󲧛", -- colr-icons-puppet-catpuccin-frappe U+f29db
+		["catpuccin-latte"] = "󲧜", -- colr-icons-puppet-catpuccin-latte U+f29dc
+		["catpuccin-macchiato"] = "󲧝", -- colr-icons-puppet-catpuccin-macchiato U+f29dd
+		["catpuccin-mocha"] = "󲧞", -- colr-icons-puppet-catpuccin-mocha U+f29de
 	},
 	["puppeteer"] = {
-		["material"] = "󲕁", -- colr-icons-puppeteer-material U+f2541
-		["catpuccin-frappe"] = "󲕂", -- colr-icons-puppeteer-catpuccin-frappe U+f2542
-		["catpuccin-latte"] = "󲕃", -- colr-icons-puppeteer-catpuccin-latte U+f2543
-		["catpuccin-macchiato"] = "󲕄", -- colr-icons-puppeteer-catpuccin-macchiato U+f2544
-		["catpuccin-mocha"] = "󲕅", -- colr-icons-puppeteer-catpuccin-mocha U+f2545
+		["material"] = "󲧟", -- colr-icons-puppeteer-material U+f29df
+		["catpuccin-frappe"] = "󲧠", -- colr-icons-puppeteer-catpuccin-frappe U+f29e0
+		["catpuccin-latte"] = "󲧡", -- colr-icons-puppeteer-catpuccin-latte U+f29e1
+		["catpuccin-macchiato"] = "󲧢", -- colr-icons-puppeteer-catpuccin-macchiato U+f29e2
+		["catpuccin-mocha"] = "󲧣", -- colr-icons-puppeteer-catpuccin-mocha U+f29e3
 	},
 	["purescript"] = {
-		["material"] = "󲕆", -- colr-icons-purescript-material U+f2546
+		["material"] = "󲧤", -- colr-icons-purescript-material U+f29e4
 	},
 	["python"] = {
-		["material"] = "󲕇", -- colr-icons-python-material U+f2547
-		["catpuccin-frappe"] = "󲕈", -- colr-icons-python-catpuccin-frappe U+f2548
-		["catpuccin-latte"] = "󲕉", -- colr-icons-python-catpuccin-latte U+f2549
-		["catpuccin-macchiato"] = "󲕊", -- colr-icons-python-catpuccin-macchiato U+f254a
-		["catpuccin-mocha"] = "󲕋", -- colr-icons-python-catpuccin-mocha U+f254b
+		["material"] = "󲧥", -- colr-icons-python-material U+f29e5
+		["catpuccin-frappe"] = "󲧦", -- colr-icons-python-catpuccin-frappe U+f29e6
+		["catpuccin-latte"] = "󲧧", -- colr-icons-python-catpuccin-latte U+f29e7
+		["catpuccin-macchiato"] = "󲧨", -- colr-icons-python-catpuccin-macchiato U+f29e8
+		["catpuccin-mocha"] = "󲧩", -- colr-icons-python-catpuccin-mocha U+f29e9
 	},
 	["python-compiled"] = {
-		["catpuccin-frappe"] = "󲕌", -- colr-icons-python-compiled-catpuccin-frappe U+f254c
-		["catpuccin-latte"] = "󲕍", -- colr-icons-python-compiled-catpuccin-latte U+f254d
-		["catpuccin-macchiato"] = "󲕎", -- colr-icons-python-compiled-catpuccin-macchiato U+f254e
-		["catpuccin-mocha"] = "󲕏", -- colr-icons-python-compiled-catpuccin-mocha U+f254f
+		["catpuccin-frappe"] = "󲧪", -- colr-icons-python-compiled-catpuccin-frappe U+f29ea
+		["catpuccin-latte"] = "󲧫", -- colr-icons-python-compiled-catpuccin-latte U+f29eb
+		["catpuccin-macchiato"] = "󲧬", -- colr-icons-python-compiled-catpuccin-macchiato U+f29ec
+		["catpuccin-mocha"] = "󲧭", -- colr-icons-python-compiled-catpuccin-mocha U+f29ed
 	},
 	["python-config"] = {
-		["catpuccin-frappe"] = "󲕐", -- colr-icons-python-config-catpuccin-frappe U+f2550
-		["catpuccin-latte"] = "󲕑", -- colr-icons-python-config-catpuccin-latte U+f2551
-		["catpuccin-macchiato"] = "󲕒", -- colr-icons-python-config-catpuccin-macchiato U+f2552
-		["catpuccin-mocha"] = "󲕓", -- colr-icons-python-config-catpuccin-mocha U+f2553
+		["catpuccin-frappe"] = "󲧮", -- colr-icons-python-config-catpuccin-frappe U+f29ee
+		["catpuccin-latte"] = "󲧯", -- colr-icons-python-config-catpuccin-latte U+f29ef
+		["catpuccin-macchiato"] = "󲧰", -- colr-icons-python-config-catpuccin-macchiato U+f29f0
+		["catpuccin-mocha"] = "󲧱", -- colr-icons-python-config-catpuccin-mocha U+f29f1
 	},
 	["python-misc"] = {
-		["material"] = "󲕔", -- colr-icons-python-misc-material U+f2554
+		["material"] = "󲧲", -- colr-icons-python-misc-material U+f29f2
 	},
 	["pytorch"] = {
-		["material"] = "󲕕", -- colr-icons-pytorch-material U+f2555
+		["material"] = "󲧳", -- colr-icons-pytorch-material U+f29f3
 	},
 	["qsharp"] = {
-		["material"] = "󲕖", -- colr-icons-qsharp-material U+f2556
+		["material"] = "󲧴", -- colr-icons-qsharp-material U+f29f4
 	},
 	["quarto"] = {
-		["material"] = "󲕗", -- colr-icons-quarto-material U+f2557
+		["material"] = "󲧵", -- colr-icons-quarto-material U+f29f5
 	},
 	["quasar"] = {
-		["material"] = "󲕘", -- colr-icons-quasar-material U+f2558
+		["material"] = "󲧶", -- colr-icons-quasar-material U+f29f6
 	},
 	["quokka"] = {
-		["material"] = "󲕙", -- colr-icons-quokka-material U+f2559
+		["material"] = "󲧷", -- colr-icons-quokka-material U+f29f7
 	},
 	["qwik"] = {
-		["material"] = "󲕚", -- colr-icons-qwik-material U+f255a
-		["catpuccin-frappe"] = "󲕛", -- colr-icons-qwik-catpuccin-frappe U+f255b
-		["catpuccin-latte"] = "󲕜", -- colr-icons-qwik-catpuccin-latte U+f255c
-		["catpuccin-macchiato"] = "󲕝", -- colr-icons-qwik-catpuccin-macchiato U+f255d
-		["catpuccin-mocha"] = "󲕞", -- colr-icons-qwik-catpuccin-mocha U+f255e
+		["material"] = "󲧸", -- colr-icons-qwik-material U+f29f8
+		["catpuccin-frappe"] = "󲧹", -- colr-icons-qwik-catpuccin-frappe U+f29f9
+		["catpuccin-latte"] = "󲧺", -- colr-icons-qwik-catpuccin-latte U+f29fa
+		["catpuccin-macchiato"] = "󲧻", -- colr-icons-qwik-catpuccin-macchiato U+f29fb
+		["catpuccin-mocha"] = "󲧼", -- colr-icons-qwik-catpuccin-mocha U+f29fc
 	},
 	["r"] = {
-		["material"] = "󲕟", -- colr-icons-r-material U+f255f
-		["catpuccin-frappe"] = "󲕠", -- colr-icons-r-catpuccin-frappe U+f2560
-		["catpuccin-latte"] = "󲕡", -- colr-icons-r-catpuccin-latte U+f2561
-		["catpuccin-macchiato"] = "󲕢", -- colr-icons-r-catpuccin-macchiato U+f2562
-		["catpuccin-mocha"] = "󲕣", -- colr-icons-r-catpuccin-mocha U+f2563
+		["material"] = "󲧽", -- colr-icons-r-material U+f29fd
+		["catpuccin-frappe"] = "󲧾", -- colr-icons-r-catpuccin-frappe U+f29fe
+		["catpuccin-latte"] = "󲧿", -- colr-icons-r-catpuccin-latte U+f29ff
+		["catpuccin-macchiato"] = "󲨀", -- colr-icons-r-catpuccin-macchiato U+f2a00
+		["catpuccin-mocha"] = "󲨁", -- colr-icons-r-catpuccin-mocha U+f2a01
 	},
 	["racket"] = {
-		["material"] = "󲕤", -- colr-icons-racket-material U+f2564
-		["catpuccin-frappe"] = "󲕥", -- colr-icons-racket-catpuccin-frappe U+f2565
-		["catpuccin-latte"] = "󲕦", -- colr-icons-racket-catpuccin-latte U+f2566
-		["catpuccin-macchiato"] = "󲕧", -- colr-icons-racket-catpuccin-macchiato U+f2567
-		["catpuccin-mocha"] = "󲕨", -- colr-icons-racket-catpuccin-mocha U+f2568
+		["material"] = "󲨂", -- colr-icons-racket-material U+f2a02
+		["catpuccin-frappe"] = "󲨃", -- colr-icons-racket-catpuccin-frappe U+f2a03
+		["catpuccin-latte"] = "󲨄", -- colr-icons-racket-catpuccin-latte U+f2a04
+		["catpuccin-macchiato"] = "󲨅", -- colr-icons-racket-catpuccin-macchiato U+f2a05
+		["catpuccin-mocha"] = "󲨆", -- colr-icons-racket-catpuccin-mocha U+f2a06
 	},
 	["raml"] = {
-		["material"] = "󲕩", -- colr-icons-raml-material U+f2569
+		["material"] = "󲨇", -- colr-icons-raml-material U+f2a07
 	},
 	["razor"] = {
-		["material"] = "󲕪", -- colr-icons-razor-material U+f256a
-		["catpuccin-frappe"] = "󲕫", -- colr-icons-razor-catpuccin-frappe U+f256b
-		["catpuccin-latte"] = "󲕬", -- colr-icons-razor-catpuccin-latte U+f256c
-		["catpuccin-macchiato"] = "󲕭", -- colr-icons-razor-catpuccin-macchiato U+f256d
-		["catpuccin-mocha"] = "󲕮", -- colr-icons-razor-catpuccin-mocha U+f256e
+		["material"] = "󲨈", -- colr-icons-razor-material U+f2a08
+		["catpuccin-frappe"] = "󲨉", -- colr-icons-razor-catpuccin-frappe U+f2a09
+		["catpuccin-latte"] = "󲨊", -- colr-icons-razor-catpuccin-latte U+f2a0a
+		["catpuccin-macchiato"] = "󲨋", -- colr-icons-razor-catpuccin-macchiato U+f2a0b
+		["catpuccin-mocha"] = "󲨌", -- colr-icons-razor-catpuccin-mocha U+f2a0c
 	},
 	["rbxmk"] = {
-		["material"] = "󲕯", -- colr-icons-rbxmk-material U+f256f
+		["material"] = "󲨍", -- colr-icons-rbxmk-material U+f2a0d
 	},
 	["rc"] = {
-		["material"] = "󲕰", -- colr-icons-rc-material U+f2570
+		["material"] = "󲨎", -- colr-icons-rc-material U+f2a0e
 	},
 	["rdata"] = {
-		["catpuccin-frappe"] = "󲕱", -- colr-icons-rdata-catpuccin-frappe U+f2571
-		["catpuccin-latte"] = "󲕲", -- colr-icons-rdata-catpuccin-latte U+f2572
-		["catpuccin-macchiato"] = "󲕳", -- colr-icons-rdata-catpuccin-macchiato U+f2573
-		["catpuccin-mocha"] = "󲕴", -- colr-icons-rdata-catpuccin-mocha U+f2574
+		["catpuccin-frappe"] = "󲨏", -- colr-icons-rdata-catpuccin-frappe U+f2a0f
+		["catpuccin-latte"] = "󲨐", -- colr-icons-rdata-catpuccin-latte U+f2a10
+		["catpuccin-macchiato"] = "󲨑", -- colr-icons-rdata-catpuccin-macchiato U+f2a11
+		["catpuccin-mocha"] = "󲨒", -- colr-icons-rdata-catpuccin-mocha U+f2a12
 	},
 	["react"] = {
-		["material"] = "󲕵", -- colr-icons-react-material U+f2575
+		["material"] = "󲨓", -- colr-icons-react-material U+f2a13
 	},
 	["react_ts"] = {
-		["material"] = "󲕶", -- colr-icons-react_ts-material U+f2576
+		["material"] = "󲨔", -- colr-icons-react_ts-material U+f2a14
 	},
 	["readme"] = {
-		["material"] = "󲕷", -- colr-icons-readme-material U+f2577
-		["catpuccin-frappe"] = "󲕸", -- colr-icons-readme-catpuccin-frappe U+f2578
-		["catpuccin-latte"] = "󲕹", -- colr-icons-readme-catpuccin-latte U+f2579
-		["catpuccin-macchiato"] = "󲕺", -- colr-icons-readme-catpuccin-macchiato U+f257a
-		["catpuccin-mocha"] = "󲕻", -- colr-icons-readme-catpuccin-mocha U+f257b
+		["material"] = "󲨕", -- colr-icons-readme-material U+f2a15
+		["catpuccin-frappe"] = "󲨖", -- colr-icons-readme-catpuccin-frappe U+f2a16
+		["catpuccin-latte"] = "󲨗", -- colr-icons-readme-catpuccin-latte U+f2a17
+		["catpuccin-macchiato"] = "󲨘", -- colr-icons-readme-catpuccin-macchiato U+f2a18
+		["catpuccin-mocha"] = "󲨙", -- colr-icons-readme-catpuccin-mocha U+f2a19
 	},
 	["reason"] = {
-		["material"] = "󲕼", -- colr-icons-reason-material U+f257c
-		["catpuccin-frappe"] = "󲕽", -- colr-icons-reason-catpuccin-frappe U+f257d
-		["catpuccin-latte"] = "󲕾", -- colr-icons-reason-catpuccin-latte U+f257e
-		["catpuccin-macchiato"] = "󲕿", -- colr-icons-reason-catpuccin-macchiato U+f257f
-		["catpuccin-mocha"] = "󲖀", -- colr-icons-reason-catpuccin-mocha U+f2580
+		["material"] = "󲨚", -- colr-icons-reason-material U+f2a1a
+		["catpuccin-frappe"] = "󲨛", -- colr-icons-reason-catpuccin-frappe U+f2a1b
+		["catpuccin-latte"] = "󲨜", -- colr-icons-reason-catpuccin-latte U+f2a1c
+		["catpuccin-macchiato"] = "󲨝", -- colr-icons-reason-catpuccin-macchiato U+f2a1d
+		["catpuccin-mocha"] = "󲨞", -- colr-icons-reason-catpuccin-mocha U+f2a1e
 	},
 	["red"] = {
-		["material"] = "󲖁", -- colr-icons-red-material U+f2581
+		["material"] = "󲨟", -- colr-icons-red-material U+f2a1f
 	},
 	["redux-action"] = {
-		["material"] = "󲖂", -- colr-icons-redux-action-material U+f2582
+		["material"] = "󲨠", -- colr-icons-redux-action-material U+f2a20
 	},
 	["redux-reducer"] = {
-		["material"] = "󲖃", -- colr-icons-redux-reducer-material U+f2583
+		["material"] = "󲨡", -- colr-icons-redux-reducer-material U+f2a21
 	},
 	["redux-selector"] = {
-		["material"] = "󲖄", -- colr-icons-redux-selector-material U+f2584
+		["material"] = "󲨢", -- colr-icons-redux-selector-material U+f2a22
 	},
 	["redux-store"] = {
-		["material"] = "󲖅", -- colr-icons-redux-store-material U+f2585
+		["material"] = "󲨣", -- colr-icons-redux-store-material U+f2a23
 	},
 	["redwood"] = {
-		["catpuccin-frappe"] = "󲖆", -- colr-icons-redwood-catpuccin-frappe U+f2586
-		["catpuccin-latte"] = "󲖇", -- colr-icons-redwood-catpuccin-latte U+f2587
-		["catpuccin-macchiato"] = "󲖈", -- colr-icons-redwood-catpuccin-macchiato U+f2588
-		["catpuccin-mocha"] = "󲖉", -- colr-icons-redwood-catpuccin-mocha U+f2589
+		["catpuccin-frappe"] = "󲨤", -- colr-icons-redwood-catpuccin-frappe U+f2a24
+		["catpuccin-latte"] = "󲨥", -- colr-icons-redwood-catpuccin-latte U+f2a25
+		["catpuccin-macchiato"] = "󲨦", -- colr-icons-redwood-catpuccin-macchiato U+f2a26
+		["catpuccin-mocha"] = "󲨧", -- colr-icons-redwood-catpuccin-mocha U+f2a27
 	},
 	["regedit"] = {
-		["material"] = "󲖊", -- colr-icons-regedit-material U+f258a
+		["material"] = "󲨨", -- colr-icons-regedit-material U+f2a28
 	},
 	["release"] = {
-		["catpuccin-frappe"] = "󲖋", -- colr-icons-release-catpuccin-frappe U+f258b
-		["catpuccin-latte"] = "󲖌", -- colr-icons-release-catpuccin-latte U+f258c
-		["catpuccin-macchiato"] = "󲖍", -- colr-icons-release-catpuccin-macchiato U+f258d
-		["catpuccin-mocha"] = "󲖎", -- colr-icons-release-catpuccin-mocha U+f258e
+		["catpuccin-frappe"] = "󲨩", -- colr-icons-release-catpuccin-frappe U+f2a29
+		["catpuccin-latte"] = "󲨪", -- colr-icons-release-catpuccin-latte U+f2a2a
+		["catpuccin-macchiato"] = "󲨫", -- colr-icons-release-catpuccin-macchiato U+f2a2b
+		["catpuccin-mocha"] = "󲨬", -- colr-icons-release-catpuccin-mocha U+f2a2c
 	},
 	["remark"] = {
-		["material"] = "󲖏", -- colr-icons-remark-material U+f258f
+		["material"] = "󲨭", -- colr-icons-remark-material U+f2a2d
 	},
 	["remix"] = {
-		["material"] = "󲖐", -- colr-icons-remix-material U+f2590
-		["catpuccin-frappe"] = "󲖑", -- colr-icons-remix-catpuccin-frappe U+f2591
-		["catpuccin-latte"] = "󲖒", -- colr-icons-remix-catpuccin-latte U+f2592
-		["catpuccin-macchiato"] = "󲖓", -- colr-icons-remix-catpuccin-macchiato U+f2593
-		["catpuccin-mocha"] = "󲖔", -- colr-icons-remix-catpuccin-mocha U+f2594
+		["material"] = "󲨮", -- colr-icons-remix-material U+f2a2e
+		["catpuccin-frappe"] = "󲨯", -- colr-icons-remix-catpuccin-frappe U+f2a2f
+		["catpuccin-latte"] = "󲨰", -- colr-icons-remix-catpuccin-latte U+f2a30
+		["catpuccin-macchiato"] = "󲨱", -- colr-icons-remix-catpuccin-macchiato U+f2a31
+		["catpuccin-mocha"] = "󲨲", -- colr-icons-remix-catpuccin-mocha U+f2a32
 	},
 	["remix_light"] = {
-		["material"] = "󲖕", -- colr-icons-remix_light-material U+f2595
+		["material"] = "󲨳", -- colr-icons-remix_light-material U+f2a33
 	},
 	["renovate"] = {
-		["material"] = "󲖖", -- colr-icons-renovate-material U+f2596
-		["catpuccin-frappe"] = "󲖗", -- colr-icons-renovate-catpuccin-frappe U+f2597
-		["catpuccin-latte"] = "󲖘", -- colr-icons-renovate-catpuccin-latte U+f2598
-		["catpuccin-macchiato"] = "󲖙", -- colr-icons-renovate-catpuccin-macchiato U+f2599
-		["catpuccin-mocha"] = "󲖚", -- colr-icons-renovate-catpuccin-mocha U+f259a
+		["material"] = "󲨴", -- colr-icons-renovate-material U+f2a34
+		["catpuccin-frappe"] = "󲨵", -- colr-icons-renovate-catpuccin-frappe U+f2a35
+		["catpuccin-latte"] = "󲨶", -- colr-icons-renovate-catpuccin-latte U+f2a36
+		["catpuccin-macchiato"] = "󲨷", -- colr-icons-renovate-catpuccin-macchiato U+f2a37
+		["catpuccin-mocha"] = "󲨸", -- colr-icons-renovate-catpuccin-mocha U+f2a38
 	},
 	["replit"] = {
-		["material"] = "󲖛", -- colr-icons-replit-material U+f259b
+		["material"] = "󲨹", -- colr-icons-replit-material U+f2a39
 	},
 	["rescript"] = {
-		["material"] = "󲖜", -- colr-icons-rescript-material U+f259c
-		["catpuccin-frappe"] = "󲖝", -- colr-icons-rescript-catpuccin-frappe U+f259d
-		["catpuccin-latte"] = "󲖞", -- colr-icons-rescript-catpuccin-latte U+f259e
-		["catpuccin-macchiato"] = "󲖟", -- colr-icons-rescript-catpuccin-macchiato U+f259f
-		["catpuccin-mocha"] = "󲖠", -- colr-icons-rescript-catpuccin-mocha U+f25a0
+		["material"] = "󲨺", -- colr-icons-rescript-material U+f2a3a
+		["catpuccin-frappe"] = "󲨻", -- colr-icons-rescript-catpuccin-frappe U+f2a3b
+		["catpuccin-latte"] = "󲨼", -- colr-icons-rescript-catpuccin-latte U+f2a3c
+		["catpuccin-macchiato"] = "󲨽", -- colr-icons-rescript-catpuccin-macchiato U+f2a3d
+		["catpuccin-mocha"] = "󲨾", -- colr-icons-rescript-catpuccin-mocha U+f2a3e
 	},
 	["rescript-interface"] = {
-		["material"] = "󲖡", -- colr-icons-rescript-interface-material U+f25a1
+		["material"] = "󲨿", -- colr-icons-rescript-interface-material U+f2a3f
 	},
 	["restql"] = {
-		["material"] = "󲖢", -- colr-icons-restql-material U+f25a2
+		["material"] = "󲩀", -- colr-icons-restql-material U+f2a40
 	},
 	["riot"] = {
-		["material"] = "󲖣", -- colr-icons-riot-material U+f25a3
+		["material"] = "󲩁", -- colr-icons-riot-material U+f2a41
 	},
 	["rmd"] = {
-		["catpuccin-frappe"] = "󲖤", -- colr-icons-rmd-catpuccin-frappe U+f25a4
-		["catpuccin-latte"] = "󲖥", -- colr-icons-rmd-catpuccin-latte U+f25a5
-		["catpuccin-macchiato"] = "󲖦", -- colr-icons-rmd-catpuccin-macchiato U+f25a6
-		["catpuccin-mocha"] = "󲖧", -- colr-icons-rmd-catpuccin-mocha U+f25a7
+		["catpuccin-frappe"] = "󲩂", -- colr-icons-rmd-catpuccin-frappe U+f2a42
+		["catpuccin-latte"] = "󲩃", -- colr-icons-rmd-catpuccin-latte U+f2a43
+		["catpuccin-macchiato"] = "󲩄", -- colr-icons-rmd-catpuccin-macchiato U+f2a44
+		["catpuccin-mocha"] = "󲩅", -- colr-icons-rmd-catpuccin-mocha U+f2a45
 	},
 	["roadmap"] = {
-		["material"] = "󲖨", -- colr-icons-roadmap-material U+f25a8
+		["material"] = "󲩆", -- colr-icons-roadmap-material U+f2a46
 	},
 	["roblox"] = {
-		["material"] = "󲖩", -- colr-icons-roblox-material U+f25a9
-		["catpuccin-frappe"] = "󲖪", -- colr-icons-roblox-catpuccin-frappe U+f25aa
-		["catpuccin-latte"] = "󲖫", -- colr-icons-roblox-catpuccin-latte U+f25ab
-		["catpuccin-macchiato"] = "󲖬", -- colr-icons-roblox-catpuccin-macchiato U+f25ac
-		["catpuccin-mocha"] = "󲖭", -- colr-icons-roblox-catpuccin-mocha U+f25ad
+		["material"] = "󲩇", -- colr-icons-roblox-material U+f2a47
+		["catpuccin-frappe"] = "󲩈", -- colr-icons-roblox-catpuccin-frappe U+f2a48
+		["catpuccin-latte"] = "󲩉", -- colr-icons-roblox-catpuccin-latte U+f2a49
+		["catpuccin-macchiato"] = "󲩊", -- colr-icons-roblox-catpuccin-macchiato U+f2a4a
+		["catpuccin-mocha"] = "󲩋", -- colr-icons-roblox-catpuccin-mocha U+f2a4b
 	},
 	["robot"] = {
-		["material"] = "󲖮", -- colr-icons-robot-material U+f25ae
+		["material"] = "󲩌", -- colr-icons-robot-material U+f2a4c
 	},
 	["robots"] = {
-		["material"] = "󲖯", -- colr-icons-robots-material U+f25af
-		["catpuccin-frappe"] = "󲖰", -- colr-icons-robots-catpuccin-frappe U+f25b0
-		["catpuccin-latte"] = "󲖱", -- colr-icons-robots-catpuccin-latte U+f25b1
-		["catpuccin-macchiato"] = "󲖲", -- colr-icons-robots-catpuccin-macchiato U+f25b2
-		["catpuccin-mocha"] = "󲖳", -- colr-icons-robots-catpuccin-mocha U+f25b3
+		["material"] = "󲩍", -- colr-icons-robots-material U+f2a4d
+		["catpuccin-frappe"] = "󲩎", -- colr-icons-robots-catpuccin-frappe U+f2a4e
+		["catpuccin-latte"] = "󲩏", -- colr-icons-robots-catpuccin-latte U+f2a4f
+		["catpuccin-macchiato"] = "󲩐", -- colr-icons-robots-catpuccin-macchiato U+f2a50
+		["catpuccin-mocha"] = "󲩑", -- colr-icons-robots-catpuccin-mocha U+f2a51
 	},
 	["rocket"] = {
-		["material"] = "󲖴", -- colr-icons-rocket-material U+f25b4
-		["catpuccin-frappe"] = "󲖵", -- colr-icons-rocket-catpuccin-frappe U+f25b5
-		["catpuccin-latte"] = "󲖶", -- colr-icons-rocket-catpuccin-latte U+f25b6
-		["catpuccin-macchiato"] = "󲖷", -- colr-icons-rocket-catpuccin-macchiato U+f25b7
-		["catpuccin-mocha"] = "󲖸", -- colr-icons-rocket-catpuccin-mocha U+f25b8
+		["material"] = "󲩒", -- colr-icons-rocket-material U+f2a52
+		["catpuccin-frappe"] = "󲩓", -- colr-icons-rocket-catpuccin-frappe U+f2a53
+		["catpuccin-latte"] = "󲩔", -- colr-icons-rocket-catpuccin-latte U+f2a54
+		["catpuccin-macchiato"] = "󲩕", -- colr-icons-rocket-catpuccin-macchiato U+f2a55
+		["catpuccin-mocha"] = "󲩖", -- colr-icons-rocket-catpuccin-mocha U+f2a56
 	},
 	["rojo"] = {
-		["material"] = "󲖹", -- colr-icons-rojo-material U+f25b9
-		["catpuccin-frappe"] = "󲖺", -- colr-icons-rojo-catpuccin-frappe U+f25ba
-		["catpuccin-latte"] = "󲖻", -- colr-icons-rojo-catpuccin-latte U+f25bb
-		["catpuccin-macchiato"] = "󲖼", -- colr-icons-rojo-catpuccin-macchiato U+f25bc
-		["catpuccin-mocha"] = "󲖽", -- colr-icons-rojo-catpuccin-mocha U+f25bd
+		["material"] = "󲩗", -- colr-icons-rojo-material U+f2a57
+		["catpuccin-frappe"] = "󲩘", -- colr-icons-rojo-catpuccin-frappe U+f2a58
+		["catpuccin-latte"] = "󲩙", -- colr-icons-rojo-catpuccin-latte U+f2a59
+		["catpuccin-macchiato"] = "󲩚", -- colr-icons-rojo-catpuccin-macchiato U+f2a5a
+		["catpuccin-mocha"] = "󲩛", -- colr-icons-rojo-catpuccin-mocha U+f2a5b
 	},
 	["rokit"] = {
-		["catpuccin-frappe"] = "󲖾", -- colr-icons-rokit-catpuccin-frappe U+f25be
-		["catpuccin-latte"] = "󲖿", -- colr-icons-rokit-catpuccin-latte U+f25bf
-		["catpuccin-macchiato"] = "󲗀", -- colr-icons-rokit-catpuccin-macchiato U+f25c0
-		["catpuccin-mocha"] = "󲗁", -- colr-icons-rokit-catpuccin-mocha U+f25c1
+		["catpuccin-frappe"] = "󲩜", -- colr-icons-rokit-catpuccin-frappe U+f2a5c
+		["catpuccin-latte"] = "󲩝", -- colr-icons-rokit-catpuccin-latte U+f2a5d
+		["catpuccin-macchiato"] = "󲩞", -- colr-icons-rokit-catpuccin-macchiato U+f2a5e
+		["catpuccin-mocha"] = "󲩟", -- colr-icons-rokit-catpuccin-mocha U+f2a5f
 	},
 	["rolldown"] = {
-		["material"] = "󲗂", -- colr-icons-rolldown-material U+f25c2
+		["material"] = "󲩠", -- colr-icons-rolldown-material U+f2a60
 	},
 	["rollup"] = {
-		["material"] = "󲗃", -- colr-icons-rollup-material U+f25c3
-		["catpuccin-frappe"] = "󲗄", -- colr-icons-rollup-catpuccin-frappe U+f25c4
-		["catpuccin-latte"] = "󲗅", -- colr-icons-rollup-catpuccin-latte U+f25c5
-		["catpuccin-macchiato"] = "󲗆", -- colr-icons-rollup-catpuccin-macchiato U+f25c6
-		["catpuccin-mocha"] = "󲗇", -- colr-icons-rollup-catpuccin-mocha U+f25c7
+		["material"] = "󲩡", -- colr-icons-rollup-material U+f2a61
+		["catpuccin-frappe"] = "󲩢", -- colr-icons-rollup-catpuccin-frappe U+f2a62
+		["catpuccin-latte"] = "󲩣", -- colr-icons-rollup-catpuccin-latte U+f2a63
+		["catpuccin-macchiato"] = "󲩤", -- colr-icons-rollup-catpuccin-macchiato U+f2a64
+		["catpuccin-mocha"] = "󲩥", -- colr-icons-rollup-catpuccin-mocha U+f2a65
 	},
 	["rome"] = {
-		["material"] = "󲗈", -- colr-icons-rome-material U+f25c8
+		["material"] = "󲩦", -- colr-icons-rome-material U+f2a66
 	},
 	["routing"] = {
-		["material"] = "󲗉", -- colr-icons-routing-material U+f25c9
+		["material"] = "󲩧", -- colr-icons-routing-material U+f2a67
 	},
 	["rproj"] = {
-		["catpuccin-frappe"] = "󲗊", -- colr-icons-rproj-catpuccin-frappe U+f25ca
-		["catpuccin-latte"] = "󲗋", -- colr-icons-rproj-catpuccin-latte U+f25cb
-		["catpuccin-macchiato"] = "󲗌", -- colr-icons-rproj-catpuccin-macchiato U+f25cc
-		["catpuccin-mocha"] = "󲗍", -- colr-icons-rproj-catpuccin-mocha U+f25cd
+		["catpuccin-frappe"] = "󲩨", -- colr-icons-rproj-catpuccin-frappe U+f2a68
+		["catpuccin-latte"] = "󲩩", -- colr-icons-rproj-catpuccin-latte U+f2a69
+		["catpuccin-macchiato"] = "󲩪", -- colr-icons-rproj-catpuccin-macchiato U+f2a6a
+		["catpuccin-mocha"] = "󲩫", -- colr-icons-rproj-catpuccin-mocha U+f2a6b
 	},
 	["rsml"] = {
-		["catpuccin-frappe"] = "󲗎", -- colr-icons-rsml-catpuccin-frappe U+f25ce
-		["catpuccin-latte"] = "󲗏", -- colr-icons-rsml-catpuccin-latte U+f25cf
-		["catpuccin-macchiato"] = "󲗐", -- colr-icons-rsml-catpuccin-macchiato U+f25d0
-		["catpuccin-mocha"] = "󲗑", -- colr-icons-rsml-catpuccin-mocha U+f25d1
+		["catpuccin-frappe"] = "󲩬", -- colr-icons-rsml-catpuccin-frappe U+f2a6c
+		["catpuccin-latte"] = "󲩭", -- colr-icons-rsml-catpuccin-latte U+f2a6d
+		["catpuccin-macchiato"] = "󲩮", -- colr-icons-rsml-catpuccin-macchiato U+f2a6e
+		["catpuccin-mocha"] = "󲩯", -- colr-icons-rsml-catpuccin-mocha U+f2a6f
 	},
 	["rspec"] = {
-		["material"] = "󲗒", -- colr-icons-rspec-material U+f25d2
+		["material"] = "󲩰", -- colr-icons-rspec-material U+f2a70
 	},
 	["rstack"] = {
-		["material"] = "󲗓", -- colr-icons-rstack-material U+f25d3
+		["material"] = "󲩱", -- colr-icons-rstack-material U+f2a71
 	},
 	["rubocop"] = {
-		["material"] = "󲗔", -- colr-icons-rubocop-material U+f25d4
+		["material"] = "󲩲", -- colr-icons-rubocop-material U+f2a72
 	},
 	["rubocop_light"] = {
-		["material"] = "󲗕", -- colr-icons-rubocop_light-material U+f25d5
+		["material"] = "󲩳", -- colr-icons-rubocop_light-material U+f2a73
 	},
 	["ruby"] = {
-		["material"] = "󲗖", -- colr-icons-ruby-material U+f25d6
-		["catpuccin-frappe"] = "󲗗", -- colr-icons-ruby-catpuccin-frappe U+f25d7
-		["catpuccin-latte"] = "󲗘", -- colr-icons-ruby-catpuccin-latte U+f25d8
-		["catpuccin-macchiato"] = "󲗙", -- colr-icons-ruby-catpuccin-macchiato U+f25d9
-		["catpuccin-mocha"] = "󲗚", -- colr-icons-ruby-catpuccin-mocha U+f25da
+		["material"] = "󲩴", -- colr-icons-ruby-material U+f2a74
+		["catpuccin-frappe"] = "󲩵", -- colr-icons-ruby-catpuccin-frappe U+f2a75
+		["catpuccin-latte"] = "󲩶", -- colr-icons-ruby-catpuccin-latte U+f2a76
+		["catpuccin-macchiato"] = "󲩷", -- colr-icons-ruby-catpuccin-macchiato U+f2a77
+		["catpuccin-mocha"] = "󲩸", -- colr-icons-ruby-catpuccin-mocha U+f2a78
 	},
 	["ruby-gem"] = {
-		["catpuccin-frappe"] = "󲗛", -- colr-icons-ruby-gem-catpuccin-frappe U+f25db
-		["catpuccin-latte"] = "󲗜", -- colr-icons-ruby-gem-catpuccin-latte U+f25dc
-		["catpuccin-macchiato"] = "󲗝", -- colr-icons-ruby-gem-catpuccin-macchiato U+f25dd
-		["catpuccin-mocha"] = "󲗞", -- colr-icons-ruby-gem-catpuccin-mocha U+f25de
+		["catpuccin-frappe"] = "󲩹", -- colr-icons-ruby-gem-catpuccin-frappe U+f2a79
+		["catpuccin-latte"] = "󲩺", -- colr-icons-ruby-gem-catpuccin-latte U+f2a7a
+		["catpuccin-macchiato"] = "󲩻", -- colr-icons-ruby-gem-catpuccin-macchiato U+f2a7b
+		["catpuccin-mocha"] = "󲩼", -- colr-icons-ruby-gem-catpuccin-mocha U+f2a7c
 	},
 	["ruby-gem-lock"] = {
-		["catpuccin-frappe"] = "󲗟", -- colr-icons-ruby-gem-lock-catpuccin-frappe U+f25df
-		["catpuccin-latte"] = "󲗠", -- colr-icons-ruby-gem-lock-catpuccin-latte U+f25e0
-		["catpuccin-macchiato"] = "󲗡", -- colr-icons-ruby-gem-lock-catpuccin-macchiato U+f25e1
-		["catpuccin-mocha"] = "󲗢", -- colr-icons-ruby-gem-lock-catpuccin-mocha U+f25e2
+		["catpuccin-frappe"] = "󲩽", -- colr-icons-ruby-gem-lock-catpuccin-frappe U+f2a7d
+		["catpuccin-latte"] = "󲩾", -- colr-icons-ruby-gem-lock-catpuccin-latte U+f2a7e
+		["catpuccin-macchiato"] = "󲩿", -- colr-icons-ruby-gem-lock-catpuccin-macchiato U+f2a7f
+		["catpuccin-mocha"] = "󲪀", -- colr-icons-ruby-gem-lock-catpuccin-mocha U+f2a80
 	},
 	["ruff"] = {
-		["material"] = "󲗣", -- colr-icons-ruff-material U+f25e3
-		["catpuccin-frappe"] = "󲗤", -- colr-icons-ruff-catpuccin-frappe U+f25e4
-		["catpuccin-latte"] = "󲗥", -- colr-icons-ruff-catpuccin-latte U+f25e5
-		["catpuccin-macchiato"] = "󲗦", -- colr-icons-ruff-catpuccin-macchiato U+f25e6
-		["catpuccin-mocha"] = "󲗧", -- colr-icons-ruff-catpuccin-mocha U+f25e7
+		["material"] = "󲪁", -- colr-icons-ruff-material U+f2a81
+		["catpuccin-frappe"] = "󲪂", -- colr-icons-ruff-catpuccin-frappe U+f2a82
+		["catpuccin-latte"] = "󲪃", -- colr-icons-ruff-catpuccin-latte U+f2a83
+		["catpuccin-macchiato"] = "󲪄", -- colr-icons-ruff-catpuccin-macchiato U+f2a84
+		["catpuccin-mocha"] = "󲪅", -- colr-icons-ruff-catpuccin-mocha U+f2a85
 	},
 	["rust"] = {
-		["material"] = "󲗨", -- colr-icons-rust-material U+f25e8
-		["catpuccin-frappe"] = "󲗩", -- colr-icons-rust-catpuccin-frappe U+f25e9
-		["catpuccin-latte"] = "󲗪", -- colr-icons-rust-catpuccin-latte U+f25ea
-		["catpuccin-macchiato"] = "󲗫", -- colr-icons-rust-catpuccin-macchiato U+f25eb
-		["catpuccin-mocha"] = "󲗬", -- colr-icons-rust-catpuccin-mocha U+f25ec
+		["material"] = "󲪆", -- colr-icons-rust-material U+f2a86
+		["catpuccin-frappe"] = "󲪇", -- colr-icons-rust-catpuccin-frappe U+f2a87
+		["catpuccin-latte"] = "󲪈", -- colr-icons-rust-catpuccin-latte U+f2a88
+		["catpuccin-macchiato"] = "󲪉", -- colr-icons-rust-catpuccin-macchiato U+f2a89
+		["catpuccin-mocha"] = "󲪊", -- colr-icons-rust-catpuccin-mocha U+f2a8a
 	},
 	["rust-alt"] = {
-		["catpuccin-frappe"] = "󲗭", -- colr-icons-rust-alt-catpuccin-frappe U+f25ed
-		["catpuccin-latte"] = "󲗮", -- colr-icons-rust-alt-catpuccin-latte U+f25ee
-		["catpuccin-macchiato"] = "󲗯", -- colr-icons-rust-alt-catpuccin-macchiato U+f25ef
-		["catpuccin-mocha"] = "󲗰", -- colr-icons-rust-alt-catpuccin-mocha U+f25f0
+		["catpuccin-frappe"] = "󲪋", -- colr-icons-rust-alt-catpuccin-frappe U+f2a8b
+		["catpuccin-latte"] = "󲪌", -- colr-icons-rust-alt-catpuccin-latte U+f2a8c
+		["catpuccin-macchiato"] = "󲪍", -- colr-icons-rust-alt-catpuccin-macchiato U+f2a8d
+		["catpuccin-mocha"] = "󲪎", -- colr-icons-rust-alt-catpuccin-mocha U+f2a8e
 	},
 	["rust-alt-config"] = {
-		["catpuccin-frappe"] = "󲗱", -- colr-icons-rust-alt-config-catpuccin-frappe U+f25f1
-		["catpuccin-latte"] = "󲗲", -- colr-icons-rust-alt-config-catpuccin-latte U+f25f2
-		["catpuccin-macchiato"] = "󲗳", -- colr-icons-rust-alt-config-catpuccin-macchiato U+f25f3
-		["catpuccin-mocha"] = "󲗴", -- colr-icons-rust-alt-config-catpuccin-mocha U+f25f4
+		["catpuccin-frappe"] = "󲪏", -- colr-icons-rust-alt-config-catpuccin-frappe U+f2a8f
+		["catpuccin-latte"] = "󲪐", -- colr-icons-rust-alt-config-catpuccin-latte U+f2a90
+		["catpuccin-macchiato"] = "󲪑", -- colr-icons-rust-alt-config-catpuccin-macchiato U+f2a91
+		["catpuccin-mocha"] = "󲪒", -- colr-icons-rust-alt-config-catpuccin-mocha U+f2a92
 	},
 	["rust-config"] = {
-		["catpuccin-frappe"] = "󲗵", -- colr-icons-rust-config-catpuccin-frappe U+f25f5
-		["catpuccin-latte"] = "󲗶", -- colr-icons-rust-config-catpuccin-latte U+f25f6
-		["catpuccin-macchiato"] = "󲗷", -- colr-icons-rust-config-catpuccin-macchiato U+f25f7
-		["catpuccin-mocha"] = "󲗸", -- colr-icons-rust-config-catpuccin-mocha U+f25f8
+		["catpuccin-frappe"] = "󲪓", -- colr-icons-rust-config-catpuccin-frappe U+f2a93
+		["catpuccin-latte"] = "󲪔", -- colr-icons-rust-config-catpuccin-latte U+f2a94
+		["catpuccin-macchiato"] = "󲪕", -- colr-icons-rust-config-catpuccin-macchiato U+f2a95
+		["catpuccin-mocha"] = "󲪖", -- colr-icons-rust-config-catpuccin-mocha U+f2a96
 	},
 	["salesforce"] = {
-		["material"] = "󲗹", -- colr-icons-salesforce-material U+f25f9
-		["catpuccin-frappe"] = "󲗺", -- colr-icons-salesforce-catpuccin-frappe U+f25fa
-		["catpuccin-latte"] = "󲗻", -- colr-icons-salesforce-catpuccin-latte U+f25fb
-		["catpuccin-macchiato"] = "󲗼", -- colr-icons-salesforce-catpuccin-macchiato U+f25fc
-		["catpuccin-mocha"] = "󲗽", -- colr-icons-salesforce-catpuccin-mocha U+f25fd
+		["material"] = "󲪗", -- colr-icons-salesforce-material U+f2a97
+		["catpuccin-frappe"] = "󲪘", -- colr-icons-salesforce-catpuccin-frappe U+f2a98
+		["catpuccin-latte"] = "󲪙", -- colr-icons-salesforce-catpuccin-latte U+f2a99
+		["catpuccin-macchiato"] = "󲪚", -- colr-icons-salesforce-catpuccin-macchiato U+f2a9a
+		["catpuccin-mocha"] = "󲪛", -- colr-icons-salesforce-catpuccin-mocha U+f2a9b
 	},
 	["salt"] = {
-		["material"] = "󲗾", -- colr-icons-salt-material U+f25fe
+		["material"] = "󲪜", -- colr-icons-salt-material U+f2a9c
 	},
 	["san"] = {
-		["material"] = "󲗿", -- colr-icons-san-material U+f25ff
+		["material"] = "󲪝", -- colr-icons-san-material U+f2a9d
 	},
 	["sas"] = {
-		["material"] = "󲘀", -- colr-icons-sas-material U+f2600
+		["material"] = "󲪞", -- colr-icons-sas-material U+f2a9e
 	},
 	["sass"] = {
-		["material"] = "󲘁", -- colr-icons-sass-material U+f2601
-		["catpuccin-frappe"] = "󲘂", -- colr-icons-sass-catpuccin-frappe U+f2602
-		["catpuccin-latte"] = "󲘃", -- colr-icons-sass-catpuccin-latte U+f2603
-		["catpuccin-macchiato"] = "󲘄", -- colr-icons-sass-catpuccin-macchiato U+f2604
-		["catpuccin-mocha"] = "󲘅", -- colr-icons-sass-catpuccin-mocha U+f2605
+		["material"] = "󲪟", -- colr-icons-sass-material U+f2a9f
+		["catpuccin-frappe"] = "󲪠", -- colr-icons-sass-catpuccin-frappe U+f2aa0
+		["catpuccin-latte"] = "󲪡", -- colr-icons-sass-catpuccin-latte U+f2aa1
+		["catpuccin-macchiato"] = "󲪢", -- colr-icons-sass-catpuccin-macchiato U+f2aa2
+		["catpuccin-mocha"] = "󲪣", -- colr-icons-sass-catpuccin-mocha U+f2aa3
 	},
 	["sbt"] = {
-		["material"] = "󲘆", -- colr-icons-sbt-material U+f2606
+		["material"] = "󲪤", -- colr-icons-sbt-material U+f2aa4
 	},
 	["scala"] = {
-		["material"] = "󲘇", -- colr-icons-scala-material U+f2607
-		["catpuccin-frappe"] = "󲘈", -- colr-icons-scala-catpuccin-frappe U+f2608
-		["catpuccin-latte"] = "󲘉", -- colr-icons-scala-catpuccin-latte U+f2609
-		["catpuccin-macchiato"] = "󲘊", -- colr-icons-scala-catpuccin-macchiato U+f260a
-		["catpuccin-mocha"] = "󲘋", -- colr-icons-scala-catpuccin-mocha U+f260b
+		["material"] = "󲪥", -- colr-icons-scala-material U+f2aa5
+		["catpuccin-frappe"] = "󲪦", -- colr-icons-scala-catpuccin-frappe U+f2aa6
+		["catpuccin-latte"] = "󲪧", -- colr-icons-scala-catpuccin-latte U+f2aa7
+		["catpuccin-macchiato"] = "󲪨", -- colr-icons-scala-catpuccin-macchiato U+f2aa8
+		["catpuccin-mocha"] = "󲪩", -- colr-icons-scala-catpuccin-mocha U+f2aa9
 	},
 	["scheme"] = {
-		["material"] = "󲘌", -- colr-icons-scheme-material U+f260c
-		["catpuccin-frappe"] = "󲘍", -- colr-icons-scheme-catpuccin-frappe U+f260d
-		["catpuccin-latte"] = "󲘎", -- colr-icons-scheme-catpuccin-latte U+f260e
-		["catpuccin-macchiato"] = "󲘏", -- colr-icons-scheme-catpuccin-macchiato U+f260f
-		["catpuccin-mocha"] = "󲘐", -- colr-icons-scheme-catpuccin-mocha U+f2610
+		["material"] = "󲪪", -- colr-icons-scheme-material U+f2aaa
+		["catpuccin-frappe"] = "󲪫", -- colr-icons-scheme-catpuccin-frappe U+f2aab
+		["catpuccin-latte"] = "󲪬", -- colr-icons-scheme-catpuccin-latte U+f2aac
+		["catpuccin-macchiato"] = "󲪭", -- colr-icons-scheme-catpuccin-macchiato U+f2aad
+		["catpuccin-mocha"] = "󲪮", -- colr-icons-scheme-catpuccin-mocha U+f2aae
 	},
 	["scons"] = {
-		["material"] = "󲘑", -- colr-icons-scons-material U+f2611
+		["material"] = "󲪯", -- colr-icons-scons-material U+f2aaf
 	},
 	["scons_light"] = {
-		["material"] = "󲘒", -- colr-icons-scons_light-material U+f2612
+		["material"] = "󲪰", -- colr-icons-scons_light-material U+f2ab0
 	},
 	["screwdriver"] = {
-		["material"] = "󲘓", -- colr-icons-screwdriver-material U+f2613
+		["material"] = "󲪱", -- colr-icons-screwdriver-material U+f2ab1
 	},
 	["search"] = {
-		["material"] = "󲘔", -- colr-icons-search-material U+f2614
-		["catpuccin-frappe"] = "󲘕", -- colr-icons-search-catpuccin-frappe U+f2615
-		["catpuccin-latte"] = "󲘖", -- colr-icons-search-catpuccin-latte U+f2616
-		["catpuccin-macchiato"] = "󲘗", -- colr-icons-search-catpuccin-macchiato U+f2617
-		["catpuccin-mocha"] = "󲘘", -- colr-icons-search-catpuccin-mocha U+f2618
+		["material"] = "󲪲", -- colr-icons-search-material U+f2ab2
+		["catpuccin-frappe"] = "󲪳", -- colr-icons-search-catpuccin-frappe U+f2ab3
+		["catpuccin-latte"] = "󲪴", -- colr-icons-search-catpuccin-latte U+f2ab4
+		["catpuccin-macchiato"] = "󲪵", -- colr-icons-search-catpuccin-macchiato U+f2ab5
+		["catpuccin-mocha"] = "󲪶", -- colr-icons-search-catpuccin-mocha U+f2ab6
 	},
 	["security"] = {
-		["catpuccin-frappe"] = "󲘙", -- colr-icons-security-catpuccin-frappe U+f2619
-		["catpuccin-latte"] = "󲘚", -- colr-icons-security-catpuccin-latte U+f261a
-		["catpuccin-macchiato"] = "󲘛", -- colr-icons-security-catpuccin-macchiato U+f261b
-		["catpuccin-mocha"] = "󲘜", -- colr-icons-security-catpuccin-mocha U+f261c
+		["catpuccin-frappe"] = "󲪷", -- colr-icons-security-catpuccin-frappe U+f2ab7
+		["catpuccin-latte"] = "󲪸", -- colr-icons-security-catpuccin-latte U+f2ab8
+		["catpuccin-macchiato"] = "󲪹", -- colr-icons-security-catpuccin-macchiato U+f2ab9
+		["catpuccin-mocha"] = "󲪺", -- colr-icons-security-catpuccin-mocha U+f2aba
 	},
 	["semantic-release"] = {
-		["material"] = "󲘝", -- colr-icons-semantic-release-material U+f261d
-		["catpuccin-frappe"] = "󲘞", -- colr-icons-semantic-release-catpuccin-frappe U+f261e
-		["catpuccin-latte"] = "󲘟", -- colr-icons-semantic-release-catpuccin-latte U+f261f
-		["catpuccin-macchiato"] = "󲘠", -- colr-icons-semantic-release-catpuccin-macchiato U+f2620
-		["catpuccin-mocha"] = "󲘡", -- colr-icons-semantic-release-catpuccin-mocha U+f2621
+		["material"] = "󲪻", -- colr-icons-semantic-release-material U+f2abb
+		["catpuccin-frappe"] = "󲪼", -- colr-icons-semantic-release-catpuccin-frappe U+f2abc
+		["catpuccin-latte"] = "󲪽", -- colr-icons-semantic-release-catpuccin-latte U+f2abd
+		["catpuccin-macchiato"] = "󲪾", -- colr-icons-semantic-release-catpuccin-macchiato U+f2abe
+		["catpuccin-mocha"] = "󲪿", -- colr-icons-semantic-release-catpuccin-mocha U+f2abf
 	},
 	["semantic-release_light"] = {
-		["material"] = "󲘢", -- colr-icons-semantic-release_light-material U+f2622
+		["material"] = "󲫀", -- colr-icons-semantic-release_light-material U+f2ac0
 	},
 	["semgrep"] = {
-		["material"] = "󲘣", -- colr-icons-semgrep-material U+f2623
-		["catpuccin-frappe"] = "󲘤", -- colr-icons-semgrep-catpuccin-frappe U+f2624
-		["catpuccin-latte"] = "󲘥", -- colr-icons-semgrep-catpuccin-latte U+f2625
-		["catpuccin-macchiato"] = "󲘦", -- colr-icons-semgrep-catpuccin-macchiato U+f2626
-		["catpuccin-mocha"] = "󲘧", -- colr-icons-semgrep-catpuccin-mocha U+f2627
+		["material"] = "󲫁", -- colr-icons-semgrep-material U+f2ac1
+		["catpuccin-frappe"] = "󲫂", -- colr-icons-semgrep-catpuccin-frappe U+f2ac2
+		["catpuccin-latte"] = "󲫃", -- colr-icons-semgrep-catpuccin-latte U+f2ac3
+		["catpuccin-macchiato"] = "󲫄", -- colr-icons-semgrep-catpuccin-macchiato U+f2ac4
+		["catpuccin-mocha"] = "󲫅", -- colr-icons-semgrep-catpuccin-mocha U+f2ac5
 	},
 	["semgrep-ignore"] = {
-		["catpuccin-frappe"] = "󲘨", -- colr-icons-semgrep-ignore-catpuccin-frappe U+f2628
-		["catpuccin-latte"] = "󲘩", -- colr-icons-semgrep-ignore-catpuccin-latte U+f2629
-		["catpuccin-macchiato"] = "󲘪", -- colr-icons-semgrep-ignore-catpuccin-macchiato U+f262a
-		["catpuccin-mocha"] = "󲘫", -- colr-icons-semgrep-ignore-catpuccin-mocha U+f262b
+		["catpuccin-frappe"] = "󲫆", -- colr-icons-semgrep-ignore-catpuccin-frappe U+f2ac6
+		["catpuccin-latte"] = "󲫇", -- colr-icons-semgrep-ignore-catpuccin-latte U+f2ac7
+		["catpuccin-macchiato"] = "󲫈", -- colr-icons-semgrep-ignore-catpuccin-macchiato U+f2ac8
+		["catpuccin-mocha"] = "󲫉", -- colr-icons-semgrep-ignore-catpuccin-mocha U+f2ac9
 	},
 	["sentry"] = {
-		["material"] = "󲘬", -- colr-icons-sentry-material U+f262c
-		["catpuccin-frappe"] = "󲘭", -- colr-icons-sentry-catpuccin-frappe U+f262d
-		["catpuccin-latte"] = "󲘮", -- colr-icons-sentry-catpuccin-latte U+f262e
-		["catpuccin-macchiato"] = "󲘯", -- colr-icons-sentry-catpuccin-macchiato U+f262f
-		["catpuccin-mocha"] = "󲘰", -- colr-icons-sentry-catpuccin-mocha U+f2630
+		["material"] = "󲫊", -- colr-icons-sentry-material U+f2aca
+		["catpuccin-frappe"] = "󲫋", -- colr-icons-sentry-catpuccin-frappe U+f2acb
+		["catpuccin-latte"] = "󲫌", -- colr-icons-sentry-catpuccin-latte U+f2acc
+		["catpuccin-macchiato"] = "󲫍", -- colr-icons-sentry-catpuccin-macchiato U+f2acd
+		["catpuccin-mocha"] = "󲫎", -- colr-icons-sentry-catpuccin-mocha U+f2ace
 	},
 	["sequelize"] = {
-		["material"] = "󲘱", -- colr-icons-sequelize-material U+f2631
+		["material"] = "󲫏", -- colr-icons-sequelize-material U+f2acf
 	},
 	["serverless"] = {
-		["material"] = "󲘲", -- colr-icons-serverless-material U+f2632
-		["catpuccin-frappe"] = "󲘳", -- colr-icons-serverless-catpuccin-frappe U+f2633
-		["catpuccin-latte"] = "󲘴", -- colr-icons-serverless-catpuccin-latte U+f2634
-		["catpuccin-macchiato"] = "󲘵", -- colr-icons-serverless-catpuccin-macchiato U+f2635
-		["catpuccin-mocha"] = "󲘶", -- colr-icons-serverless-catpuccin-mocha U+f2636
+		["material"] = "󲫐", -- colr-icons-serverless-material U+f2ad0
+		["catpuccin-frappe"] = "󲫑", -- colr-icons-serverless-catpuccin-frappe U+f2ad1
+		["catpuccin-latte"] = "󲫒", -- colr-icons-serverless-catpuccin-latte U+f2ad2
+		["catpuccin-macchiato"] = "󲫓", -- colr-icons-serverless-catpuccin-macchiato U+f2ad3
+		["catpuccin-mocha"] = "󲫔", -- colr-icons-serverless-catpuccin-mocha U+f2ad4
 	},
 	["settings"] = {
-		["material"] = "󲘷", -- colr-icons-settings-material U+f2637
+		["material"] = "󲫕", -- colr-icons-settings-material U+f2ad5
 	},
 	["shader"] = {
-		["material"] = "󲘸", -- colr-icons-shader-material U+f2638
-		["catpuccin-frappe"] = "󲘹", -- colr-icons-shader-catpuccin-frappe U+f2639
-		["catpuccin-latte"] = "󲘺", -- colr-icons-shader-catpuccin-latte U+f263a
-		["catpuccin-macchiato"] = "󲘻", -- colr-icons-shader-catpuccin-macchiato U+f263b
-		["catpuccin-mocha"] = "󲘼", -- colr-icons-shader-catpuccin-mocha U+f263c
+		["material"] = "󲫖", -- colr-icons-shader-material U+f2ad6
+		["catpuccin-frappe"] = "󲫗", -- colr-icons-shader-catpuccin-frappe U+f2ad7
+		["catpuccin-latte"] = "󲫘", -- colr-icons-shader-catpuccin-latte U+f2ad8
+		["catpuccin-macchiato"] = "󲫙", -- colr-icons-shader-catpuccin-macchiato U+f2ad9
+		["catpuccin-mocha"] = "󲫚", -- colr-icons-shader-catpuccin-mocha U+f2ada
 	},
 	["shellcheck"] = {
-		["material"] = "󲘽", -- colr-icons-shellcheck-material U+f263d
+		["material"] = "󲫛", -- colr-icons-shellcheck-material U+f2adb
 	},
 	["shellcheck_light"] = {
-		["material"] = "󲘾", -- colr-icons-shellcheck_light-material U+f263e
+		["material"] = "󲫜", -- colr-icons-shellcheck_light-material U+f2adc
 	},
 	["silverstripe"] = {
-		["material"] = "󲘿", -- colr-icons-silverstripe-material U+f263f
+		["material"] = "󲫝", -- colr-icons-silverstripe-material U+f2add
 	},
 	["simulink"] = {
-		["material"] = "󲙀", -- colr-icons-simulink-material U+f2640
+		["material"] = "󲫞", -- colr-icons-simulink-material U+f2ade
 	},
 	["siyuan"] = {
-		["material"] = "󲙁", -- colr-icons-siyuan-material U+f2641
+		["material"] = "󲫟", -- colr-icons-siyuan-material U+f2adf
 	},
 	["sketch"] = {
-		["material"] = "󲙂", -- colr-icons-sketch-material U+f2642
-		["catpuccin-frappe"] = "󲙃", -- colr-icons-sketch-catpuccin-frappe U+f2643
-		["catpuccin-latte"] = "󲙄", -- colr-icons-sketch-catpuccin-latte U+f2644
-		["catpuccin-macchiato"] = "󲙅", -- colr-icons-sketch-catpuccin-macchiato U+f2645
-		["catpuccin-mocha"] = "󲙆", -- colr-icons-sketch-catpuccin-mocha U+f2646
+		["material"] = "󲫠", -- colr-icons-sketch-material U+f2ae0
+		["catpuccin-frappe"] = "󲫡", -- colr-icons-sketch-catpuccin-frappe U+f2ae1
+		["catpuccin-latte"] = "󲫢", -- colr-icons-sketch-catpuccin-latte U+f2ae2
+		["catpuccin-macchiato"] = "󲫣", -- colr-icons-sketch-catpuccin-macchiato U+f2ae3
+		["catpuccin-mocha"] = "󲫤", -- colr-icons-sketch-catpuccin-mocha U+f2ae4
 	},
 	["skill"] = {
-		["material"] = "󲙇", -- colr-icons-skill-material U+f2647
+		["material"] = "󲫥", -- colr-icons-skill-material U+f2ae5
 	},
 	["slidesk"] = {
-		["catpuccin-frappe"] = "󲙈", -- colr-icons-slidesk-catpuccin-frappe U+f2648
-		["catpuccin-latte"] = "󲙉", -- colr-icons-slidesk-catpuccin-latte U+f2649
-		["catpuccin-macchiato"] = "󲙊", -- colr-icons-slidesk-catpuccin-macchiato U+f264a
-		["catpuccin-mocha"] = "󲙋", -- colr-icons-slidesk-catpuccin-mocha U+f264b
+		["catpuccin-frappe"] = "󲫦", -- colr-icons-slidesk-catpuccin-frappe U+f2ae6
+		["catpuccin-latte"] = "󲫧", -- colr-icons-slidesk-catpuccin-latte U+f2ae7
+		["catpuccin-macchiato"] = "󲫨", -- colr-icons-slidesk-catpuccin-macchiato U+f2ae8
+		["catpuccin-mocha"] = "󲫩", -- colr-icons-slidesk-catpuccin-mocha U+f2ae9
 	},
 	["slim"] = {
-		["material"] = "󲙌", -- colr-icons-slim-material U+f264c
+		["material"] = "󲫪", -- colr-icons-slim-material U+f2aea
 	},
 	["slint"] = {
-		["material"] = "󲙍", -- colr-icons-slint-material U+f264d
+		["material"] = "󲫫", -- colr-icons-slint-material U+f2aeb
 	},
 	["slug"] = {
-		["material"] = "󲙎", -- colr-icons-slug-material U+f264e
+		["material"] = "󲫬", -- colr-icons-slug-material U+f2aec
 	},
 	["smarty"] = {
-		["material"] = "󲙏", -- colr-icons-smarty-material U+f264f
+		["material"] = "󲫭", -- colr-icons-smarty-material U+f2aed
 	},
 	["sml"] = {
-		["material"] = "󲙐", -- colr-icons-sml-material U+f2650
+		["material"] = "󲫮", -- colr-icons-sml-material U+f2aee
 	},
 	["snakemake"] = {
-		["material"] = "󲙑", -- colr-icons-snakemake-material U+f2651
+		["material"] = "󲫯", -- colr-icons-snakemake-material U+f2aef
 	},
 	["snapcraft"] = {
-		["material"] = "󲙒", -- colr-icons-snapcraft-material U+f2652
+		["material"] = "󲫰", -- colr-icons-snapcraft-material U+f2af0
 	},
 	["snowpack"] = {
-		["material"] = "󲙓", -- colr-icons-snowpack-material U+f2653
-		["catpuccin-frappe"] = "󲙔", -- colr-icons-snowpack-catpuccin-frappe U+f2654
-		["catpuccin-latte"] = "󲙕", -- colr-icons-snowpack-catpuccin-latte U+f2655
-		["catpuccin-macchiato"] = "󲙖", -- colr-icons-snowpack-catpuccin-macchiato U+f2656
-		["catpuccin-mocha"] = "󲙗", -- colr-icons-snowpack-catpuccin-mocha U+f2657
+		["material"] = "󲫱", -- colr-icons-snowpack-material U+f2af1
+		["catpuccin-frappe"] = "󲫲", -- colr-icons-snowpack-catpuccin-frappe U+f2af2
+		["catpuccin-latte"] = "󲫳", -- colr-icons-snowpack-catpuccin-latte U+f2af3
+		["catpuccin-macchiato"] = "󲫴", -- colr-icons-snowpack-catpuccin-macchiato U+f2af4
+		["catpuccin-mocha"] = "󲫵", -- colr-icons-snowpack-catpuccin-mocha U+f2af5
 	},
 	["snowpack_light"] = {
-		["material"] = "󲙘", -- colr-icons-snowpack_light-material U+f2658
+		["material"] = "󲫶", -- colr-icons-snowpack_light-material U+f2af6
 	},
 	["snyk"] = {
-		["material"] = "󲙙", -- colr-icons-snyk-material U+f2659
+		["material"] = "󲫷", -- colr-icons-snyk-material U+f2af7
 	},
 	["solid"] = {
-		["catpuccin-frappe"] = "󲙚", -- colr-icons-solid-catpuccin-frappe U+f265a
-		["catpuccin-latte"] = "󲙛", -- colr-icons-solid-catpuccin-latte U+f265b
-		["catpuccin-macchiato"] = "󲙜", -- colr-icons-solid-catpuccin-macchiato U+f265c
-		["catpuccin-mocha"] = "󲙝", -- colr-icons-solid-catpuccin-mocha U+f265d
+		["catpuccin-frappe"] = "󲫸", -- colr-icons-solid-catpuccin-frappe U+f2af8
+		["catpuccin-latte"] = "󲫹", -- colr-icons-solid-catpuccin-latte U+f2af9
+		["catpuccin-macchiato"] = "󲫺", -- colr-icons-solid-catpuccin-macchiato U+f2afa
+		["catpuccin-mocha"] = "󲫻", -- colr-icons-solid-catpuccin-mocha U+f2afb
 	},
 	["solidity"] = {
-		["material"] = "󲙞", -- colr-icons-solidity-material U+f265e
-		["catpuccin-frappe"] = "󲙟", -- colr-icons-solidity-catpuccin-frappe U+f265f
-		["catpuccin-latte"] = "󲙠", -- colr-icons-solidity-catpuccin-latte U+f2660
-		["catpuccin-macchiato"] = "󲙡", -- colr-icons-solidity-catpuccin-macchiato U+f2661
-		["catpuccin-mocha"] = "󲙢", -- colr-icons-solidity-catpuccin-mocha U+f2662
+		["material"] = "󲫼", -- colr-icons-solidity-material U+f2afc
+		["catpuccin-frappe"] = "󲫽", -- colr-icons-solidity-catpuccin-frappe U+f2afd
+		["catpuccin-latte"] = "󲫾", -- colr-icons-solidity-catpuccin-latte U+f2afe
+		["catpuccin-macchiato"] = "󲫿", -- colr-icons-solidity-catpuccin-macchiato U+f2aff
+		["catpuccin-mocha"] = "󲬀", -- colr-icons-solidity-catpuccin-mocha U+f2b00
 	},
 	["sonar-cloud"] = {
-		["catpuccin-frappe"] = "󲙣", -- colr-icons-sonar-cloud-catpuccin-frappe U+f2663
-		["catpuccin-latte"] = "󲙤", -- colr-icons-sonar-cloud-catpuccin-latte U+f2664
-		["catpuccin-macchiato"] = "󲙥", -- colr-icons-sonar-cloud-catpuccin-macchiato U+f2665
-		["catpuccin-mocha"] = "󲙦", -- colr-icons-sonar-cloud-catpuccin-mocha U+f2666
+		["catpuccin-frappe"] = "󲬁", -- colr-icons-sonar-cloud-catpuccin-frappe U+f2b01
+		["catpuccin-latte"] = "󲬂", -- colr-icons-sonar-cloud-catpuccin-latte U+f2b02
+		["catpuccin-macchiato"] = "󲬃", -- colr-icons-sonar-cloud-catpuccin-macchiato U+f2b03
+		["catpuccin-mocha"] = "󲬄", -- colr-icons-sonar-cloud-catpuccin-mocha U+f2b04
 	},
 	["sonarcloud"] = {
-		["material"] = "󲙧", -- colr-icons-sonarcloud-material U+f2667
+		["material"] = "󲬅", -- colr-icons-sonarcloud-material U+f2b05
 	},
 	["spwn"] = {
-		["material"] = "󲙨", -- colr-icons-spwn-material U+f2668
-		["catpuccin-frappe"] = "󲙩", -- colr-icons-spwn-catpuccin-frappe U+f2669
-		["catpuccin-latte"] = "󲙪", -- colr-icons-spwn-catpuccin-latte U+f266a
-		["catpuccin-macchiato"] = "󲙫", -- colr-icons-spwn-catpuccin-macchiato U+f266b
-		["catpuccin-mocha"] = "󲙬", -- colr-icons-spwn-catpuccin-mocha U+f266c
+		["material"] = "󲬆", -- colr-icons-spwn-material U+f2b06
+		["catpuccin-frappe"] = "󲬇", -- colr-icons-spwn-catpuccin-frappe U+f2b07
+		["catpuccin-latte"] = "󲬈", -- colr-icons-spwn-catpuccin-latte U+f2b08
+		["catpuccin-macchiato"] = "󲬉", -- colr-icons-spwn-catpuccin-macchiato U+f2b09
+		["catpuccin-mocha"] = "󲬊", -- colr-icons-spwn-catpuccin-mocha U+f2b0a
 	},
 	["squirrel"] = {
-		["catpuccin-frappe"] = "󲙭", -- colr-icons-squirrel-catpuccin-frappe U+f266d
-		["catpuccin-latte"] = "󲙮", -- colr-icons-squirrel-catpuccin-latte U+f266e
-		["catpuccin-macchiato"] = "󲙯", -- colr-icons-squirrel-catpuccin-macchiato U+f266f
-		["catpuccin-mocha"] = "󲙰", -- colr-icons-squirrel-catpuccin-mocha U+f2670
+		["catpuccin-frappe"] = "󲬋", -- colr-icons-squirrel-catpuccin-frappe U+f2b0b
+		["catpuccin-latte"] = "󲬌", -- colr-icons-squirrel-catpuccin-latte U+f2b0c
+		["catpuccin-macchiato"] = "󲬍", -- colr-icons-squirrel-catpuccin-macchiato U+f2b0d
+		["catpuccin-mocha"] = "󲬎", -- colr-icons-squirrel-catpuccin-mocha U+f2b0e
 	},
 	["stackblitz"] = {
-		["material"] = "󲙱", -- colr-icons-stackblitz-material U+f2671
-		["catpuccin-frappe"] = "󲙲", -- colr-icons-stackblitz-catpuccin-frappe U+f2672
-		["catpuccin-latte"] = "󲙳", -- colr-icons-stackblitz-catpuccin-latte U+f2673
-		["catpuccin-macchiato"] = "󲙴", -- colr-icons-stackblitz-catpuccin-macchiato U+f2674
-		["catpuccin-mocha"] = "󲙵", -- colr-icons-stackblitz-catpuccin-mocha U+f2675
+		["material"] = "󲬏", -- colr-icons-stackblitz-material U+f2b0f
+		["catpuccin-frappe"] = "󲬐", -- colr-icons-stackblitz-catpuccin-frappe U+f2b10
+		["catpuccin-latte"] = "󲬑", -- colr-icons-stackblitz-catpuccin-latte U+f2b11
+		["catpuccin-macchiato"] = "󲬒", -- colr-icons-stackblitz-catpuccin-macchiato U+f2b12
+		["catpuccin-mocha"] = "󲬓", -- colr-icons-stackblitz-catpuccin-mocha U+f2b13
 	},
 	["stan"] = {
-		["material"] = "󲙶", -- colr-icons-stan-material U+f2676
+		["material"] = "󲬔", -- colr-icons-stan-material U+f2b14
 	},
 	["stata"] = {
-		["catpuccin-frappe"] = "󲙷", -- colr-icons-stata-catpuccin-frappe U+f2677
-		["catpuccin-latte"] = "󲙸", -- colr-icons-stata-catpuccin-latte U+f2678
-		["catpuccin-macchiato"] = "󲙹", -- colr-icons-stata-catpuccin-macchiato U+f2679
-		["catpuccin-mocha"] = "󲙺", -- colr-icons-stata-catpuccin-mocha U+f267a
+		["catpuccin-frappe"] = "󲬕", -- colr-icons-stata-catpuccin-frappe U+f2b15
+		["catpuccin-latte"] = "󲬖", -- colr-icons-stata-catpuccin-latte U+f2b16
+		["catpuccin-macchiato"] = "󲬗", -- colr-icons-stata-catpuccin-macchiato U+f2b17
+		["catpuccin-mocha"] = "󲬘", -- colr-icons-stata-catpuccin-mocha U+f2b18
 	},
 	["steadybit"] = {
-		["material"] = "󲙻", -- colr-icons-steadybit-material U+f267b
+		["material"] = "󲬙", -- colr-icons-steadybit-material U+f2b19
 	},
 	["stencil"] = {
-		["material"] = "󲙼", -- colr-icons-stencil-material U+f267c
-		["catpuccin-frappe"] = "󲙽", -- colr-icons-stencil-catpuccin-frappe U+f267d
-		["catpuccin-latte"] = "󲙾", -- colr-icons-stencil-catpuccin-latte U+f267e
-		["catpuccin-macchiato"] = "󲙿", -- colr-icons-stencil-catpuccin-macchiato U+f267f
-		["catpuccin-mocha"] = "󲚀", -- colr-icons-stencil-catpuccin-mocha U+f2680
+		["material"] = "󲬚", -- colr-icons-stencil-material U+f2b1a
+		["catpuccin-frappe"] = "󲬛", -- colr-icons-stencil-catpuccin-frappe U+f2b1b
+		["catpuccin-latte"] = "󲬜", -- colr-icons-stencil-catpuccin-latte U+f2b1c
+		["catpuccin-macchiato"] = "󲬝", -- colr-icons-stencil-catpuccin-macchiato U+f2b1d
+		["catpuccin-mocha"] = "󲬞", -- colr-icons-stencil-catpuccin-mocha U+f2b1e
 	},
 	["stitches"] = {
-		["material"] = "󲚁", -- colr-icons-stitches-material U+f2681
-		["catpuccin-frappe"] = "󲚂", -- colr-icons-stitches-catpuccin-frappe U+f2682
-		["catpuccin-latte"] = "󲚃", -- colr-icons-stitches-catpuccin-latte U+f2683
-		["catpuccin-macchiato"] = "󲚄", -- colr-icons-stitches-catpuccin-macchiato U+f2684
-		["catpuccin-mocha"] = "󲚅", -- colr-icons-stitches-catpuccin-mocha U+f2685
+		["material"] = "󲬟", -- colr-icons-stitches-material U+f2b1f
+		["catpuccin-frappe"] = "󲬠", -- colr-icons-stitches-catpuccin-frappe U+f2b20
+		["catpuccin-latte"] = "󲬡", -- colr-icons-stitches-catpuccin-latte U+f2b21
+		["catpuccin-macchiato"] = "󲬢", -- colr-icons-stitches-catpuccin-macchiato U+f2b22
+		["catpuccin-mocha"] = "󲬣", -- colr-icons-stitches-catpuccin-mocha U+f2b23
 	},
 	["stitches_light"] = {
-		["material"] = "󲚆", -- colr-icons-stitches_light-material U+f2686
+		["material"] = "󲬤", -- colr-icons-stitches_light-material U+f2b24
 	},
 	["storybook"] = {
-		["material"] = "󲚇", -- colr-icons-storybook-material U+f2687
-		["catpuccin-frappe"] = "󲚈", -- colr-icons-storybook-catpuccin-frappe U+f2688
-		["catpuccin-latte"] = "󲚉", -- colr-icons-storybook-catpuccin-latte U+f2689
-		["catpuccin-macchiato"] = "󲚊", -- colr-icons-storybook-catpuccin-macchiato U+f268a
-		["catpuccin-mocha"] = "󲚋", -- colr-icons-storybook-catpuccin-mocha U+f268b
+		["material"] = "󲬥", -- colr-icons-storybook-material U+f2b25
+		["catpuccin-frappe"] = "󲬦", -- colr-icons-storybook-catpuccin-frappe U+f2b26
+		["catpuccin-latte"] = "󲬧", -- colr-icons-storybook-catpuccin-latte U+f2b27
+		["catpuccin-macchiato"] = "󲬨", -- colr-icons-storybook-catpuccin-macchiato U+f2b28
+		["catpuccin-mocha"] = "󲬩", -- colr-icons-storybook-catpuccin-mocha U+f2b29
 	},
 	["storybook-svelte"] = {
-		["catpuccin-frappe"] = "󲚌", -- colr-icons-storybook-svelte-catpuccin-frappe U+f268c
-		["catpuccin-latte"] = "󲚍", -- colr-icons-storybook-svelte-catpuccin-latte U+f268d
-		["catpuccin-macchiato"] = "󲚎", -- colr-icons-storybook-svelte-catpuccin-macchiato U+f268e
-		["catpuccin-mocha"] = "󲚏", -- colr-icons-storybook-svelte-catpuccin-mocha U+f268f
+		["catpuccin-frappe"] = "󲬪", -- colr-icons-storybook-svelte-catpuccin-frappe U+f2b2a
+		["catpuccin-latte"] = "󲬫", -- colr-icons-storybook-svelte-catpuccin-latte U+f2b2b
+		["catpuccin-macchiato"] = "󲬬", -- colr-icons-storybook-svelte-catpuccin-macchiato U+f2b2c
+		["catpuccin-mocha"] = "󲬭", -- colr-icons-storybook-svelte-catpuccin-mocha U+f2b2d
 	},
 	["storybook-vue"] = {
-		["catpuccin-frappe"] = "󲚐", -- colr-icons-storybook-vue-catpuccin-frappe U+f2690
-		["catpuccin-latte"] = "󲚑", -- colr-icons-storybook-vue-catpuccin-latte U+f2691
-		["catpuccin-macchiato"] = "󲚒", -- colr-icons-storybook-vue-catpuccin-macchiato U+f2692
-		["catpuccin-mocha"] = "󲚓", -- colr-icons-storybook-vue-catpuccin-mocha U+f2693
+		["catpuccin-frappe"] = "󲬮", -- colr-icons-storybook-vue-catpuccin-frappe U+f2b2e
+		["catpuccin-latte"] = "󲬯", -- colr-icons-storybook-vue-catpuccin-latte U+f2b2f
+		["catpuccin-macchiato"] = "󲬰", -- colr-icons-storybook-vue-catpuccin-macchiato U+f2b30
+		["catpuccin-mocha"] = "󲬱", -- colr-icons-storybook-vue-catpuccin-mocha U+f2b31
 	},
 	["stryker"] = {
-		["material"] = "󲚔", -- colr-icons-stryker-material U+f2694
+		["material"] = "󲬲", -- colr-icons-stryker-material U+f2b32
 	},
 	["stylable"] = {
-		["material"] = "󲚕", -- colr-icons-stylable-material U+f2695
+		["material"] = "󲬳", -- colr-icons-stylable-material U+f2b33
 	},
 	["stylelint"] = {
-		["material"] = "󲚖", -- colr-icons-stylelint-material U+f2696
-		["catpuccin-frappe"] = "󲚗", -- colr-icons-stylelint-catpuccin-frappe U+f2697
-		["catpuccin-latte"] = "󲚘", -- colr-icons-stylelint-catpuccin-latte U+f2698
-		["catpuccin-macchiato"] = "󲚙", -- colr-icons-stylelint-catpuccin-macchiato U+f2699
-		["catpuccin-mocha"] = "󲚚", -- colr-icons-stylelint-catpuccin-mocha U+f269a
+		["material"] = "󲬴", -- colr-icons-stylelint-material U+f2b34
+		["catpuccin-frappe"] = "󲬵", -- colr-icons-stylelint-catpuccin-frappe U+f2b35
+		["catpuccin-latte"] = "󲬶", -- colr-icons-stylelint-catpuccin-latte U+f2b36
+		["catpuccin-macchiato"] = "󲬷", -- colr-icons-stylelint-catpuccin-macchiato U+f2b37
+		["catpuccin-mocha"] = "󲬸", -- colr-icons-stylelint-catpuccin-mocha U+f2b38
 	},
 	["stylelint-ignore"] = {
-		["catpuccin-frappe"] = "󲚛", -- colr-icons-stylelint-ignore-catpuccin-frappe U+f269b
-		["catpuccin-latte"] = "󲚜", -- colr-icons-stylelint-ignore-catpuccin-latte U+f269c
-		["catpuccin-macchiato"] = "󲚝", -- colr-icons-stylelint-ignore-catpuccin-macchiato U+f269d
-		["catpuccin-mocha"] = "󲚞", -- colr-icons-stylelint-ignore-catpuccin-mocha U+f269e
+		["catpuccin-frappe"] = "󲬹", -- colr-icons-stylelint-ignore-catpuccin-frappe U+f2b39
+		["catpuccin-latte"] = "󲬺", -- colr-icons-stylelint-ignore-catpuccin-latte U+f2b3a
+		["catpuccin-macchiato"] = "󲬻", -- colr-icons-stylelint-ignore-catpuccin-macchiato U+f2b3b
+		["catpuccin-mocha"] = "󲬼", -- colr-icons-stylelint-ignore-catpuccin-mocha U+f2b3c
 	},
 	["stylelint_light"] = {
-		["material"] = "󲚟", -- colr-icons-stylelint_light-material U+f269f
+		["material"] = "󲬽", -- colr-icons-stylelint_light-material U+f2b3d
 	},
 	["stylua"] = {
-		["catpuccin-frappe"] = "󲚠", -- colr-icons-stylua-catpuccin-frappe U+f26a0
-		["catpuccin-latte"] = "󲚡", -- colr-icons-stylua-catpuccin-latte U+f26a1
-		["catpuccin-macchiato"] = "󲚢", -- colr-icons-stylua-catpuccin-macchiato U+f26a2
-		["catpuccin-mocha"] = "󲚣", -- colr-icons-stylua-catpuccin-mocha U+f26a3
+		["catpuccin-frappe"] = "󲬾", -- colr-icons-stylua-catpuccin-frappe U+f2b3e
+		["catpuccin-latte"] = "󲬿", -- colr-icons-stylua-catpuccin-latte U+f2b3f
+		["catpuccin-macchiato"] = "󲭀", -- colr-icons-stylua-catpuccin-macchiato U+f2b40
+		["catpuccin-mocha"] = "󲭁", -- colr-icons-stylua-catpuccin-mocha U+f2b41
 	},
 	["stylua-ignore"] = {
-		["catpuccin-frappe"] = "󲚤", -- colr-icons-stylua-ignore-catpuccin-frappe U+f26a4
-		["catpuccin-latte"] = "󲚥", -- colr-icons-stylua-ignore-catpuccin-latte U+f26a5
-		["catpuccin-macchiato"] = "󲚦", -- colr-icons-stylua-ignore-catpuccin-macchiato U+f26a6
-		["catpuccin-mocha"] = "󲚧", -- colr-icons-stylua-ignore-catpuccin-mocha U+f26a7
+		["catpuccin-frappe"] = "󲭂", -- colr-icons-stylua-ignore-catpuccin-frappe U+f2b42
+		["catpuccin-latte"] = "󲭃", -- colr-icons-stylua-ignore-catpuccin-latte U+f2b43
+		["catpuccin-macchiato"] = "󲭄", -- colr-icons-stylua-ignore-catpuccin-macchiato U+f2b44
+		["catpuccin-mocha"] = "󲭅", -- colr-icons-stylua-ignore-catpuccin-mocha U+f2b45
 	},
 	["stylus"] = {
-		["material"] = "󲚨", -- colr-icons-stylus-material U+f26a8
+		["material"] = "󲭆", -- colr-icons-stylus-material U+f2b46
 	},
 	["sublime"] = {
-		["material"] = "󲚩", -- colr-icons-sublime-material U+f26a9
-		["catpuccin-frappe"] = "󲚪", -- colr-icons-sublime-catpuccin-frappe U+f26aa
-		["catpuccin-latte"] = "󲚫", -- colr-icons-sublime-catpuccin-latte U+f26ab
-		["catpuccin-macchiato"] = "󲚬", -- colr-icons-sublime-catpuccin-macchiato U+f26ac
-		["catpuccin-mocha"] = "󲚭", -- colr-icons-sublime-catpuccin-mocha U+f26ad
+		["material"] = "󲭇", -- colr-icons-sublime-material U+f2b47
+		["catpuccin-frappe"] = "󲭈", -- colr-icons-sublime-catpuccin-frappe U+f2b48
+		["catpuccin-latte"] = "󲭉", -- colr-icons-sublime-catpuccin-latte U+f2b49
+		["catpuccin-macchiato"] = "󲭊", -- colr-icons-sublime-catpuccin-macchiato U+f2b4a
+		["catpuccin-mocha"] = "󲭋", -- colr-icons-sublime-catpuccin-mocha U+f2b4b
 	},
 	["subtitles"] = {
-		["material"] = "󲚮", -- colr-icons-subtitles-material U+f26ae
+		["material"] = "󲭌", -- colr-icons-subtitles-material U+f2b4c
 	},
 	["supabase"] = {
-		["material"] = "󲚯", -- colr-icons-supabase-material U+f26af
+		["material"] = "󲭍", -- colr-icons-supabase-material U+f2b4d
 	},
 	["super-collider"] = {
-		["catpuccin-frappe"] = "󲚰", -- colr-icons-super-collider-catpuccin-frappe U+f26b0
-		["catpuccin-latte"] = "󲚱", -- colr-icons-super-collider-catpuccin-latte U+f26b1
-		["catpuccin-macchiato"] = "󲚲", -- colr-icons-super-collider-catpuccin-macchiato U+f26b2
-		["catpuccin-mocha"] = "󲚳", -- colr-icons-super-collider-catpuccin-mocha U+f26b3
+		["catpuccin-frappe"] = "󲭎", -- colr-icons-super-collider-catpuccin-frappe U+f2b4e
+		["catpuccin-latte"] = "󲭏", -- colr-icons-super-collider-catpuccin-latte U+f2b4f
+		["catpuccin-macchiato"] = "󲭐", -- colr-icons-super-collider-catpuccin-macchiato U+f2b50
+		["catpuccin-mocha"] = "󲭑", -- colr-icons-super-collider-catpuccin-mocha U+f2b51
 	},
 	["svelte"] = {
-		["material"] = "󲚴", -- colr-icons-svelte-material U+f26b4
-		["catpuccin-frappe"] = "󲚵", -- colr-icons-svelte-catpuccin-frappe U+f26b5
-		["catpuccin-latte"] = "󲚶", -- colr-icons-svelte-catpuccin-latte U+f26b6
-		["catpuccin-macchiato"] = "󲚷", -- colr-icons-svelte-catpuccin-macchiato U+f26b7
-		["catpuccin-mocha"] = "󲚸", -- colr-icons-svelte-catpuccin-mocha U+f26b8
+		["material"] = "󲭒", -- colr-icons-svelte-material U+f2b52
+		["catpuccin-frappe"] = "󲭓", -- colr-icons-svelte-catpuccin-frappe U+f2b53
+		["catpuccin-latte"] = "󲭔", -- colr-icons-svelte-catpuccin-latte U+f2b54
+		["catpuccin-macchiato"] = "󲭕", -- colr-icons-svelte-catpuccin-macchiato U+f2b55
+		["catpuccin-mocha"] = "󲭖", -- colr-icons-svelte-catpuccin-mocha U+f2b56
 	},
 	["svelte-config"] = {
-		["catpuccin-frappe"] = "󲚹", -- colr-icons-svelte-config-catpuccin-frappe U+f26b9
-		["catpuccin-latte"] = "󲚺", -- colr-icons-svelte-config-catpuccin-latte U+f26ba
-		["catpuccin-macchiato"] = "󲚻", -- colr-icons-svelte-config-catpuccin-macchiato U+f26bb
-		["catpuccin-mocha"] = "󲚼", -- colr-icons-svelte-config-catpuccin-mocha U+f26bc
+		["catpuccin-frappe"] = "󲭗", -- colr-icons-svelte-config-catpuccin-frappe U+f2b57
+		["catpuccin-latte"] = "󲭘", -- colr-icons-svelte-config-catpuccin-latte U+f2b58
+		["catpuccin-macchiato"] = "󲭙", -- colr-icons-svelte-config-catpuccin-macchiato U+f2b59
+		["catpuccin-mocha"] = "󲭚", -- colr-icons-svelte-config-catpuccin-mocha U+f2b5a
 	},
 	["svg"] = {
-		["material"] = "󲚽", -- colr-icons-svg-material U+f26bd
-		["catpuccin-frappe"] = "󲚾", -- colr-icons-svg-catpuccin-frappe U+f26be
-		["catpuccin-latte"] = "󲚿", -- colr-icons-svg-catpuccin-latte U+f26bf
-		["catpuccin-macchiato"] = "󲛀", -- colr-icons-svg-catpuccin-macchiato U+f26c0
-		["catpuccin-mocha"] = "󲛁", -- colr-icons-svg-catpuccin-mocha U+f26c1
+		["material"] = "󲭛", -- colr-icons-svg-material U+f2b5b
+		["catpuccin-frappe"] = "󲭜", -- colr-icons-svg-catpuccin-frappe U+f2b5c
+		["catpuccin-latte"] = "󲭝", -- colr-icons-svg-catpuccin-latte U+f2b5d
+		["catpuccin-macchiato"] = "󲭞", -- colr-icons-svg-catpuccin-macchiato U+f2b5e
+		["catpuccin-mocha"] = "󲭟", -- colr-icons-svg-catpuccin-mocha U+f2b5f
 	},
 	["svgo"] = {
-		["material"] = "󲛂", -- colr-icons-svgo-material U+f26c2
+		["material"] = "󲭠", -- colr-icons-svgo-material U+f2b60
 	},
 	["svgr"] = {
-		["material"] = "󲛃", -- colr-icons-svgr-material U+f26c3
+		["material"] = "󲭡", -- colr-icons-svgr-material U+f2b61
 	},
 	["swagger"] = {
-		["material"] = "󲛄", -- colr-icons-swagger-material U+f26c4
+		["material"] = "󲭢", -- colr-icons-swagger-material U+f2b62
 	},
 	["sway"] = {
-		["material"] = "󲛅", -- colr-icons-sway-material U+f26c5
+		["material"] = "󲭣", -- colr-icons-sway-material U+f2b63
 	},
 	["swc"] = {
-		["material"] = "󲛆", -- colr-icons-swc-material U+f26c6
+		["material"] = "󲭤", -- colr-icons-swc-material U+f2b64
 	},
 	["swift"] = {
-		["material"] = "󲛇", -- colr-icons-swift-material U+f26c7
-		["catpuccin-frappe"] = "󲛈", -- colr-icons-swift-catpuccin-frappe U+f26c8
-		["catpuccin-latte"] = "󲛉", -- colr-icons-swift-catpuccin-latte U+f26c9
-		["catpuccin-macchiato"] = "󲛊", -- colr-icons-swift-catpuccin-macchiato U+f26ca
-		["catpuccin-mocha"] = "󲛋", -- colr-icons-swift-catpuccin-mocha U+f26cb
+		["material"] = "󲭥", -- colr-icons-swift-material U+f2b65
+		["catpuccin-frappe"] = "󲭦", -- colr-icons-swift-catpuccin-frappe U+f2b66
+		["catpuccin-latte"] = "󲭧", -- colr-icons-swift-catpuccin-latte U+f2b67
+		["catpuccin-macchiato"] = "󲭨", -- colr-icons-swift-catpuccin-macchiato U+f2b68
+		["catpuccin-mocha"] = "󲭩", -- colr-icons-swift-catpuccin-mocha U+f2b69
 	},
 	["swiftformat"] = {
-		["catpuccin-frappe"] = "󲛌", -- colr-icons-swiftformat-catpuccin-frappe U+f26cc
-		["catpuccin-latte"] = "󲛍", -- colr-icons-swiftformat-catpuccin-latte U+f26cd
-		["catpuccin-macchiato"] = "󲛎", -- colr-icons-swiftformat-catpuccin-macchiato U+f26ce
-		["catpuccin-mocha"] = "󲛏", -- colr-icons-swiftformat-catpuccin-mocha U+f26cf
+		["catpuccin-frappe"] = "󲭪", -- colr-icons-swiftformat-catpuccin-frappe U+f2b6a
+		["catpuccin-latte"] = "󲭫", -- colr-icons-swiftformat-catpuccin-latte U+f2b6b
+		["catpuccin-macchiato"] = "󲭬", -- colr-icons-swiftformat-catpuccin-macchiato U+f2b6c
+		["catpuccin-mocha"] = "󲭭", -- colr-icons-swiftformat-catpuccin-mocha U+f2b6d
 	},
 	["symlink"] = {
-		["catpuccin-frappe"] = "󲛐", -- colr-icons-symlink-catpuccin-frappe U+f26d0
-		["catpuccin-latte"] = "󲛑", -- colr-icons-symlink-catpuccin-latte U+f26d1
-		["catpuccin-macchiato"] = "󲛒", -- colr-icons-symlink-catpuccin-macchiato U+f26d2
-		["catpuccin-mocha"] = "󲛓", -- colr-icons-symlink-catpuccin-mocha U+f26d3
+		["catpuccin-frappe"] = "󲭮", -- colr-icons-symlink-catpuccin-frappe U+f2b6e
+		["catpuccin-latte"] = "󲭯", -- colr-icons-symlink-catpuccin-latte U+f2b6f
+		["catpuccin-macchiato"] = "󲭰", -- colr-icons-symlink-catpuccin-macchiato U+f2b70
+		["catpuccin-mocha"] = "󲭱", -- colr-icons-symlink-catpuccin-mocha U+f2b71
 	},
 	["syncpack"] = {
-		["material"] = "󲛔", -- colr-icons-syncpack-material U+f26d4
+		["material"] = "󲭲", -- colr-icons-syncpack-material U+f2b72
 	},
 	["systemd"] = {
-		["material"] = "󲛕", -- colr-icons-systemd-material U+f26d5
+		["material"] = "󲭳", -- colr-icons-systemd-material U+f2b73
 	},
 	["systemd_light"] = {
-		["material"] = "󲛖", -- colr-icons-systemd_light-material U+f26d6
+		["material"] = "󲭴", -- colr-icons-systemd_light-material U+f2b74
 	},
 	["table"] = {
-		["material"] = "󲛗", -- colr-icons-table-material U+f26d7
+		["material"] = "󲭵", -- colr-icons-table-material U+f2b75
 	},
 	["tailwind"] = {
-		["catpuccin-frappe"] = "󲛘", -- colr-icons-tailwind-catpuccin-frappe U+f26d8
-		["catpuccin-latte"] = "󲛙", -- colr-icons-tailwind-catpuccin-latte U+f26d9
-		["catpuccin-macchiato"] = "󲛚", -- colr-icons-tailwind-catpuccin-macchiato U+f26da
-		["catpuccin-mocha"] = "󲛛", -- colr-icons-tailwind-catpuccin-mocha U+f26db
+		["catpuccin-frappe"] = "󲭶", -- colr-icons-tailwind-catpuccin-frappe U+f2b76
+		["catpuccin-latte"] = "󲭷", -- colr-icons-tailwind-catpuccin-latte U+f2b77
+		["catpuccin-macchiato"] = "󲭸", -- colr-icons-tailwind-catpuccin-macchiato U+f2b78
+		["catpuccin-mocha"] = "󲭹", -- colr-icons-tailwind-catpuccin-mocha U+f2b79
 	},
 	["tailwindcss"] = {
-		["material"] = "󲛜", -- colr-icons-tailwindcss-material U+f26dc
+		["material"] = "󲭺", -- colr-icons-tailwindcss-material U+f2b7a
 	},
 	["taskfile"] = {
-		["material"] = "󲛝", -- colr-icons-taskfile-material U+f26dd
-		["catpuccin-frappe"] = "󲛞", -- colr-icons-taskfile-catpuccin-frappe U+f26de
-		["catpuccin-latte"] = "󲛟", -- colr-icons-taskfile-catpuccin-latte U+f26df
-		["catpuccin-macchiato"] = "󲛠", -- colr-icons-taskfile-catpuccin-macchiato U+f26e0
-		["catpuccin-mocha"] = "󲛡", -- colr-icons-taskfile-catpuccin-mocha U+f26e1
+		["material"] = "󲭻", -- colr-icons-taskfile-material U+f2b7b
+		["catpuccin-frappe"] = "󲭼", -- colr-icons-taskfile-catpuccin-frappe U+f2b7c
+		["catpuccin-latte"] = "󲭽", -- colr-icons-taskfile-catpuccin-latte U+f2b7d
+		["catpuccin-macchiato"] = "󲭾", -- colr-icons-taskfile-catpuccin-macchiato U+f2b7e
+		["catpuccin-mocha"] = "󲭿", -- colr-icons-taskfile-catpuccin-mocha U+f2b7f
 	},
 	["tauri"] = {
-		["material"] = "󲛢", -- colr-icons-tauri-material U+f26e2
-		["catpuccin-frappe"] = "󲛣", -- colr-icons-tauri-catpuccin-frappe U+f26e3
-		["catpuccin-latte"] = "󲛤", -- colr-icons-tauri-catpuccin-latte U+f26e4
-		["catpuccin-macchiato"] = "󲛥", -- colr-icons-tauri-catpuccin-macchiato U+f26e5
-		["catpuccin-mocha"] = "󲛦", -- colr-icons-tauri-catpuccin-mocha U+f26e6
+		["material"] = "󲮀", -- colr-icons-tauri-material U+f2b80
+		["catpuccin-frappe"] = "󲮁", -- colr-icons-tauri-catpuccin-frappe U+f2b81
+		["catpuccin-latte"] = "󲮂", -- colr-icons-tauri-catpuccin-latte U+f2b82
+		["catpuccin-macchiato"] = "󲮃", -- colr-icons-tauri-catpuccin-macchiato U+f2b83
+		["catpuccin-mocha"] = "󲮄", -- colr-icons-tauri-catpuccin-mocha U+f2b84
 	},
 	["tauri-ignore"] = {
-		["catpuccin-frappe"] = "󲛧", -- colr-icons-tauri-ignore-catpuccin-frappe U+f26e7
-		["catpuccin-latte"] = "󲛨", -- colr-icons-tauri-ignore-catpuccin-latte U+f26e8
-		["catpuccin-macchiato"] = "󲛩", -- colr-icons-tauri-ignore-catpuccin-macchiato U+f26e9
-		["catpuccin-mocha"] = "󲛪", -- colr-icons-tauri-ignore-catpuccin-mocha U+f26ea
+		["catpuccin-frappe"] = "󲮅", -- colr-icons-tauri-ignore-catpuccin-frappe U+f2b85
+		["catpuccin-latte"] = "󲮆", -- colr-icons-tauri-ignore-catpuccin-latte U+f2b86
+		["catpuccin-macchiato"] = "󲮇", -- colr-icons-tauri-ignore-catpuccin-macchiato U+f2b87
+		["catpuccin-mocha"] = "󲮈", -- colr-icons-tauri-ignore-catpuccin-mocha U+f2b88
 	},
 	["taze"] = {
-		["material"] = "󲛫", -- colr-icons-taze-material U+f26eb
+		["material"] = "󲮉", -- colr-icons-taze-material U+f2b89
 	},
 	["tcl"] = {
-		["material"] = "󲛬", -- colr-icons-tcl-material U+f26ec
+		["material"] = "󲮊", -- colr-icons-tcl-material U+f2b8a
 	},
 	["teal"] = {
-		["material"] = "󲛭", -- colr-icons-teal-material U+f26ed
+		["material"] = "󲮋", -- colr-icons-teal-material U+f2b8b
 	},
 	["templ"] = {
-		["material"] = "󲛮", -- colr-icons-templ-material U+f26ee
+		["material"] = "󲮌", -- colr-icons-templ-material U+f2b8c
 	},
 	["template"] = {
-		["material"] = "󲛯", -- colr-icons-template-material U+f26ef
+		["material"] = "󲮍", -- colr-icons-template-material U+f2b8d
 	},
 	["terraform"] = {
-		["material"] = "󲛰", -- colr-icons-terraform-material U+f26f0
-		["catpuccin-frappe"] = "󲛱", -- colr-icons-terraform-catpuccin-frappe U+f26f1
-		["catpuccin-latte"] = "󲛲", -- colr-icons-terraform-catpuccin-latte U+f26f2
-		["catpuccin-macchiato"] = "󲛳", -- colr-icons-terraform-catpuccin-macchiato U+f26f3
-		["catpuccin-mocha"] = "󲛴", -- colr-icons-terraform-catpuccin-mocha U+f26f4
+		["material"] = "󲮎", -- colr-icons-terraform-material U+f2b8e
+		["catpuccin-frappe"] = "󲮏", -- colr-icons-terraform-catpuccin-frappe U+f2b8f
+		["catpuccin-latte"] = "󲮐", -- colr-icons-terraform-catpuccin-latte U+f2b90
+		["catpuccin-macchiato"] = "󲮑", -- colr-icons-terraform-catpuccin-macchiato U+f2b91
+		["catpuccin-mocha"] = "󲮒", -- colr-icons-terraform-catpuccin-mocha U+f2b92
 	},
 	["test-js"] = {
-		["material"] = "󲛵", -- colr-icons-test-js-material U+f26f5
+		["material"] = "󲮓", -- colr-icons-test-js-material U+f2b93
 	},
 	["test-jsx"] = {
-		["material"] = "󲛶", -- colr-icons-test-jsx-material U+f26f6
+		["material"] = "󲮔", -- colr-icons-test-jsx-material U+f2b94
 	},
 	["test-ts"] = {
-		["material"] = "󲛷", -- colr-icons-test-ts-material U+f26f7
+		["material"] = "󲮕", -- colr-icons-test-ts-material U+f2b95
 	},
 	["tex"] = {
-		["material"] = "󲛸", -- colr-icons-tex-material U+f26f8
+		["material"] = "󲮖", -- colr-icons-tex-material U+f2b96
 	},
 	["text"] = {
-		["catpuccin-frappe"] = "󲛹", -- colr-icons-text-catpuccin-frappe U+f26f9
-		["catpuccin-latte"] = "󲛺", -- colr-icons-text-catpuccin-latte U+f26fa
-		["catpuccin-macchiato"] = "󲛻", -- colr-icons-text-catpuccin-macchiato U+f26fb
-		["catpuccin-mocha"] = "󲛼", -- colr-icons-text-catpuccin-mocha U+f26fc
+		["catpuccin-frappe"] = "󲮗", -- colr-icons-text-catpuccin-frappe U+f2b97
+		["catpuccin-latte"] = "󲮘", -- colr-icons-text-catpuccin-latte U+f2b98
+		["catpuccin-macchiato"] = "󲮙", -- colr-icons-text-catpuccin-macchiato U+f2b99
+		["catpuccin-mocha"] = "󲮚", -- colr-icons-text-catpuccin-mocha U+f2b9a
 	},
 	["textlint"] = {
-		["material"] = "󲛽", -- colr-icons-textlint-material U+f26fd
+		["material"] = "󲮛", -- colr-icons-textlint-material U+f2b9b
 	},
 	["tilt"] = {
-		["material"] = "󲛾", -- colr-icons-tilt-material U+f26fe
+		["material"] = "󲮜", -- colr-icons-tilt-material U+f2b9c
 	},
 	["tldraw"] = {
-		["material"] = "󲛿", -- colr-icons-tldraw-material U+f26ff
+		["material"] = "󲮝", -- colr-icons-tldraw-material U+f2b9d
 	},
 	["tldraw_light"] = {
-		["material"] = "󲜀", -- colr-icons-tldraw_light-material U+f2700
+		["material"] = "󲮞", -- colr-icons-tldraw_light-material U+f2b9e
 	},
 	["tobi"] = {
-		["material"] = "󲜁", -- colr-icons-tobi-material U+f2701
+		["material"] = "󲮟", -- colr-icons-tobi-material U+f2b9f
 	},
 	["tobimake"] = {
-		["material"] = "󲜂", -- colr-icons-tobimake-material U+f2702
+		["material"] = "󲮠", -- colr-icons-tobimake-material U+f2ba0
 	},
 	["toc"] = {
-		["material"] = "󲜃", -- colr-icons-toc-material U+f2703
+		["material"] = "󲮡", -- colr-icons-toc-material U+f2ba1
 	},
 	["todo"] = {
-		["material"] = "󲜄", -- colr-icons-todo-material U+f2704
-		["catpuccin-frappe"] = "󲜅", -- colr-icons-todo-catpuccin-frappe U+f2705
-		["catpuccin-latte"] = "󲜆", -- colr-icons-todo-catpuccin-latte U+f2706
-		["catpuccin-macchiato"] = "󲜇", -- colr-icons-todo-catpuccin-macchiato U+f2707
-		["catpuccin-mocha"] = "󲜈", -- colr-icons-todo-catpuccin-mocha U+f2708
+		["material"] = "󲮢", -- colr-icons-todo-material U+f2ba2
+		["catpuccin-frappe"] = "󲮣", -- colr-icons-todo-catpuccin-frappe U+f2ba3
+		["catpuccin-latte"] = "󲮤", -- colr-icons-todo-catpuccin-latte U+f2ba4
+		["catpuccin-macchiato"] = "󲮥", -- colr-icons-todo-catpuccin-macchiato U+f2ba5
+		["catpuccin-mocha"] = "󲮦", -- colr-icons-todo-catpuccin-mocha U+f2ba6
 	},
 	["toml"] = {
-		["material"] = "󲜉", -- colr-icons-toml-material U+f2709
-		["catpuccin-frappe"] = "󲜊", -- colr-icons-toml-catpuccin-frappe U+f270a
-		["catpuccin-latte"] = "󲜋", -- colr-icons-toml-catpuccin-latte U+f270b
-		["catpuccin-macchiato"] = "󲜌", -- colr-icons-toml-catpuccin-macchiato U+f270c
-		["catpuccin-mocha"] = "󲜍", -- colr-icons-toml-catpuccin-mocha U+f270d
+		["material"] = "󲮧", -- colr-icons-toml-material U+f2ba7
+		["catpuccin-frappe"] = "󲮨", -- colr-icons-toml-catpuccin-frappe U+f2ba8
+		["catpuccin-latte"] = "󲮩", -- colr-icons-toml-catpuccin-latte U+f2ba9
+		["catpuccin-macchiato"] = "󲮪", -- colr-icons-toml-catpuccin-macchiato U+f2baa
+		["catpuccin-mocha"] = "󲮫", -- colr-icons-toml-catpuccin-mocha U+f2bab
 	},
 	["toml_light"] = {
-		["material"] = "󲜎", -- colr-icons-toml_light-material U+f270e
+		["material"] = "󲮬", -- colr-icons-toml_light-material U+f2bac
 	},
 	["toon"] = {
-		["material"] = "󲜏", -- colr-icons-toon-material U+f270f
+		["material"] = "󲮭", -- colr-icons-toon-material U+f2bad
 	},
 	["travis"] = {
-		["material"] = "󲜐", -- colr-icons-travis-material U+f2710
+		["material"] = "󲮮", -- colr-icons-travis-material U+f2bae
 	},
 	["tree"] = {
-		["material"] = "󲜑", -- colr-icons-tree-material U+f2711
+		["material"] = "󲮯", -- colr-icons-tree-material U+f2baf
 	},
 	["trigger"] = {
-		["material"] = "󲜒", -- colr-icons-trigger-material U+f2712
+		["material"] = "󲮰", -- colr-icons-trigger-material U+f2bb0
 	},
 	["tsconfig"] = {
-		["material"] = "󲜓", -- colr-icons-tsconfig-material U+f2713
+		["material"] = "󲮱", -- colr-icons-tsconfig-material U+f2bb1
 	},
 	["tsdoc"] = {
-		["material"] = "󲜔", -- colr-icons-tsdoc-material U+f2714
+		["material"] = "󲮲", -- colr-icons-tsdoc-material U+f2bb2
 	},
 	["tsdown"] = {
-		["material"] = "󲜕", -- colr-icons-tsdown-material U+f2715
+		["material"] = "󲮳", -- colr-icons-tsdown-material U+f2bb3
 	},
 	["tsil"] = {
-		["material"] = "󲜖", -- colr-icons-tsil-material U+f2716
+		["material"] = "󲮴", -- colr-icons-tsil-material U+f2bb4
 	},
 	["tune"] = {
-		["material"] = "󲜗", -- colr-icons-tune-material U+f2717
+		["material"] = "󲮵", -- colr-icons-tune-material U+f2bb5
 	},
 	["turbo"] = {
-		["catpuccin-frappe"] = "󲜘", -- colr-icons-turbo-catpuccin-frappe U+f2718
-		["catpuccin-latte"] = "󲜙", -- colr-icons-turbo-catpuccin-latte U+f2719
-		["catpuccin-macchiato"] = "󲜚", -- colr-icons-turbo-catpuccin-macchiato U+f271a
-		["catpuccin-mocha"] = "󲜛", -- colr-icons-turbo-catpuccin-mocha U+f271b
+		["catpuccin-frappe"] = "󲮶", -- colr-icons-turbo-catpuccin-frappe U+f2bb6
+		["catpuccin-latte"] = "󲮷", -- colr-icons-turbo-catpuccin-latte U+f2bb7
+		["catpuccin-macchiato"] = "󲮸", -- colr-icons-turbo-catpuccin-macchiato U+f2bb8
+		["catpuccin-mocha"] = "󲮹", -- colr-icons-turbo-catpuccin-mocha U+f2bb9
 	},
 	["turborepo"] = {
-		["material"] = "󲜜", -- colr-icons-turborepo-material U+f271c
+		["material"] = "󲮺", -- colr-icons-turborepo-material U+f2bba
 	},
 	["turborepo_light"] = {
-		["material"] = "󲜝", -- colr-icons-turborepo_light-material U+f271d
+		["material"] = "󲮻", -- colr-icons-turborepo_light-material U+f2bbb
 	},
 	["twig"] = {
-		["material"] = "󲜞", -- colr-icons-twig-material U+f271e
-		["catpuccin-frappe"] = "󲜟", -- colr-icons-twig-catpuccin-frappe U+f271f
-		["catpuccin-latte"] = "󲜠", -- colr-icons-twig-catpuccin-latte U+f2720
-		["catpuccin-macchiato"] = "󲜡", -- colr-icons-twig-catpuccin-macchiato U+f2721
-		["catpuccin-mocha"] = "󲜢", -- colr-icons-twig-catpuccin-mocha U+f2722
+		["material"] = "󲮼", -- colr-icons-twig-material U+f2bbc
+		["catpuccin-frappe"] = "󲮽", -- colr-icons-twig-catpuccin-frappe U+f2bbd
+		["catpuccin-latte"] = "󲮾", -- colr-icons-twig-catpuccin-latte U+f2bbe
+		["catpuccin-macchiato"] = "󲮿", -- colr-icons-twig-catpuccin-macchiato U+f2bbf
+		["catpuccin-mocha"] = "󲯀", -- colr-icons-twig-catpuccin-mocha U+f2bc0
 	},
 	["twine"] = {
-		["material"] = "󲜣", -- colr-icons-twine-material U+f2723
-		["catpuccin-frappe"] = "󲜤", -- colr-icons-twine-catpuccin-frappe U+f2724
-		["catpuccin-latte"] = "󲜥", -- colr-icons-twine-catpuccin-latte U+f2725
-		["catpuccin-macchiato"] = "󲜦", -- colr-icons-twine-catpuccin-macchiato U+f2726
-		["catpuccin-mocha"] = "󲜧", -- colr-icons-twine-catpuccin-mocha U+f2727
+		["material"] = "󲯁", -- colr-icons-twine-material U+f2bc1
+		["catpuccin-frappe"] = "󲯂", -- colr-icons-twine-catpuccin-frappe U+f2bc2
+		["catpuccin-latte"] = "󲯃", -- colr-icons-twine-catpuccin-latte U+f2bc3
+		["catpuccin-macchiato"] = "󲯄", -- colr-icons-twine-catpuccin-macchiato U+f2bc4
+		["catpuccin-mocha"] = "󲯅", -- colr-icons-twine-catpuccin-mocha U+f2bc5
 	},
 	["typedoc"] = {
-		["material"] = "󲜨", -- colr-icons-typedoc-material U+f2728
+		["material"] = "󲯆", -- colr-icons-typedoc-material U+f2bc6
 	},
 	["typescript"] = {
-		["material"] = "󲜩", -- colr-icons-typescript-material U+f2729
-		["catpuccin-frappe"] = "󲜪", -- colr-icons-typescript-catpuccin-frappe U+f272a
-		["catpuccin-latte"] = "󲜫", -- colr-icons-typescript-catpuccin-latte U+f272b
-		["catpuccin-macchiato"] = "󲜬", -- colr-icons-typescript-catpuccin-macchiato U+f272c
-		["catpuccin-mocha"] = "󲜭", -- colr-icons-typescript-catpuccin-mocha U+f272d
+		["material"] = "󲯇", -- colr-icons-typescript-material U+f2bc7
+		["catpuccin-frappe"] = "󲯈", -- colr-icons-typescript-catpuccin-frappe U+f2bc8
+		["catpuccin-latte"] = "󲯉", -- colr-icons-typescript-catpuccin-latte U+f2bc9
+		["catpuccin-macchiato"] = "󲯊", -- colr-icons-typescript-catpuccin-macchiato U+f2bca
+		["catpuccin-mocha"] = "󲯋", -- colr-icons-typescript-catpuccin-mocha U+f2bcb
 	},
 	["typescript-config"] = {
-		["catpuccin-frappe"] = "󲜮", -- colr-icons-typescript-config-catpuccin-frappe U+f272e
-		["catpuccin-latte"] = "󲜯", -- colr-icons-typescript-config-catpuccin-latte U+f272f
-		["catpuccin-macchiato"] = "󲜰", -- colr-icons-typescript-config-catpuccin-macchiato U+f2730
-		["catpuccin-mocha"] = "󲜱", -- colr-icons-typescript-config-catpuccin-mocha U+f2731
+		["catpuccin-frappe"] = "󲯌", -- colr-icons-typescript-config-catpuccin-frappe U+f2bcc
+		["catpuccin-latte"] = "󲯍", -- colr-icons-typescript-config-catpuccin-latte U+f2bcd
+		["catpuccin-macchiato"] = "󲯎", -- colr-icons-typescript-config-catpuccin-macchiato U+f2bce
+		["catpuccin-mocha"] = "󲯏", -- colr-icons-typescript-config-catpuccin-mocha U+f2bcf
 	},
 	["typescript-def"] = {
-		["material"] = "󲜲", -- colr-icons-typescript-def-material U+f2732
-		["catpuccin-frappe"] = "󲜳", -- colr-icons-typescript-def-catpuccin-frappe U+f2733
-		["catpuccin-latte"] = "󲜴", -- colr-icons-typescript-def-catpuccin-latte U+f2734
-		["catpuccin-macchiato"] = "󲜵", -- colr-icons-typescript-def-catpuccin-macchiato U+f2735
-		["catpuccin-mocha"] = "󲜶", -- colr-icons-typescript-def-catpuccin-mocha U+f2736
+		["material"] = "󲯐", -- colr-icons-typescript-def-material U+f2bd0
+		["catpuccin-frappe"] = "󲯑", -- colr-icons-typescript-def-catpuccin-frappe U+f2bd1
+		["catpuccin-latte"] = "󲯒", -- colr-icons-typescript-def-catpuccin-latte U+f2bd2
+		["catpuccin-macchiato"] = "󲯓", -- colr-icons-typescript-def-catpuccin-macchiato U+f2bd3
+		["catpuccin-mocha"] = "󲯔", -- colr-icons-typescript-def-catpuccin-mocha U+f2bd4
 	},
 	["typescript-react"] = {
-		["catpuccin-frappe"] = "󲜷", -- colr-icons-typescript-react-catpuccin-frappe U+f2737
-		["catpuccin-latte"] = "󲜸", -- colr-icons-typescript-react-catpuccin-latte U+f2738
-		["catpuccin-macchiato"] = "󲜹", -- colr-icons-typescript-react-catpuccin-macchiato U+f2739
-		["catpuccin-mocha"] = "󲜺", -- colr-icons-typescript-react-catpuccin-mocha U+f273a
+		["catpuccin-frappe"] = "󲯕", -- colr-icons-typescript-react-catpuccin-frappe U+f2bd5
+		["catpuccin-latte"] = "󲯖", -- colr-icons-typescript-react-catpuccin-latte U+f2bd6
+		["catpuccin-macchiato"] = "󲯗", -- colr-icons-typescript-react-catpuccin-macchiato U+f2bd7
+		["catpuccin-mocha"] = "󲯘", -- colr-icons-typescript-react-catpuccin-mocha U+f2bd8
 	},
 	["typescript-test"] = {
-		["catpuccin-frappe"] = "󲜻", -- colr-icons-typescript-test-catpuccin-frappe U+f273b
-		["catpuccin-latte"] = "󲜼", -- colr-icons-typescript-test-catpuccin-latte U+f273c
-		["catpuccin-macchiato"] = "󲜽", -- colr-icons-typescript-test-catpuccin-macchiato U+f273d
-		["catpuccin-mocha"] = "󲜾", -- colr-icons-typescript-test-catpuccin-mocha U+f273e
+		["catpuccin-frappe"] = "󲯙", -- colr-icons-typescript-test-catpuccin-frappe U+f2bd9
+		["catpuccin-latte"] = "󲯚", -- colr-icons-typescript-test-catpuccin-latte U+f2bda
+		["catpuccin-macchiato"] = "󲯛", -- colr-icons-typescript-test-catpuccin-macchiato U+f2bdb
+		["catpuccin-mocha"] = "󲯜", -- colr-icons-typescript-test-catpuccin-mocha U+f2bdc
 	},
 	["typst"] = {
-		["material"] = "󲜿", -- colr-icons-typst-material U+f273f
-		["catpuccin-frappe"] = "󲝀", -- colr-icons-typst-catpuccin-frappe U+f2740
-		["catpuccin-latte"] = "󲝁", -- colr-icons-typst-catpuccin-latte U+f2741
-		["catpuccin-macchiato"] = "󲝂", -- colr-icons-typst-catpuccin-macchiato U+f2742
-		["catpuccin-mocha"] = "󲝃", -- colr-icons-typst-catpuccin-mocha U+f2743
+		["material"] = "󲯝", -- colr-icons-typst-material U+f2bdd
+		["catpuccin-frappe"] = "󲯞", -- colr-icons-typst-catpuccin-frappe U+f2bde
+		["catpuccin-latte"] = "󲯟", -- colr-icons-typst-catpuccin-latte U+f2bdf
+		["catpuccin-macchiato"] = "󲯠", -- colr-icons-typst-catpuccin-macchiato U+f2be0
+		["catpuccin-mocha"] = "󲯡", -- colr-icons-typst-catpuccin-mocha U+f2be1
 	},
 	["uiua"] = {
-		["material"] = "󲝄", -- colr-icons-uiua-material U+f2744
+		["material"] = "󲯢", -- colr-icons-uiua-material U+f2be2
 	},
 	["umi"] = {
-		["material"] = "󲝅", -- colr-icons-umi-material U+f2745
+		["material"] = "󲯣", -- colr-icons-umi-material U+f2be3
 	},
 	["uml"] = {
-		["material"] = "󲝆", -- colr-icons-uml-material U+f2746
+		["material"] = "󲯤", -- colr-icons-uml-material U+f2be4
 	},
 	["uml_light"] = {
-		["material"] = "󲝇", -- colr-icons-uml_light-material U+f2747
+		["material"] = "󲯥", -- colr-icons-uml_light-material U+f2be5
 	},
 	["unity"] = {
-		["material"] = "󲝈", -- colr-icons-unity-material U+f2748
-		["catpuccin-frappe"] = "󲝉", -- colr-icons-unity-catpuccin-frappe U+f2749
-		["catpuccin-latte"] = "󲝊", -- colr-icons-unity-catpuccin-latte U+f274a
-		["catpuccin-macchiato"] = "󲝋", -- colr-icons-unity-catpuccin-macchiato U+f274b
-		["catpuccin-mocha"] = "󲝌", -- colr-icons-unity-catpuccin-mocha U+f274c
+		["material"] = "󲯦", -- colr-icons-unity-material U+f2be6
+		["catpuccin-frappe"] = "󲯧", -- colr-icons-unity-catpuccin-frappe U+f2be7
+		["catpuccin-latte"] = "󲯨", -- colr-icons-unity-catpuccin-latte U+f2be8
+		["catpuccin-macchiato"] = "󲯩", -- colr-icons-unity-catpuccin-macchiato U+f2be9
+		["catpuccin-mocha"] = "󲯪", -- colr-icons-unity-catpuccin-mocha U+f2bea
 	},
 	["unlicense"] = {
-		["material"] = "󲝍", -- colr-icons-unlicense-material U+f274d
+		["material"] = "󲯫", -- colr-icons-unlicense-material U+f2beb
 	},
 	["unocss"] = {
-		["material"] = "󲝎", -- colr-icons-unocss-material U+f274e
-		["catpuccin-frappe"] = "󲝏", -- colr-icons-unocss-catpuccin-frappe U+f274f
-		["catpuccin-latte"] = "󲝐", -- colr-icons-unocss-catpuccin-latte U+f2750
-		["catpuccin-macchiato"] = "󲝑", -- colr-icons-unocss-catpuccin-macchiato U+f2751
-		["catpuccin-mocha"] = "󲝒", -- colr-icons-unocss-catpuccin-mocha U+f2752
+		["material"] = "󲯬", -- colr-icons-unocss-material U+f2bec
+		["catpuccin-frappe"] = "󲯭", -- colr-icons-unocss-catpuccin-frappe U+f2bed
+		["catpuccin-latte"] = "󲯮", -- colr-icons-unocss-catpuccin-latte U+f2bee
+		["catpuccin-macchiato"] = "󲯯", -- colr-icons-unocss-catpuccin-macchiato U+f2bef
+		["catpuccin-mocha"] = "󲯰", -- colr-icons-unocss-catpuccin-mocha U+f2bf0
 	},
 	["url"] = {
-		["material"] = "󲝓", -- colr-icons-url-material U+f2753
-		["catpuccin-frappe"] = "󲝔", -- colr-icons-url-catpuccin-frappe U+f2754
-		["catpuccin-latte"] = "󲝕", -- colr-icons-url-catpuccin-latte U+f2755
-		["catpuccin-macchiato"] = "󲝖", -- colr-icons-url-catpuccin-macchiato U+f2756
-		["catpuccin-mocha"] = "󲝗", -- colr-icons-url-catpuccin-mocha U+f2757
+		["material"] = "󲯱", -- colr-icons-url-material U+f2bf1
+		["catpuccin-frappe"] = "󲯲", -- colr-icons-url-catpuccin-frappe U+f2bf2
+		["catpuccin-latte"] = "󲯳", -- colr-icons-url-catpuccin-latte U+f2bf3
+		["catpuccin-macchiato"] = "󲯴", -- colr-icons-url-catpuccin-macchiato U+f2bf4
+		["catpuccin-mocha"] = "󲯵", -- colr-icons-url-catpuccin-mocha U+f2bf5
 	},
 	["uv"] = {
-		["material"] = "󲝘", -- colr-icons-uv-material U+f2758
-		["catpuccin-frappe"] = "󲝙", -- colr-icons-uv-catpuccin-frappe U+f2759
-		["catpuccin-latte"] = "󲝚", -- colr-icons-uv-catpuccin-latte U+f275a
-		["catpuccin-macchiato"] = "󲝛", -- colr-icons-uv-catpuccin-macchiato U+f275b
-		["catpuccin-mocha"] = "󲝜", -- colr-icons-uv-catpuccin-mocha U+f275c
+		["material"] = "󲯶", -- colr-icons-uv-material U+f2bf6
+		["catpuccin-frappe"] = "󲯷", -- colr-icons-uv-catpuccin-frappe U+f2bf7
+		["catpuccin-latte"] = "󲯸", -- colr-icons-uv-catpuccin-latte U+f2bf8
+		["catpuccin-macchiato"] = "󲯹", -- colr-icons-uv-catpuccin-macchiato U+f2bf9
+		["catpuccin-mocha"] = "󲯺", -- colr-icons-uv-catpuccin-mocha U+f2bfa
 	},
 	["v"] = {
-		["catpuccin-frappe"] = "󲝝", -- colr-icons-v-catpuccin-frappe U+f275d
-		["catpuccin-latte"] = "󲝞", -- colr-icons-v-catpuccin-latte U+f275e
-		["catpuccin-macchiato"] = "󲝟", -- colr-icons-v-catpuccin-macchiato U+f275f
-		["catpuccin-mocha"] = "󲝠", -- colr-icons-v-catpuccin-mocha U+f2760
+		["catpuccin-frappe"] = "󲯻", -- colr-icons-v-catpuccin-frappe U+f2bfb
+		["catpuccin-latte"] = "󲯼", -- colr-icons-v-catpuccin-latte U+f2bfc
+		["catpuccin-macchiato"] = "󲯽", -- colr-icons-v-catpuccin-macchiato U+f2bfd
+		["catpuccin-mocha"] = "󲯾", -- colr-icons-v-catpuccin-mocha U+f2bfe
 	},
 	["vagrant"] = {
-		["material"] = "󲝡", -- colr-icons-vagrant-material U+f2761
+		["material"] = "󲯿", -- colr-icons-vagrant-material U+f2bff
 	},
 	["vala"] = {
-		["material"] = "󲝢", -- colr-icons-vala-material U+f2762
-		["catpuccin-frappe"] = "󲝣", -- colr-icons-vala-catpuccin-frappe U+f2763
-		["catpuccin-latte"] = "󲝤", -- colr-icons-vala-catpuccin-latte U+f2764
-		["catpuccin-macchiato"] = "󲝥", -- colr-icons-vala-catpuccin-macchiato U+f2765
-		["catpuccin-mocha"] = "󲝦", -- colr-icons-vala-catpuccin-mocha U+f2766
+		["material"] = "󲰀", -- colr-icons-vala-material U+f2c00
+		["catpuccin-frappe"] = "󲰁", -- colr-icons-vala-catpuccin-frappe U+f2c01
+		["catpuccin-latte"] = "󲰂", -- colr-icons-vala-catpuccin-latte U+f2c02
+		["catpuccin-macchiato"] = "󲰃", -- colr-icons-vala-catpuccin-macchiato U+f2c03
+		["catpuccin-mocha"] = "󲰄", -- colr-icons-vala-catpuccin-mocha U+f2c04
 	},
 	["vanilla-extract"] = {
-		["material"] = "󲝧", -- colr-icons-vanilla-extract-material U+f2767
-		["catpuccin-frappe"] = "󲝨", -- colr-icons-vanilla-extract-catpuccin-frappe U+f2768
-		["catpuccin-latte"] = "󲝩", -- colr-icons-vanilla-extract-catpuccin-latte U+f2769
-		["catpuccin-macchiato"] = "󲝪", -- colr-icons-vanilla-extract-catpuccin-macchiato U+f276a
-		["catpuccin-mocha"] = "󲝫", -- colr-icons-vanilla-extract-catpuccin-mocha U+f276b
+		["material"] = "󲰅", -- colr-icons-vanilla-extract-material U+f2c05
+		["catpuccin-frappe"] = "󲰆", -- colr-icons-vanilla-extract-catpuccin-frappe U+f2c06
+		["catpuccin-latte"] = "󲰇", -- colr-icons-vanilla-extract-catpuccin-latte U+f2c07
+		["catpuccin-macchiato"] = "󲰈", -- colr-icons-vanilla-extract-catpuccin-macchiato U+f2c08
+		["catpuccin-mocha"] = "󲰉", -- colr-icons-vanilla-extract-catpuccin-mocha U+f2c09
 	},
 	["vapi"] = {
-		["catpuccin-frappe"] = "󲝬", -- colr-icons-vapi-catpuccin-frappe U+f276c
-		["catpuccin-latte"] = "󲝭", -- colr-icons-vapi-catpuccin-latte U+f276d
-		["catpuccin-macchiato"] = "󲝮", -- colr-icons-vapi-catpuccin-macchiato U+f276e
-		["catpuccin-mocha"] = "󲝯", -- colr-icons-vapi-catpuccin-mocha U+f276f
+		["catpuccin-frappe"] = "󲰊", -- colr-icons-vapi-catpuccin-frappe U+f2c0a
+		["catpuccin-latte"] = "󲰋", -- colr-icons-vapi-catpuccin-latte U+f2c0b
+		["catpuccin-macchiato"] = "󲰌", -- colr-icons-vapi-catpuccin-macchiato U+f2c0c
+		["catpuccin-mocha"] = "󲰍", -- colr-icons-vapi-catpuccin-mocha U+f2c0d
 	},
 	["varnish"] = {
-		["material"] = "󲝰", -- colr-icons-varnish-material U+f2770
+		["material"] = "󲰎", -- colr-icons-varnish-material U+f2c0e
 	},
 	["vedic"] = {
-		["material"] = "󲝱", -- colr-icons-vedic-material U+f2771
+		["material"] = "󲰏", -- colr-icons-vedic-material U+f2c0f
 	},
 	["velite"] = {
-		["material"] = "󲝲", -- colr-icons-velite-material U+f2772
+		["material"] = "󲰐", -- colr-icons-velite-material U+f2c10
 	},
 	["velocity"] = {
-		["material"] = "󲝳", -- colr-icons-velocity-material U+f2773
+		["material"] = "󲰑", -- colr-icons-velocity-material U+f2c11
 	},
 	["vento"] = {
-		["catpuccin-frappe"] = "󲝴", -- colr-icons-vento-catpuccin-frappe U+f2774
-		["catpuccin-latte"] = "󲝵", -- colr-icons-vento-catpuccin-latte U+f2775
-		["catpuccin-macchiato"] = "󲝶", -- colr-icons-vento-catpuccin-macchiato U+f2776
-		["catpuccin-mocha"] = "󲝷", -- colr-icons-vento-catpuccin-mocha U+f2777
+		["catpuccin-frappe"] = "󲰒", -- colr-icons-vento-catpuccin-frappe U+f2c12
+		["catpuccin-latte"] = "󲰓", -- colr-icons-vento-catpuccin-latte U+f2c13
+		["catpuccin-macchiato"] = "󲰔", -- colr-icons-vento-catpuccin-macchiato U+f2c14
+		["catpuccin-mocha"] = "󲰕", -- colr-icons-vento-catpuccin-mocha U+f2c15
 	},
 	["vercel"] = {
-		["material"] = "󲝸", -- colr-icons-vercel-material U+f2778
-		["catpuccin-frappe"] = "󲝹", -- colr-icons-vercel-catpuccin-frappe U+f2779
-		["catpuccin-latte"] = "󲝺", -- colr-icons-vercel-catpuccin-latte U+f277a
-		["catpuccin-macchiato"] = "󲝻", -- colr-icons-vercel-catpuccin-macchiato U+f277b
-		["catpuccin-mocha"] = "󲝼", -- colr-icons-vercel-catpuccin-mocha U+f277c
+		["material"] = "󲰖", -- colr-icons-vercel-material U+f2c16
+		["catpuccin-frappe"] = "󲰗", -- colr-icons-vercel-catpuccin-frappe U+f2c17
+		["catpuccin-latte"] = "󲰘", -- colr-icons-vercel-catpuccin-latte U+f2c18
+		["catpuccin-macchiato"] = "󲰙", -- colr-icons-vercel-catpuccin-macchiato U+f2c19
+		["catpuccin-mocha"] = "󲰚", -- colr-icons-vercel-catpuccin-mocha U+f2c1a
 	},
 	["vercel-ignore"] = {
-		["catpuccin-frappe"] = "󲝽", -- colr-icons-vercel-ignore-catpuccin-frappe U+f277d
-		["catpuccin-latte"] = "󲝾", -- colr-icons-vercel-ignore-catpuccin-latte U+f277e
-		["catpuccin-macchiato"] = "󲝿", -- colr-icons-vercel-ignore-catpuccin-macchiato U+f277f
-		["catpuccin-mocha"] = "󲞀", -- colr-icons-vercel-ignore-catpuccin-mocha U+f2780
+		["catpuccin-frappe"] = "󲰛", -- colr-icons-vercel-ignore-catpuccin-frappe U+f2c1b
+		["catpuccin-latte"] = "󲰜", -- colr-icons-vercel-ignore-catpuccin-latte U+f2c1c
+		["catpuccin-macchiato"] = "󲰝", -- colr-icons-vercel-ignore-catpuccin-macchiato U+f2c1d
+		["catpuccin-mocha"] = "󲰞", -- colr-icons-vercel-ignore-catpuccin-mocha U+f2c1e
 	},
 	["vercel_light"] = {
-		["material"] = "󲞁", -- colr-icons-vercel_light-material U+f2781
+		["material"] = "󲰟", -- colr-icons-vercel_light-material U+f2c1f
 	},
 	["verdaccio"] = {
-		["material"] = "󲞂", -- colr-icons-verdaccio-material U+f2782
+		["material"] = "󲰠", -- colr-icons-verdaccio-material U+f2c20
 	},
 	["verified"] = {
-		["material"] = "󲞃", -- colr-icons-verified-material U+f2783
+		["material"] = "󲰡", -- colr-icons-verified-material U+f2c21
 	},
 	["verilog"] = {
-		["material"] = "󲞄", -- colr-icons-verilog-material U+f2784
-		["catpuccin-frappe"] = "󲞅", -- colr-icons-verilog-catpuccin-frappe U+f2785
-		["catpuccin-latte"] = "󲞆", -- colr-icons-verilog-catpuccin-latte U+f2786
-		["catpuccin-macchiato"] = "󲞇", -- colr-icons-verilog-catpuccin-macchiato U+f2787
-		["catpuccin-mocha"] = "󲞈", -- colr-icons-verilog-catpuccin-mocha U+f2788
+		["material"] = "󲰢", -- colr-icons-verilog-material U+f2c22
+		["catpuccin-frappe"] = "󲰣", -- colr-icons-verilog-catpuccin-frappe U+f2c23
+		["catpuccin-latte"] = "󲰤", -- colr-icons-verilog-catpuccin-latte U+f2c24
+		["catpuccin-macchiato"] = "󲰥", -- colr-icons-verilog-catpuccin-macchiato U+f2c25
+		["catpuccin-mocha"] = "󲰦", -- colr-icons-verilog-catpuccin-mocha U+f2c26
 	},
 	["verse"] = {
-		["material"] = "󲞉", -- colr-icons-verse-material U+f2789
+		["material"] = "󲰧", -- colr-icons-verse-material U+f2c27
 	},
 	["verse_light"] = {
-		["material"] = "󲞊", -- colr-icons-verse_light-material U+f278a
+		["material"] = "󲰨", -- colr-icons-verse_light-material U+f2c28
 	},
 	["vfl"] = {
-		["material"] = "󲞋", -- colr-icons-vfl-material U+f278b
+		["material"] = "󲰩", -- colr-icons-vfl-material U+f2c29
 	},
 	["vhs"] = {
-		["catpuccin-frappe"] = "󲞌", -- colr-icons-vhs-catpuccin-frappe U+f278c
-		["catpuccin-latte"] = "󲞍", -- colr-icons-vhs-catpuccin-latte U+f278d
-		["catpuccin-macchiato"] = "󲞎", -- colr-icons-vhs-catpuccin-macchiato U+f278e
-		["catpuccin-mocha"] = "󲞏", -- colr-icons-vhs-catpuccin-mocha U+f278f
+		["catpuccin-frappe"] = "󲰪", -- colr-icons-vhs-catpuccin-frappe U+f2c2a
+		["catpuccin-latte"] = "󲰫", -- colr-icons-vhs-catpuccin-latte U+f2c2b
+		["catpuccin-macchiato"] = "󲰬", -- colr-icons-vhs-catpuccin-macchiato U+f2c2c
+		["catpuccin-mocha"] = "󲰭", -- colr-icons-vhs-catpuccin-mocha U+f2c2d
 	},
 	["video"] = {
-		["material"] = "󲞐", -- colr-icons-video-material U+f2790
-		["catpuccin-frappe"] = "󲞑", -- colr-icons-video-catpuccin-frappe U+f2791
-		["catpuccin-latte"] = "󲞒", -- colr-icons-video-catpuccin-latte U+f2792
-		["catpuccin-macchiato"] = "󲞓", -- colr-icons-video-catpuccin-macchiato U+f2793
-		["catpuccin-mocha"] = "󲞔", -- colr-icons-video-catpuccin-mocha U+f2794
+		["material"] = "󲰮", -- colr-icons-video-material U+f2c2e
+		["catpuccin-frappe"] = "󲰯", -- colr-icons-video-catpuccin-frappe U+f2c2f
+		["catpuccin-latte"] = "󲰰", -- colr-icons-video-catpuccin-latte U+f2c30
+		["catpuccin-macchiato"] = "󲰱", -- colr-icons-video-catpuccin-macchiato U+f2c31
+		["catpuccin-mocha"] = "󲰲", -- colr-icons-video-catpuccin-mocha U+f2c32
 	},
 	["vim"] = {
-		["material"] = "󲞕", -- colr-icons-vim-material U+f2795
-		["catpuccin-frappe"] = "󲞖", -- colr-icons-vim-catpuccin-frappe U+f2796
-		["catpuccin-latte"] = "󲞗", -- colr-icons-vim-catpuccin-latte U+f2797
-		["catpuccin-macchiato"] = "󲞘", -- colr-icons-vim-catpuccin-macchiato U+f2798
-		["catpuccin-mocha"] = "󲞙", -- colr-icons-vim-catpuccin-mocha U+f2799
+		["material"] = "󲰳", -- colr-icons-vim-material U+f2c33
+		["catpuccin-frappe"] = "󲰴", -- colr-icons-vim-catpuccin-frappe U+f2c34
+		["catpuccin-latte"] = "󲰵", -- colr-icons-vim-catpuccin-latte U+f2c35
+		["catpuccin-macchiato"] = "󲰶", -- colr-icons-vim-catpuccin-macchiato U+f2c36
+		["catpuccin-mocha"] = "󲰷", -- colr-icons-vim-catpuccin-mocha U+f2c37
 	},
 	["virtual"] = {
-		["material"] = "󲞚", -- colr-icons-virtual-material U+f279a
+		["material"] = "󲰸", -- colr-icons-virtual-material U+f2c38
 	},
 	["visual-studio"] = {
-		["catpuccin-frappe"] = "󲞛", -- colr-icons-visual-studio-catpuccin-frappe U+f279b
-		["catpuccin-latte"] = "󲞜", -- colr-icons-visual-studio-catpuccin-latte U+f279c
-		["catpuccin-macchiato"] = "󲞝", -- colr-icons-visual-studio-catpuccin-macchiato U+f279d
-		["catpuccin-mocha"] = "󲞞", -- colr-icons-visual-studio-catpuccin-mocha U+f279e
+		["catpuccin-frappe"] = "󲰹", -- colr-icons-visual-studio-catpuccin-frappe U+f2c39
+		["catpuccin-latte"] = "󲰺", -- colr-icons-visual-studio-catpuccin-latte U+f2c3a
+		["catpuccin-macchiato"] = "󲰻", -- colr-icons-visual-studio-catpuccin-macchiato U+f2c3b
+		["catpuccin-mocha"] = "󲰼", -- colr-icons-visual-studio-catpuccin-mocha U+f2c3c
 	},
 	["visualstudio"] = {
-		["material"] = "󲞟", -- colr-icons-visualstudio-material U+f279f
+		["material"] = "󲰽", -- colr-icons-visualstudio-material U+f2c3d
 	},
 	["vital"] = {
-		["catpuccin-frappe"] = "󲞠", -- colr-icons-vital-catpuccin-frappe U+f27a0
-		["catpuccin-latte"] = "󲞡", -- colr-icons-vital-catpuccin-latte U+f27a1
-		["catpuccin-macchiato"] = "󲞢", -- colr-icons-vital-catpuccin-macchiato U+f27a2
-		["catpuccin-mocha"] = "󲞣", -- colr-icons-vital-catpuccin-mocha U+f27a3
+		["catpuccin-frappe"] = "󲰾", -- colr-icons-vital-catpuccin-frappe U+f2c3e
+		["catpuccin-latte"] = "󲰿", -- colr-icons-vital-catpuccin-latte U+f2c3f
+		["catpuccin-macchiato"] = "󲱀", -- colr-icons-vital-catpuccin-macchiato U+f2c40
+		["catpuccin-mocha"] = "󲱁", -- colr-icons-vital-catpuccin-mocha U+f2c41
 	},
 	["vite"] = {
-		["material"] = "󲞤", -- colr-icons-vite-material U+f27a4
-		["catpuccin-frappe"] = "󲞥", -- colr-icons-vite-catpuccin-frappe U+f27a5
-		["catpuccin-latte"] = "󲞦", -- colr-icons-vite-catpuccin-latte U+f27a6
-		["catpuccin-macchiato"] = "󲞧", -- colr-icons-vite-catpuccin-macchiato U+f27a7
-		["catpuccin-mocha"] = "󲞨", -- colr-icons-vite-catpuccin-mocha U+f27a8
+		["material"] = "󲱂", -- colr-icons-vite-material U+f2c42
+		["catpuccin-frappe"] = "󲱃", -- colr-icons-vite-catpuccin-frappe U+f2c43
+		["catpuccin-latte"] = "󲱄", -- colr-icons-vite-catpuccin-latte U+f2c44
+		["catpuccin-macchiato"] = "󲱅", -- colr-icons-vite-catpuccin-macchiato U+f2c45
+		["catpuccin-mocha"] = "󲱆", -- colr-icons-vite-catpuccin-mocha U+f2c46
 	},
 	["vitest"] = {
-		["material"] = "󲞩", -- colr-icons-vitest-material U+f27a9
-		["catpuccin-frappe"] = "󲞪", -- colr-icons-vitest-catpuccin-frappe U+f27aa
-		["catpuccin-latte"] = "󲞫", -- colr-icons-vitest-catpuccin-latte U+f27ab
-		["catpuccin-macchiato"] = "󲞬", -- colr-icons-vitest-catpuccin-macchiato U+f27ac
-		["catpuccin-mocha"] = "󲞭", -- colr-icons-vitest-catpuccin-mocha U+f27ad
+		["material"] = "󲱇", -- colr-icons-vitest-material U+f2c47
+		["catpuccin-frappe"] = "󲱈", -- colr-icons-vitest-catpuccin-frappe U+f2c48
+		["catpuccin-latte"] = "󲱉", -- colr-icons-vitest-catpuccin-latte U+f2c49
+		["catpuccin-macchiato"] = "󲱊", -- colr-icons-vitest-catpuccin-macchiato U+f2c4a
+		["catpuccin-mocha"] = "󲱋", -- colr-icons-vitest-catpuccin-mocha U+f2c4b
 	},
 	["vlang"] = {
-		["material"] = "󲞮", -- colr-icons-vlang-material U+f27ae
+		["material"] = "󲱌", -- colr-icons-vlang-material U+f2c4c
 	},
 	["vs-codium"] = {
-		["catpuccin-frappe"] = "󲞯", -- colr-icons-vs-codium-catpuccin-frappe U+f27af
-		["catpuccin-latte"] = "󲞰", -- colr-icons-vs-codium-catpuccin-latte U+f27b0
-		["catpuccin-macchiato"] = "󲞱", -- colr-icons-vs-codium-catpuccin-macchiato U+f27b1
-		["catpuccin-mocha"] = "󲞲", -- colr-icons-vs-codium-catpuccin-mocha U+f27b2
+		["catpuccin-frappe"] = "󲱍", -- colr-icons-vs-codium-catpuccin-frappe U+f2c4d
+		["catpuccin-latte"] = "󲱎", -- colr-icons-vs-codium-catpuccin-latte U+f2c4e
+		["catpuccin-macchiato"] = "󲱏", -- colr-icons-vs-codium-catpuccin-macchiato U+f2c4f
+		["catpuccin-mocha"] = "󲱐", -- colr-icons-vs-codium-catpuccin-mocha U+f2c50
 	},
 	["vscode"] = {
-		["material"] = "󲞳", -- colr-icons-vscode-material U+f27b3
-		["catpuccin-frappe"] = "󲞴", -- colr-icons-vscode-catpuccin-frappe U+f27b4
-		["catpuccin-latte"] = "󲞵", -- colr-icons-vscode-catpuccin-latte U+f27b5
-		["catpuccin-macchiato"] = "󲞶", -- colr-icons-vscode-catpuccin-macchiato U+f27b6
-		["catpuccin-mocha"] = "󲞷", -- colr-icons-vscode-catpuccin-mocha U+f27b7
+		["material"] = "󲱑", -- colr-icons-vscode-material U+f2c51
+		["catpuccin-frappe"] = "󲱒", -- colr-icons-vscode-catpuccin-frappe U+f2c52
+		["catpuccin-latte"] = "󲱓", -- colr-icons-vscode-catpuccin-latte U+f2c53
+		["catpuccin-macchiato"] = "󲱔", -- colr-icons-vscode-catpuccin-macchiato U+f2c54
+		["catpuccin-mocha"] = "󲱕", -- colr-icons-vscode-catpuccin-mocha U+f2c55
 	},
 	["vscode-ignore"] = {
-		["catpuccin-frappe"] = "󲞸", -- colr-icons-vscode-ignore-catpuccin-frappe U+f27b8
-		["catpuccin-latte"] = "󲞹", -- colr-icons-vscode-ignore-catpuccin-latte U+f27b9
-		["catpuccin-macchiato"] = "󲞺", -- colr-icons-vscode-ignore-catpuccin-macchiato U+f27ba
-		["catpuccin-mocha"] = "󲞻", -- colr-icons-vscode-ignore-catpuccin-mocha U+f27bb
+		["catpuccin-frappe"] = "󲱖", -- colr-icons-vscode-ignore-catpuccin-frappe U+f2c56
+		["catpuccin-latte"] = "󲱗", -- colr-icons-vscode-ignore-catpuccin-latte U+f2c57
+		["catpuccin-macchiato"] = "󲱘", -- colr-icons-vscode-ignore-catpuccin-macchiato U+f2c58
+		["catpuccin-mocha"] = "󲱙", -- colr-icons-vscode-ignore-catpuccin-mocha U+f2c59
 	},
 	["vue"] = {
-		["material"] = "󲞼", -- colr-icons-vue-material U+f27bc
-		["catpuccin-frappe"] = "󲞽", -- colr-icons-vue-catpuccin-frappe U+f27bd
-		["catpuccin-latte"] = "󲞾", -- colr-icons-vue-catpuccin-latte U+f27be
-		["catpuccin-macchiato"] = "󲞿", -- colr-icons-vue-catpuccin-macchiato U+f27bf
-		["catpuccin-mocha"] = "󲟀", -- colr-icons-vue-catpuccin-mocha U+f27c0
+		["material"] = "󲱚", -- colr-icons-vue-material U+f2c5a
+		["catpuccin-frappe"] = "󲱛", -- colr-icons-vue-catpuccin-frappe U+f2c5b
+		["catpuccin-latte"] = "󲱜", -- colr-icons-vue-catpuccin-latte U+f2c5c
+		["catpuccin-macchiato"] = "󲱝", -- colr-icons-vue-catpuccin-macchiato U+f2c5d
+		["catpuccin-mocha"] = "󲱞", -- colr-icons-vue-catpuccin-mocha U+f2c5e
 	},
 	["vue-config"] = {
-		["material"] = "󲟁", -- colr-icons-vue-config-material U+f27c1
-		["catpuccin-frappe"] = "󲟂", -- colr-icons-vue-config-catpuccin-frappe U+f27c2
-		["catpuccin-latte"] = "󲟃", -- colr-icons-vue-config-catpuccin-latte U+f27c3
-		["catpuccin-macchiato"] = "󲟄", -- colr-icons-vue-config-catpuccin-macchiato U+f27c4
-		["catpuccin-mocha"] = "󲟅", -- colr-icons-vue-config-catpuccin-mocha U+f27c5
+		["material"] = "󲱟", -- colr-icons-vue-config-material U+f2c5f
+		["catpuccin-frappe"] = "󲱠", -- colr-icons-vue-config-catpuccin-frappe U+f2c60
+		["catpuccin-latte"] = "󲱡", -- colr-icons-vue-config-catpuccin-latte U+f2c61
+		["catpuccin-macchiato"] = "󲱢", -- colr-icons-vue-config-catpuccin-macchiato U+f2c62
+		["catpuccin-mocha"] = "󲱣", -- colr-icons-vue-config-catpuccin-mocha U+f2c63
 	},
 	["vuex-store"] = {
-		["material"] = "󲟆", -- colr-icons-vuex-store-material U+f27c6
+		["material"] = "󲱤", -- colr-icons-vuex-store-material U+f2c64
 	},
 	["wakatime"] = {
-		["material"] = "󲟇", -- colr-icons-wakatime-material U+f27c7
+		["material"] = "󲱥", -- colr-icons-wakatime-material U+f2c65
 	},
 	["wakatime_light"] = {
-		["material"] = "󲟈", -- colr-icons-wakatime_light-material U+f27c8
+		["material"] = "󲱦", -- colr-icons-wakatime_light-material U+f2c66
 	},
 	["wallaby"] = {
-		["material"] = "󲟉", -- colr-icons-wallaby-material U+f27c9
+		["material"] = "󲱧", -- colr-icons-wallaby-material U+f2c67
 	},
 	["warp"] = {
-		["material"] = "󲟊", -- colr-icons-warp-material U+f27ca
+		["material"] = "󲱨", -- colr-icons-warp-material U+f2c68
 	},
 	["warp_light"] = {
-		["material"] = "󲟋", -- colr-icons-warp_light-material U+f27cb
+		["material"] = "󲱩", -- colr-icons-warp_light-material U+f2c69
 	},
 	["watchman"] = {
-		["material"] = "󲟌", -- colr-icons-watchman-material U+f27cc
+		["material"] = "󲱪", -- colr-icons-watchman-material U+f2c6a
 	},
 	["webassembly"] = {
-		["material"] = "󲟍", -- colr-icons-webassembly-material U+f27cd
-		["catpuccin-frappe"] = "󲟎", -- colr-icons-webassembly-catpuccin-frappe U+f27ce
-		["catpuccin-latte"] = "󲟏", -- colr-icons-webassembly-catpuccin-latte U+f27cf
-		["catpuccin-macchiato"] = "󲟐", -- colr-icons-webassembly-catpuccin-macchiato U+f27d0
-		["catpuccin-mocha"] = "󲟑", -- colr-icons-webassembly-catpuccin-mocha U+f27d1
+		["material"] = "󲱫", -- colr-icons-webassembly-material U+f2c6b
+		["catpuccin-frappe"] = "󲱬", -- colr-icons-webassembly-catpuccin-frappe U+f2c6c
+		["catpuccin-latte"] = "󲱭", -- colr-icons-webassembly-catpuccin-latte U+f2c6d
+		["catpuccin-macchiato"] = "󲱮", -- colr-icons-webassembly-catpuccin-macchiato U+f2c6e
+		["catpuccin-mocha"] = "󲱯", -- colr-icons-webassembly-catpuccin-mocha U+f2c6f
 	},
 	["webhint"] = {
-		["material"] = "󲟒", -- colr-icons-webhint-material U+f27d2
+		["material"] = "󲱰", -- colr-icons-webhint-material U+f2c70
 	},
 	["webpack"] = {
-		["material"] = "󲟓", -- colr-icons-webpack-material U+f27d3
-		["catpuccin-frappe"] = "󲟔", -- colr-icons-webpack-catpuccin-frappe U+f27d4
-		["catpuccin-latte"] = "󲟕", -- colr-icons-webpack-catpuccin-latte U+f27d5
-		["catpuccin-macchiato"] = "󲟖", -- colr-icons-webpack-catpuccin-macchiato U+f27d6
-		["catpuccin-mocha"] = "󲟗", -- colr-icons-webpack-catpuccin-mocha U+f27d7
+		["material"] = "󲱱", -- colr-icons-webpack-material U+f2c71
+		["catpuccin-frappe"] = "󲱲", -- colr-icons-webpack-catpuccin-frappe U+f2c72
+		["catpuccin-latte"] = "󲱳", -- colr-icons-webpack-catpuccin-latte U+f2c73
+		["catpuccin-macchiato"] = "󲱴", -- colr-icons-webpack-catpuccin-macchiato U+f2c74
+		["catpuccin-mocha"] = "󲱵", -- colr-icons-webpack-catpuccin-mocha U+f2c75
 	},
 	["wepy"] = {
-		["material"] = "󲟘", -- colr-icons-wepy-material U+f27d8
+		["material"] = "󲱶", -- colr-icons-wepy-material U+f2c76
 	},
 	["werf"] = {
-		["material"] = "󲟙", -- colr-icons-werf-material U+f27d9
+		["material"] = "󲱷", -- colr-icons-werf-material U+f2c77
 	},
 	["windi"] = {
-		["catpuccin-frappe"] = "󲟚", -- colr-icons-windi-catpuccin-frappe U+f27da
-		["catpuccin-latte"] = "󲟛", -- colr-icons-windi-catpuccin-latte U+f27db
-		["catpuccin-macchiato"] = "󲟜", -- colr-icons-windi-catpuccin-macchiato U+f27dc
-		["catpuccin-mocha"] = "󲟝", -- colr-icons-windi-catpuccin-mocha U+f27dd
+		["catpuccin-frappe"] = "󲱸", -- colr-icons-windi-catpuccin-frappe U+f2c78
+		["catpuccin-latte"] = "󲱹", -- colr-icons-windi-catpuccin-latte U+f2c79
+		["catpuccin-macchiato"] = "󲱺", -- colr-icons-windi-catpuccin-macchiato U+f2c7a
+		["catpuccin-mocha"] = "󲱻", -- colr-icons-windi-catpuccin-mocha U+f2c7b
 	},
 	["windicss"] = {
-		["material"] = "󲟞", -- colr-icons-windicss-material U+f27de
+		["material"] = "󲱼", -- colr-icons-windicss-material U+f2c7c
 	},
 	["wolframlanguage"] = {
-		["material"] = "󲟟", -- colr-icons-wolframlanguage-material U+f27df
+		["material"] = "󲱽", -- colr-icons-wolframlanguage-material U+f2c7d
 	},
 	["word"] = {
-		["material"] = "󲟠", -- colr-icons-word-material U+f27e0
+		["material"] = "󲱾", -- colr-icons-word-material U+f2c7e
 	},
 	["workflow"] = {
-		["catpuccin-frappe"] = "󲟡", -- colr-icons-workflow-catpuccin-frappe U+f27e1
-		["catpuccin-latte"] = "󲟢", -- colr-icons-workflow-catpuccin-latte U+f27e2
-		["catpuccin-macchiato"] = "󲟣", -- colr-icons-workflow-catpuccin-macchiato U+f27e3
-		["catpuccin-mocha"] = "󲟤", -- colr-icons-workflow-catpuccin-mocha U+f27e4
+		["catpuccin-frappe"] = "󲱿", -- colr-icons-workflow-catpuccin-frappe U+f2c7f
+		["catpuccin-latte"] = "󲲀", -- colr-icons-workflow-catpuccin-latte U+f2c80
+		["catpuccin-macchiato"] = "󲲁", -- colr-icons-workflow-catpuccin-macchiato U+f2c81
+		["catpuccin-mocha"] = "󲲂", -- colr-icons-workflow-catpuccin-mocha U+f2c82
 	},
 	["wrangler"] = {
-		["material"] = "󲟥", -- colr-icons-wrangler-material U+f27e5
-		["catpuccin-frappe"] = "󲟦", -- colr-icons-wrangler-catpuccin-frappe U+f27e6
-		["catpuccin-latte"] = "󲟧", -- colr-icons-wrangler-catpuccin-latte U+f27e7
-		["catpuccin-macchiato"] = "󲟨", -- colr-icons-wrangler-catpuccin-macchiato U+f27e8
-		["catpuccin-mocha"] = "󲟩", -- colr-icons-wrangler-catpuccin-mocha U+f27e9
+		["material"] = "󲲃", -- colr-icons-wrangler-material U+f2c83
+		["catpuccin-frappe"] = "󲲄", -- colr-icons-wrangler-catpuccin-frappe U+f2c84
+		["catpuccin-latte"] = "󲲅", -- colr-icons-wrangler-catpuccin-latte U+f2c85
+		["catpuccin-macchiato"] = "󲲆", -- colr-icons-wrangler-catpuccin-macchiato U+f2c86
+		["catpuccin-mocha"] = "󲲇", -- colr-icons-wrangler-catpuccin-mocha U+f2c87
 	},
 	["wxt"] = {
-		["material"] = "󲟪", -- colr-icons-wxt-material U+f27ea
-		["catpuccin-frappe"] = "󲟫", -- colr-icons-wxt-catpuccin-frappe U+f27eb
-		["catpuccin-latte"] = "󲟬", -- colr-icons-wxt-catpuccin-latte U+f27ec
-		["catpuccin-macchiato"] = "󲟭", -- colr-icons-wxt-catpuccin-macchiato U+f27ed
-		["catpuccin-mocha"] = "󲟮", -- colr-icons-wxt-catpuccin-mocha U+f27ee
+		["material"] = "󲲈", -- colr-icons-wxt-material U+f2c88
+		["catpuccin-frappe"] = "󲲉", -- colr-icons-wxt-catpuccin-frappe U+f2c89
+		["catpuccin-latte"] = "󲲊", -- colr-icons-wxt-catpuccin-latte U+f2c8a
+		["catpuccin-macchiato"] = "󲲋", -- colr-icons-wxt-catpuccin-macchiato U+f2c8b
+		["catpuccin-mocha"] = "󲲌", -- colr-icons-wxt-catpuccin-mocha U+f2c8c
 	},
 	["xaml"] = {
-		["material"] = "󲟯", -- colr-icons-xaml-material U+f27ef
-		["catpuccin-frappe"] = "󲟰", -- colr-icons-xaml-catpuccin-frappe U+f27f0
-		["catpuccin-latte"] = "󲟱", -- colr-icons-xaml-catpuccin-latte U+f27f1
-		["catpuccin-macchiato"] = "󲟲", -- colr-icons-xaml-catpuccin-macchiato U+f27f2
-		["catpuccin-mocha"] = "󲟳", -- colr-icons-xaml-catpuccin-mocha U+f27f3
+		["material"] = "󲲍", -- colr-icons-xaml-material U+f2c8d
+		["catpuccin-frappe"] = "󲲎", -- colr-icons-xaml-catpuccin-frappe U+f2c8e
+		["catpuccin-latte"] = "󲲏", -- colr-icons-xaml-catpuccin-latte U+f2c8f
+		["catpuccin-macchiato"] = "󲲐", -- colr-icons-xaml-catpuccin-macchiato U+f2c90
+		["catpuccin-mocha"] = "󲲑", -- colr-icons-xaml-catpuccin-mocha U+f2c91
 	},
 	["xcode"] = {
-		["catpuccin-frappe"] = "󲟴", -- colr-icons-xcode-catpuccin-frappe U+f27f4
-		["catpuccin-latte"] = "󲟵", -- colr-icons-xcode-catpuccin-latte U+f27f5
-		["catpuccin-macchiato"] = "󲟶", -- colr-icons-xcode-catpuccin-macchiato U+f27f6
-		["catpuccin-mocha"] = "󲟷", -- colr-icons-xcode-catpuccin-mocha U+f27f7
+		["catpuccin-frappe"] = "󲲒", -- colr-icons-xcode-catpuccin-frappe U+f2c92
+		["catpuccin-latte"] = "󲲓", -- colr-icons-xcode-catpuccin-latte U+f2c93
+		["catpuccin-macchiato"] = "󲲔", -- colr-icons-xcode-catpuccin-macchiato U+f2c94
+		["catpuccin-mocha"] = "󲲕", -- colr-icons-xcode-catpuccin-mocha U+f2c95
 	},
 	["xmake"] = {
-		["material"] = "󲟸", -- colr-icons-xmake-material U+f27f8
-		["catpuccin-frappe"] = "󲟹", -- colr-icons-xmake-catpuccin-frappe U+f27f9
-		["catpuccin-latte"] = "󲟺", -- colr-icons-xmake-catpuccin-latte U+f27fa
-		["catpuccin-macchiato"] = "󲟻", -- colr-icons-xmake-catpuccin-macchiato U+f27fb
-		["catpuccin-mocha"] = "󲟼", -- colr-icons-xmake-catpuccin-mocha U+f27fc
+		["material"] = "󲲖", -- colr-icons-xmake-material U+f2c96
+		["catpuccin-frappe"] = "󲲗", -- colr-icons-xmake-catpuccin-frappe U+f2c97
+		["catpuccin-latte"] = "󲲘", -- colr-icons-xmake-catpuccin-latte U+f2c98
+		["catpuccin-macchiato"] = "󲲙", -- colr-icons-xmake-catpuccin-macchiato U+f2c99
+		["catpuccin-mocha"] = "󲲚", -- colr-icons-xmake-catpuccin-mocha U+f2c9a
 	},
 	["xml"] = {
-		["material"] = "󲟽", -- colr-icons-xml-material U+f27fd
-		["catpuccin-frappe"] = "󲟾", -- colr-icons-xml-catpuccin-frappe U+f27fe
-		["catpuccin-latte"] = "󲟿", -- colr-icons-xml-catpuccin-latte U+f27ff
-		["catpuccin-macchiato"] = "󲠀", -- colr-icons-xml-catpuccin-macchiato U+f2800
-		["catpuccin-mocha"] = "󲠁", -- colr-icons-xml-catpuccin-mocha U+f2801
+		["material"] = "󲲛", -- colr-icons-xml-material U+f2c9b
+		["catpuccin-frappe"] = "󲲜", -- colr-icons-xml-catpuccin-frappe U+f2c9c
+		["catpuccin-latte"] = "󲲝", -- colr-icons-xml-catpuccin-latte U+f2c9d
+		["catpuccin-macchiato"] = "󲲞", -- colr-icons-xml-catpuccin-macchiato U+f2c9e
+		["catpuccin-mocha"] = "󲲟", -- colr-icons-xml-catpuccin-mocha U+f2c9f
 	},
 	["yaml"] = {
-		["material"] = "󲠂", -- colr-icons-yaml-material U+f2802
-		["catpuccin-frappe"] = "󲠃", -- colr-icons-yaml-catpuccin-frappe U+f2803
-		["catpuccin-latte"] = "󲠄", -- colr-icons-yaml-catpuccin-latte U+f2804
-		["catpuccin-macchiato"] = "󲠅", -- colr-icons-yaml-catpuccin-macchiato U+f2805
-		["catpuccin-mocha"] = "󲠆", -- colr-icons-yaml-catpuccin-mocha U+f2806
+		["material"] = "󲲠", -- colr-icons-yaml-material U+f2ca0
+		["catpuccin-frappe"] = "󲲡", -- colr-icons-yaml-catpuccin-frappe U+f2ca1
+		["catpuccin-latte"] = "󲲢", -- colr-icons-yaml-catpuccin-latte U+f2ca2
+		["catpuccin-macchiato"] = "󲲣", -- colr-icons-yaml-catpuccin-macchiato U+f2ca3
+		["catpuccin-mocha"] = "󲲤", -- colr-icons-yaml-catpuccin-mocha U+f2ca4
 	},
 	["yang"] = {
-		["material"] = "󲠇", -- colr-icons-yang-material U+f2807
+		["material"] = "󲲥", -- colr-icons-yang-material U+f2ca5
 	},
 	["yarn"] = {
-		["material"] = "󲠈", -- colr-icons-yarn-material U+f2808
-		["catpuccin-frappe"] = "󲠉", -- colr-icons-yarn-catpuccin-frappe U+f2809
-		["catpuccin-latte"] = "󲠊", -- colr-icons-yarn-catpuccin-latte U+f280a
-		["catpuccin-macchiato"] = "󲠋", -- colr-icons-yarn-catpuccin-macchiato U+f280b
-		["catpuccin-mocha"] = "󲠌", -- colr-icons-yarn-catpuccin-mocha U+f280c
+		["material"] = "󲲦", -- colr-icons-yarn-material U+f2ca6
+		["catpuccin-frappe"] = "󲲧", -- colr-icons-yarn-catpuccin-frappe U+f2ca7
+		["catpuccin-latte"] = "󲲨", -- colr-icons-yarn-catpuccin-latte U+f2ca8
+		["catpuccin-macchiato"] = "󲲩", -- colr-icons-yarn-catpuccin-macchiato U+f2ca9
+		["catpuccin-mocha"] = "󲲪", -- colr-icons-yarn-catpuccin-mocha U+f2caa
 	},
 	["yarn-lock"] = {
-		["catpuccin-frappe"] = "󲠍", -- colr-icons-yarn-lock-catpuccin-frappe U+f280d
-		["catpuccin-latte"] = "󲠎", -- colr-icons-yarn-lock-catpuccin-latte U+f280e
-		["catpuccin-macchiato"] = "󲠏", -- colr-icons-yarn-lock-catpuccin-macchiato U+f280f
-		["catpuccin-mocha"] = "󲠐", -- colr-icons-yarn-lock-catpuccin-mocha U+f2810
+		["catpuccin-frappe"] = "󲲫", -- colr-icons-yarn-lock-catpuccin-frappe U+f2cab
+		["catpuccin-latte"] = "󲲬", -- colr-icons-yarn-lock-catpuccin-latte U+f2cac
+		["catpuccin-macchiato"] = "󲲭", -- colr-icons-yarn-lock-catpuccin-macchiato U+f2cad
+		["catpuccin-mocha"] = "󲲮", -- colr-icons-yarn-lock-catpuccin-mocha U+f2cae
 	},
 	["zap"] = {
-		["catpuccin-frappe"] = "󲠑", -- colr-icons-zap-catpuccin-frappe U+f2811
-		["catpuccin-latte"] = "󲠒", -- colr-icons-zap-catpuccin-latte U+f2812
-		["catpuccin-macchiato"] = "󲠓", -- colr-icons-zap-catpuccin-macchiato U+f2813
-		["catpuccin-mocha"] = "󲠔", -- colr-icons-zap-catpuccin-mocha U+f2814
+		["catpuccin-frappe"] = "󲲯", -- colr-icons-zap-catpuccin-frappe U+f2caf
+		["catpuccin-latte"] = "󲲰", -- colr-icons-zap-catpuccin-latte U+f2cb0
+		["catpuccin-macchiato"] = "󲲱", -- colr-icons-zap-catpuccin-macchiato U+f2cb1
+		["catpuccin-mocha"] = "󲲲", -- colr-icons-zap-catpuccin-mocha U+f2cb2
 	},
 	["zeabur"] = {
-		["material"] = "󲠕", -- colr-icons-zeabur-material U+f2815
+		["material"] = "󲲳", -- colr-icons-zeabur-material U+f2cb3
 	},
 	["zeabur_light"] = {
-		["material"] = "󲠖", -- colr-icons-zeabur_light-material U+f2816
+		["material"] = "󲲴", -- colr-icons-zeabur_light-material U+f2cb4
 	},
 	["zig"] = {
-		["material"] = "󲠗", -- colr-icons-zig-material U+f2817
-		["catpuccin-frappe"] = "󲠘", -- colr-icons-zig-catpuccin-frappe U+f2818
-		["catpuccin-latte"] = "󲠙", -- colr-icons-zig-catpuccin-latte U+f2819
-		["catpuccin-macchiato"] = "󲠚", -- colr-icons-zig-catpuccin-macchiato U+f281a
-		["catpuccin-mocha"] = "󲠛", -- colr-icons-zig-catpuccin-mocha U+f281b
+		["material"] = "󲲵", -- colr-icons-zig-material U+f2cb5
+		["catpuccin-frappe"] = "󲲶", -- colr-icons-zig-catpuccin-frappe U+f2cb6
+		["catpuccin-latte"] = "󲲷", -- colr-icons-zig-catpuccin-latte U+f2cb7
+		["catpuccin-macchiato"] = "󲲸", -- colr-icons-zig-catpuccin-macchiato U+f2cb8
+		["catpuccin-mocha"] = "󲲹", -- colr-icons-zig-catpuccin-mocha U+f2cb9
 	},
 	["zip"] = {
-		["material"] = "󲠜", -- colr-icons-zip-material U+f281c
-		["catpuccin-frappe"] = "󲠝", -- colr-icons-zip-catpuccin-frappe U+f281d
-		["catpuccin-latte"] = "󲠞", -- colr-icons-zip-catpuccin-latte U+f281e
-		["catpuccin-macchiato"] = "󲠟", -- colr-icons-zip-catpuccin-macchiato U+f281f
-		["catpuccin-mocha"] = "󲠠", -- colr-icons-zip-catpuccin-mocha U+f2820
+		["material"] = "󲲺", -- colr-icons-zip-material U+f2cba
+		["catpuccin-frappe"] = "󲲻", -- colr-icons-zip-catpuccin-frappe U+f2cbb
+		["catpuccin-latte"] = "󲲼", -- colr-icons-zip-catpuccin-latte U+f2cbc
+		["catpuccin-macchiato"] = "󲲽", -- colr-icons-zip-catpuccin-macchiato U+f2cbd
+		["catpuccin-mocha"] = "󲲾", -- colr-icons-zip-catpuccin-mocha U+f2cbe
 	},
 }
