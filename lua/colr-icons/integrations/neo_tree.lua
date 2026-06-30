@@ -41,7 +41,7 @@ function M.provider(icon, node)
 	})
 	return {
 		text = resolved.text,
-		highlight = resolved.hi or "Normal",
+		highlight = resolved.hi or "NeoTreeFileName",
 	}
 end
 

@@ -1,5 +1,11 @@
 local icons = require("colr-icons.icons")
-local M = {}
+local M = {
+	devicon = nil
+}
+
+M.config = {
+	devicon_fallback = true,
+}
 
 
 -- Map of filename -> icon
@@ -124,28 +130,36 @@ function M.resolve_with_fallback(opts)
 	local result = M.resolve(opts)
 	if result then return result end
 
-	return { text = opts.ft or "NO", hi = "Normal" }
-	--if opts.is_dir then
-	--	return { text = (opts.is_open and " " or " "), hi = "NeoTreeFileIcon" }
-	--end
-	--local extension = opts.filename:match("%.([^./\\]+)$")
-	--local text, color = require("nvim-web-devicons").get_icon_color(opts.filename, extension)
-	--if not text then
-	--	return {
-	--		text = "󰈙 ", hi = "NeoTreeFileName"
-	--	}
-	--end
+	-- DEBUG: return { text = opts.ft or "NO", hi = "Normal" }
 
-	---- Get or build highlight
-	--local col_name = color:sub(2)
-	--local hi = HI_CACHE[col_name]
-	--if not hi then
-	--	local name = "ColrIconsHi" .. col_name
-	--	vim.api.nvim_set_hl(0, name, { fg = color })
-	--	HI_CACHE[col_name] = name
-	--	hi = name
-	--end
-	--return { text = text, hi = hi }
+	-- Devicon fallback
+	if M.devicon then
+		local extension = string.lower(opts.filename):match("%.([^./\\]+)$")
+		local text, color = M.devicon.get_icon_color(opts.filename, extension)
+		if not text then
+			return { text = "󰈙 " }
+		end
+
+		-- Get/build highlight
+		local col_name = color:sub(2)
+		local hi = HI_CACHE[col_name]
+		if not hi then
+			local name = "ColrIconsHi" .. col_name
+			vim.api.nvim_set_hl(0, name, { fg = color })
+			HI_CACHE[col_name] = name
+			hi = name
+		end
+		return { text = text, hi = hi }
+	end
+	return { text = "󰈙 " }
+end
+
+function M.setup(opts)
+	vim.tbl_deep_extend("force", M.config, opts or {})
+
+	if M.config.devicon_fallback == true then
+		M.devicon = require("nvim-web-devicons")
+	end
 end
 
 return M
