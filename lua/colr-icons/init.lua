@@ -2,6 +2,7 @@ local M = {}
 
 local integrations = {
 	neo_tree = "colr-icons.integrations.neo_tree",
+	snacks_picker = "colr-icons.integrations.snacks_picker",
 }
 
 function M.setup(opts)
@@ -9,6 +10,7 @@ function M.setup(opts)
 		return
 	end
 	require(integrations.neo_tree).setup()
+	require(integrations.snacks_picker).setup()
 end
 
 return M

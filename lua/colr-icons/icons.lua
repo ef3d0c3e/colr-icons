@@ -50,7 +50,7 @@ function M.get_icon(opts)
 	local icon = nil
 
 	-- Try to find a direct folder icon, do not fallback
-	function direct_match(name)
+	local function direct_match(name)
 		local theme_name = M.config.theme_selection[1]
 		local icon_name = "folder_" .. name
 		if opts.is_dir_open == true and theme_name ~= "material" then
@@ -58,7 +58,7 @@ function M.get_icon(opts)
 		end
 		local base = ICONS[icon_name]
 		if base then
-			local icon = base[theme_name]
+			icon = base[theme_name]
 			if icon then
 				return { text = icon .. " " }
 			end

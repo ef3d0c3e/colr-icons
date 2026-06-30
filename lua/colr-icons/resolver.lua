@@ -14,6 +14,9 @@ local filename_map = {
 	["cmake_module"] = "cmake",
 	["CMakeLists.txt"] = "cmake",
 	["docker-compose.yml"] = "docker-compose",
+	["license"] = "license",
+	["license.md"] = "license",
+	["license.rst"] = "license",
 }
 
 -- Map of filetype -> icon
@@ -61,7 +64,7 @@ local ext_map = {
 
 --- @class ResolveRequest
 --- @field is_dir boolean Indicates whether the file is a directory
---- @field path string Full path to the file
+--- @field path string? Full path to the file
 --- @field filename string File name
 --- @field ft string? File type
 --- @field is_open boolean True if folder is open (expanded in neo-tree)
@@ -82,7 +85,7 @@ function M.resolve(opts)
 	-- Resolve by FT
 	if opts.ft then
 		-- Special handling for C/C++ headers
-		if (opts.ft == "c" or opts.ft == "cpp") and ext == "h" ~= nil then
+		if (opts.ft == "c" or opts.ft == "cpp") and ext == "h" then
 			icon_name = "c-header"
 			goto finish
 		elseif opts.ft == "cpp" and (ext == "hpp" or ext == "tpp") then
