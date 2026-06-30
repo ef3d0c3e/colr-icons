@@ -32,7 +32,7 @@ def main():
 			for var_id, var in icons[name].items():
 				print(f"name = {name}-{var_id}")
 				path = pathlib.Path(var["svg"])
-				svg = f"picosvg/clipped/{name}-{var_id}.svg"
+				svg = f"picosvg/clipped/{path.name}"
 				cp = BASE + i
 				i = i + 1
 				glyphname = f"colr-icons-{name}-{var_id}"
