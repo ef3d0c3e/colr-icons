@@ -29,16 +29,19 @@ function M.provider(icon, node)
 	end
 
 	local is_dir = is_directory(node)
+	local filetype = vim.filetype.match({
+		filename = node.name,
+	})
 	local resolved = resolver.resolve_with_fallback({
 		is_dir = is_dir,
 		path = path,
 		filename = node.name,
-		type = node.type,
+		ft = filetype,
 		is_open = node:is_expanded()
 	})
 	return {
 		text = resolved.text,
-		highlight = resolved.hi,
+		highlight = resolved.hi or "Normal",
 	}
 end
 

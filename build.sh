@@ -18,8 +18,8 @@ nanoemoji \
 
 # Currently nanoemoji ignores fea_file, so the workaround is to first run the generator, then overwrite the default .fea with the one in generated/
 # This will only rebuild the final font, not reprocessing svg
-rm ./build/COLR Icons.ttf
-cp ./generated/ligatures.fea ./build/COLR Icons.fea
+rm 'build/COLR Icons.ttf'
+cp generated/ligatures.fea "build/COLR Icons.fea"
 nanoemoji \
   --color_format glyf_colr_1 \
   --output_file 'COLR Icons.ttf' \

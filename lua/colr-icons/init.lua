@@ -5,7 +5,9 @@ local integrations = {
 }
 
 function M.setup(opts)
-
+	if not require("colr-icons.icons").setup(opts.icons) then
+		return
+	end
 	require(integrations.neo_tree).setup()
 end
 
