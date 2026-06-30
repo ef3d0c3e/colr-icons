@@ -61,7 +61,7 @@ function M.get_icon(opts)
 
 	-- Return icon + optional base
 	if icon then
-		if not opts.is_dir_open then
+		if opts.is_dir_open == nil then
 			return { text = icon .. " " }
 		end
 
@@ -80,8 +80,8 @@ function M.get_icon(opts)
 		return { text = ICONS["folder"][M.config.theme_selection[1]] .. " " }
 	end
 
+	-- Return placeholder
 	if opts.with_placeholder == true then
-		-- Return placeholder
 		local theme = M.themes[M.config.theme_selection[1]]
 		-- TODO: Return devicon placeholder + hi
 		return { text = theme.placeholder }

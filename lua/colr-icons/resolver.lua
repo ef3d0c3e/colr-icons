@@ -2,15 +2,55 @@ local icons = require("colr-icons.icons")
 local M = {}
 
 
+-- Map of filename -> icon
 local filename_map = {
 	["cmake_modules"] = "cmake",
 	["cmake_module"] = "cmake",
 	["CMakeLists.txt"] = "cmake",
+	["docker-compose.yml"] = "docker-compose",
 }
 
+-- Map of filetype -> icon
 local filetype_map = {
 	["so"] = "dll",
 	["sh"] = "bash",
+	["dosbatch"] = "batch",
+	["jsonc"] = "json",
+	["cmakecache"] = "cmake",
+	["make"] = "makefile",
+	["dockerfile"] = "docker",
+	["xpm"] = "image",
+}
+
+-- Map of extension -> icon
+local ext_map = {
+	["png"] = "image",
+	["jpg"] = "image",
+	["jpeg"] = "image",
+	["gif"] = "image",
+	["webp"] = "image",
+	["xcf"] = "image",
+	["kra"] = "image",
+
+	["ogg"] = "audio",
+	["mp3"] = "audio",
+	["flac"] = "audio",
+	["wav"] = "audio",
+
+	["mkv"] = "video",
+	["mp4"] = "video",
+	["m4a"] = "video",
+	["webm"] = "video",
+
+	["tar"] = "zip",
+	["gz"] = "zip",
+	["xz"] = "zip",
+	["a"] = "zip",
+
+	["out"] = "binary",
+	["o"] = "binary",
+
+	["so"] = "dll",
 }
 
 --- @class ResolveRequest
@@ -25,7 +65,9 @@ function M.resolve(opts)
 	local icon_name = ""
 
 	-- Resolve by filename
-	local type = filename_map[string.lower(opts.filename)]
+	local filename_lower = string.lower(opts.filename)
+	local type = filename_map[filename_lower]
+	local ext = nil
 	if type then
 		icon_name = type
 		goto finish
@@ -40,9 +82,24 @@ function M.resolve(opts)
 			goto finish
 		end
 
-		icon_name = opts.ft
-		goto finish
+		-- Placeholder
+		if opts.ft then
+			icon_name = opts.ft
+			goto finish
+		end
 	end
+
+	-- Resolve by extension
+	ext = filename_lower:match("%.([^./\\]+)$")
+	if ext then
+		type = ext_map[ext]
+		if type then
+			icon_name = type
+			goto finish
+		end
+	end
+
+	icon_name = filename_lower
 
 	::finish::
 	-- Even if no icon is found, return a plain directory icon
