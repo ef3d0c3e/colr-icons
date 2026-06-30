@@ -109,7 +109,7 @@ You can then run `./build.sh` and wait for it to build the font in `build/COLR I
 
 ## Advanced usage
 
-If you want to modify, contribute or simply understand how this project works, you
+If you want to modify, contribute or simply understand how this project works, you should look at these files:
 
  - `gen.py` This script builds the composite ligature icons. It read from `config.toml` and generates the composite SVGs used by ligatures.
   This script will populate the `generated/` directory with composite SVGs, `generated/map.txt` (available in Releases) containing a list of all icons, it will also create `generated/ligatures.fea` containing informations to build ligatures.
@@ -154,7 +154,7 @@ This transform is then applied to the `badge` icon when generating the composite
 
 Everyone is welcome to contribute to this project.
 
-Make sure to report any bug, invalid icon, incorrect composite SVGs or plugin bugs to the issue tracker.
+Make sure to report any bugs: invalid icons, incorrect composite SVGs or plugin bugs to the issue tracker.
 
 # Future plans
 

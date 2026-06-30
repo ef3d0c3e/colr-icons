@@ -4,7 +4,6 @@ import pathlib
 
 BASE = 0xF1F00
 
-
 def parse_args():
 	import argparse
 
