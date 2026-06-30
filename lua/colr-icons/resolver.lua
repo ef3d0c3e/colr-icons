@@ -73,7 +73,7 @@ function M.resolve(opts)
 	-- Resolve by filename
 	local filename_lower = string.lower(opts.filename)
 	local type = filename_map[filename_lower]
-	local ext = nil
+	local ext = filename_lower:match("%.([^./\\]+)$")
 	if type then
 		icon_name = type
 		goto finish
@@ -81,6 +81,14 @@ function M.resolve(opts)
 
 	-- Resolve by FT
 	if opts.ft then
+		-- Special handling for C/C++ headers
+		if (opts.ft == "c" or opts.ft == "cpp") and ext == "h" ~= nil then
+			icon_name = "c-header"
+			goto finish
+		elseif opts.ft == "cpp" and (ext == "hpp" or ext == "tpp") then
+			icon_name = "cpp-header"
+			goto finish
+		end
 		-- Remap as required
 		type = filetype_map[opts.ft]
 		if type then
@@ -96,7 +104,6 @@ function M.resolve(opts)
 	end
 
 	-- Resolve by extension
-	ext = filename_lower:match("%.([^./\\]+)$")
 	if ext then
 		type = ext_map[ext]
 		if type then

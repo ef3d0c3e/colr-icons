@@ -1113,7 +1113,7 @@ return {
 		["catpuccin-mocha"] = "󲆙", -- colr-icons-folder-plain-catpuccin-mocha U+f2199
 	},
 	["folder-open"] = {
-		["material-open"] = "󲆊", -- colr-icons-folder-material U+f218a
+		["material"] = "󲆊", -- colr-icons-folder-material U+f218a
 		["catpuccin-frappe"] = "󲆔", -- colr-icons-folder-plain-catpuccin-frappe-open U+f2194
 		["catpuccin-latte"] = "󲆖", -- colr-icons-folder-plain-catpuccin-latte-open U+f2196
 		["catpuccin-macchiato"] = "󲆘", -- colr-icons-folder-plain-catpuccin-macchiato-open U+f2198
