@@ -1,5 +1,5 @@
 local resolver = require("colr-icons.resolver")
-
+local render = require("colr-icons.render")
 
 local M = {}
 
@@ -54,7 +54,8 @@ function M.icon(item, picker)
 		is_dir = is_dir,
 		is_open = false,
 	})
-	return {  icon.text, icon.hi or "Normal", virtual = true }
+	local hi = icon.color and render.get_hi(icon.color) or "SnacksPickerIcon"
+	return {  icon.text, hi, virtual = true }
 end
 
 function M.filename(item, picker)

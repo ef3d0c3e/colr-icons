@@ -1,4 +1,5 @@
 local icons = require("colr-icons.icons")
+
 local M = {
 	devicon = nil
 }
@@ -6,6 +7,17 @@ local M = {
 M.config = {
 	devicon_fallback = true,
 }
+
+--- @class ResolveRequest
+--- @field is_dir boolean Indicates whether the file is a directory
+--- @field path string? Full path to the file
+--- @field filename string File name
+--- @field ft string? File type
+--- @field is_open boolean True if folder is open (expanded in neo-tree)
+
+--- @class ResolveResult Result of a resolver call
+--- @field text string The icon text
+--- @field color string? Foreground color, e.g `#FF007F`
 
 
 -- Map of filename -> icon
@@ -29,6 +41,7 @@ local filetype_map = {
 	["make"] = "makefile",
 	["dockerfile"] = "docker",
 	["xpm"] = "image",
+	["sql"] = "database",
 }
 
 -- Map of extension -> icon
@@ -62,14 +75,8 @@ local ext_map = {
 	["so"] = "dll",
 }
 
---- @class ResolveRequest
---- @field is_dir boolean Indicates whether the file is a directory
---- @field path string? Full path to the file
---- @field filename string File name
---- @field ft string? File type
---- @field is_open boolean True if folder is open (expanded in neo-tree)
-
---- @param opts ResolveRequest
+--- @param opts ResolveRequest The request
+--- @return ResolveResult? The response on success, field `color` is empty because icons carry their own colors
 function M.resolve(opts)
 	local icon_name = ""
 
@@ -133,14 +140,14 @@ function M.resolve(opts)
 	return nil
 end
 
-HI_CACHE = {}
-
---- @param opts ResolveRequest
+--- @brief Resolve an icon request, (optionally) using nvim-web-devicon as a fallback, otherwise return a placeholder icon
+--- @param opts ResolveRequest The request
+--- @return ResolveResult
 function M.resolve_with_fallback(opts)
 	local result = M.resolve(opts)
 	if result then return result end
 
-	-- DEBUG: return { text = opts.ft or "NO", hi = "Normal" }
+	-- DEBUG: return { text = opts.ft or "NO" }
 
 	-- Devicon fallback
 	if M.devicon then
@@ -150,16 +157,7 @@ function M.resolve_with_fallback(opts)
 			return { text = "󰈙 " }
 		end
 
-		-- Get/build highlight
-		local col_name = color:sub(2)
-		local hi = HI_CACHE[col_name]
-		if not hi then
-			local name = "ColrIconsHi" .. col_name
-			vim.api.nvim_set_hl(0, name, { fg = color })
-			HI_CACHE[col_name] = name
-			hi = name
-		end
-		return { text = text, hi = hi }
+		return { text = text, color = color }
 	end
 	return { text = "󰈙 " }
 end

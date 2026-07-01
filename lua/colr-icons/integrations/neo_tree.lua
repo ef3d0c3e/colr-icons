@@ -1,4 +1,5 @@
 local resolver = require("colr-icons.resolver")
+local render = require("colr-icons.render")
 
 local M = {}
 
@@ -39,9 +40,10 @@ function M.provider(icon, node)
 		ft = filetype,
 		is_open = node:is_expanded()
 	})
+	local hi = resolved.color and render.get_hi(resolved.color) or "NeoTreeFileName"
 	return {
 		text = resolved.text,
-		highlight = resolved.hi or "NeoTreeFileName",
+		highlight = hi,
 	}
 end
 

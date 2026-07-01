@@ -23,7 +23,14 @@ function M.setup(opts)
 		if not integrations[integration] then
 			vim.notify("[colr-icons] Invalid integration `" .. integration .."'", vim.log.levels.ERROR)
 		end
-		require(integrations[integration]).setup()
+		local module = require(integrations[integration])
+		local setup_ok, result, err = pcall(module.setup)
+		if not setup_ok then
+			vim.notify("[colr-icons] Failed to setup integration `" .. integration .."'", vim.log.levels.ERROR)
+		end
+		if result == false then
+			vim.notify("[colr-icons] Failed to setup integration `" .. integration .."': " .. err, vim.log.levels.ERROR)
+		end
 	end
 end
 
