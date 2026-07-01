@@ -15,6 +15,7 @@ COLR Icons is a font and a NeoVim plugin that bring colorful icons to your termi
     * [Themes](#themes)
  - [Building](#building)
     * [Advanced usage](#advanced-usage)
+ - [API](#api)
  - [Contributing](#contributing)
  - [Future plans](#future-plans)
  - [Attributions](#attributions)
@@ -109,19 +110,19 @@ resolver = {
 </p>
 <p align="center">
     <img src="./docs/demo-catpuccin-frappe.png" alt="Icons from Catpuccin-frappe theme"><br>
-    Icons from Material Catpuccin-frappe, using the <code>catpuccin-frappe</code> theme.
+    Icons from Catpuccin-frappe, using the <code>catpuccin-frappe</code> theme.
 </p>
 <p align="center">
     <img src="./docs/demo-catpuccin-latte.png" alt="Icons from Catpuccin-latte theme"><br>
-    Icons from Material Catpuccin-latte, using the <code>catpuccin-latte</code> theme.
+    Icons from Catpuccin-latte, using the <code>catpuccin-latte</code> theme.
 </p>
 <p align="center">
     <img src="./docs/demo-catpuccin-macchiato.png" alt="Icons from Catpuccin-macchiato theme"><br>
-    Icons from Material Catpuccin-macchiato, using the <code>catpuccin-macchiato</code> theme.
+    Icons from Catpuccin-macchiato, using the <code>catpuccin-macchiato</code> theme.
 </p>
 <p align="center">
     <img src="./docs/demo-catpuccin-mocha.png" alt="Icons from Catpuccin-mocha theme"><br>
-    Icons from Material Catpuccin-mocha, using the <code>catpuccin-mocha</code> theme.
+    Icons from Catpuccin-mocha, using the <code>catpuccin-mocha</code> theme.
 </p>
 
 # Building
@@ -176,6 +177,54 @@ badge_scale = [0.6, 0.6]
 ```
 
 This transform is then applied to the `badge` icon when generating the composite.
+
+# API
+
+The plugin exposes an API to query icons:
+```lua
+-- Query icons from colr-icons only, returns `nil` if not found
+require("colr-icons.resolver").resolve(opts)
+-- Like `resolve`, but falls back to devicon or a placeholder if not found
+require("colr-icons.resolver").resolve_with_fallback(opts)
+```
+
+Parameter `opts` is a table containing the following
+
+```lua
+{
+    is_dir = true, -- Indicate whether the query is for a directory (will return a badged icon on success)
+    is_open = false, -- Indicates whether the directory is open (should be false for regular files)
+    filename = "my_file.lua", -- Filename
+    ft = "lua", -- (optional) Filetype, can be inferred via `vim.filetype.match`
+    path = "full_path_to_file", -- (optional) Full path to file on disk, currently unused
+}
+```
+
+These functions return a table containing the following:
+```lua
+{
+    text = "icon", -- Icon
+    color = "#ff0000", -- (optional) color, only set when falling back to devicon
+}
+```
+
+**Examples**
+```lua
+require("colr-icons.resolver").resolve_with_fallback({
+    is_dir = false,
+    is_open = false,
+    filename = "init.lua",
+    filetype = "lua",
+})
+
+require("colr-icons.resolver").resolve({
+    is_dir = true,
+    is_open = true,
+    filename = "build",
+    path = "/home/user/project/build",
+})
+```
+
 
 # Contributing
 
