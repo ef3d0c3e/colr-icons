@@ -12,6 +12,7 @@ COLR Icons is a font and a NeoVim plugin that bring colorful icons to your termi
  - [Introduction](#introduction)
  - [Installing](#installing)
     * [Configuring](#configuring)
+    * [Themes](#themes)
  - [Building](#building)
     * [Advanced usage](#advanced-usage)
  - [Contributing](#contributing)
@@ -56,7 +57,10 @@ config.font = wezterm.font_with_fallback {
 ```
 
 **Kitty**
-Currently kitty is having issues rendering COLRv1 glyphs, I've filled out an [issue](https://github.com/kovidgoyal/kitty/issues/10209) on their repository.
+Currently kitty refuses to render COLRv1 unless the codepoint is an emoji, this is an expected behavior per Unicode.
+Therefore kitty will not work with the font, see <https://github.com/kovidgoyal/kitty/pull/10193>.
+However there is a way to work around this limitation, for instance we could override some emojis with custom colored glyphs.
+Then using variation selectors we could fit all glyphs while only using only a few emoji codepoints.
 
 4. Install the neovim plugin:
 
@@ -75,7 +79,7 @@ Currently kitty is having issues rendering COLRv1 glyphs, I've filled out an [is
     - `snacks_picker` to enable integration with [snacks-picker](https://github.com/nvim-neo-tree/neo-tree.nvim)
  * `icons.theme_selection` The (ordered) list of icon themes to chose from.
  The plugin will try each theme in order if an icon is missing.
- Here's the list of all supported themes:
+ Here's the list of all supported themes (see [Themes](#themes)):
     - `material`
     - `catpuccin-frappe`
     - `catpuccin-latte`
@@ -96,6 +100,29 @@ resolver = {
     devicon_fallback = true, -- Will be turned off if nvim-web-devicon is not installed
 },
 ```
+
+## Themes
+
+<p align="center">
+    <img src="./docs/demo-material.png" alt="Icons from the Material Icon Theme"><br>
+    Icons from the Material Icon Theme, using the <code>material</code> theme.
+</p>
+<p align="center">
+    <img src="./docs/demo-catpuccin-frappe.png" alt="Icons from Catpuccin-frappe theme"><br>
+    Icons from Material Catpuccin-frappe, using the <code>catpuccin-frappe</code> theme.
+</p>
+<p align="center">
+    <img src="./docs/demo-catpuccin-latte.png" alt="Icons from Catpuccin-latte theme"><br>
+    Icons from Material Catpuccin-latte, using the <code>catpuccin-latte</code> theme.
+</p>
+<p align="center">
+    <img src="./docs/demo-catpuccin-macchiato.png" alt="Icons from Catpuccin-macchiato theme"><br>
+    Icons from Material Catpuccin-macchiato, using the <code>catpuccin-macchiato</code> theme.
+</p>
+<p align="center">
+    <img src="./docs/demo-catpuccin-mocha.png" alt="Icons from Catpuccin-mocha theme"><br>
+    Icons from Material Catpuccin-mocha, using the <code>catpuccin-mocha</code> theme.
+</p>
 
 # Building
 
