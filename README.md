@@ -15,21 +15,20 @@ COLR Icons is a font and a NeoVim plugin that bring colorful icons to your termi
     * [Themes](#themes)
  - [Building](#building)
     * [Advanced usage](#advanced-usage)
+ - [Glyphs](#glyphs)
  - [API](#api)
  - [Contributing](#contributing)
  - [Future plans](#future-plans)
  - [Attributions](#attributions)
+ - [Changelog](#changelog)
  - [License](#license)
 
 # Introduction
 
-The Unicode standard defines 3 [Private Use Areas](https://en.wikipedia.org/wiki/Private_Use_Areas) where third parties can add custom glyphs.
-Projects like [Nerd Fonts](https://www.nerdfonts.com/cheat-sheet) already use these areas to add custom (monochrome) icons.
-
 COLR Icons uses the [COLRv1](https://developer.chrome.com/blog/colrv1-fonts/) standard that enables fonts to have colored vector glyphs.
 The font is built by bundling widely used icon sets, such as the [Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme) into a single `.ttf` file.
 
-COLR Icons glyphs resides in the *Supplementary Private Use Area-A (PUA-A)*, at codepoint U+F1F00. Currently, COLR Icons occupies the range `U+F1F00 - U+F2CBE`.
+COLR Icons glyph use the four-leaf-clover and maple-leaf emojis. Then, using ligature the display of these glyphs can be changed to any icon from the font. See [Glyphs](#glyphs) for more information.
 
 In order to embed even more icons in the font, COLR Icons uses ligatures to *fuse* icons together.
 <p align="center">
@@ -58,10 +57,9 @@ config.font = wezterm.font_with_fallback {
 ```
 
 **Kitty**
-Currently kitty refuses to render COLRv1 unless the codepoint is an emoji, this is an expected behavior per Unicode.
-Therefore kitty will not work with the font, see <https://github.com/kovidgoyal/kitty/pull/10193>.
-However there is a way to work around this limitation, for instance we could override some emojis with custom colored glyphs.
-Then using variation selectors we could fit all glyphs while only using only a few emoji codepoints.
+```
+symbol_map U+1f340,U+1f341 COLR Terminal Icons
+```
 
 4. Install the neovim plugin:
 
@@ -178,6 +176,37 @@ badge_scale = [0.6, 0.6]
 
 This transform is then applied to the `badge` icon when generating the composite.
 
+# Glyphs
+
+All glyphs in this font use an emoji as prefix:
+ - 🍀 for regular icons
+ - 🍁 for *badged* icons (ligatures)
+
+Then a specific icon can be chosen by adding [Variation Selectors](https://en.wikipedia.org/wiki/Variation_Selectors_(Unicode_block)).
+
+For instance, the `database-catpucciun-latte` icon is encoded in the following way: `🍀 U+fe01 U+e01c6`:
+ - `🍀` is the prefix for regular icons
+ - `U+fe01` is variation selector 2
+ - `U+e01c6` is variation selector 215
+
+Similarly the `folder-material` icon is encoded like so: `🍀 U+fe02 U+e017a`
+
+Here's the method to make a ligature from these two icons:
+ - Strip the `🍀` prefix on both icons
+ - Then concatenate: `🍁 <icon1> <icon2>`, and you've now got a ligature!
+
+Below is some Lua snippet that does this:
+```lua
+BASE_CODEPOINT = "🍀"
+BASE_CODEPOINT_LIGATURES = "🍁"
+
+local function make_ligature(base, badge)
+	return BASE_CODEPOINT_LIGATURES .. base:sub(BASE_CODEPOINT:len() + 1) .. badge:sub(BASE_CODEPOINT:len() + 1)
+end
+```
+
+You can view the list of all glyphs in this font by downloading `map.txt` in the **Releases** tab.
+
 # API
 
 The plugin exposes an API to query icons:
@@ -242,12 +271,21 @@ Make sure to report any bugs: invalid icons, incorrect composite SVGs or plugin 
 # Attributions
 
 This project bundles icons from the [Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme) and icons from [Catpuccin Icons](https://github.com/catppuccin/vscode-icons).
+For proper COLRv1 support, the font bundles these emojis from Noto Emoji: 🍀 and 🍁.
 
 Also, great thanks to [real-icons.nvim](https://github.com/Mirsmog/real-icons.nvim) for the idea and plugin integrations.
 
+# Changelog
+
+**1.1.0**
+ - Remapped all icons from PUAs to emojis for proper COLRv1 support
+ - Added support for Kitty
+ - Improved font build time
+
 # License
 
- * Catpuccin icons are licensed under MIT
- * Material icons are licensed under MIT
+This project is licensed under [MIT](./LICENSE).
 
-This project is licensed under MIT.
+ * Catpuccin icons are licensed under [MIT](./LICENSE)
+ * Material icons are licensed under [MIT](./LICENSE)
+ * Noto Emoji emojis are licensed under [Apache 2.0](./LICENSE-APACHE-2.0)
