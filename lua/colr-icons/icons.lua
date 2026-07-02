@@ -10,31 +10,38 @@ M.config = {
 
 M.themes = {
 	["material"] = {
-		folder_closed = "󲆊",
-		folder_open = "󲆊",
+		folder_closed = "🍀︂󠅺",
+		folder_open = "🍀︂󠅺",
 		placeholder = "FF",
 	},
 	["catpuccin-frappe"] = {
-		folder_closed = "󲆋",
-		folder_open = "󲆌",
+		folder_closed = "🍀︂󠅻",
+		folder_open = "🍀︂󠅼",
 		placeholder = "FF",
 	},
 	["catpuccin-latte"] = {
-		folder_closed = "󲆍",
-		folder_open = "󲆎",
+		folder_closed = "🍀︂󠅽",
+		folder_open = "🍀︂󠅾",
 		placeholder = "FF",
 	},
 	["catpuccin-macchiato"] = {
-		folder_closed = "󲆏",
-		folder_open = "󲆐",
+		folder_closed = "🍀︂󠅿",
+		folder_open = "🍀︂󠆀",
 		placeholder = "FF",
 	},
 	["catpuccin-mocha"] = {
-		folder_closed = "󲆑",
-		folder_open = "󲆒",
+		folder_closed = "🍀︂󠆁",
+		folder_open = "🍀︂󠆂",
 		placeholder = "FF",
 	},
 }
+
+BASE_CODEPOINT = "🍀"
+BASE_CODEPOINT_LIGATURES = "🍁"
+
+local function make_ligature(base, badge)
+	return BASE_CODEPOINT_LIGATURES .. base:sub(BASE_CODEPOINT:len() + 1) .. badge:sub(BASE_CODEPOINT:len() + 1)
+end
 
 --- @class IconRequest
 --- @field name string Icon name
@@ -58,7 +65,7 @@ function M.get_icon(opts)
 		if base then
 			icon = base[theme_name]
 			if icon then
-				return { text = icon .. " " }
+				return { text = icon }
 			end
 		end
 		return nil
@@ -87,22 +94,22 @@ function M.get_icon(opts)
 	-- Return icon + optional base
 	if icon then
 		if opts.is_dir_open == nil then
-			return { text = icon .. " " }
+			return { text = icon }
 		end
 
 		local theme = M.themes[M.config.theme_selection[1]]
 		if opts.is_dir_open == true then
-			return { text = theme.folder_open .. icon }
+			return { text = make_ligature(theme.folder_open, icon) }
 		else
-			return { text = theme.folder_closed .. icon }
+			return { text = make_ligature(theme.folder_closed, icon) }
 		end
 	end
 
 	-- No icon found, return plain directory
 	if opts.is_dir_open == true then
-		return { text = ICONS["folder-open"][M.config.theme_selection[1]] .. " " }
+		return { text = ICONS["folder-open"][M.config.theme_selection[1]] }
 	elseif opts.is_dir_open == false then
-		return { text = ICONS["folder"][M.config.theme_selection[1]] .. " " }
+		return { text = ICONS["folder"][M.config.theme_selection[1]] }
 	end
 
 	-- Return placeholder
