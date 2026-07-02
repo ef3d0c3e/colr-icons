@@ -8,6 +8,7 @@ import xml.etree.ElementTree as ET
 SVG_NS = "http://www.w3.org/2000/svg"
 ET.register_namespace("", SVG_NS)
 BASE = 0x1f340 # 🍀
+BASE_LIG = 0x1f341 # 🍁
 
 def preprocess_base(path: str) -> ET.Element:
     import io
@@ -87,6 +88,7 @@ def svg_compose(base_svg, badge_svg, anchor, scale):
 
 # Get the Varation Selectors id for a glyph id
 def get_selectors(id):
+    assert(id < 65536)
     def var_sel(i):
         assert(i < 256)
         # https://en.wikipedia.org/wiki/Variation_Selectors_(Unicode_block)
@@ -96,9 +98,8 @@ def get_selectors(id):
         # https://en.wikipedia.org/wiki/Variation_Selectors_Supplement
         return 0xE0100 + i
     return [
-        var_sel((id // 0x10000) % 256),
-        var_sel((id // 0x100) % 256),
-        var_sel(id % 256),
+        var_sel((id >> 8) & 0xFF),
+        var_sel(id & 0xFF),
     ]
 
 def main():
@@ -129,9 +130,9 @@ def main():
             for icon_var, icon in iconvars.items():
                 base_glyph = f"{icon_name}-{icon_var}"
                 selectors = get_selectors(id)
-                map_lines.append(f"colr-icons-{base_glyph} U+{BASE:x} U+{selectors[0]:x} U+{selectors[1]:x} U+{selectors[2]:x}; {chr(BASE)}{chr(selectors[0])}{chr(selectors[1])}{chr(selectors[2])}")
+                map_lines.append(f"colr-icons-{base_glyph} U+{BASE:x} U+{selectors[0]:x} U+{selectors[1]:x}; {chr(BASE)}{chr(selectors[0])}{chr(selectors[1])}")
                 fea_lines.append(
-                    f"  sub uni{BASE:x} uni{selectors[0]:x} uni{selectors[1]:x} uni{selectors[2]:x} by colr-icons-{base_glyph};"
+                    f"  sub uni{BASE:x} uni{selectors[0]:x} uni{selectors[1]:x} by colr-icons-{base_glyph};"
                 )
                 id_map[base_glyph] = id
                 id += 1
@@ -161,7 +162,7 @@ def main():
 
                     id1 = get_selectors(id_map[base_glyph])
                     id2 = get_selectors(id_map[badge_glyph])
-                    map_lines.append(f"colr-icons-{comp_glyph} U+{BASE:x} U+{id1[0]:x} U+{id1[1]:x} U+{id1[2]:x} U+{id2[0]:x} U+{id2[1]:x} U+{id2[2]:x}; {chr(BASE)}{chr(id1[0])}{chr(id1[1])}{chr(id1[2])}{chr(id2[0])}{chr(id2[1])}{chr(id2[2])}")
+                    map_lines.append(f"colr-icons-{comp_glyph} U+{BASE_LIG:x} U+{id1[0]:x} U+{id1[1]:x} U+{id2[0]:x} U+{id2[1]:x}; {chr(BASE_LIG)}{chr(id1[0])}{chr(id1[1])}{chr(id2[0])}{chr(id2[1])}")
 
 
                     # Get badge transform properties from base
@@ -181,8 +182,6 @@ def main():
                     base_svg = preprocess_base(base["svg"])
                     badge_svg = preprocess_base(badge["svg"])
                     out_svg = svg_compose(base_svg, badge_svg, anchor, scale)
-                    #print(ET.tostring(badge_svg, encoding="unicode"))
-                    #print(ET.tostring(base_svg, encoding="unicode"))
 
                     filename = f"composite-{comp_glyph}.svg"
                     path = os.path.join("generated", filename)
@@ -192,7 +191,7 @@ def main():
 
                     # Append ligature rule for base + badge
                     fea_lines.append(
-                        f"  sub uni{BASE:x} uni{id1[0]:x} uni{id1[1]:x} uni{id1[2]:x} uni{id2[0]:x} uni{id2[1]:x} uni{id2[2]:x} by colr-icons-{comp_glyph};"
+                        f"  sub uni{BASE_LIG:x} uni{id1[0]:x} uni{id1[1]:x} uni{id2[0]:x} uni{id2[1]:x} by colr-icons-{comp_glyph};"
                     )
         # Save fea
         fea_lines.append("} rlig;")
