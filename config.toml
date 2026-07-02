@@ -96,11 +96,11 @@ svg = "icons/adobe-illustrator-material.svg"
 [icons.adobe-illustrator_light.material]
 svg = "icons/adobe-illustrator_light-material.svg"
 
-[icons.adobe-photoshop.material]
-svg = "icons/adobe-photoshop-material.svg"
+[icons.adobe-ps.material]
+svg = "icons/adobe-ps-material.svg"
 
-[icons.adobe-photoshop_light.material]
-svg = "icons/adobe-photoshop_light-material.svg"
+[icons.adobe-ps_light.material]
+svg = "icons/adobe-ps_light-material.svg"
 
 [icons.adobe-swc.material]
 svg = "icons/adobe-swc-material.svg"
@@ -123,8 +123,8 @@ svg = "icons/angular-material.svg"
 [icons.antlr.material]
 svg = "icons/antlr-material.svg"
 
-[icons.apiblueprint.material]
-svg = "icons/apiblueprint-material.svg"
+[icons.api-blueprint.material]
+svg = "icons/api-blueprint-material.svg"
 
 [icons.apollo.material]
 svg = "icons/apollo-material.svg"
@@ -255,11 +255,11 @@ svg = "icons/bower-material.svg"
 [icons.brainfuck.material]
 svg = "icons/brainfuck-material.svg"
 
-[icons.browserlist.material]
-svg = "icons/browserlist-material.svg"
+[icons.browserslist.material]
+svg = "icons/browserslist-material.svg"
 
-[icons.browserlist_light.material]
-svg = "icons/browserlist_light-material.svg"
+[icons.browserslist-light.material]
+svg = "icons/browserslist_light-material.svg"
 
 [icons.bruno.material]
 svg = "icons/bruno-material.svg"
@@ -330,11 +330,11 @@ svg = "icons/chromatic-material.svg"
 [icons.chrome.material]
 svg = "icons/chrome-material.svg"
 
-[icons.circleci.material]
+[icons.circle-ci.material]
 svg = "icons/circleci-material.svg"
 
-[icons.circleci_light.material]
-svg = "icons/circleci_light-material.svg"
+[icons.circle-ci-light.material]
+svg = "icons/circle-ci-light-material.svg"
 
 [icons.citation.material]
 svg = "icons/citation-material.svg"
@@ -381,8 +381,8 @@ svg = "icons/codeowners-material.svg"
 [icons.coderabbit-ai.material]
 svg = "icons/coderabbit-ai-material.svg"
 
-[icons.coffee.material]
-svg = "icons/coffee-material.svg"
+[icons.coffeescript.material]
+svg = "icons/coffeescript-material.svg"
 
 [icons.coldfusion.material]
 svg = "icons/coldfusion-material.svg"
@@ -402,8 +402,8 @@ svg = "icons/commitlint-material.svg"
 [icons.concourse.material]
 svg = "icons/concourse-material.svg"
 
-[icons.conduct.material]
-svg = "icons/conduct-material.svg"
+[icons.code-of-conduct.material]
+svg = "icons/code-of-conduct-material.svg"
 
 [icons.console.material]
 svg = "icons/console-material.svg"
@@ -474,8 +474,8 @@ svg = "icons/d-material.svg"
 [icons.dart.material]
 svg = "icons/dart-material.svg"
 
-[icons.dart_generated.material]
-svg = "icons/dart_generated-material.svg"
+[icons.dart-generated.material]
+svg = "icons/dart-generated-material.svg"
 
 [icons.database.material]
 svg = "icons/database-material.svg"
@@ -531,8 +531,8 @@ svg = "icons/dotjs-material.svg"
 [icons.drawio.material]
 svg = "icons/drawio-material.svg"
 
-[icons.drizzle.material]
-svg = "icons/drizzle-material.svg"
+[icons.drizzle-orm.material]
+svg = "icons/drizzle-orm-material.svg"
 
 [icons.drone.material]
 svg = "icons/drone-material.svg"
@@ -858,8 +858,8 @@ svg = "icons/jsconfig-material.svg"
 [icons.json.material]
 svg = "icons/json-material.svg"
 
-[icons.json_schema.material]
-svg = "icons/json_schema-material.svg"
+[icons.json-schema.material]
+svg = "icons/json-schema-material.svg"
 
 [icons.jsr.material]
 svg = "icons/jsr-material.svg"
@@ -945,8 +945,8 @@ svg = "icons/lighthouse-material.svg"
 [icons.lilypond.material]
 svg = "icons/lilypond-material.svg"
 
-[icons.lintstaged.material]
-svg = "icons/lintstaged-material.svg"
+[icons.lint-staged.material]
+svg = "icons/lint-staged-material.svg"
 
 [icons.liquid.material]
 svg = "icons/liquid-material.svg"
@@ -1191,8 +1191,8 @@ svg = "icons/packship-material.svg"
 [icons.palette.material]
 svg = "icons/palette-material.svg"
 
-[icons.panda.material]
-svg = "icons/panda-material.svg"
+[icons.panda-css.material]
+svg = "icons/panda-css-material.svg"
 
 [icons.parcel.material]
 svg = "icons/parcel-material.svg"
@@ -1275,8 +1275,8 @@ svg = "icons/postcss-material.svg"
 [icons.posthtml.material]
 svg = "icons/posthtml-material.svg"
 
-[icons.powerpoint.material]
-svg = "icons/powerpoint-material.svg"
+[icons.ms-powerpoint.material]
+svg = "icons/ms-powerpoint-material.svg"
 
 [icons.powershell.material]
 svg = "icons/powershell-material.svg"
@@ -1581,8 +1581,8 @@ svg = "icons/snyk-material.svg"
 [icons.solidity.material]
 svg = "icons/solidity-material.svg"
 
-[icons.sonarcloud.material]
-svg = "icons/sonarcloud-material.svg"
+[icons.sonar-cloud.material]
+svg = "icons/sonar-cloud-material.svg"
 
 [icons.spwn.material]
 svg = "icons/spwn-material.svg"
@@ -1668,8 +1668,8 @@ svg = "icons/systemd_light-material.svg"
 [icons.table.material]
 svg = "icons/table-material.svg"
 
-[icons.tailwindcss.material]
-svg = "icons/tailwindcss-material.svg"
+[icons.tailwind.material]
+svg = "icons/tailwind-material.svg"
 
 [icons.taskfile.material]
 svg = "icons/taskfile-material.svg"
@@ -1869,8 +1869,8 @@ svg = "icons/vim-material.svg"
 [icons.virtual.material]
 svg = "icons/virtual-material.svg"
 
-[icons.visualstudio.material]
-svg = "icons/visualstudio-material.svg"
+[icons.visual-studio.material]
+svg = "icons/visual-studio-material.svg"
 
 [icons.vite.material]
 svg = "icons/vite-material.svg"
@@ -1878,8 +1878,8 @@ svg = "icons/vite-material.svg"
 [icons.vitest.material]
 svg = "icons/vitest-material.svg"
 
-[icons.vlang.material]
-svg = "icons/vlang-material.svg"
+[icons.v.material]
+svg = "icons/v-material.svg"
 
 [icons.vscode.material]
 svg = "icons/vscode-material.svg"
@@ -1932,8 +1932,8 @@ svg = "icons/windicss-material.svg"
 [icons.wolframlanguage.material]
 svg = "icons/wolframlanguage-material.svg"
 
-[icons.word.material]
-svg = "icons/word-material.svg"
+[icons.ms-word.material]
+svg = "icons/ms-word-material.svg"
 
 [icons.wrangler.material]
 svg = "icons/wrangler-material.svg"
@@ -2065,8 +2065,8 @@ svg = "icons/folder_changesets-material.svg"
 [icons.folder_ci.material]
 svg = "icons/folder_ci-material.svg"
 
-[icons.folder_circleci.material]
-svg = "icons/folder_circleci-material.svg"
+[icons.folder_circle-ci.material]
+svg = "icons/folder_circle-ci-material.svg"
 
 [icons.folder_class.material]
 svg = "icons/folder_class-material.svg"
@@ -2185,8 +2185,8 @@ svg = "icons/folder_docs-material.svg"
 [icons.folder_download.material]
 svg = "icons/folder_download-material.svg"
 
-[icons.folder_drizzle.material]
-svg = "icons/folder_drizzle-material.svg"
+[icons.folder_drizzle-orm.material]
+svg = "icons/folder_drizzle-orm-material.svg"
 
 [icons.folder_dump.material]
 svg = "icons/folder_dump-material.svg"
@@ -3045,8 +3045,8 @@ svg = "icons/database-catpuccin-frappe.svg"
 [icons.deno.catpuccin-frappe]
 svg = "icons/deno-catpuccin-frappe.svg"
 
-[icons.deno_lock.catpuccin-frappe]
-svg = "icons/deno_lock-catpuccin-frappe.svg"
+[icons.deno-lock.catpuccin-frappe]
+svg = "icons/deno-lock-catpuccin-frappe.svg"
 
 [icons.dependabot.catpuccin-frappe]
 svg = "icons/dependabot-catpuccin-frappe.svg"
@@ -5000,8 +5000,8 @@ svg = "icons/database-catpuccin-latte.svg"
 [icons.deno.catpuccin-latte]
 svg = "icons/deno-catpuccin-latte.svg"
 
-[icons.deno_lock.catpuccin-latte]
-svg = "icons/deno_lock-catpuccin-latte.svg"
+[icons.deno-lock.catpuccin-latte]
+svg = "icons/deno-lock-catpuccin-latte.svg"
 
 [icons.dependabot.catpuccin-latte]
 svg = "icons/dependabot-catpuccin-latte.svg"
@@ -6954,8 +6954,8 @@ svg = "icons/database-catpuccin-macchiato.svg"
 [icons.deno.catpuccin-macchiato]
 svg = "icons/deno-catpuccin-macchiato.svg"
 
-[icons.deno_lock.catpuccin-macchiato]
-svg = "icons/deno_lock-catpuccin-macchiato.svg"
+[icons.deno-lock.catpuccin-macchiato]
+svg = "icons/deno-lock-catpuccin-macchiato.svg"
 
 [icons.dependabot.catpuccin-macchiato]
 svg = "icons/dependabot-catpuccin-macchiato.svg"
@@ -8908,8 +8908,8 @@ svg = "icons/database-catpuccin-mocha.svg"
 [icons.deno.catpuccin-mocha]
 svg = "icons/deno-catpuccin-mocha.svg"
 
-[icons.deno_lock.catpuccin-mocha]
-svg = "icons/deno_lock-catpuccin-mocha.svg"
+[icons.deno-lock.catpuccin-mocha]
+svg = "icons/deno-lock-catpuccin-mocha.svg"
 
 [icons.dependabot.catpuccin-mocha]
 svg = "icons/dependabot-catpuccin-mocha.svg"
@@ -10632,13 +10632,13 @@ badge = "adobe-illustrator"
 base = "folder"
 badge = "adobe-illustrator_light"
 
-[compose.folder_adobe-photoshop]
+[compose.folder_adobe-ps]
 base = "folder"
-badge = "adobe-photoshop"
+badge = "adobe-ps"
 
-[compose.folder_adobe-photoshop_light]
+[compose.folder_adobe-ps-light]
 base = "folder"
-badge = "adobe-photoshop_light"
+badge = "adobe-ps-light"
 
 [compose.folder_adobe-swc]
 base = "folder"
@@ -10668,9 +10668,9 @@ badge = "angular"
 base = "folder"
 badge = "antlr"
 
-[compose.folder_apiblueprint]
+[compose.folder_api-blueprint]
 base = "folder"
-badge = "apiblueprint"
+badge = "api-blueprint"
 
 [compose.folder_apollo]
 base = "folder"
@@ -10844,13 +10844,13 @@ badge = "bower"
 base = "folder"
 badge = "brainfuck"
 
-[compose.folder_browserlist]
+[compose.folder_browserslist]
 base = "folder"
-badge = "browserlist"
+badge = "browserslist"
 
-[compose.folder_browserlist_light]
+[compose.folder_browserslist-light]
 base = "folder"
-badge = "browserlist_light"
+badge = "browserslist-light"
 
 [compose.folder_bruno]
 base = "folder"
@@ -11012,9 +11012,9 @@ badge = "codeowners"
 base = "folder"
 badge = "coderabbit-ai"
 
-[compose.folder_coffee]
+[compose.folder_coffeescript]
 base = "folder"
-badge = "coffee"
+badge = "coffeescript"
 
 [compose.folder_coldfusion]
 base = "folder"
@@ -11040,9 +11040,9 @@ badge = "commitlint"
 base = "folder"
 badge = "concourse"
 
-[compose.folder_conduct]
+[compose.folder_code-of-conduct]
 base = "folder"
-badge = "conduct"
+badge = "code-of-conduct"
 
 [compose.folder_console]
 base = "folder"
@@ -11136,9 +11136,9 @@ badge = "d"
 base = "folder"
 badge = "dart"
 
-[compose.folder_dart_generated]
+[compose.folder_dart-generated]
 base = "folder"
-badge = "dart_generated"
+badge = "dart-generated"
 
 [compose.folder_database]
 base = "folder"
@@ -11214,7 +11214,7 @@ badge = "drawio"
 
 [compose.folder_drizzle]
 base = "folder"
-badge = "drizzle"
+badge = "drizzle-orm"
 
 [compose.folder_drone]
 base = "folder"
@@ -11648,9 +11648,9 @@ badge = "jsconfig"
 base = "folder"
 badge = "json"
 
-[compose.folder_json_schema]
+[compose.folder_json-schema]
 base = "folder"
-badge = "json_schema"
+badge = "json-schema"
 
 [compose.folder_jsr]
 base = "folder"
@@ -11764,9 +11764,9 @@ badge = "lighthouse"
 base = "folder"
 badge = "lilypond"
 
-[compose.folder_lintstaged]
+[compose.folder_lint-staged]
 base = "folder"
-badge = "lintstaged"
+badge = "lint-staged"
 
 [compose.folder_liquid]
 base = "folder"
@@ -12092,9 +12092,9 @@ badge = "packship"
 base = "folder"
 badge = "palette"
 
-[compose.folder_panda]
+[compose.folder_panda-css]
 base = "folder"
-badge = "panda"
+badge = "panda-css"
 
 [compose.folder_parcel]
 base = "folder"
@@ -12204,9 +12204,9 @@ badge = "postcss"
 base = "folder"
 badge = "posthtml"
 
-[compose.folder_powerpoint]
+[compose.folder_ms-powerpoint]
 base = "folder"
-badge = "powerpoint"
+badge = "ms-powerpoint"
 
 [compose.folder_powershell]
 base = "folder"
@@ -12612,9 +12612,9 @@ badge = "snyk"
 base = "folder"
 badge = "solidity"
 
-[compose.folder_sonarcloud]
+[compose.folder_sonar-cloud]
 base = "folder"
-badge = "sonarcloud"
+badge = "sonar-cloud"
 
 [compose.folder_spwn]
 base = "folder"
@@ -12728,9 +12728,9 @@ badge = "systemd_light"
 base = "folder"
 badge = "table"
 
-[compose.folder_tailwindcss]
+[compose.folder_tailwind]
 base = "folder"
-badge = "tailwindcss"
+badge = "tailwind"
 
 [compose.folder_taskfile]
 base = "folder"
@@ -12996,9 +12996,9 @@ badge = "vim"
 base = "folder"
 badge = "virtual"
 
-[compose.folder_visualstudio]
+[compose.folder_visual-studio]
 base = "folder"
-badge = "visualstudio"
+badge = "visual-studio"
 
 [compose.folder_vite]
 base = "folder"
@@ -13008,9 +13008,9 @@ badge = "vite"
 base = "folder"
 badge = "vitest"
 
-[compose.folder_vlang]
+[compose.folder_v]
 base = "folder"
-badge = "vlang"
+badge = "v"
 
 [compose.folder_vscode]
 base = "folder"
@@ -13080,9 +13080,9 @@ badge = "windicss"
 base = "folder"
 badge = "wolframlanguage"
 
-[compose.folder_word]
+[compose.folder_ms-word]
 base = "folder"
-badge = "word"
+badge = "ms-word"
 
 [compose.folder_wrangler]
 base = "folder"
@@ -13131,4 +13131,672 @@ badge = "zig"
 [compose.folder_zip]
 base = "folder"
 badge = "zip"
+
+[compose.folder_alex]
+base = "folder"
+badge = "alex"
+
+[compose.folder_amber]
+base = "folder"
+badge = "amber"
+
+[compose.folder_angular-component]
+base = "folder"
+badge = "angular-component"
+
+[compose.folder_angular-directive]
+base = "folder"
+badge = "angular-directive"
+
+[compose.folder_angular-guard]
+base = "folder"
+badge = "angular-guard"
+
+[compose.folder_angular-pipe]
+base = "folder"
+badge = "angular-pipe"
+
+[compose.folder_angular-service]
+base = "folder"
+badge = "angular-service"
+
+[compose.folder_angular-lint]
+base = "folder"
+badge = "angular-lint"
+
+[compose.folder_ansible-lint]
+base = "folder"
+badge = "ansible-lint"
+
+[compose.folder_apache]
+base = "folder"
+badge = "apache"
+
+[compose.folder_c-header]
+base = "folder"
+badge = "c-header"
+
+[compose.folder_cargo]
+base = "folder"
+badge = "cargo"
+
+[compose.folder_cargo-lock]
+base = "folder"
+badge = "cargo-lock"
+
+[compose.folder_apple]
+base = "folder"
+badge = "apple"
+
+[compose.folder_bash]
+base = "folder"
+badge = "bash"
+
+[compose.folder_batch]
+base = "folder"
+badge = "batch"
+
+[compose.folder_benchmark]
+base = "folder"
+badge = "benchmark"
+
+[compose.folder_binary]
+base = "folder"
+badge = "binary"
+
+[compose.folder_bun-lock]
+base = "folder"
+badge = "bun-lock"
+
+[compose.folder_config]
+base = "folder"
+badge = "config"
+
+[compose.folder_cpp-header]
+base = "folder"
+badge = "cpp-header"
+
+[compose.folder_cspell]
+base = "folder"
+badge = "cspell"
+
+[compose.folder_css3]
+base = "folder"
+badge = "css3"
+
+[compose.folder_csv]
+base = "folder"
+badge = "csv"
+
+[compose.folder_cursor-ignore]
+base = "folder"
+badge = "cursor-ignore"
+
+[compose.folder_darklua]
+base = "folder"
+badge = "darklua"
+
+[compose.folder_deno-lock]
+base = "folder"
+badge = "deno-lock"
+
+[compose.folder_devcontainer]
+base = "folder"
+badge = "devcontainer"
+
+[compose.folder_docker-compose]
+base = "folder"
+badge = "docker-compose"
+
+[compose.folder_docker-ignore]
+base = "folder"
+badge = "docker-ignore"
+
+[compose.folder_docusaurus]
+base = "folder"
+badge = "docusaurus"
+
+[compose.folder_dub]
+base = "folder"
+badge = "dub"
+
+[compose.folder_dub-selections]
+base = "folder"
+badge = "dub-selections"
+
+[compose.folder_zap]
+base = "folder"
+badge = "zap"
+
+[compose.folder_yarn-lock]
+base = "folder"
+badge = "yarn-lock"
+
+[compose.folder_xcode]
+base = "folder"
+badge = "xcode"
+
+[compose.folder_workflow]
+base = "folder"
+badge = "workflow"
+
+[compose.folder_windi]
+base = "folder"
+badge = "windi"
+
+[compose.folder_vscode-ignore]
+base = "folder"
+badge = "vscode-ignore"
+
+[compose.folder_vs-codium]
+base = "folder"
+badge = "vs-codium"
+
+[compose.folder_vital]
+base = "folder"
+badge = "vital"
+
+[compose.folder_vhs]
+base = "folder"
+badge = "vhs"
+
+[compose.folder_vercel-ignore]
+base = "folder"
+badge = "vercel-ignore"
+
+[compose.folder_vento]
+base = "folder"
+badge = "vento"
+
+[compose.folder_vapi]
+base = "folder"
+badge = "vapi"
+
+[compose.folder_typescript-test]
+base = "folder"
+badge = "typescript-test"
+
+[compose.folder_typescript-react]
+base = "folder"
+badge = "typescript-react"
+
+[compose.folder_typescript-config]
+base = "folder"
+badge = "typescript-config"
+
+[compose.folder_turbo]
+base = "folder"
+badge = "turbo"
+
+[compose.folder_text]
+base = "folder"
+badge = "text"
+
+[compose.folder_tauri-ignore]
+base = "folder"
+badge = "tauri-ignore"
+
+[compose.folder_symlink]
+base = "folder"
+badge = "symlink"
+
+[compose.folder_swiftformat]
+base = "folder"
+badge = "swiftformat"
+
+[compose.folder_svelte-config]
+base = "folder"
+badge = "svelte-config"
+
+[compose.folder_super-collider]
+base = "folder"
+badge = "super-collider"
+
+[compose.folder_stylua-ignore]
+base = "folder"
+badge = "stylua-ignore"
+
+[compose.folder_stylua]
+base = "folder"
+badge = "stylua"
+
+[compose.folder_stylelint-ignore]
+base = "folder"
+badge = "stylelint-ignore"
+
+[compose.folder_storybook-ignore]
+base = "folder"
+badge = "storybook-ignore"
+
+[compose.folder_storybook-vue]
+base = "folder"
+badge = "storybook-vue"
+
+[compose.folder_storybook-svelte]
+base = "folder"
+badge = "storybook-svelte"
+
+[compose.folder_stata]
+base = "folder"
+badge = "stata"
+
+[compose.folder_squirrel]
+base = "folder"
+badge = "squirrel"
+
+[compose.folder_solid]
+base = "folder"
+badge = "solid"
+
+[compose.folder_slidesk]
+base = "folder"
+badge = "slidesk"
+
+[compose.folder_semgrep-ignore]
+base = "folder"
+badge = "semgrep-ignore"
+
+[compose.folder_security]
+base = "folder"
+badge = "security"
+
+[compose.folder_rust-config]
+base = "folder"
+badge = "rust-config"
+
+[compose.folder_rust-alt-config]
+base = "folder"
+badge = "rust-alt-config"
+
+[compose.folder_rust-alt]
+base = "folder"
+badge = "rust-alt"
+
+[compose.folder_ruby-gem-lock]
+base = "folder"
+badge = "ruby-gem-lock"
+
+[compose.folder_ruby-gem]
+base = "folder"
+badge = "ruby-gem"
+
+[compose.folder_rsml]
+base = "folder"
+badge = "rsml"
+
+[compose.folder_rproj]
+base = "folder"
+badge = "rproj"
+
+[compose.folder_rokit]
+base = "folder"
+badge = "rokit"
+
+[compose.folder_rmd]
+base = "folder"
+badge = "rmd"
+
+[compose.folder_rdata]
+base = "folder"
+badge = "rdata"
+
+[compose.folder_python-config]
+base = "folder"
+badge = "python-config"
+
+[compose.folder_python-compiled]
+base = "folder"
+badge = "python-compiled"
+
+[compose.folder_protools]
+base = "folder"
+badge = "protools"
+
+[compose.folder_properties]
+base = "folder"
+badge = "properties"
+
+[compose.folder_prettier-ignore]
+base = "folder"
+badge = "prettier-ignore"
+
+[compose.folder_premake]
+base = "folder"
+badge = "premake"
+
+[compose.folder_poetry-lock]
+base = "folder"
+badge = "poetry-lock"
+
+[compose.folder_pnpm-lock]
+base = "folder"
+badge = "pnpm-lock"
+
+[compose.folder_plantuml]
+base = "folder"
+badge = "plantuml"
+
+[compose.folder_pixi]
+base = "folder"
+badge = "pixi"
+
+[compose.folder_pixi-lock]
+base = "folder"
+badge = "pixi-lock"
+
+[compose.folder_phtml]
+base = "folder"
+badge = "phtml"
+
+[compose.folder_phrase]
+base = "folder"
+badge = "phrase"
+
+[compose.folder_release]
+base = "folder"
+badge = "release"
+
+[compose.folder_redwood]
+base = "folder"
+badge = "redwood"
+
+[compose.folder_pesde-lock]
+base = "folder"
+badge = "pesde-lock"
+
+[compose.folder_pesde]
+base = "folder"
+badge = "pesde"
+
+[compose.folder_package-json]
+base = "folder"
+badge = "package-json"
+
+[compose.folder_org]
+base = "folder"
+badge = "org"
+
+[compose.folder_nx-ignore]
+base = "folder"
+badge = "nx-ignore"
+
+[compose.folder_nuxt-ignore]
+base = "folder"
+badge = "nuxt-ignore"
+
+[compose.folder_npm-lock]
+base = "folder"
+badge = "npm-lock"
+
+[compose.folder_npm-ignore]
+base = "folder"
+badge = "npm-ignore"
+
+[compose.folder_nix-lock]
+base = "folder"
+badge = "nix-lock"
+
+[compose.folder_ninja]
+base = "folder"
+badge = "ninja"
+
+[compose.folder_nextflow]
+base = "folder"
+badge = "nextflow"
+
+[compose.folder_nest-controller]
+base = "folder"
+badge = "nest-controller"
+
+[compose.folder_nest-decorator]
+base = "folder"
+badge = "nest-decorator"
+
+[compose.folder_nest-filter]
+base = "folder"
+badge = "nest-filter"
+
+[compose.folder_nest-gateway]
+base = "folder"
+badge = "nest-gateway"
+
+[compose.folder_nest-guard]
+base = "folder"
+badge = "nest-guard"
+
+[compose.folder_nest-middleware]
+base = "folder"
+badge = "nest-middleware"
+
+[compose.folder_nest-pipe]
+base = "folder"
+badge = "nest-pipe"
+
+[compose.folder_nest-service]
+base = "folder"
+badge = "nest-service"
+
+[compose.folder_prototools]
+base = "folder"
+badge = "prototools"
+
+[compose.folder_nativescript]
+base = "folder"
+badge = "nativescript"
+
+[compose.folder_msbuild]
+base = "folder"
+badge = "msbuild"
+
+[compose.folder_ms-excel]
+base = "folder"
+badge = "ms-excel"
+
+[compose.folder_moonwave]
+base = "folder"
+badge = "moonwave"
+
+[compose.folder_moonrepo]
+base = "folder"
+badge = "moonrepo"
+
+[compose.folder_midi]
+base = "folder"
+badge = "midi"
+
+[compose.folder_mdbook]
+base = "folder"
+badge = "mdbook"
+
+[compose.folder_marko]
+base = "folder"
+badge = "marko"
+
+[compose.folder_markdown-mdx]
+base = "folder"
+badge = "markdown-mdx"
+
+[compose.folder_mantle]
+base = "folder"
+badge = "mantle"
+
+[compose.folder_macos]
+base = "folder"
+badge = "macos"
+
+[compose.folder_luau-test]
+base = "folder"
+badge = "luau-test"
+
+[compose.folder_luau-server]
+base = "folder"
+badge = "luau-server"
+
+[compose.folder_luau-config]
+base = "folder"
+badge = "luau-config"
+
+[compose.folder_luau-client]
+base = "folder"
+badge = "luau-client"
+
+[compose.folder_luau-check]
+base = "folder"
+badge = "luau-check"
+
+[compose.folder_lua-test]
+base = "folder"
+badge = "lua-test"
+
+[compose.folder_lua-server]
+base = "folder"
+badge = "lua-server"
+
+[compose.folder_lua-rocks]
+base = "folder"
+badge = "lua-rocks"
+
+[compose.folder_lua-client]
+base = "folder"
+badge = "lua-client"
+
+[compose.folder_lua-check]
+base = "folder"
+badge = "lua-check"
+
+[compose.folder_latte]
+base = "folder"
+badge = "latte"
+
+[compose.folder_latex]
+base = "folder"
+badge = "latex"
+
+[compose.folder_kdl]
+base = "folder"
+badge = "kdl"
+
+[compose.folder_jule]
+base = "folder"
+badge = "jule"
+
+[compose.folder_juce]
+base = "folder"
+badge = "juce"
+
+[compose.folder_javascript-test]
+base = "folder"
+badge = "javascript-test"
+
+[compose.folder_javascript-react]
+base = "folder"
+badge = "javascript-react"
+
+[compose.folder_javascript-config]
+base = "folder"
+badge = "javascript-config"
+
+[compose.folder_java-record]
+base = "folder"
+badge = "java-record"
+
+[compose.folder_java-jar]
+base = "folder"
+badge = "java-jar"
+
+[compose.folder_java-interface]
+base = "folder"
+badge = "java-interface"
+
+[compose.folder_java-exception]
+base = "folder"
+badge = "java-exception"
+
+[compose.folder_java-enum]
+base = "folder"
+badge = "java-enum"
+
+[compose.folder_java-class-sealed]
+base = "folder"
+badge = "java-class-sealed"
+
+[compose.folder_java-class-final]
+base = "folder"
+badge = "java-class-final"
+
+[compose.folder_java-class]
+base = "folder"
+badge = "java-class"
+
+[compose.folder_java-class-abstract]
+base = "folder"
+badge = "java-class-abstract"
+
+[compose.folder_java-annotation]
+base = "folder"
+badge = "java-annotation"
+
+[compose.folder_humans]
+base = "folder"
+badge = "humans"
+
+[compose.folder_hugo]
+base = "folder"
+badge = "hugo"
+
+[compose.folder_hare]
+base = "folder"
+badge = "hare"
+
+[compose.folder_hacking]
+base = "folder"
+badge = "hacking"
+
+[compose.folder_go-template]
+base = "folder"
+badge = "go-template"
+
+[compose.folder_gleam-config]
+base = "folder"
+badge = "gleam-config"
+
+[compose.folder_git-cliff]
+base = "folder"
+badge = "git-cliff"
+
+[compose.folder_fvm]
+base = "folder"
+badge = "fvm"
+
+[compose.folder_forgejo]
+base = "folder"
+badge = "forgejo"
+
+[compose.folder_foreman]
+base = "folder"
+badge = "foreman"
+
+[compose.folder_flutter]
+base = "folder"
+badge = "flutter"
+
+[compose.folder_eslint-ignore]
+base = "folder"
+badge = "eslint-ignore"
+
+[compose.folder_envrc]
+base = "folder"
+badge = "envrc"
+
+[compose.folder_env]
+base = "folder"
+badge = "env"
+
+[compose.folder_eleventy]
+base = "folder"
+badge = "eleventy"
+
+[compose.folder_drizzle-orm]
+base = "folder"
+badge = "drizzle-orm"
 # }}}
