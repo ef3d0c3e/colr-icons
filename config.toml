@@ -99,8 +99,8 @@ svg = "icons/adobe-illustrator_light-material.svg"
 [icons.adobe-ps.material]
 svg = "icons/adobe-ps-material.svg"
 
-[icons.adobe-ps_light.material]
-svg = "icons/adobe-ps_light-material.svg"
+[icons.adobe-ps-light.material]
+svg = "icons/adobe-ps-light-material.svg"
 
 [icons.adobe-swc.material]
 svg = "icons/adobe-swc-material.svg"
@@ -259,7 +259,7 @@ svg = "icons/brainfuck-material.svg"
 svg = "icons/browserslist-material.svg"
 
 [icons.browserslist-light.material]
-svg = "icons/browserslist_light-material.svg"
+svg = "icons/browserslist-light-material.svg"
 
 [icons.bruno.material]
 svg = "icons/bruno-material.svg"
@@ -331,7 +331,7 @@ svg = "icons/chromatic-material.svg"
 svg = "icons/chrome-material.svg"
 
 [icons.circle-ci.material]
-svg = "icons/circleci-material.svg"
+svg = "icons/circle-ci-material.svg"
 
 [icons.circle-ci-light.material]
 svg = "icons/circle-ci-light-material.svg"
@@ -10944,13 +10944,13 @@ badge = "chromatic"
 base = "folder"
 badge = "chrome"
 
-[compose.folder_circleci]
+[compose.folder_circle-ci]
 base = "folder"
-badge = "circleci"
+badge = "circle-ci"
 
-[compose.folder_circleci_light]
+[compose.folder_circle-ci_light]
 base = "folder"
-badge = "circleci_light"
+badge = "circle-ci-light"
 
 [compose.folder_citation]
 base = "folder"
@@ -13160,10 +13160,6 @@ badge = "angular-pipe"
 base = "folder"
 badge = "angular-service"
 
-[compose.folder_angular-lint]
-base = "folder"
-badge = "angular-lint"
-
 [compose.folder_ansible-lint]
 base = "folder"
 badge = "ansible-lint"
@@ -13364,10 +13360,6 @@ badge = "stylua"
 base = "folder"
 badge = "stylelint-ignore"
 
-[compose.folder_storybook-ignore]
-base = "folder"
-badge = "storybook-ignore"
-
 [compose.folder_storybook-vue]
 base = "folder"
 badge = "storybook-vue"
@@ -13448,9 +13440,9 @@ badge = "python-config"
 base = "folder"
 badge = "python-compiled"
 
-[compose.folder_protools]
+[compose.folder_prototools]
 base = "folder"
-badge = "protools"
+badge = "prototools"
 
 [compose.folder_properties]
 base = "folder"
@@ -13575,10 +13567,6 @@ badge = "nest-pipe"
 [compose.folder_nest-service]
 base = "folder"
 badge = "nest-service"
-
-[compose.folder_prototools]
-base = "folder"
-badge = "prototools"
 
 [compose.folder_nativescript]
 base = "folder"
