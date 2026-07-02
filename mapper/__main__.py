@@ -2,8 +2,6 @@ import sys
 import toml
 import pathlib
 
-BASE = 0x1f340 # 🍀
-
 def parse_args():
     import argparse
 
@@ -24,7 +22,8 @@ def main():
     names = sorted(icons.keys())
 
     with open(args.output_file, "w") as f:
-        f.write(f"picosvg/clipped/1f340.svg,,uni1f340,{BASE:x}\n")
+        f.write(f"picosvg/clipped/1f340.svg,,uni1f340,1f340\n")
+        f.write(f"picosvg/clipped/1f341.svg,,uni1f341,1f341\n")
         # Output VS1: https://en.wikipedia.org/wiki/Variation_Selectors_(Unicode_block)
         for i in range(16):
             f.write(f"picosvg/clipped/zwj.svg,,uni{0xfe00 + i:x},{0xfe00 + i:x}\n")

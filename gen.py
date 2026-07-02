@@ -197,16 +197,18 @@ def main():
                     anchor = ov.get("anchor", anchor)
                     scale = ov.get("scale", scale)
 
-                    # Build composite svg
-                    base_svg = preprocess_base(base["svg"])
-                    badge_svg = preprocess_base(badge["svg"])
-                    out_svg = svg_compose(base_svg, badge_svg, anchor, scale)
-
                     filename = f"composite-{comp_glyph}.svg"
                     path = os.path.join("generated", filename)
 
-                    svg_save(out_svg, path)
-                    print(f"[gen.py] generated '{path}'")
+                    # Build composite svg
+                    if not os.path.exists(path):
+                        base_svg = preprocess_base(base["svg"])
+                        badge_svg = preprocess_base(badge["svg"])
+                        out_svg = svg_compose(base_svg, badge_svg, anchor, scale)
+
+
+                        svg_save(out_svg, path)
+                        print(f"[gen.py] generated '{path}'")
 
                     # Append ligature rule for base + badge
                     compose_rules.append(

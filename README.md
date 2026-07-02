@@ -30,13 +30,11 @@ The font is built by bundling widely used icon sets, such as the [Material Icon 
 
 COLR Icons glyph use the four-leaf-clover and maple-leaf emojis. Then, using ligature the display of these glyphs can be changed to any icon from the font. See [Glyphs](#glyphs) for more information.
 
-In order to embed even more icons in the font, COLR Icons uses ligatures to *fuse* icons together.
+COLR Icons also contains 'ligatures' made of basic icons and folder icons:
 <p align="center">
     <img src="./docs/ligatures-demo.png" alt="Demo of ligatured icons"><br>
     Demo of ligatured icons
 </p>
-
-It is possible to embed even more icons than the private use areas can support, for instance by using [Unicode Variation Selectors](https://en.wikipedia.org/wiki/Variation_Selectors_(Unicode_block)).
 
 # Installing
 

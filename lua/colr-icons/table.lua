@@ -43,17 +43,15 @@ return {
 	["adobe-illustrator_light"] = {
 		["material"] = "🍀︀󠄆", -- colr-icons-adobe-illustrator_light-material U+1f340 U+fe00 U+e0106
 	},
-	["adobe-photoshop"] = {
-		["material"] = "🍀︀󠄇", -- colr-icons-adobe-photoshop-material U+1f340 U+fe00 U+e0107
-	},
-	["adobe-photoshop_light"] = {
-		["material"] = "🍀︀󠄈", -- colr-icons-adobe-photoshop_light-material U+1f340 U+fe00 U+e0108
-	},
 	["adobe-ps"] = {
-		["catpuccin-frappe"] = "🍀︀󠄉", -- colr-icons-adobe-ps-catpuccin-frappe U+1f340 U+fe00 U+e0109
-		["catpuccin-latte"] = "🍀︀󠄊", -- colr-icons-adobe-ps-catpuccin-latte U+1f340 U+fe00 U+e010a
-		["catpuccin-macchiato"] = "🍀︀󠄋", -- colr-icons-adobe-ps-catpuccin-macchiato U+1f340 U+fe00 U+e010b
-		["catpuccin-mocha"] = "🍀︀󠄌", -- colr-icons-adobe-ps-catpuccin-mocha U+1f340 U+fe00 U+e010c
+		["material"] = "🍀︀󠄇", -- colr-icons-adobe-ps-material U+1f340 U+fe00 U+e0107
+		["catpuccin-frappe"] = "🍀︀󠄈", -- colr-icons-adobe-ps-catpuccin-frappe U+1f340 U+fe00 U+e0108
+		["catpuccin-latte"] = "🍀︀󠄉", -- colr-icons-adobe-ps-catpuccin-latte U+1f340 U+fe00 U+e0109
+		["catpuccin-macchiato"] = "🍀︀󠄊", -- colr-icons-adobe-ps-catpuccin-macchiato U+1f340 U+fe00 U+e010a
+		["catpuccin-mocha"] = "🍀︀󠄋", -- colr-icons-adobe-ps-catpuccin-mocha U+1f340 U+fe00 U+e010b
+	},
+	["adobe-ps-light"] = {
+		["material"] = "🍀︀󠄌", -- colr-icons-adobe-ps-light-material U+1f340 U+fe00 U+e010c
 	},
 	["adobe-swc"] = {
 		["material"] = "🍀︀󠄍", -- colr-icons-adobe-swc-material U+1f340 U+fe00 U+e010d
@@ -153,13 +151,11 @@ return {
 		["catpuccin-mocha"] = "🍀︀󠅋", -- colr-icons-apache-catpuccin-mocha U+1f340 U+fe00 U+e014b
 	},
 	["api-blueprint"] = {
-		["catpuccin-frappe"] = "🍀︀󠅌", -- colr-icons-api-blueprint-catpuccin-frappe U+1f340 U+fe00 U+e014c
-		["catpuccin-latte"] = "🍀︀󠅍", -- colr-icons-api-blueprint-catpuccin-latte U+1f340 U+fe00 U+e014d
-		["catpuccin-macchiato"] = "🍀︀󠅎", -- colr-icons-api-blueprint-catpuccin-macchiato U+1f340 U+fe00 U+e014e
-		["catpuccin-mocha"] = "🍀︀󠅏", -- colr-icons-api-blueprint-catpuccin-mocha U+1f340 U+fe00 U+e014f
-	},
-	["apiblueprint"] = {
-		["material"] = "🍀︀󠅐", -- colr-icons-apiblueprint-material U+1f340 U+fe00 U+e0150
+		["material"] = "🍀︀󠅌", -- colr-icons-api-blueprint-material U+1f340 U+fe00 U+e014c
+		["catpuccin-frappe"] = "🍀︀󠅍", -- colr-icons-api-blueprint-catpuccin-frappe U+1f340 U+fe00 U+e014d
+		["catpuccin-latte"] = "🍀︀󠅎", -- colr-icons-api-blueprint-catpuccin-latte U+1f340 U+fe00 U+e014e
+		["catpuccin-macchiato"] = "🍀︀󠅏", -- colr-icons-api-blueprint-catpuccin-macchiato U+1f340 U+fe00 U+e014f
+		["catpuccin-mocha"] = "🍀︀󠅐", -- colr-icons-api-blueprint-catpuccin-mocha U+1f340 U+fe00 U+e0150
 	},
 	["apollo"] = {
 		["material"] = "🍀︀󠅑", -- colr-icons-apollo-material U+1f340 U+fe00 U+e0151
@@ -388,17 +384,15 @@ return {
 	["brainfuck"] = {
 		["material"] = "🍀︀󠇓", -- colr-icons-brainfuck-material U+1f340 U+fe00 U+e01d3
 	},
-	["browserlist"] = {
-		["material"] = "🍀︀󠇔", -- colr-icons-browserlist-material U+1f340 U+fe00 U+e01d4
-	},
-	["browserlist_light"] = {
-		["material"] = "🍀︀󠇕", -- colr-icons-browserlist_light-material U+1f340 U+fe00 U+e01d5
-	},
 	["browserslist"] = {
-		["catpuccin-frappe"] = "🍀︀󠇖", -- colr-icons-browserslist-catpuccin-frappe U+1f340 U+fe00 U+e01d6
-		["catpuccin-latte"] = "🍀︀󠇗", -- colr-icons-browserslist-catpuccin-latte U+1f340 U+fe00 U+e01d7
-		["catpuccin-macchiato"] = "🍀︀󠇘", -- colr-icons-browserslist-catpuccin-macchiato U+1f340 U+fe00 U+e01d8
-		["catpuccin-mocha"] = "🍀︀󠇙", -- colr-icons-browserslist-catpuccin-mocha U+1f340 U+fe00 U+e01d9
+		["material"] = "🍀︀󠇔", -- colr-icons-browserslist-material U+1f340 U+fe00 U+e01d4
+		["catpuccin-frappe"] = "🍀︀󠇕", -- colr-icons-browserslist-catpuccin-frappe U+1f340 U+fe00 U+e01d5
+		["catpuccin-latte"] = "🍀︀󠇖", -- colr-icons-browserslist-catpuccin-latte U+1f340 U+fe00 U+e01d6
+		["catpuccin-macchiato"] = "🍀︀󠇗", -- colr-icons-browserslist-catpuccin-macchiato U+1f340 U+fe00 U+e01d7
+		["catpuccin-mocha"] = "🍀︀󠇘", -- colr-icons-browserslist-catpuccin-mocha U+1f340 U+fe00 U+e01d8
+	},
+	["browserslist-light"] = {
+		["material"] = "🍀︀󠇙", -- colr-icons-browserslist-light-material U+1f340 U+fe00 U+e01d9
 	},
 	["bruno"] = {
 		["material"] = "🍀︀󠇚", -- colr-icons-bruno-material U+1f340 U+fe00 U+e01da
@@ -522,16 +516,14 @@ return {
 		["material"] = "🍀︁󠄜", -- colr-icons-chrome-material U+1f340 U+fe01 U+e011c
 	},
 	["circle-ci"] = {
-		["catpuccin-frappe"] = "🍀︁󠄝", -- colr-icons-circle-ci-catpuccin-frappe U+1f340 U+fe01 U+e011d
-		["catpuccin-latte"] = "🍀︁󠄞", -- colr-icons-circle-ci-catpuccin-latte U+1f340 U+fe01 U+e011e
-		["catpuccin-macchiato"] = "🍀︁󠄟", -- colr-icons-circle-ci-catpuccin-macchiato U+1f340 U+fe01 U+e011f
-		["catpuccin-mocha"] = "🍀︁󠄠", -- colr-icons-circle-ci-catpuccin-mocha U+1f340 U+fe01 U+e0120
+		["material"] = "🍀︁󠄝", -- colr-icons-circle-ci-material U+1f340 U+fe01 U+e011d
+		["catpuccin-frappe"] = "🍀︁󠄞", -- colr-icons-circle-ci-catpuccin-frappe U+1f340 U+fe01 U+e011e
+		["catpuccin-latte"] = "🍀︁󠄟", -- colr-icons-circle-ci-catpuccin-latte U+1f340 U+fe01 U+e011f
+		["catpuccin-macchiato"] = "🍀︁󠄠", -- colr-icons-circle-ci-catpuccin-macchiato U+1f340 U+fe01 U+e0120
+		["catpuccin-mocha"] = "🍀︁󠄡", -- colr-icons-circle-ci-catpuccin-mocha U+1f340 U+fe01 U+e0121
 	},
-	["circleci"] = {
-		["material"] = "🍀︁󠄡", -- colr-icons-circleci-material U+1f340 U+fe01 U+e0121
-	},
-	["circleci_light"] = {
-		["material"] = "🍀︁󠄢", -- colr-icons-circleci_light-material U+1f340 U+fe01 U+e0122
+	["circle-ci-light"] = {
+		["material"] = "🍀︁󠄢", -- colr-icons-circle-ci-light-material U+1f340 U+fe01 U+e0122
 	},
 	["citation"] = {
 		["material"] = "🍀︁󠄣", -- colr-icons-citation-material U+1f340 U+fe01 U+e0123
@@ -586,57 +578,53 @@ return {
 		["material"] = "🍀︁󠄾", -- colr-icons-code-climate_light-material U+1f340 U+fe01 U+e013e
 	},
 	["code-of-conduct"] = {
-		["catpuccin-frappe"] = "🍀︁󠄿", -- colr-icons-code-of-conduct-catpuccin-frappe U+1f340 U+fe01 U+e013f
-		["catpuccin-latte"] = "🍀︁󠅀", -- colr-icons-code-of-conduct-catpuccin-latte U+1f340 U+fe01 U+e0140
-		["catpuccin-macchiato"] = "🍀︁󠅁", -- colr-icons-code-of-conduct-catpuccin-macchiato U+1f340 U+fe01 U+e0141
-		["catpuccin-mocha"] = "🍀︁󠅂", -- colr-icons-code-of-conduct-catpuccin-mocha U+1f340 U+fe01 U+e0142
+		["material"] = "🍀︁󠄿", -- colr-icons-code-of-conduct-material U+1f340 U+fe01 U+e013f
+		["catpuccin-frappe"] = "🍀︁󠅀", -- colr-icons-code-of-conduct-catpuccin-frappe U+1f340 U+fe01 U+e0140
+		["catpuccin-latte"] = "🍀︁󠅁", -- colr-icons-code-of-conduct-catpuccin-latte U+1f340 U+fe01 U+e0141
+		["catpuccin-macchiato"] = "🍀︁󠅂", -- colr-icons-code-of-conduct-catpuccin-macchiato U+1f340 U+fe01 U+e0142
+		["catpuccin-mocha"] = "🍀︁󠅃", -- colr-icons-code-of-conduct-catpuccin-mocha U+1f340 U+fe01 U+e0143
 	},
 	["codecov"] = {
-		["material"] = "🍀︁󠅃", -- colr-icons-codecov-material U+1f340 U+fe01 U+e0143
+		["material"] = "🍀︁󠅄", -- colr-icons-codecov-material U+1f340 U+fe01 U+e0144
 	},
 	["codeowners"] = {
-		["material"] = "🍀︁󠅄", -- colr-icons-codeowners-material U+1f340 U+fe01 U+e0144
-		["catpuccin-frappe"] = "🍀︁󠅅", -- colr-icons-codeowners-catpuccin-frappe U+1f340 U+fe01 U+e0145
-		["catpuccin-latte"] = "🍀︁󠅆", -- colr-icons-codeowners-catpuccin-latte U+1f340 U+fe01 U+e0146
-		["catpuccin-macchiato"] = "🍀︁󠅇", -- colr-icons-codeowners-catpuccin-macchiato U+1f340 U+fe01 U+e0147
-		["catpuccin-mocha"] = "🍀︁󠅈", -- colr-icons-codeowners-catpuccin-mocha U+1f340 U+fe01 U+e0148
+		["material"] = "🍀︁󠅅", -- colr-icons-codeowners-material U+1f340 U+fe01 U+e0145
+		["catpuccin-frappe"] = "🍀︁󠅆", -- colr-icons-codeowners-catpuccin-frappe U+1f340 U+fe01 U+e0146
+		["catpuccin-latte"] = "🍀︁󠅇", -- colr-icons-codeowners-catpuccin-latte U+1f340 U+fe01 U+e0147
+		["catpuccin-macchiato"] = "🍀︁󠅈", -- colr-icons-codeowners-catpuccin-macchiato U+1f340 U+fe01 U+e0148
+		["catpuccin-mocha"] = "🍀︁󠅉", -- colr-icons-codeowners-catpuccin-mocha U+1f340 U+fe01 U+e0149
 	},
 	["coderabbit-ai"] = {
-		["material"] = "🍀︁󠅉", -- colr-icons-coderabbit-ai-material U+1f340 U+fe01 U+e0149
-	},
-	["coffee"] = {
-		["material"] = "🍀︁󠅊", -- colr-icons-coffee-material U+1f340 U+fe01 U+e014a
+		["material"] = "🍀︁󠅊", -- colr-icons-coderabbit-ai-material U+1f340 U+fe01 U+e014a
 	},
 	["coffeescript"] = {
-		["catpuccin-frappe"] = "🍀︁󠅋", -- colr-icons-coffeescript-catpuccin-frappe U+1f340 U+fe01 U+e014b
-		["catpuccin-latte"] = "🍀︁󠅌", -- colr-icons-coffeescript-catpuccin-latte U+1f340 U+fe01 U+e014c
-		["catpuccin-macchiato"] = "🍀︁󠅍", -- colr-icons-coffeescript-catpuccin-macchiato U+1f340 U+fe01 U+e014d
-		["catpuccin-mocha"] = "🍀︁󠅎", -- colr-icons-coffeescript-catpuccin-mocha U+1f340 U+fe01 U+e014e
+		["material"] = "🍀︁󠅋", -- colr-icons-coffeescript-material U+1f340 U+fe01 U+e014b
+		["catpuccin-frappe"] = "🍀︁󠅌", -- colr-icons-coffeescript-catpuccin-frappe U+1f340 U+fe01 U+e014c
+		["catpuccin-latte"] = "🍀︁󠅍", -- colr-icons-coffeescript-catpuccin-latte U+1f340 U+fe01 U+e014d
+		["catpuccin-macchiato"] = "🍀︁󠅎", -- colr-icons-coffeescript-catpuccin-macchiato U+1f340 U+fe01 U+e014e
+		["catpuccin-mocha"] = "🍀︁󠅏", -- colr-icons-coffeescript-catpuccin-mocha U+1f340 U+fe01 U+e014f
 	},
 	["coldfusion"] = {
-		["material"] = "🍀︁󠅏", -- colr-icons-coldfusion-material U+1f340 U+fe01 U+e014f
+		["material"] = "🍀︁󠅐", -- colr-icons-coldfusion-material U+1f340 U+fe01 U+e0150
 	},
 	["coloredpetrinets"] = {
-		["material"] = "🍀︁󠅐", -- colr-icons-coloredpetrinets-material U+1f340 U+fe01 U+e0150
+		["material"] = "🍀︁󠅑", -- colr-icons-coloredpetrinets-material U+1f340 U+fe01 U+e0151
 	},
 	["command"] = {
-		["material"] = "🍀︁󠅑", -- colr-icons-command-material U+1f340 U+fe01 U+e0151
+		["material"] = "🍀︁󠅒", -- colr-icons-command-material U+1f340 U+fe01 U+e0152
 	},
 	["commitizen"] = {
-		["material"] = "🍀︁󠅒", -- colr-icons-commitizen-material U+1f340 U+fe01 U+e0152
+		["material"] = "🍀︁󠅓", -- colr-icons-commitizen-material U+1f340 U+fe01 U+e0153
 	},
 	["commitlint"] = {
-		["material"] = "🍀︁󠅓", -- colr-icons-commitlint-material U+1f340 U+fe01 U+e0153
-		["catpuccin-frappe"] = "🍀︁󠅔", -- colr-icons-commitlint-catpuccin-frappe U+1f340 U+fe01 U+e0154
-		["catpuccin-latte"] = "🍀︁󠅕", -- colr-icons-commitlint-catpuccin-latte U+1f340 U+fe01 U+e0155
-		["catpuccin-macchiato"] = "🍀︁󠅖", -- colr-icons-commitlint-catpuccin-macchiato U+1f340 U+fe01 U+e0156
-		["catpuccin-mocha"] = "🍀︁󠅗", -- colr-icons-commitlint-catpuccin-mocha U+1f340 U+fe01 U+e0157
+		["material"] = "🍀︁󠅔", -- colr-icons-commitlint-material U+1f340 U+fe01 U+e0154
+		["catpuccin-frappe"] = "🍀︁󠅕", -- colr-icons-commitlint-catpuccin-frappe U+1f340 U+fe01 U+e0155
+		["catpuccin-latte"] = "🍀︁󠅖", -- colr-icons-commitlint-catpuccin-latte U+1f340 U+fe01 U+e0156
+		["catpuccin-macchiato"] = "🍀︁󠅗", -- colr-icons-commitlint-catpuccin-macchiato U+1f340 U+fe01 U+e0157
+		["catpuccin-mocha"] = "🍀︁󠅘", -- colr-icons-commitlint-catpuccin-mocha U+1f340 U+fe01 U+e0158
 	},
 	["concourse"] = {
-		["material"] = "🍀︁󠅘", -- colr-icons-concourse-material U+1f340 U+fe01 U+e0158
-	},
-	["conduct"] = {
-		["material"] = "🍀︁󠅙", -- colr-icons-conduct-material U+1f340 U+fe01 U+e0159
+		["material"] = "🍀︁󠅙", -- colr-icons-concourse-material U+1f340 U+fe01 U+e0159
 	},
 	["config"] = {
 		["catpuccin-frappe"] = "🍀︁󠅚", -- colr-icons-config-catpuccin-frappe U+1f340 U+fe01 U+e015a
@@ -802,13 +790,11 @@ return {
 		["catpuccin-mocha"] = "🍀︁󠇀", -- colr-icons-dart-catpuccin-mocha U+1f340 U+fe01 U+e01c0
 	},
 	["dart-generated"] = {
-		["catpuccin-frappe"] = "🍀︁󠇁", -- colr-icons-dart-generated-catpuccin-frappe U+1f340 U+fe01 U+e01c1
-		["catpuccin-latte"] = "🍀︁󠇂", -- colr-icons-dart-generated-catpuccin-latte U+1f340 U+fe01 U+e01c2
-		["catpuccin-macchiato"] = "🍀︁󠇃", -- colr-icons-dart-generated-catpuccin-macchiato U+1f340 U+fe01 U+e01c3
-		["catpuccin-mocha"] = "🍀︁󠇄", -- colr-icons-dart-generated-catpuccin-mocha U+1f340 U+fe01 U+e01c4
-	},
-	["dart_generated"] = {
-		["material"] = "🍀︁󠇅", -- colr-icons-dart_generated-material U+1f340 U+fe01 U+e01c5
+		["material"] = "🍀︁󠇁", -- colr-icons-dart-generated-material U+1f340 U+fe01 U+e01c1
+		["catpuccin-frappe"] = "🍀︁󠇂", -- colr-icons-dart-generated-catpuccin-frappe U+1f340 U+fe01 U+e01c2
+		["catpuccin-latte"] = "🍀︁󠇃", -- colr-icons-dart-generated-catpuccin-latte U+1f340 U+fe01 U+e01c3
+		["catpuccin-macchiato"] = "🍀︁󠇄", -- colr-icons-dart-generated-catpuccin-macchiato U+1f340 U+fe01 U+e01c4
+		["catpuccin-mocha"] = "🍀︁󠇅", -- colr-icons-dart-generated-catpuccin-mocha U+1f340 U+fe01 U+e01c5
 	},
 	["database"] = {
 		["material"] = "🍀︁󠇆", -- colr-icons-database-material U+1f340 U+fe01 U+e01c6
@@ -830,14 +816,14 @@ return {
 		["catpuccin-macchiato"] = "🍀︁󠇐", -- colr-icons-deno-catpuccin-macchiato U+1f340 U+fe01 U+e01d0
 		["catpuccin-mocha"] = "🍀︁󠇑", -- colr-icons-deno-catpuccin-mocha U+1f340 U+fe01 U+e01d1
 	},
-	["deno_light"] = {
-		["material"] = "🍀︁󠇒", -- colr-icons-deno_light-material U+1f340 U+fe01 U+e01d2
+	["deno-lock"] = {
+		["catpuccin-frappe"] = "🍀︁󠇒", -- colr-icons-deno-lock-catpuccin-frappe U+1f340 U+fe01 U+e01d2
+		["catpuccin-latte"] = "🍀︁󠇓", -- colr-icons-deno-lock-catpuccin-latte U+1f340 U+fe01 U+e01d3
+		["catpuccin-macchiato"] = "🍀︁󠇔", -- colr-icons-deno-lock-catpuccin-macchiato U+1f340 U+fe01 U+e01d4
+		["catpuccin-mocha"] = "🍀︁󠇕", -- colr-icons-deno-lock-catpuccin-mocha U+1f340 U+fe01 U+e01d5
 	},
-	["deno_lock"] = {
-		["catpuccin-frappe"] = "🍀︁󠇓", -- colr-icons-deno_lock-catpuccin-frappe U+1f340 U+fe01 U+e01d3
-		["catpuccin-latte"] = "🍀︁󠇔", -- colr-icons-deno_lock-catpuccin-latte U+1f340 U+fe01 U+e01d4
-		["catpuccin-macchiato"] = "🍀︁󠇕", -- colr-icons-deno_lock-catpuccin-macchiato U+1f340 U+fe01 U+e01d5
-		["catpuccin-mocha"] = "🍀︁󠇖", -- colr-icons-deno_lock-catpuccin-mocha U+1f340 U+fe01 U+e01d6
+	["deno_light"] = {
+		["material"] = "🍀︁󠇖", -- colr-icons-deno_light-material U+1f340 U+fe01 U+e01d6
 	},
 	["dependabot"] = {
 		["material"] = "🍀︁󠇗", -- colr-icons-dependabot-material U+1f340 U+fe01 U+e01d7
@@ -926,10 +912,8 @@ return {
 		["catpuccin-macchiato"] = "🍀︂󠄊", -- colr-icons-drawio-catpuccin-macchiato U+1f340 U+fe02 U+e010a
 		["catpuccin-mocha"] = "🍀︂󠄋", -- colr-icons-drawio-catpuccin-mocha U+1f340 U+fe02 U+e010b
 	},
-	["drizzle"] = {
-		["material"] = "🍀︂󠄌", -- colr-icons-drizzle-material U+1f340 U+fe02 U+e010c
-	},
 	["drizzle-orm"] = {
+		["material"] = "🍀︂󠄌", -- colr-icons-drizzle-orm-material U+1f340 U+fe02 U+e010c
 		["catpuccin-frappe"] = "🍀︂󠄍", -- colr-icons-drizzle-orm-catpuccin-frappe U+1f340 U+fe02 U+e010d
 		["catpuccin-latte"] = "🍀︂󠄎", -- colr-icons-drizzle-orm-catpuccin-latte U+1f340 U+fe02 U+e010e
 		["catpuccin-macchiato"] = "🍀︂󠄏", -- colr-icons-drizzle-orm-catpuccin-macchiato U+1f340 U+fe02 U+e010f
@@ -1104,13 +1088,13 @@ return {
 		["catpuccin-macchiato"] = "🍀︂󠅸", -- colr-icons-flutter-catpuccin-macchiato U+1f340 U+fe02 U+e0178
 		["catpuccin-mocha"] = "🍀︂󠅹", -- colr-icons-flutter-catpuccin-mocha U+1f340 U+fe02 U+e0179
 	},
-	-- Manually modified
 	["folder"] = {
 		["material"] = "🍀︂󠅺", -- colr-icons-folder-material U+1f340 U+fe02 U+e017a
 		["catpuccin-frappe"] = "🍀︂󠆃", -- colr-icons-folder-plain-catpuccin-frappe U+1f340 U+fe02 U+e0183
 		["catpuccin-latte"] = "🍀︂󠆅", -- colr-icons-folder-plain-catpuccin-latte U+1f340 U+fe02 U+e0185
 		["catpuccin-macchiato"] = "🍀︂󠆇", -- colr-icons-folder-plain-catpuccin-macchiato U+1f340 U+fe02 U+e0187
 		["catpuccin-mocha"] = "🍀︂󠆉", -- colr-icons-folder-plain-catpuccin-mocha U+1f340 U+fe02 U+e0189
+		["catpuccin-frappe"] = "🍀︂󠅻", -- colr-icons-folder-catpuccin-frappe U+1f340 U+fe02 U+e017b
 	},
 	["folder-open"] = {
 		["material"] = "🍀︂󠅺", -- colr-icons-folder-material U+1f340 U+fe02 U+e017a
@@ -1363,19 +1347,17 @@ return {
 		["material"] = "🍀︃󠄙", -- colr-icons-folder_ci-material U+1f340 U+fe03 U+e0119
 	},
 	["folder_circle-ci"] = {
-		["catpuccin-frappe"] = "🍀︃󠄚", -- colr-icons-folder_circle-ci-catpuccin-frappe U+1f340 U+fe03 U+e011a
-		["catpuccin-latte"] = "🍀︃󠄛", -- colr-icons-folder_circle-ci-catpuccin-latte U+1f340 U+fe03 U+e011b
-		["catpuccin-macchiato"] = "🍀︃󠄜", -- colr-icons-folder_circle-ci-catpuccin-macchiato U+1f340 U+fe03 U+e011c
-		["catpuccin-mocha"] = "🍀︃󠄝", -- colr-icons-folder_circle-ci-catpuccin-mocha U+1f340 U+fe03 U+e011d
+		["material"] = "🍀︃󠄚", -- colr-icons-folder_circle-ci-material U+1f340 U+fe03 U+e011a
+		["catpuccin-frappe"] = "🍀︃󠄛", -- colr-icons-folder_circle-ci-catpuccin-frappe U+1f340 U+fe03 U+e011b
+		["catpuccin-latte"] = "🍀︃󠄜", -- colr-icons-folder_circle-ci-catpuccin-latte U+1f340 U+fe03 U+e011c
+		["catpuccin-macchiato"] = "🍀︃󠄝", -- colr-icons-folder_circle-ci-catpuccin-macchiato U+1f340 U+fe03 U+e011d
+		["catpuccin-mocha"] = "🍀︃󠄞", -- colr-icons-folder_circle-ci-catpuccin-mocha U+1f340 U+fe03 U+e011e
 	},
 	["folder_circle-ci_open"] = {
-		["catpuccin-frappe"] = "🍀︃󠄞", -- colr-icons-folder_circle-ci_open-catpuccin-frappe U+1f340 U+fe03 U+e011e
-		["catpuccin-latte"] = "🍀︃󠄟", -- colr-icons-folder_circle-ci_open-catpuccin-latte U+1f340 U+fe03 U+e011f
-		["catpuccin-macchiato"] = "🍀︃󠄠", -- colr-icons-folder_circle-ci_open-catpuccin-macchiato U+1f340 U+fe03 U+e0120
-		["catpuccin-mocha"] = "🍀︃󠄡", -- colr-icons-folder_circle-ci_open-catpuccin-mocha U+1f340 U+fe03 U+e0121
-	},
-	["folder_circleci"] = {
-		["material"] = "🍀︃󠄢", -- colr-icons-folder_circleci-material U+1f340 U+fe03 U+e0122
+		["catpuccin-frappe"] = "🍀︃󠄟", -- colr-icons-folder_circle-ci_open-catpuccin-frappe U+1f340 U+fe03 U+e011f
+		["catpuccin-latte"] = "🍀︃󠄠", -- colr-icons-folder_circle-ci_open-catpuccin-latte U+1f340 U+fe03 U+e0120
+		["catpuccin-macchiato"] = "🍀︃󠄡", -- colr-icons-folder_circle-ci_open-catpuccin-macchiato U+1f340 U+fe03 U+e0121
+		["catpuccin-mocha"] = "🍀︃󠄢", -- colr-icons-folder_circle-ci_open-catpuccin-mocha U+1f340 U+fe03 U+e0122
 	},
 	["folder_class"] = {
 		["material"] = "🍀︃󠄣", -- colr-icons-folder_class-material U+1f340 U+fe03 U+e0123
@@ -1724,10 +1706,8 @@ return {
 		["catpuccin-macchiato"] = "🍀︄︈", -- colr-icons-folder_download_open-catpuccin-macchiato U+1f340 U+fe04 U+fe08
 		["catpuccin-mocha"] = "🍀︄︉", -- colr-icons-folder_download_open-catpuccin-mocha U+1f340 U+fe04 U+fe09
 	},
-	["folder_drizzle"] = {
-		["material"] = "🍀︄︊", -- colr-icons-folder_drizzle-material U+1f340 U+fe04 U+fe0a
-	},
 	["folder_drizzle-orm"] = {
+		["material"] = "🍀︄︊", -- colr-icons-folder_drizzle-orm-material U+1f340 U+fe04 U+fe0a
 		["catpuccin-frappe"] = "🍀︄︋", -- colr-icons-folder_drizzle-orm-catpuccin-frappe U+1f340 U+fe04 U+fe0b
 		["catpuccin-latte"] = "🍀︄︌", -- colr-icons-folder_drizzle-orm-catpuccin-latte U+1f340 U+fe04 U+fe0c
 		["catpuccin-macchiato"] = "🍀︄︍", -- colr-icons-folder_drizzle-orm-catpuccin-macchiato U+1f340 U+fe04 U+fe0d
@@ -3685,13 +3665,11 @@ return {
 		["catpuccin-mocha"] = "🍀︈󠅫", -- colr-icons-json-catpuccin-mocha U+1f340 U+fe08 U+e016b
 	},
 	["json-schema"] = {
-		["catpuccin-frappe"] = "🍀︈󠅬", -- colr-icons-json-schema-catpuccin-frappe U+1f340 U+fe08 U+e016c
-		["catpuccin-latte"] = "🍀︈󠅭", -- colr-icons-json-schema-catpuccin-latte U+1f340 U+fe08 U+e016d
-		["catpuccin-macchiato"] = "🍀︈󠅮", -- colr-icons-json-schema-catpuccin-macchiato U+1f340 U+fe08 U+e016e
-		["catpuccin-mocha"] = "🍀︈󠅯", -- colr-icons-json-schema-catpuccin-mocha U+1f340 U+fe08 U+e016f
-	},
-	["json_schema"] = {
-		["material"] = "🍀︈󠅰", -- colr-icons-json_schema-material U+1f340 U+fe08 U+e0170
+		["material"] = "🍀︈󠅬", -- colr-icons-json-schema-material U+1f340 U+fe08 U+e016c
+		["catpuccin-frappe"] = "🍀︈󠅭", -- colr-icons-json-schema-catpuccin-frappe U+1f340 U+fe08 U+e016d
+		["catpuccin-latte"] = "🍀︈󠅮", -- colr-icons-json-schema-catpuccin-latte U+1f340 U+fe08 U+e016e
+		["catpuccin-macchiato"] = "🍀︈󠅯", -- colr-icons-json-schema-catpuccin-macchiato U+1f340 U+fe08 U+e016f
+		["catpuccin-mocha"] = "🍀︈󠅰", -- colr-icons-json-schema-catpuccin-mocha U+1f340 U+fe08 U+e0170
 	},
 	["jsr"] = {
 		["material"] = "🍀︈󠅱", -- colr-icons-jsr-material U+1f340 U+fe08 U+e0171
@@ -3852,13 +3830,11 @@ return {
 		["material"] = "🍀︈󠇌", -- colr-icons-lilypond-material U+1f340 U+fe08 U+e01cc
 	},
 	["lint-staged"] = {
-		["catpuccin-frappe"] = "🍀︈󠇍", -- colr-icons-lint-staged-catpuccin-frappe U+1f340 U+fe08 U+e01cd
-		["catpuccin-latte"] = "🍀︈󠇎", -- colr-icons-lint-staged-catpuccin-latte U+1f340 U+fe08 U+e01ce
-		["catpuccin-macchiato"] = "🍀︈󠇏", -- colr-icons-lint-staged-catpuccin-macchiato U+1f340 U+fe08 U+e01cf
-		["catpuccin-mocha"] = "🍀︈󠇐", -- colr-icons-lint-staged-catpuccin-mocha U+1f340 U+fe08 U+e01d0
-	},
-	["lintstaged"] = {
-		["material"] = "🍀︈󠇑", -- colr-icons-lintstaged-material U+1f340 U+fe08 U+e01d1
+		["material"] = "🍀︈󠇍", -- colr-icons-lint-staged-material U+1f340 U+fe08 U+e01cd
+		["catpuccin-frappe"] = "🍀︈󠇎", -- colr-icons-lint-staged-catpuccin-frappe U+1f340 U+fe08 U+e01ce
+		["catpuccin-latte"] = "🍀︈󠇏", -- colr-icons-lint-staged-catpuccin-latte U+1f340 U+fe08 U+e01cf
+		["catpuccin-macchiato"] = "🍀︈󠇐", -- colr-icons-lint-staged-catpuccin-macchiato U+1f340 U+fe08 U+e01d0
+		["catpuccin-mocha"] = "🍀︈󠇑", -- colr-icons-lint-staged-catpuccin-mocha U+1f340 U+fe08 U+e01d1
 	},
 	["liquid"] = {
 		["material"] = "🍀︈󠇒", -- colr-icons-liquid-material U+1f340 U+fe08 U+e01d2
@@ -4141,1765 +4117,1751 @@ return {
 		["catpuccin-mocha"] = "🍀︉󠅷", -- colr-icons-ms-excel-catpuccin-mocha U+1f340 U+fe09 U+e0177
 	},
 	["ms-powerpoint"] = {
-		["catpuccin-frappe"] = "🍀︉󠅸", -- colr-icons-ms-powerpoint-catpuccin-frappe U+1f340 U+fe09 U+e0178
-		["catpuccin-latte"] = "🍀︉󠅹", -- colr-icons-ms-powerpoint-catpuccin-latte U+1f340 U+fe09 U+e0179
-		["catpuccin-macchiato"] = "🍀︉󠅺", -- colr-icons-ms-powerpoint-catpuccin-macchiato U+1f340 U+fe09 U+e017a
-		["catpuccin-mocha"] = "🍀︉󠅻", -- colr-icons-ms-powerpoint-catpuccin-mocha U+1f340 U+fe09 U+e017b
+		["material"] = "🍀︉󠅸", -- colr-icons-ms-powerpoint-material U+1f340 U+fe09 U+e0178
+		["catpuccin-frappe"] = "🍀︉󠅹", -- colr-icons-ms-powerpoint-catpuccin-frappe U+1f340 U+fe09 U+e0179
+		["catpuccin-latte"] = "🍀︉󠅺", -- colr-icons-ms-powerpoint-catpuccin-latte U+1f340 U+fe09 U+e017a
+		["catpuccin-macchiato"] = "🍀︉󠅻", -- colr-icons-ms-powerpoint-catpuccin-macchiato U+1f340 U+fe09 U+e017b
+		["catpuccin-mocha"] = "🍀︉󠅼", -- colr-icons-ms-powerpoint-catpuccin-mocha U+1f340 U+fe09 U+e017c
 	},
 	["ms-word"] = {
-		["catpuccin-frappe"] = "🍀︉󠅼", -- colr-icons-ms-word-catpuccin-frappe U+1f340 U+fe09 U+e017c
-		["catpuccin-latte"] = "🍀︉󠅽", -- colr-icons-ms-word-catpuccin-latte U+1f340 U+fe09 U+e017d
-		["catpuccin-macchiato"] = "🍀︉󠅾", -- colr-icons-ms-word-catpuccin-macchiato U+1f340 U+fe09 U+e017e
-		["catpuccin-mocha"] = "🍀︉󠅿", -- colr-icons-ms-word-catpuccin-mocha U+1f340 U+fe09 U+e017f
+		["material"] = "🍀︉󠅽", -- colr-icons-ms-word-material U+1f340 U+fe09 U+e017d
+		["catpuccin-frappe"] = "🍀︉󠅾", -- colr-icons-ms-word-catpuccin-frappe U+1f340 U+fe09 U+e017e
+		["catpuccin-latte"] = "🍀︉󠅿", -- colr-icons-ms-word-catpuccin-latte U+1f340 U+fe09 U+e017f
+		["catpuccin-macchiato"] = "🍀︉󠆀", -- colr-icons-ms-word-catpuccin-macchiato U+1f340 U+fe09 U+e0180
+		["catpuccin-mocha"] = "🍀︉󠆁", -- colr-icons-ms-word-catpuccin-mocha U+1f340 U+fe09 U+e0181
 	},
 	["msbuild"] = {
-		["catpuccin-frappe"] = "🍀︉󠆀", -- colr-icons-msbuild-catpuccin-frappe U+1f340 U+fe09 U+e0180
-		["catpuccin-latte"] = "🍀︉󠆁", -- colr-icons-msbuild-catpuccin-latte U+1f340 U+fe09 U+e0181
-		["catpuccin-macchiato"] = "🍀︉󠆂", -- colr-icons-msbuild-catpuccin-macchiato U+1f340 U+fe09 U+e0182
-		["catpuccin-mocha"] = "🍀︉󠆃", -- colr-icons-msbuild-catpuccin-mocha U+1f340 U+fe09 U+e0183
+		["catpuccin-frappe"] = "🍀︉󠆂", -- colr-icons-msbuild-catpuccin-frappe U+1f340 U+fe09 U+e0182
+		["catpuccin-latte"] = "🍀︉󠆃", -- colr-icons-msbuild-catpuccin-latte U+1f340 U+fe09 U+e0183
+		["catpuccin-macchiato"] = "🍀︉󠆄", -- colr-icons-msbuild-catpuccin-macchiato U+1f340 U+fe09 U+e0184
+		["catpuccin-mocha"] = "🍀︉󠆅", -- colr-icons-msbuild-catpuccin-mocha U+1f340 U+fe09 U+e0185
 	},
 	["mxml"] = {
-		["material"] = "🍀︉󠆄", -- colr-icons-mxml-material U+1f340 U+fe09 U+e0184
+		["material"] = "🍀︉󠆆", -- colr-icons-mxml-material U+1f340 U+fe09 U+e0186
 	},
 	["nano-staged"] = {
-		["material"] = "🍀︉󠆅", -- colr-icons-nano-staged-material U+1f340 U+fe09 U+e0185
+		["material"] = "🍀︉󠆇", -- colr-icons-nano-staged-material U+1f340 U+fe09 U+e0187
 	},
 	["nano-staged_light"] = {
-		["material"] = "🍀︉󠆆", -- colr-icons-nano-staged_light-material U+1f340 U+fe09 U+e0186
+		["material"] = "🍀︉󠆈", -- colr-icons-nano-staged_light-material U+1f340 U+fe09 U+e0188
 	},
 	["nativescript"] = {
-		["catpuccin-frappe"] = "🍀︉󠆇", -- colr-icons-nativescript-catpuccin-frappe U+1f340 U+fe09 U+e0187
-		["catpuccin-latte"] = "🍀︉󠆈", -- colr-icons-nativescript-catpuccin-latte U+1f340 U+fe09 U+e0188
-		["catpuccin-macchiato"] = "🍀︉󠆉", -- colr-icons-nativescript-catpuccin-macchiato U+1f340 U+fe09 U+e0189
-		["catpuccin-mocha"] = "🍀︉󠆊", -- colr-icons-nativescript-catpuccin-mocha U+1f340 U+fe09 U+e018a
+		["catpuccin-frappe"] = "🍀︉󠆉", -- colr-icons-nativescript-catpuccin-frappe U+1f340 U+fe09 U+e0189
+		["catpuccin-latte"] = "🍀︉󠆊", -- colr-icons-nativescript-catpuccin-latte U+1f340 U+fe09 U+e018a
+		["catpuccin-macchiato"] = "🍀︉󠆋", -- colr-icons-nativescript-catpuccin-macchiato U+1f340 U+fe09 U+e018b
+		["catpuccin-mocha"] = "🍀︉󠆌", -- colr-icons-nativescript-catpuccin-mocha U+1f340 U+fe09 U+e018c
 	},
 	["ndst"] = {
-		["material"] = "🍀︉󠆋", -- colr-icons-ndst-material U+1f340 U+fe09 U+e018b
+		["material"] = "🍀︉󠆍", -- colr-icons-ndst-material U+1f340 U+fe09 U+e018d
 	},
 	["nest"] = {
-		["material"] = "🍀︉󠆌", -- colr-icons-nest-material U+1f340 U+fe09 U+e018c
-		["catpuccin-frappe"] = "🍀︉󠆍", -- colr-icons-nest-catpuccin-frappe U+1f340 U+fe09 U+e018d
-		["catpuccin-latte"] = "🍀︉󠆎", -- colr-icons-nest-catpuccin-latte U+1f340 U+fe09 U+e018e
-		["catpuccin-macchiato"] = "🍀︉󠆏", -- colr-icons-nest-catpuccin-macchiato U+1f340 U+fe09 U+e018f
-		["catpuccin-mocha"] = "🍀︉󠆐", -- colr-icons-nest-catpuccin-mocha U+1f340 U+fe09 U+e0190
+		["material"] = "🍀︉󠆎", -- colr-icons-nest-material U+1f340 U+fe09 U+e018e
+		["catpuccin-frappe"] = "🍀︉󠆏", -- colr-icons-nest-catpuccin-frappe U+1f340 U+fe09 U+e018f
+		["catpuccin-latte"] = "🍀︉󠆐", -- colr-icons-nest-catpuccin-latte U+1f340 U+fe09 U+e0190
+		["catpuccin-macchiato"] = "🍀︉󠆑", -- colr-icons-nest-catpuccin-macchiato U+1f340 U+fe09 U+e0191
+		["catpuccin-mocha"] = "🍀︉󠆒", -- colr-icons-nest-catpuccin-mocha U+1f340 U+fe09 U+e0192
 	},
 	["nest-controller"] = {
-		["catpuccin-frappe"] = "🍀︉󠆑", -- colr-icons-nest-controller-catpuccin-frappe U+1f340 U+fe09 U+e0191
-		["catpuccin-latte"] = "🍀︉󠆒", -- colr-icons-nest-controller-catpuccin-latte U+1f340 U+fe09 U+e0192
-		["catpuccin-macchiato"] = "🍀︉󠆓", -- colr-icons-nest-controller-catpuccin-macchiato U+1f340 U+fe09 U+e0193
-		["catpuccin-mocha"] = "🍀︉󠆔", -- colr-icons-nest-controller-catpuccin-mocha U+1f340 U+fe09 U+e0194
+		["catpuccin-frappe"] = "🍀︉󠆓", -- colr-icons-nest-controller-catpuccin-frappe U+1f340 U+fe09 U+e0193
+		["catpuccin-latte"] = "🍀︉󠆔", -- colr-icons-nest-controller-catpuccin-latte U+1f340 U+fe09 U+e0194
+		["catpuccin-macchiato"] = "🍀︉󠆕", -- colr-icons-nest-controller-catpuccin-macchiato U+1f340 U+fe09 U+e0195
+		["catpuccin-mocha"] = "🍀︉󠆖", -- colr-icons-nest-controller-catpuccin-mocha U+1f340 U+fe09 U+e0196
 	},
 	["nest-decorator"] = {
-		["catpuccin-frappe"] = "🍀︉󠆕", -- colr-icons-nest-decorator-catpuccin-frappe U+1f340 U+fe09 U+e0195
-		["catpuccin-latte"] = "🍀︉󠆖", -- colr-icons-nest-decorator-catpuccin-latte U+1f340 U+fe09 U+e0196
-		["catpuccin-macchiato"] = "🍀︉󠆗", -- colr-icons-nest-decorator-catpuccin-macchiato U+1f340 U+fe09 U+e0197
-		["catpuccin-mocha"] = "🍀︉󠆘", -- colr-icons-nest-decorator-catpuccin-mocha U+1f340 U+fe09 U+e0198
+		["catpuccin-frappe"] = "🍀︉󠆗", -- colr-icons-nest-decorator-catpuccin-frappe U+1f340 U+fe09 U+e0197
+		["catpuccin-latte"] = "🍀︉󠆘", -- colr-icons-nest-decorator-catpuccin-latte U+1f340 U+fe09 U+e0198
+		["catpuccin-macchiato"] = "🍀︉󠆙", -- colr-icons-nest-decorator-catpuccin-macchiato U+1f340 U+fe09 U+e0199
+		["catpuccin-mocha"] = "🍀︉󠆚", -- colr-icons-nest-decorator-catpuccin-mocha U+1f340 U+fe09 U+e019a
 	},
 	["nest-filter"] = {
-		["catpuccin-frappe"] = "🍀︉󠆙", -- colr-icons-nest-filter-catpuccin-frappe U+1f340 U+fe09 U+e0199
-		["catpuccin-latte"] = "🍀︉󠆚", -- colr-icons-nest-filter-catpuccin-latte U+1f340 U+fe09 U+e019a
-		["catpuccin-macchiato"] = "🍀︉󠆛", -- colr-icons-nest-filter-catpuccin-macchiato U+1f340 U+fe09 U+e019b
-		["catpuccin-mocha"] = "🍀︉󠆜", -- colr-icons-nest-filter-catpuccin-mocha U+1f340 U+fe09 U+e019c
+		["catpuccin-frappe"] = "🍀︉󠆛", -- colr-icons-nest-filter-catpuccin-frappe U+1f340 U+fe09 U+e019b
+		["catpuccin-latte"] = "🍀︉󠆜", -- colr-icons-nest-filter-catpuccin-latte U+1f340 U+fe09 U+e019c
+		["catpuccin-macchiato"] = "🍀︉󠆝", -- colr-icons-nest-filter-catpuccin-macchiato U+1f340 U+fe09 U+e019d
+		["catpuccin-mocha"] = "🍀︉󠆞", -- colr-icons-nest-filter-catpuccin-mocha U+1f340 U+fe09 U+e019e
 	},
 	["nest-gateway"] = {
-		["catpuccin-frappe"] = "🍀︉󠆝", -- colr-icons-nest-gateway-catpuccin-frappe U+1f340 U+fe09 U+e019d
-		["catpuccin-latte"] = "🍀︉󠆞", -- colr-icons-nest-gateway-catpuccin-latte U+1f340 U+fe09 U+e019e
-		["catpuccin-macchiato"] = "🍀︉󠆟", -- colr-icons-nest-gateway-catpuccin-macchiato U+1f340 U+fe09 U+e019f
-		["catpuccin-mocha"] = "🍀︉󠆠", -- colr-icons-nest-gateway-catpuccin-mocha U+1f340 U+fe09 U+e01a0
+		["catpuccin-frappe"] = "🍀︉󠆟", -- colr-icons-nest-gateway-catpuccin-frappe U+1f340 U+fe09 U+e019f
+		["catpuccin-latte"] = "🍀︉󠆠", -- colr-icons-nest-gateway-catpuccin-latte U+1f340 U+fe09 U+e01a0
+		["catpuccin-macchiato"] = "🍀︉󠆡", -- colr-icons-nest-gateway-catpuccin-macchiato U+1f340 U+fe09 U+e01a1
+		["catpuccin-mocha"] = "🍀︉󠆢", -- colr-icons-nest-gateway-catpuccin-mocha U+1f340 U+fe09 U+e01a2
 	},
 	["nest-guard"] = {
-		["catpuccin-frappe"] = "🍀︉󠆡", -- colr-icons-nest-guard-catpuccin-frappe U+1f340 U+fe09 U+e01a1
-		["catpuccin-latte"] = "🍀︉󠆢", -- colr-icons-nest-guard-catpuccin-latte U+1f340 U+fe09 U+e01a2
-		["catpuccin-macchiato"] = "🍀︉󠆣", -- colr-icons-nest-guard-catpuccin-macchiato U+1f340 U+fe09 U+e01a3
-		["catpuccin-mocha"] = "🍀︉󠆤", -- colr-icons-nest-guard-catpuccin-mocha U+1f340 U+fe09 U+e01a4
+		["catpuccin-frappe"] = "🍀︉󠆣", -- colr-icons-nest-guard-catpuccin-frappe U+1f340 U+fe09 U+e01a3
+		["catpuccin-latte"] = "🍀︉󠆤", -- colr-icons-nest-guard-catpuccin-latte U+1f340 U+fe09 U+e01a4
+		["catpuccin-macchiato"] = "🍀︉󠆥", -- colr-icons-nest-guard-catpuccin-macchiato U+1f340 U+fe09 U+e01a5
+		["catpuccin-mocha"] = "🍀︉󠆦", -- colr-icons-nest-guard-catpuccin-mocha U+1f340 U+fe09 U+e01a6
 	},
 	["nest-middleware"] = {
-		["catpuccin-frappe"] = "🍀︉󠆥", -- colr-icons-nest-middleware-catpuccin-frappe U+1f340 U+fe09 U+e01a5
-		["catpuccin-latte"] = "🍀︉󠆦", -- colr-icons-nest-middleware-catpuccin-latte U+1f340 U+fe09 U+e01a6
-		["catpuccin-macchiato"] = "🍀︉󠆧", -- colr-icons-nest-middleware-catpuccin-macchiato U+1f340 U+fe09 U+e01a7
-		["catpuccin-mocha"] = "🍀︉󠆨", -- colr-icons-nest-middleware-catpuccin-mocha U+1f340 U+fe09 U+e01a8
+		["catpuccin-frappe"] = "🍀︉󠆧", -- colr-icons-nest-middleware-catpuccin-frappe U+1f340 U+fe09 U+e01a7
+		["catpuccin-latte"] = "🍀︉󠆨", -- colr-icons-nest-middleware-catpuccin-latte U+1f340 U+fe09 U+e01a8
+		["catpuccin-macchiato"] = "🍀︉󠆩", -- colr-icons-nest-middleware-catpuccin-macchiato U+1f340 U+fe09 U+e01a9
+		["catpuccin-mocha"] = "🍀︉󠆪", -- colr-icons-nest-middleware-catpuccin-mocha U+1f340 U+fe09 U+e01aa
 	},
 	["nest-pipe"] = {
-		["catpuccin-frappe"] = "🍀︉󠆩", -- colr-icons-nest-pipe-catpuccin-frappe U+1f340 U+fe09 U+e01a9
-		["catpuccin-latte"] = "🍀︉󠆪", -- colr-icons-nest-pipe-catpuccin-latte U+1f340 U+fe09 U+e01aa
-		["catpuccin-macchiato"] = "🍀︉󠆫", -- colr-icons-nest-pipe-catpuccin-macchiato U+1f340 U+fe09 U+e01ab
-		["catpuccin-mocha"] = "🍀︉󠆬", -- colr-icons-nest-pipe-catpuccin-mocha U+1f340 U+fe09 U+e01ac
+		["catpuccin-frappe"] = "🍀︉󠆫", -- colr-icons-nest-pipe-catpuccin-frappe U+1f340 U+fe09 U+e01ab
+		["catpuccin-latte"] = "🍀︉󠆬", -- colr-icons-nest-pipe-catpuccin-latte U+1f340 U+fe09 U+e01ac
+		["catpuccin-macchiato"] = "🍀︉󠆭", -- colr-icons-nest-pipe-catpuccin-macchiato U+1f340 U+fe09 U+e01ad
+		["catpuccin-mocha"] = "🍀︉󠆮", -- colr-icons-nest-pipe-catpuccin-mocha U+1f340 U+fe09 U+e01ae
 	},
 	["nest-service"] = {
-		["catpuccin-frappe"] = "🍀︉󠆭", -- colr-icons-nest-service-catpuccin-frappe U+1f340 U+fe09 U+e01ad
-		["catpuccin-latte"] = "🍀︉󠆮", -- colr-icons-nest-service-catpuccin-latte U+1f340 U+fe09 U+e01ae
-		["catpuccin-macchiato"] = "🍀︉󠆯", -- colr-icons-nest-service-catpuccin-macchiato U+1f340 U+fe09 U+e01af
-		["catpuccin-mocha"] = "🍀︉󠆰", -- colr-icons-nest-service-catpuccin-mocha U+1f340 U+fe09 U+e01b0
+		["catpuccin-frappe"] = "🍀︉󠆯", -- colr-icons-nest-service-catpuccin-frappe U+1f340 U+fe09 U+e01af
+		["catpuccin-latte"] = "🍀︉󠆰", -- colr-icons-nest-service-catpuccin-latte U+1f340 U+fe09 U+e01b0
+		["catpuccin-macchiato"] = "🍀︉󠆱", -- colr-icons-nest-service-catpuccin-macchiato U+1f340 U+fe09 U+e01b1
+		["catpuccin-mocha"] = "🍀︉󠆲", -- colr-icons-nest-service-catpuccin-mocha U+1f340 U+fe09 U+e01b2
 	},
 	["netlify"] = {
-		["material"] = "🍀︉󠆱", -- colr-icons-netlify-material U+1f340 U+fe09 U+e01b1
-		["catpuccin-frappe"] = "🍀︉󠆲", -- colr-icons-netlify-catpuccin-frappe U+1f340 U+fe09 U+e01b2
-		["catpuccin-latte"] = "🍀︉󠆳", -- colr-icons-netlify-catpuccin-latte U+1f340 U+fe09 U+e01b3
-		["catpuccin-macchiato"] = "🍀︉󠆴", -- colr-icons-netlify-catpuccin-macchiato U+1f340 U+fe09 U+e01b4
-		["catpuccin-mocha"] = "🍀︉󠆵", -- colr-icons-netlify-catpuccin-mocha U+1f340 U+fe09 U+e01b5
+		["material"] = "🍀︉󠆳", -- colr-icons-netlify-material U+1f340 U+fe09 U+e01b3
+		["catpuccin-frappe"] = "🍀︉󠆴", -- colr-icons-netlify-catpuccin-frappe U+1f340 U+fe09 U+e01b4
+		["catpuccin-latte"] = "🍀︉󠆵", -- colr-icons-netlify-catpuccin-latte U+1f340 U+fe09 U+e01b5
+		["catpuccin-macchiato"] = "🍀︉󠆶", -- colr-icons-netlify-catpuccin-macchiato U+1f340 U+fe09 U+e01b6
+		["catpuccin-mocha"] = "🍀︉󠆷", -- colr-icons-netlify-catpuccin-mocha U+1f340 U+fe09 U+e01b7
 	},
 	["netlify_light"] = {
-		["material"] = "🍀︉󠆶", -- colr-icons-netlify_light-material U+1f340 U+fe09 U+e01b6
+		["material"] = "🍀︉󠆸", -- colr-icons-netlify_light-material U+1f340 U+fe09 U+e01b8
 	},
 	["next"] = {
-		["material"] = "🍀︉󠆷", -- colr-icons-next-material U+1f340 U+fe09 U+e01b7
-		["catpuccin-frappe"] = "🍀︉󠆸", -- colr-icons-next-catpuccin-frappe U+1f340 U+fe09 U+e01b8
-		["catpuccin-latte"] = "🍀︉󠆹", -- colr-icons-next-catpuccin-latte U+1f340 U+fe09 U+e01b9
-		["catpuccin-macchiato"] = "🍀︉󠆺", -- colr-icons-next-catpuccin-macchiato U+1f340 U+fe09 U+e01ba
-		["catpuccin-mocha"] = "🍀︉󠆻", -- colr-icons-next-catpuccin-mocha U+1f340 U+fe09 U+e01bb
+		["material"] = "🍀︉󠆹", -- colr-icons-next-material U+1f340 U+fe09 U+e01b9
+		["catpuccin-frappe"] = "🍀︉󠆺", -- colr-icons-next-catpuccin-frappe U+1f340 U+fe09 U+e01ba
+		["catpuccin-latte"] = "🍀︉󠆻", -- colr-icons-next-catpuccin-latte U+1f340 U+fe09 U+e01bb
+		["catpuccin-macchiato"] = "🍀︉󠆼", -- colr-icons-next-catpuccin-macchiato U+1f340 U+fe09 U+e01bc
+		["catpuccin-mocha"] = "🍀︉󠆽", -- colr-icons-next-catpuccin-mocha U+1f340 U+fe09 U+e01bd
 	},
 	["next_light"] = {
-		["material"] = "🍀︉󠆼", -- colr-icons-next_light-material U+1f340 U+fe09 U+e01bc
+		["material"] = "🍀︉󠆾", -- colr-icons-next_light-material U+1f340 U+fe09 U+e01be
 	},
 	["nextflow"] = {
-		["catpuccin-frappe"] = "🍀︉󠆽", -- colr-icons-nextflow-catpuccin-frappe U+1f340 U+fe09 U+e01bd
-		["catpuccin-latte"] = "🍀︉󠆾", -- colr-icons-nextflow-catpuccin-latte U+1f340 U+fe09 U+e01be
-		["catpuccin-macchiato"] = "🍀︉󠆿", -- colr-icons-nextflow-catpuccin-macchiato U+1f340 U+fe09 U+e01bf
-		["catpuccin-mocha"] = "🍀︉󠇀", -- colr-icons-nextflow-catpuccin-mocha U+1f340 U+fe09 U+e01c0
+		["catpuccin-frappe"] = "🍀︉󠆿", -- colr-icons-nextflow-catpuccin-frappe U+1f340 U+fe09 U+e01bf
+		["catpuccin-latte"] = "🍀︉󠇀", -- colr-icons-nextflow-catpuccin-latte U+1f340 U+fe09 U+e01c0
+		["catpuccin-macchiato"] = "🍀︉󠇁", -- colr-icons-nextflow-catpuccin-macchiato U+1f340 U+fe09 U+e01c1
+		["catpuccin-mocha"] = "🍀︉󠇂", -- colr-icons-nextflow-catpuccin-mocha U+1f340 U+fe09 U+e01c2
 	},
 	["nginx"] = {
-		["material"] = "🍀︉󠇁", -- colr-icons-nginx-material U+1f340 U+fe09 U+e01c1
-		["catpuccin-frappe"] = "🍀︉󠇂", -- colr-icons-nginx-catpuccin-frappe U+1f340 U+fe09 U+e01c2
-		["catpuccin-latte"] = "🍀︉󠇃", -- colr-icons-nginx-catpuccin-latte U+1f340 U+fe09 U+e01c3
-		["catpuccin-macchiato"] = "🍀︉󠇄", -- colr-icons-nginx-catpuccin-macchiato U+1f340 U+fe09 U+e01c4
-		["catpuccin-mocha"] = "🍀︉󠇅", -- colr-icons-nginx-catpuccin-mocha U+1f340 U+fe09 U+e01c5
+		["material"] = "🍀︉󠇃", -- colr-icons-nginx-material U+1f340 U+fe09 U+e01c3
+		["catpuccin-frappe"] = "🍀︉󠇄", -- colr-icons-nginx-catpuccin-frappe U+1f340 U+fe09 U+e01c4
+		["catpuccin-latte"] = "🍀︉󠇅", -- colr-icons-nginx-catpuccin-latte U+1f340 U+fe09 U+e01c5
+		["catpuccin-macchiato"] = "🍀︉󠇆", -- colr-icons-nginx-catpuccin-macchiato U+1f340 U+fe09 U+e01c6
+		["catpuccin-mocha"] = "🍀︉󠇇", -- colr-icons-nginx-catpuccin-mocha U+1f340 U+fe09 U+e01c7
 	},
 	["ngrx-actions"] = {
-		["material"] = "🍀︉󠇆", -- colr-icons-ngrx-actions-material U+1f340 U+fe09 U+e01c6
+		["material"] = "🍀︉󠇈", -- colr-icons-ngrx-actions-material U+1f340 U+fe09 U+e01c8
 	},
 	["ngrx-effects"] = {
-		["material"] = "🍀︉󠇇", -- colr-icons-ngrx-effects-material U+1f340 U+fe09 U+e01c7
+		["material"] = "🍀︉󠇉", -- colr-icons-ngrx-effects-material U+1f340 U+fe09 U+e01c9
 	},
 	["ngrx-entity"] = {
-		["material"] = "🍀︉󠇈", -- colr-icons-ngrx-entity-material U+1f340 U+fe09 U+e01c8
+		["material"] = "🍀︉󠇊", -- colr-icons-ngrx-entity-material U+1f340 U+fe09 U+e01ca
 	},
 	["ngrx-reducer"] = {
-		["material"] = "🍀︉󠇉", -- colr-icons-ngrx-reducer-material U+1f340 U+fe09 U+e01c9
+		["material"] = "🍀︉󠇋", -- colr-icons-ngrx-reducer-material U+1f340 U+fe09 U+e01cb
 	},
 	["ngrx-selectors"] = {
-		["material"] = "🍀︉󠇊", -- colr-icons-ngrx-selectors-material U+1f340 U+fe09 U+e01ca
+		["material"] = "🍀︉󠇌", -- colr-icons-ngrx-selectors-material U+1f340 U+fe09 U+e01cc
 	},
 	["ngrx-state"] = {
-		["material"] = "🍀︉󠇋", -- colr-icons-ngrx-state-material U+1f340 U+fe09 U+e01cb
+		["material"] = "🍀︉󠇍", -- colr-icons-ngrx-state-material U+1f340 U+fe09 U+e01cd
 	},
 	["nim"] = {
-		["material"] = "🍀︉󠇌", -- colr-icons-nim-material U+1f340 U+fe09 U+e01cc
-		["catpuccin-frappe"] = "🍀︉󠇍", -- colr-icons-nim-catpuccin-frappe U+1f340 U+fe09 U+e01cd
-		["catpuccin-latte"] = "🍀︉󠇎", -- colr-icons-nim-catpuccin-latte U+1f340 U+fe09 U+e01ce
-		["catpuccin-macchiato"] = "🍀︉󠇏", -- colr-icons-nim-catpuccin-macchiato U+1f340 U+fe09 U+e01cf
-		["catpuccin-mocha"] = "🍀︉󠇐", -- colr-icons-nim-catpuccin-mocha U+1f340 U+fe09 U+e01d0
+		["material"] = "🍀︉󠇎", -- colr-icons-nim-material U+1f340 U+fe09 U+e01ce
+		["catpuccin-frappe"] = "🍀︉󠇏", -- colr-icons-nim-catpuccin-frappe U+1f340 U+fe09 U+e01cf
+		["catpuccin-latte"] = "🍀︉󠇐", -- colr-icons-nim-catpuccin-latte U+1f340 U+fe09 U+e01d0
+		["catpuccin-macchiato"] = "🍀︉󠇑", -- colr-icons-nim-catpuccin-macchiato U+1f340 U+fe09 U+e01d1
+		["catpuccin-mocha"] = "🍀︉󠇒", -- colr-icons-nim-catpuccin-mocha U+1f340 U+fe09 U+e01d2
 	},
 	["ninja"] = {
-		["catpuccin-frappe"] = "🍀︉󠇑", -- colr-icons-ninja-catpuccin-frappe U+1f340 U+fe09 U+e01d1
-		["catpuccin-latte"] = "🍀︉󠇒", -- colr-icons-ninja-catpuccin-latte U+1f340 U+fe09 U+e01d2
-		["catpuccin-macchiato"] = "🍀︉󠇓", -- colr-icons-ninja-catpuccin-macchiato U+1f340 U+fe09 U+e01d3
-		["catpuccin-mocha"] = "🍀︉󠇔", -- colr-icons-ninja-catpuccin-mocha U+1f340 U+fe09 U+e01d4
+		["catpuccin-frappe"] = "🍀︉󠇓", -- colr-icons-ninja-catpuccin-frappe U+1f340 U+fe09 U+e01d3
+		["catpuccin-latte"] = "🍀︉󠇔", -- colr-icons-ninja-catpuccin-latte U+1f340 U+fe09 U+e01d4
+		["catpuccin-macchiato"] = "🍀︉󠇕", -- colr-icons-ninja-catpuccin-macchiato U+1f340 U+fe09 U+e01d5
+		["catpuccin-mocha"] = "🍀︉󠇖", -- colr-icons-ninja-catpuccin-mocha U+1f340 U+fe09 U+e01d6
 	},
 	["nix"] = {
-		["material"] = "🍀︉󠇕", -- colr-icons-nix-material U+1f340 U+fe09 U+e01d5
-		["catpuccin-frappe"] = "🍀︉󠇖", -- colr-icons-nix-catpuccin-frappe U+1f340 U+fe09 U+e01d6
-		["catpuccin-latte"] = "🍀︉󠇗", -- colr-icons-nix-catpuccin-latte U+1f340 U+fe09 U+e01d7
-		["catpuccin-macchiato"] = "🍀︉󠇘", -- colr-icons-nix-catpuccin-macchiato U+1f340 U+fe09 U+e01d8
-		["catpuccin-mocha"] = "🍀︉󠇙", -- colr-icons-nix-catpuccin-mocha U+1f340 U+fe09 U+e01d9
+		["material"] = "🍀︉󠇗", -- colr-icons-nix-material U+1f340 U+fe09 U+e01d7
+		["catpuccin-frappe"] = "🍀︉󠇘", -- colr-icons-nix-catpuccin-frappe U+1f340 U+fe09 U+e01d8
+		["catpuccin-latte"] = "🍀︉󠇙", -- colr-icons-nix-catpuccin-latte U+1f340 U+fe09 U+e01d9
+		["catpuccin-macchiato"] = "🍀︉󠇚", -- colr-icons-nix-catpuccin-macchiato U+1f340 U+fe09 U+e01da
+		["catpuccin-mocha"] = "🍀︉󠇛", -- colr-icons-nix-catpuccin-mocha U+1f340 U+fe09 U+e01db
 	},
 	["nix-lock"] = {
-		["catpuccin-frappe"] = "🍀︉󠇚", -- colr-icons-nix-lock-catpuccin-frappe U+1f340 U+fe09 U+e01da
-		["catpuccin-latte"] = "🍀︉󠇛", -- colr-icons-nix-lock-catpuccin-latte U+1f340 U+fe09 U+e01db
-		["catpuccin-macchiato"] = "🍀︉󠇜", -- colr-icons-nix-lock-catpuccin-macchiato U+1f340 U+fe09 U+e01dc
-		["catpuccin-mocha"] = "🍀︉󠇝", -- colr-icons-nix-lock-catpuccin-mocha U+1f340 U+fe09 U+e01dd
+		["catpuccin-frappe"] = "🍀︉󠇜", -- colr-icons-nix-lock-catpuccin-frappe U+1f340 U+fe09 U+e01dc
+		["catpuccin-latte"] = "🍀︉󠇝", -- colr-icons-nix-lock-catpuccin-latte U+1f340 U+fe09 U+e01dd
+		["catpuccin-macchiato"] = "🍀︉󠇞", -- colr-icons-nix-lock-catpuccin-macchiato U+1f340 U+fe09 U+e01de
+		["catpuccin-mocha"] = "🍀︉󠇟", -- colr-icons-nix-lock-catpuccin-mocha U+1f340 U+fe09 U+e01df
 	},
 	["nodejs"] = {
-		["material"] = "🍀︉󠇞", -- colr-icons-nodejs-material U+1f340 U+fe09 U+e01de
+		["material"] = "🍀︉󠇠", -- colr-icons-nodejs-material U+1f340 U+fe09 U+e01e0
 	},
 	["nodejs_alt"] = {
-		["material"] = "🍀︉󠇟", -- colr-icons-nodejs_alt-material U+1f340 U+fe09 U+e01df
+		["material"] = "🍀︉󠇡", -- colr-icons-nodejs_alt-material U+1f340 U+fe09 U+e01e1
 	},
 	["nodemon"] = {
-		["material"] = "🍀︉󠇠", -- colr-icons-nodemon-material U+1f340 U+fe09 U+e01e0
-		["catpuccin-frappe"] = "🍀︉󠇡", -- colr-icons-nodemon-catpuccin-frappe U+1f340 U+fe09 U+e01e1
-		["catpuccin-latte"] = "🍀︉󠇢", -- colr-icons-nodemon-catpuccin-latte U+1f340 U+fe09 U+e01e2
-		["catpuccin-macchiato"] = "🍀︉󠇣", -- colr-icons-nodemon-catpuccin-macchiato U+1f340 U+fe09 U+e01e3
-		["catpuccin-mocha"] = "🍀︉󠇤", -- colr-icons-nodemon-catpuccin-mocha U+1f340 U+fe09 U+e01e4
+		["material"] = "🍀︉󠇢", -- colr-icons-nodemon-material U+1f340 U+fe09 U+e01e2
+		["catpuccin-frappe"] = "🍀︉󠇣", -- colr-icons-nodemon-catpuccin-frappe U+1f340 U+fe09 U+e01e3
+		["catpuccin-latte"] = "🍀︉󠇤", -- colr-icons-nodemon-catpuccin-latte U+1f340 U+fe09 U+e01e4
+		["catpuccin-macchiato"] = "🍀︉󠇥", -- colr-icons-nodemon-catpuccin-macchiato U+1f340 U+fe09 U+e01e5
+		["catpuccin-mocha"] = "🍀︉󠇦", -- colr-icons-nodemon-catpuccin-mocha U+1f340 U+fe09 U+e01e6
 	},
 	["npm"] = {
-		["material"] = "🍀︉󠇥", -- colr-icons-npm-material U+1f340 U+fe09 U+e01e5
-		["catpuccin-frappe"] = "🍀︉󠇦", -- colr-icons-npm-catpuccin-frappe U+1f340 U+fe09 U+e01e6
-		["catpuccin-latte"] = "🍀︉󠇧", -- colr-icons-npm-catpuccin-latte U+1f340 U+fe09 U+e01e7
-		["catpuccin-macchiato"] = "🍀︉󠇨", -- colr-icons-npm-catpuccin-macchiato U+1f340 U+fe09 U+e01e8
-		["catpuccin-mocha"] = "🍀︉󠇩", -- colr-icons-npm-catpuccin-mocha U+1f340 U+fe09 U+e01e9
+		["material"] = "🍀︉󠇧", -- colr-icons-npm-material U+1f340 U+fe09 U+e01e7
+		["catpuccin-frappe"] = "🍀︉󠇨", -- colr-icons-npm-catpuccin-frappe U+1f340 U+fe09 U+e01e8
+		["catpuccin-latte"] = "🍀︉󠇩", -- colr-icons-npm-catpuccin-latte U+1f340 U+fe09 U+e01e9
+		["catpuccin-macchiato"] = "🍀︉󠇪", -- colr-icons-npm-catpuccin-macchiato U+1f340 U+fe09 U+e01ea
+		["catpuccin-mocha"] = "🍀︉󠇫", -- colr-icons-npm-catpuccin-mocha U+1f340 U+fe09 U+e01eb
 	},
 	["npm-ignore"] = {
-		["catpuccin-frappe"] = "🍀︉󠇪", -- colr-icons-npm-ignore-catpuccin-frappe U+1f340 U+fe09 U+e01ea
-		["catpuccin-latte"] = "🍀︉󠇫", -- colr-icons-npm-ignore-catpuccin-latte U+1f340 U+fe09 U+e01eb
-		["catpuccin-macchiato"] = "🍀︉󠇬", -- colr-icons-npm-ignore-catpuccin-macchiato U+1f340 U+fe09 U+e01ec
-		["catpuccin-mocha"] = "🍀︉󠇭", -- colr-icons-npm-ignore-catpuccin-mocha U+1f340 U+fe09 U+e01ed
+		["catpuccin-frappe"] = "🍀︉󠇬", -- colr-icons-npm-ignore-catpuccin-frappe U+1f340 U+fe09 U+e01ec
+		["catpuccin-latte"] = "🍀︉󠇭", -- colr-icons-npm-ignore-catpuccin-latte U+1f340 U+fe09 U+e01ed
+		["catpuccin-macchiato"] = "🍀︉󠇮", -- colr-icons-npm-ignore-catpuccin-macchiato U+1f340 U+fe09 U+e01ee
+		["catpuccin-mocha"] = "🍀︉󠇯", -- colr-icons-npm-ignore-catpuccin-mocha U+1f340 U+fe09 U+e01ef
 	},
 	["npm-lock"] = {
-		["catpuccin-frappe"] = "🍀︉󠇮", -- colr-icons-npm-lock-catpuccin-frappe U+1f340 U+fe09 U+e01ee
-		["catpuccin-latte"] = "🍀︉󠇯", -- colr-icons-npm-lock-catpuccin-latte U+1f340 U+fe09 U+e01ef
-		["catpuccin-macchiato"] = "🍀︊︀", -- colr-icons-npm-lock-catpuccin-macchiato U+1f340 U+fe0a U+fe00
-		["catpuccin-mocha"] = "🍀︊︁", -- colr-icons-npm-lock-catpuccin-mocha U+1f340 U+fe0a U+fe01
+		["catpuccin-frappe"] = "🍀︊︀", -- colr-icons-npm-lock-catpuccin-frappe U+1f340 U+fe0a U+fe00
+		["catpuccin-latte"] = "🍀︊︁", -- colr-icons-npm-lock-catpuccin-latte U+1f340 U+fe0a U+fe01
+		["catpuccin-macchiato"] = "🍀︊︂", -- colr-icons-npm-lock-catpuccin-macchiato U+1f340 U+fe0a U+fe02
+		["catpuccin-mocha"] = "🍀︊︃", -- colr-icons-npm-lock-catpuccin-mocha U+1f340 U+fe0a U+fe03
 	},
 	["nuget"] = {
-		["material"] = "🍀︊︂", -- colr-icons-nuget-material U+1f340 U+fe0a U+fe02
-		["catpuccin-frappe"] = "🍀︊︃", -- colr-icons-nuget-catpuccin-frappe U+1f340 U+fe0a U+fe03
-		["catpuccin-latte"] = "🍀︊︄", -- colr-icons-nuget-catpuccin-latte U+1f340 U+fe0a U+fe04
-		["catpuccin-macchiato"] = "🍀︊︅", -- colr-icons-nuget-catpuccin-macchiato U+1f340 U+fe0a U+fe05
-		["catpuccin-mocha"] = "🍀︊︆", -- colr-icons-nuget-catpuccin-mocha U+1f340 U+fe0a U+fe06
+		["material"] = "🍀︊︄", -- colr-icons-nuget-material U+1f340 U+fe0a U+fe04
+		["catpuccin-frappe"] = "🍀︊︅", -- colr-icons-nuget-catpuccin-frappe U+1f340 U+fe0a U+fe05
+		["catpuccin-latte"] = "🍀︊︆", -- colr-icons-nuget-catpuccin-latte U+1f340 U+fe0a U+fe06
+		["catpuccin-macchiato"] = "🍀︊︇", -- colr-icons-nuget-catpuccin-macchiato U+1f340 U+fe0a U+fe07
+		["catpuccin-mocha"] = "🍀︊︈", -- colr-icons-nuget-catpuccin-mocha U+1f340 U+fe0a U+fe08
 	},
 	["nunjucks"] = {
-		["material"] = "🍀︊︇", -- colr-icons-nunjucks-material U+1f340 U+fe0a U+fe07
-		["catpuccin-frappe"] = "🍀︊︈", -- colr-icons-nunjucks-catpuccin-frappe U+1f340 U+fe0a U+fe08
-		["catpuccin-latte"] = "🍀︊︉", -- colr-icons-nunjucks-catpuccin-latte U+1f340 U+fe0a U+fe09
-		["catpuccin-macchiato"] = "🍀︊︊", -- colr-icons-nunjucks-catpuccin-macchiato U+1f340 U+fe0a U+fe0a
-		["catpuccin-mocha"] = "🍀︊︋", -- colr-icons-nunjucks-catpuccin-mocha U+1f340 U+fe0a U+fe0b
+		["material"] = "🍀︊︉", -- colr-icons-nunjucks-material U+1f340 U+fe0a U+fe09
+		["catpuccin-frappe"] = "🍀︊︊", -- colr-icons-nunjucks-catpuccin-frappe U+1f340 U+fe0a U+fe0a
+		["catpuccin-latte"] = "🍀︊︋", -- colr-icons-nunjucks-catpuccin-latte U+1f340 U+fe0a U+fe0b
+		["catpuccin-macchiato"] = "🍀︊︌", -- colr-icons-nunjucks-catpuccin-macchiato U+1f340 U+fe0a U+fe0c
+		["catpuccin-mocha"] = "🍀︊︍", -- colr-icons-nunjucks-catpuccin-mocha U+1f340 U+fe0a U+fe0d
 	},
 	["nuxt"] = {
-		["material"] = "🍀︊︌", -- colr-icons-nuxt-material U+1f340 U+fe0a U+fe0c
-		["catpuccin-frappe"] = "🍀︊︍", -- colr-icons-nuxt-catpuccin-frappe U+1f340 U+fe0a U+fe0d
-		["catpuccin-latte"] = "🍀︊︎", -- colr-icons-nuxt-catpuccin-latte U+1f340 U+fe0a U+fe0e
-		["catpuccin-macchiato"] = "🍀︊️", -- colr-icons-nuxt-catpuccin-macchiato U+1f340 U+fe0a U+fe0f
-		["catpuccin-mocha"] = "🍀︊󠄀", -- colr-icons-nuxt-catpuccin-mocha U+1f340 U+fe0a U+e0100
+		["material"] = "🍀︊︎", -- colr-icons-nuxt-material U+1f340 U+fe0a U+fe0e
+		["catpuccin-frappe"] = "🍀︊️", -- colr-icons-nuxt-catpuccin-frappe U+1f340 U+fe0a U+fe0f
+		["catpuccin-latte"] = "🍀︊󠄀", -- colr-icons-nuxt-catpuccin-latte U+1f340 U+fe0a U+e0100
+		["catpuccin-macchiato"] = "🍀︊󠄁", -- colr-icons-nuxt-catpuccin-macchiato U+1f340 U+fe0a U+e0101
+		["catpuccin-mocha"] = "🍀︊󠄂", -- colr-icons-nuxt-catpuccin-mocha U+1f340 U+fe0a U+e0102
 	},
 	["nuxt-ignore"] = {
-		["catpuccin-frappe"] = "🍀︊󠄁", -- colr-icons-nuxt-ignore-catpuccin-frappe U+1f340 U+fe0a U+e0101
-		["catpuccin-latte"] = "🍀︊󠄂", -- colr-icons-nuxt-ignore-catpuccin-latte U+1f340 U+fe0a U+e0102
-		["catpuccin-macchiato"] = "🍀︊󠄃", -- colr-icons-nuxt-ignore-catpuccin-macchiato U+1f340 U+fe0a U+e0103
-		["catpuccin-mocha"] = "🍀︊󠄄", -- colr-icons-nuxt-ignore-catpuccin-mocha U+1f340 U+fe0a U+e0104
+		["catpuccin-frappe"] = "🍀︊󠄃", -- colr-icons-nuxt-ignore-catpuccin-frappe U+1f340 U+fe0a U+e0103
+		["catpuccin-latte"] = "🍀︊󠄄", -- colr-icons-nuxt-ignore-catpuccin-latte U+1f340 U+fe0a U+e0104
+		["catpuccin-macchiato"] = "🍀︊󠄅", -- colr-icons-nuxt-ignore-catpuccin-macchiato U+1f340 U+fe0a U+e0105
+		["catpuccin-mocha"] = "🍀︊󠄆", -- colr-icons-nuxt-ignore-catpuccin-mocha U+1f340 U+fe0a U+e0106
 	},
 	["nx"] = {
-		["material"] = "🍀︊󠄅", -- colr-icons-nx-material U+1f340 U+fe0a U+e0105
-		["catpuccin-frappe"] = "🍀︊󠄆", -- colr-icons-nx-catpuccin-frappe U+1f340 U+fe0a U+e0106
-		["catpuccin-latte"] = "🍀︊󠄇", -- colr-icons-nx-catpuccin-latte U+1f340 U+fe0a U+e0107
-		["catpuccin-macchiato"] = "🍀︊󠄈", -- colr-icons-nx-catpuccin-macchiato U+1f340 U+fe0a U+e0108
-		["catpuccin-mocha"] = "🍀︊󠄉", -- colr-icons-nx-catpuccin-mocha U+1f340 U+fe0a U+e0109
+		["material"] = "🍀︊󠄇", -- colr-icons-nx-material U+1f340 U+fe0a U+e0107
+		["catpuccin-frappe"] = "🍀︊󠄈", -- colr-icons-nx-catpuccin-frappe U+1f340 U+fe0a U+e0108
+		["catpuccin-latte"] = "🍀︊󠄉", -- colr-icons-nx-catpuccin-latte U+1f340 U+fe0a U+e0109
+		["catpuccin-macchiato"] = "🍀︊󠄊", -- colr-icons-nx-catpuccin-macchiato U+1f340 U+fe0a U+e010a
+		["catpuccin-mocha"] = "🍀︊󠄋", -- colr-icons-nx-catpuccin-mocha U+1f340 U+fe0a U+e010b
 	},
 	["nx-ignore"] = {
-		["catpuccin-frappe"] = "🍀︊󠄊", -- colr-icons-nx-ignore-catpuccin-frappe U+1f340 U+fe0a U+e010a
-		["catpuccin-latte"] = "🍀︊󠄋", -- colr-icons-nx-ignore-catpuccin-latte U+1f340 U+fe0a U+e010b
-		["catpuccin-macchiato"] = "🍀︊󠄌", -- colr-icons-nx-ignore-catpuccin-macchiato U+1f340 U+fe0a U+e010c
-		["catpuccin-mocha"] = "🍀︊󠄍", -- colr-icons-nx-ignore-catpuccin-mocha U+1f340 U+fe0a U+e010d
+		["catpuccin-frappe"] = "🍀︊󠄌", -- colr-icons-nx-ignore-catpuccin-frappe U+1f340 U+fe0a U+e010c
+		["catpuccin-latte"] = "🍀︊󠄍", -- colr-icons-nx-ignore-catpuccin-latte U+1f340 U+fe0a U+e010d
+		["catpuccin-macchiato"] = "🍀︊󠄎", -- colr-icons-nx-ignore-catpuccin-macchiato U+1f340 U+fe0a U+e010e
+		["catpuccin-mocha"] = "🍀︊󠄏", -- colr-icons-nx-ignore-catpuccin-mocha U+1f340 U+fe0a U+e010f
 	},
 	["objective-c"] = {
-		["material"] = "🍀︊󠄎", -- colr-icons-objective-c-material U+1f340 U+fe0a U+e010e
+		["material"] = "🍀︊󠄐", -- colr-icons-objective-c-material U+1f340 U+fe0a U+e0110
 	},
 	["objective-cpp"] = {
-		["material"] = "🍀︊󠄏", -- colr-icons-objective-cpp-material U+1f340 U+fe0a U+e010f
+		["material"] = "🍀︊󠄑", -- colr-icons-objective-cpp-material U+1f340 U+fe0a U+e0111
 	},
 	["ocaml"] = {
-		["material"] = "🍀︊󠄐", -- colr-icons-ocaml-material U+1f340 U+fe0a U+e0110
-		["catpuccin-frappe"] = "🍀︊󠄑", -- colr-icons-ocaml-catpuccin-frappe U+1f340 U+fe0a U+e0111
-		["catpuccin-latte"] = "🍀︊󠄒", -- colr-icons-ocaml-catpuccin-latte U+1f340 U+fe0a U+e0112
-		["catpuccin-macchiato"] = "🍀︊󠄓", -- colr-icons-ocaml-catpuccin-macchiato U+1f340 U+fe0a U+e0113
-		["catpuccin-mocha"] = "🍀︊󠄔", -- colr-icons-ocaml-catpuccin-mocha U+1f340 U+fe0a U+e0114
+		["material"] = "🍀︊󠄒", -- colr-icons-ocaml-material U+1f340 U+fe0a U+e0112
+		["catpuccin-frappe"] = "🍀︊󠄓", -- colr-icons-ocaml-catpuccin-frappe U+1f340 U+fe0a U+e0113
+		["catpuccin-latte"] = "🍀︊󠄔", -- colr-icons-ocaml-catpuccin-latte U+1f340 U+fe0a U+e0114
+		["catpuccin-macchiato"] = "🍀︊󠄕", -- colr-icons-ocaml-catpuccin-macchiato U+1f340 U+fe0a U+e0115
+		["catpuccin-mocha"] = "🍀︊󠄖", -- colr-icons-ocaml-catpuccin-mocha U+1f340 U+fe0a U+e0116
 	},
 	["odin"] = {
-		["material"] = "🍀︊󠄕", -- colr-icons-odin-material U+1f340 U+fe0a U+e0115
-		["catpuccin-frappe"] = "🍀︊󠄖", -- colr-icons-odin-catpuccin-frappe U+1f340 U+fe0a U+e0116
-		["catpuccin-latte"] = "🍀︊󠄗", -- colr-icons-odin-catpuccin-latte U+1f340 U+fe0a U+e0117
-		["catpuccin-macchiato"] = "🍀︊󠄘", -- colr-icons-odin-catpuccin-macchiato U+1f340 U+fe0a U+e0118
-		["catpuccin-mocha"] = "🍀︊󠄙", -- colr-icons-odin-catpuccin-mocha U+1f340 U+fe0a U+e0119
+		["material"] = "🍀︊󠄗", -- colr-icons-odin-material U+1f340 U+fe0a U+e0117
+		["catpuccin-frappe"] = "🍀︊󠄘", -- colr-icons-odin-catpuccin-frappe U+1f340 U+fe0a U+e0118
+		["catpuccin-latte"] = "🍀︊󠄙", -- colr-icons-odin-catpuccin-latte U+1f340 U+fe0a U+e0119
+		["catpuccin-macchiato"] = "🍀︊󠄚", -- colr-icons-odin-catpuccin-macchiato U+1f340 U+fe0a U+e011a
+		["catpuccin-mocha"] = "🍀︊󠄛", -- colr-icons-odin-catpuccin-mocha U+1f340 U+fe0a U+e011b
 	},
 	["onnx"] = {
-		["material"] = "🍀︊󠄚", -- colr-icons-onnx-material U+1f340 U+fe0a U+e011a
+		["material"] = "🍀︊󠄜", -- colr-icons-onnx-material U+1f340 U+fe0a U+e011c
 	},
 	["opa"] = {
-		["material"] = "🍀︊󠄛", -- colr-icons-opa-material U+1f340 U+fe0a U+e011b
+		["material"] = "🍀︊󠄝", -- colr-icons-opa-material U+1f340 U+fe0a U+e011d
 	},
 	["opam"] = {
-		["material"] = "🍀︊󠄜", -- colr-icons-opam-material U+1f340 U+fe0a U+e011c
+		["material"] = "🍀︊󠄞", -- colr-icons-opam-material U+1f340 U+fe0a U+e011e
 	},
 	["openapi"] = {
-		["material"] = "🍀︊󠄝", -- colr-icons-openapi-material U+1f340 U+fe0a U+e011d
+		["material"] = "🍀︊󠄟", -- colr-icons-openapi-material U+1f340 U+fe0a U+e011f
 	},
 	["openapi_light"] = {
-		["material"] = "🍀︊󠄞", -- colr-icons-openapi_light-material U+1f340 U+fe0a U+e011e
+		["material"] = "🍀︊󠄠", -- colr-icons-openapi_light-material U+1f340 U+fe0a U+e0120
 	},
 	["opencode"] = {
-		["material"] = "🍀︊󠄟", -- colr-icons-opencode-material U+1f340 U+fe0a U+e011f
+		["material"] = "🍀︊󠄡", -- colr-icons-opencode-material U+1f340 U+fe0a U+e0121
 	},
 	["opencode_light"] = {
-		["material"] = "🍀︊󠄠", -- colr-icons-opencode_light-material U+1f340 U+fe0a U+e0120
+		["material"] = "🍀︊󠄢", -- colr-icons-opencode_light-material U+1f340 U+fe0a U+e0122
 	},
 	["opentofu"] = {
-		["material"] = "🍀︊󠄡", -- colr-icons-opentofu-material U+1f340 U+fe0a U+e0121
-		["catpuccin-frappe"] = "🍀︊󠄢", -- colr-icons-opentofu-catpuccin-frappe U+1f340 U+fe0a U+e0122
-		["catpuccin-latte"] = "🍀︊󠄣", -- colr-icons-opentofu-catpuccin-latte U+1f340 U+fe0a U+e0123
-		["catpuccin-macchiato"] = "🍀︊󠄤", -- colr-icons-opentofu-catpuccin-macchiato U+1f340 U+fe0a U+e0124
-		["catpuccin-mocha"] = "🍀︊󠄥", -- colr-icons-opentofu-catpuccin-mocha U+1f340 U+fe0a U+e0125
+		["material"] = "🍀︊󠄣", -- colr-icons-opentofu-material U+1f340 U+fe0a U+e0123
+		["catpuccin-frappe"] = "🍀︊󠄤", -- colr-icons-opentofu-catpuccin-frappe U+1f340 U+fe0a U+e0124
+		["catpuccin-latte"] = "🍀︊󠄥", -- colr-icons-opentofu-catpuccin-latte U+1f340 U+fe0a U+e0125
+		["catpuccin-macchiato"] = "🍀︊󠄦", -- colr-icons-opentofu-catpuccin-macchiato U+1f340 U+fe0a U+e0126
+		["catpuccin-mocha"] = "🍀︊󠄧", -- colr-icons-opentofu-catpuccin-mocha U+1f340 U+fe0a U+e0127
 	},
 	["opentofu_light"] = {
-		["material"] = "🍀︊󠄦", -- colr-icons-opentofu_light-material U+1f340 U+fe0a U+e0126
+		["material"] = "🍀︊󠄨", -- colr-icons-opentofu_light-material U+1f340 U+fe0a U+e0128
 	},
 	["org"] = {
-		["catpuccin-frappe"] = "🍀︊󠄧", -- colr-icons-org-catpuccin-frappe U+1f340 U+fe0a U+e0127
-		["catpuccin-latte"] = "🍀︊󠄨", -- colr-icons-org-catpuccin-latte U+1f340 U+fe0a U+e0128
-		["catpuccin-macchiato"] = "🍀︊󠄩", -- colr-icons-org-catpuccin-macchiato U+1f340 U+fe0a U+e0129
-		["catpuccin-mocha"] = "🍀︊󠄪", -- colr-icons-org-catpuccin-mocha U+1f340 U+fe0a U+e012a
+		["catpuccin-frappe"] = "🍀︊󠄩", -- colr-icons-org-catpuccin-frappe U+1f340 U+fe0a U+e0129
+		["catpuccin-latte"] = "🍀︊󠄪", -- colr-icons-org-catpuccin-latte U+1f340 U+fe0a U+e012a
+		["catpuccin-macchiato"] = "🍀︊󠄫", -- colr-icons-org-catpuccin-macchiato U+1f340 U+fe0a U+e012b
+		["catpuccin-mocha"] = "🍀︊󠄬", -- colr-icons-org-catpuccin-mocha U+1f340 U+fe0a U+e012c
 	},
 	["otne"] = {
-		["material"] = "🍀︊󠄫", -- colr-icons-otne-material U+1f340 U+fe0a U+e012b
+		["material"] = "🍀︊󠄭", -- colr-icons-otne-material U+1f340 U+fe0a U+e012d
 	},
 	["oxc"] = {
-		["material"] = "🍀︊󠄬", -- colr-icons-oxc-material U+1f340 U+fe0a U+e012c
+		["material"] = "🍀︊󠄮", -- colr-icons-oxc-material U+1f340 U+fe0a U+e012e
 	},
 	["package-json"] = {
-		["catpuccin-frappe"] = "🍀︊󠄭", -- colr-icons-package-json-catpuccin-frappe U+1f340 U+fe0a U+e012d
-		["catpuccin-latte"] = "🍀︊󠄮", -- colr-icons-package-json-catpuccin-latte U+1f340 U+fe0a U+e012e
-		["catpuccin-macchiato"] = "🍀︊󠄯", -- colr-icons-package-json-catpuccin-macchiato U+1f340 U+fe0a U+e012f
-		["catpuccin-mocha"] = "🍀︊󠄰", -- colr-icons-package-json-catpuccin-mocha U+1f340 U+fe0a U+e0130
+		["catpuccin-frappe"] = "🍀︊󠄯", -- colr-icons-package-json-catpuccin-frappe U+1f340 U+fe0a U+e012f
+		["catpuccin-latte"] = "🍀︊󠄰", -- colr-icons-package-json-catpuccin-latte U+1f340 U+fe0a U+e0130
+		["catpuccin-macchiato"] = "🍀︊󠄱", -- colr-icons-package-json-catpuccin-macchiato U+1f340 U+fe0a U+e0131
+		["catpuccin-mocha"] = "🍀︊󠄲", -- colr-icons-package-json-catpuccin-mocha U+1f340 U+fe0a U+e0132
 	},
 	["packship"] = {
-		["material"] = "🍀︊󠄱", -- colr-icons-packship-material U+1f340 U+fe0a U+e0131
+		["material"] = "🍀︊󠄳", -- colr-icons-packship-material U+1f340 U+fe0a U+e0133
 	},
 	["palette"] = {
-		["material"] = "🍀︊󠄲", -- colr-icons-palette-material U+1f340 U+fe0a U+e0132
-	},
-	["panda"] = {
-		["material"] = "🍀︊󠄳", -- colr-icons-panda-material U+1f340 U+fe0a U+e0133
+		["material"] = "🍀︊󠄴", -- colr-icons-palette-material U+1f340 U+fe0a U+e0134
 	},
 	["panda-css"] = {
-		["catpuccin-frappe"] = "🍀︊󠄴", -- colr-icons-panda-css-catpuccin-frappe U+1f340 U+fe0a U+e0134
-		["catpuccin-latte"] = "🍀︊󠄵", -- colr-icons-panda-css-catpuccin-latte U+1f340 U+fe0a U+e0135
-		["catpuccin-macchiato"] = "🍀︊󠄶", -- colr-icons-panda-css-catpuccin-macchiato U+1f340 U+fe0a U+e0136
-		["catpuccin-mocha"] = "🍀︊󠄷", -- colr-icons-panda-css-catpuccin-mocha U+1f340 U+fe0a U+e0137
+		["material"] = "🍀︊󠄵", -- colr-icons-panda-css-material U+1f340 U+fe0a U+e0135
+		["catpuccin-frappe"] = "🍀︊󠄶", -- colr-icons-panda-css-catpuccin-frappe U+1f340 U+fe0a U+e0136
+		["catpuccin-latte"] = "🍀︊󠄷", -- colr-icons-panda-css-catpuccin-latte U+1f340 U+fe0a U+e0137
+		["catpuccin-macchiato"] = "🍀︊󠄸", -- colr-icons-panda-css-catpuccin-macchiato U+1f340 U+fe0a U+e0138
+		["catpuccin-mocha"] = "🍀︊󠄹", -- colr-icons-panda-css-catpuccin-mocha U+1f340 U+fe0a U+e0139
 	},
 	["parcel"] = {
-		["material"] = "🍀︊󠄸", -- colr-icons-parcel-material U+1f340 U+fe0a U+e0138
+		["material"] = "🍀︊󠄺", -- colr-icons-parcel-material U+1f340 U+fe0a U+e013a
 	},
 	["pascal"] = {
-		["material"] = "🍀︊󠄹", -- colr-icons-pascal-material U+1f340 U+fe0a U+e0139
+		["material"] = "🍀︊󠄻", -- colr-icons-pascal-material U+1f340 U+fe0a U+e013b
 	},
 	["pawn"] = {
-		["material"] = "🍀︊󠄺", -- colr-icons-pawn-material U+1f340 U+fe0a U+e013a
+		["material"] = "🍀︊󠄼", -- colr-icons-pawn-material U+1f340 U+fe0a U+e013c
 	},
 	["payload"] = {
-		["material"] = "🍀︊󠄻", -- colr-icons-payload-material U+1f340 U+fe0a U+e013b
+		["material"] = "🍀︊󠄽", -- colr-icons-payload-material U+1f340 U+fe0a U+e013d
 	},
 	["payload_light"] = {
-		["material"] = "🍀︊󠄼", -- colr-icons-payload_light-material U+1f340 U+fe0a U+e013c
+		["material"] = "🍀︊󠄾", -- colr-icons-payload_light-material U+1f340 U+fe0a U+e013e
 	},
 	["pdf"] = {
-		["material"] = "🍀︊󠄽", -- colr-icons-pdf-material U+1f340 U+fe0a U+e013d
-		["catpuccin-frappe"] = "🍀︊󠄾", -- colr-icons-pdf-catpuccin-frappe U+1f340 U+fe0a U+e013e
-		["catpuccin-latte"] = "🍀︊󠄿", -- colr-icons-pdf-catpuccin-latte U+1f340 U+fe0a U+e013f
-		["catpuccin-macchiato"] = "🍀︊󠅀", -- colr-icons-pdf-catpuccin-macchiato U+1f340 U+fe0a U+e0140
-		["catpuccin-mocha"] = "🍀︊󠅁", -- colr-icons-pdf-catpuccin-mocha U+1f340 U+fe0a U+e0141
+		["material"] = "🍀︊󠄿", -- colr-icons-pdf-material U+1f340 U+fe0a U+e013f
+		["catpuccin-frappe"] = "🍀︊󠅀", -- colr-icons-pdf-catpuccin-frappe U+1f340 U+fe0a U+e0140
+		["catpuccin-latte"] = "🍀︊󠅁", -- colr-icons-pdf-catpuccin-latte U+1f340 U+fe0a U+e0141
+		["catpuccin-macchiato"] = "🍀︊󠅂", -- colr-icons-pdf-catpuccin-macchiato U+1f340 U+fe0a U+e0142
+		["catpuccin-mocha"] = "🍀︊󠅃", -- colr-icons-pdf-catpuccin-mocha U+1f340 U+fe0a U+e0143
 	},
 	["pdm"] = {
-		["material"] = "🍀︊󠅂", -- colr-icons-pdm-material U+1f340 U+fe0a U+e0142
+		["material"] = "🍀︊󠅄", -- colr-icons-pdm-material U+1f340 U+fe0a U+e0144
 	},
 	["percy"] = {
-		["material"] = "🍀︊󠅃", -- colr-icons-percy-material U+1f340 U+fe0a U+e0143
+		["material"] = "🍀︊󠅅", -- colr-icons-percy-material U+1f340 U+fe0a U+e0145
 	},
 	["perl"] = {
-		["material"] = "🍀︊󠅄", -- colr-icons-perl-material U+1f340 U+fe0a U+e0144
-		["catpuccin-frappe"] = "🍀︊󠅅", -- colr-icons-perl-catpuccin-frappe U+1f340 U+fe0a U+e0145
-		["catpuccin-latte"] = "🍀︊󠅆", -- colr-icons-perl-catpuccin-latte U+1f340 U+fe0a U+e0146
-		["catpuccin-macchiato"] = "🍀︊󠅇", -- colr-icons-perl-catpuccin-macchiato U+1f340 U+fe0a U+e0147
-		["catpuccin-mocha"] = "🍀︊󠅈", -- colr-icons-perl-catpuccin-mocha U+1f340 U+fe0a U+e0148
+		["material"] = "🍀︊󠅆", -- colr-icons-perl-material U+1f340 U+fe0a U+e0146
+		["catpuccin-frappe"] = "🍀︊󠅇", -- colr-icons-perl-catpuccin-frappe U+1f340 U+fe0a U+e0147
+		["catpuccin-latte"] = "🍀︊󠅈", -- colr-icons-perl-catpuccin-latte U+1f340 U+fe0a U+e0148
+		["catpuccin-macchiato"] = "🍀︊󠅉", -- colr-icons-perl-catpuccin-macchiato U+1f340 U+fe0a U+e0149
+		["catpuccin-mocha"] = "🍀︊󠅊", -- colr-icons-perl-catpuccin-mocha U+1f340 U+fe0a U+e014a
 	},
 	["pesde"] = {
-		["catpuccin-frappe"] = "🍀︊󠅉", -- colr-icons-pesde-catpuccin-frappe U+1f340 U+fe0a U+e0149
-		["catpuccin-latte"] = "🍀︊󠅊", -- colr-icons-pesde-catpuccin-latte U+1f340 U+fe0a U+e014a
-		["catpuccin-macchiato"] = "🍀︊󠅋", -- colr-icons-pesde-catpuccin-macchiato U+1f340 U+fe0a U+e014b
-		["catpuccin-mocha"] = "🍀︊󠅌", -- colr-icons-pesde-catpuccin-mocha U+1f340 U+fe0a U+e014c
+		["catpuccin-frappe"] = "🍀︊󠅋", -- colr-icons-pesde-catpuccin-frappe U+1f340 U+fe0a U+e014b
+		["catpuccin-latte"] = "🍀︊󠅌", -- colr-icons-pesde-catpuccin-latte U+1f340 U+fe0a U+e014c
+		["catpuccin-macchiato"] = "🍀︊󠅍", -- colr-icons-pesde-catpuccin-macchiato U+1f340 U+fe0a U+e014d
+		["catpuccin-mocha"] = "🍀︊󠅎", -- colr-icons-pesde-catpuccin-mocha U+1f340 U+fe0a U+e014e
 	},
 	["pesde-lock"] = {
-		["catpuccin-frappe"] = "🍀︊󠅍", -- colr-icons-pesde-lock-catpuccin-frappe U+1f340 U+fe0a U+e014d
-		["catpuccin-latte"] = "🍀︊󠅎", -- colr-icons-pesde-lock-catpuccin-latte U+1f340 U+fe0a U+e014e
-		["catpuccin-macchiato"] = "🍀︊󠅏", -- colr-icons-pesde-lock-catpuccin-macchiato U+1f340 U+fe0a U+e014f
-		["catpuccin-mocha"] = "🍀︊󠅐", -- colr-icons-pesde-lock-catpuccin-mocha U+1f340 U+fe0a U+e0150
+		["catpuccin-frappe"] = "🍀︊󠅏", -- colr-icons-pesde-lock-catpuccin-frappe U+1f340 U+fe0a U+e014f
+		["catpuccin-latte"] = "🍀︊󠅐", -- colr-icons-pesde-lock-catpuccin-latte U+1f340 U+fe0a U+e0150
+		["catpuccin-macchiato"] = "🍀︊󠅑", -- colr-icons-pesde-lock-catpuccin-macchiato U+1f340 U+fe0a U+e0151
+		["catpuccin-mocha"] = "🍀︊󠅒", -- colr-icons-pesde-lock-catpuccin-mocha U+1f340 U+fe0a U+e0152
 	},
 	["php"] = {
-		["material"] = "🍀︊󠅑", -- colr-icons-php-material U+1f340 U+fe0a U+e0151
-		["catpuccin-frappe"] = "🍀︊󠅒", -- colr-icons-php-catpuccin-frappe U+1f340 U+fe0a U+e0152
-		["catpuccin-latte"] = "🍀︊󠅓", -- colr-icons-php-catpuccin-latte U+1f340 U+fe0a U+e0153
-		["catpuccin-macchiato"] = "🍀︊󠅔", -- colr-icons-php-catpuccin-macchiato U+1f340 U+fe0a U+e0154
-		["catpuccin-mocha"] = "🍀︊󠅕", -- colr-icons-php-catpuccin-mocha U+1f340 U+fe0a U+e0155
+		["material"] = "🍀︊󠅓", -- colr-icons-php-material U+1f340 U+fe0a U+e0153
+		["catpuccin-frappe"] = "🍀︊󠅔", -- colr-icons-php-catpuccin-frappe U+1f340 U+fe0a U+e0154
+		["catpuccin-latte"] = "🍀︊󠅕", -- colr-icons-php-catpuccin-latte U+1f340 U+fe0a U+e0155
+		["catpuccin-macchiato"] = "🍀︊󠅖", -- colr-icons-php-catpuccin-macchiato U+1f340 U+fe0a U+e0156
+		["catpuccin-mocha"] = "🍀︊󠅗", -- colr-icons-php-catpuccin-mocha U+1f340 U+fe0a U+e0157
 	},
 	["php-cs-fixer"] = {
-		["material"] = "🍀︊󠅖", -- colr-icons-php-cs-fixer-material U+1f340 U+fe0a U+e0156
+		["material"] = "🍀︊󠅘", -- colr-icons-php-cs-fixer-material U+1f340 U+fe0a U+e0158
 	},
 	["php_elephant"] = {
-		["material"] = "🍀︊󠅗", -- colr-icons-php_elephant-material U+1f340 U+fe0a U+e0157
+		["material"] = "🍀︊󠅙", -- colr-icons-php_elephant-material U+1f340 U+fe0a U+e0159
 	},
 	["php_elephant_pink"] = {
-		["material"] = "🍀︊󠅘", -- colr-icons-php_elephant_pink-material U+1f340 U+fe0a U+e0158
+		["material"] = "🍀︊󠅚", -- colr-icons-php_elephant_pink-material U+1f340 U+fe0a U+e015a
 	},
 	["phpstan"] = {
-		["material"] = "🍀︊󠅙", -- colr-icons-phpstan-material U+1f340 U+fe0a U+e0159
+		["material"] = "🍀︊󠅛", -- colr-icons-phpstan-material U+1f340 U+fe0a U+e015b
 	},
 	["phpunit"] = {
-		["material"] = "🍀︊󠅚", -- colr-icons-phpunit-material U+1f340 U+fe0a U+e015a
+		["material"] = "🍀︊󠅜", -- colr-icons-phpunit-material U+1f340 U+fe0a U+e015c
 	},
 	["phrase"] = {
-		["catpuccin-frappe"] = "🍀︊󠅛", -- colr-icons-phrase-catpuccin-frappe U+1f340 U+fe0a U+e015b
-		["catpuccin-latte"] = "🍀︊󠅜", -- colr-icons-phrase-catpuccin-latte U+1f340 U+fe0a U+e015c
-		["catpuccin-macchiato"] = "🍀︊󠅝", -- colr-icons-phrase-catpuccin-macchiato U+1f340 U+fe0a U+e015d
-		["catpuccin-mocha"] = "🍀︊󠅞", -- colr-icons-phrase-catpuccin-mocha U+1f340 U+fe0a U+e015e
+		["catpuccin-frappe"] = "🍀︊󠅝", -- colr-icons-phrase-catpuccin-frappe U+1f340 U+fe0a U+e015d
+		["catpuccin-latte"] = "🍀︊󠅞", -- colr-icons-phrase-catpuccin-latte U+1f340 U+fe0a U+e015e
+		["catpuccin-macchiato"] = "🍀︊󠅟", -- colr-icons-phrase-catpuccin-macchiato U+1f340 U+fe0a U+e015f
+		["catpuccin-mocha"] = "🍀︊󠅠", -- colr-icons-phrase-catpuccin-mocha U+1f340 U+fe0a U+e0160
 	},
 	["phtml"] = {
-		["catpuccin-frappe"] = "🍀︊󠅟", -- colr-icons-phtml-catpuccin-frappe U+1f340 U+fe0a U+e015f
-		["catpuccin-latte"] = "🍀︊󠅠", -- colr-icons-phtml-catpuccin-latte U+1f340 U+fe0a U+e0160
-		["catpuccin-macchiato"] = "🍀︊󠅡", -- colr-icons-phtml-catpuccin-macchiato U+1f340 U+fe0a U+e0161
-		["catpuccin-mocha"] = "🍀︊󠅢", -- colr-icons-phtml-catpuccin-mocha U+1f340 U+fe0a U+e0162
+		["catpuccin-frappe"] = "🍀︊󠅡", -- colr-icons-phtml-catpuccin-frappe U+1f340 U+fe0a U+e0161
+		["catpuccin-latte"] = "🍀︊󠅢", -- colr-icons-phtml-catpuccin-latte U+1f340 U+fe0a U+e0162
+		["catpuccin-macchiato"] = "🍀︊󠅣", -- colr-icons-phtml-catpuccin-macchiato U+1f340 U+fe0a U+e0163
+		["catpuccin-mocha"] = "🍀︊󠅤", -- colr-icons-phtml-catpuccin-mocha U+1f340 U+fe0a U+e0164
 	},
 	["pinejs"] = {
-		["material"] = "🍀︊󠅣", -- colr-icons-pinejs-material U+1f340 U+fe0a U+e0163
+		["material"] = "🍀︊󠅥", -- colr-icons-pinejs-material U+1f340 U+fe0a U+e0165
 	},
 	["pipeline"] = {
-		["material"] = "🍀︊󠅤", -- colr-icons-pipeline-material U+1f340 U+fe0a U+e0164
+		["material"] = "🍀︊󠅦", -- colr-icons-pipeline-material U+1f340 U+fe0a U+e0166
 	},
 	["pixi"] = {
-		["catpuccin-frappe"] = "🍀︊󠅥", -- colr-icons-pixi-catpuccin-frappe U+1f340 U+fe0a U+e0165
-		["catpuccin-latte"] = "🍀︊󠅦", -- colr-icons-pixi-catpuccin-latte U+1f340 U+fe0a U+e0166
-		["catpuccin-macchiato"] = "🍀︊󠅧", -- colr-icons-pixi-catpuccin-macchiato U+1f340 U+fe0a U+e0167
-		["catpuccin-mocha"] = "🍀︊󠅨", -- colr-icons-pixi-catpuccin-mocha U+1f340 U+fe0a U+e0168
+		["catpuccin-frappe"] = "🍀︊󠅧", -- colr-icons-pixi-catpuccin-frappe U+1f340 U+fe0a U+e0167
+		["catpuccin-latte"] = "🍀︊󠅨", -- colr-icons-pixi-catpuccin-latte U+1f340 U+fe0a U+e0168
+		["catpuccin-macchiato"] = "🍀︊󠅩", -- colr-icons-pixi-catpuccin-macchiato U+1f340 U+fe0a U+e0169
+		["catpuccin-mocha"] = "🍀︊󠅪", -- colr-icons-pixi-catpuccin-mocha U+1f340 U+fe0a U+e016a
 	},
 	["pixi-lock"] = {
-		["catpuccin-frappe"] = "🍀︊󠅩", -- colr-icons-pixi-lock-catpuccin-frappe U+1f340 U+fe0a U+e0169
-		["catpuccin-latte"] = "🍀︊󠅪", -- colr-icons-pixi-lock-catpuccin-latte U+1f340 U+fe0a U+e016a
-		["catpuccin-macchiato"] = "🍀︊󠅫", -- colr-icons-pixi-lock-catpuccin-macchiato U+1f340 U+fe0a U+e016b
-		["catpuccin-mocha"] = "🍀︊󠅬", -- colr-icons-pixi-lock-catpuccin-mocha U+1f340 U+fe0a U+e016c
+		["catpuccin-frappe"] = "🍀︊󠅫", -- colr-icons-pixi-lock-catpuccin-frappe U+1f340 U+fe0a U+e016b
+		["catpuccin-latte"] = "🍀︊󠅬", -- colr-icons-pixi-lock-catpuccin-latte U+1f340 U+fe0a U+e016c
+		["catpuccin-macchiato"] = "🍀︊󠅭", -- colr-icons-pixi-lock-catpuccin-macchiato U+1f340 U+fe0a U+e016d
+		["catpuccin-mocha"] = "🍀︊󠅮", -- colr-icons-pixi-lock-catpuccin-mocha U+1f340 U+fe0a U+e016e
 	},
 	["pkl"] = {
-		["material"] = "🍀︊󠅭", -- colr-icons-pkl-material U+1f340 U+fe0a U+e016d
+		["material"] = "🍀︊󠅯", -- colr-icons-pkl-material U+1f340 U+fe0a U+e016f
 	},
 	["plantuml"] = {
-		["catpuccin-frappe"] = "🍀︊󠅮", -- colr-icons-plantuml-catpuccin-frappe U+1f340 U+fe0a U+e016e
-		["catpuccin-latte"] = "🍀︊󠅯", -- colr-icons-plantuml-catpuccin-latte U+1f340 U+fe0a U+e016f
-		["catpuccin-macchiato"] = "🍀︊󠅰", -- colr-icons-plantuml-catpuccin-macchiato U+1f340 U+fe0a U+e0170
-		["catpuccin-mocha"] = "🍀︊󠅱", -- colr-icons-plantuml-catpuccin-mocha U+1f340 U+fe0a U+e0171
+		["catpuccin-frappe"] = "🍀︊󠅰", -- colr-icons-plantuml-catpuccin-frappe U+1f340 U+fe0a U+e0170
+		["catpuccin-latte"] = "🍀︊󠅱", -- colr-icons-plantuml-catpuccin-latte U+1f340 U+fe0a U+e0171
+		["catpuccin-macchiato"] = "🍀︊󠅲", -- colr-icons-plantuml-catpuccin-macchiato U+1f340 U+fe0a U+e0172
+		["catpuccin-mocha"] = "🍀︊󠅳", -- colr-icons-plantuml-catpuccin-mocha U+1f340 U+fe0a U+e0173
 	},
 	["plastic"] = {
-		["material"] = "🍀︊󠅲", -- colr-icons-plastic-material U+1f340 U+fe0a U+e0172
+		["material"] = "🍀︊󠅴", -- colr-icons-plastic-material U+1f340 U+fe0a U+e0174
 	},
 	["playwright"] = {
-		["material"] = "🍀︊󠅳", -- colr-icons-playwright-material U+1f340 U+fe0a U+e0173
-		["catpuccin-frappe"] = "🍀︊󠅴", -- colr-icons-playwright-catpuccin-frappe U+1f340 U+fe0a U+e0174
-		["catpuccin-latte"] = "🍀︊󠅵", -- colr-icons-playwright-catpuccin-latte U+1f340 U+fe0a U+e0175
-		["catpuccin-macchiato"] = "🍀︊󠅶", -- colr-icons-playwright-catpuccin-macchiato U+1f340 U+fe0a U+e0176
-		["catpuccin-mocha"] = "🍀︊󠅷", -- colr-icons-playwright-catpuccin-mocha U+1f340 U+fe0a U+e0177
+		["material"] = "🍀︊󠅵", -- colr-icons-playwright-material U+1f340 U+fe0a U+e0175
+		["catpuccin-frappe"] = "🍀︊󠅶", -- colr-icons-playwright-catpuccin-frappe U+1f340 U+fe0a U+e0176
+		["catpuccin-latte"] = "🍀︊󠅷", -- colr-icons-playwright-catpuccin-latte U+1f340 U+fe0a U+e0177
+		["catpuccin-macchiato"] = "🍀︊󠅸", -- colr-icons-playwright-catpuccin-macchiato U+1f340 U+fe0a U+e0178
+		["catpuccin-mocha"] = "🍀︊󠅹", -- colr-icons-playwright-catpuccin-mocha U+1f340 U+fe0a U+e0179
 	},
 	["plop"] = {
-		["material"] = "🍀︊󠅸", -- colr-icons-plop-material U+1f340 U+fe0a U+e0178
-		["catpuccin-frappe"] = "🍀︊󠅹", -- colr-icons-plop-catpuccin-frappe U+1f340 U+fe0a U+e0179
-		["catpuccin-latte"] = "🍀︊󠅺", -- colr-icons-plop-catpuccin-latte U+1f340 U+fe0a U+e017a
-		["catpuccin-macchiato"] = "🍀︊󠅻", -- colr-icons-plop-catpuccin-macchiato U+1f340 U+fe0a U+e017b
-		["catpuccin-mocha"] = "🍀︊󠅼", -- colr-icons-plop-catpuccin-mocha U+1f340 U+fe0a U+e017c
+		["material"] = "🍀︊󠅺", -- colr-icons-plop-material U+1f340 U+fe0a U+e017a
+		["catpuccin-frappe"] = "🍀︊󠅻", -- colr-icons-plop-catpuccin-frappe U+1f340 U+fe0a U+e017b
+		["catpuccin-latte"] = "🍀︊󠅼", -- colr-icons-plop-catpuccin-latte U+1f340 U+fe0a U+e017c
+		["catpuccin-macchiato"] = "🍀︊󠅽", -- colr-icons-plop-catpuccin-macchiato U+1f340 U+fe0a U+e017d
+		["catpuccin-mocha"] = "🍀︊󠅾", -- colr-icons-plop-catpuccin-mocha U+1f340 U+fe0a U+e017e
 	},
 	["pm2-ecosystem"] = {
-		["material"] = "🍀︊󠅽", -- colr-icons-pm2-ecosystem-material U+1f340 U+fe0a U+e017d
+		["material"] = "🍀︊󠅿", -- colr-icons-pm2-ecosystem-material U+1f340 U+fe0a U+e017f
 	},
 	["pnpm"] = {
-		["material"] = "🍀︊󠅾", -- colr-icons-pnpm-material U+1f340 U+fe0a U+e017e
-		["catpuccin-frappe"] = "🍀︊󠅿", -- colr-icons-pnpm-catpuccin-frappe U+1f340 U+fe0a U+e017f
-		["catpuccin-latte"] = "🍀︊󠆀", -- colr-icons-pnpm-catpuccin-latte U+1f340 U+fe0a U+e0180
-		["catpuccin-macchiato"] = "🍀︊󠆁", -- colr-icons-pnpm-catpuccin-macchiato U+1f340 U+fe0a U+e0181
-		["catpuccin-mocha"] = "🍀︊󠆂", -- colr-icons-pnpm-catpuccin-mocha U+1f340 U+fe0a U+e0182
+		["material"] = "🍀︊󠆀", -- colr-icons-pnpm-material U+1f340 U+fe0a U+e0180
+		["catpuccin-frappe"] = "🍀︊󠆁", -- colr-icons-pnpm-catpuccin-frappe U+1f340 U+fe0a U+e0181
+		["catpuccin-latte"] = "🍀︊󠆂", -- colr-icons-pnpm-catpuccin-latte U+1f340 U+fe0a U+e0182
+		["catpuccin-macchiato"] = "🍀︊󠆃", -- colr-icons-pnpm-catpuccin-macchiato U+1f340 U+fe0a U+e0183
+		["catpuccin-mocha"] = "🍀︊󠆄", -- colr-icons-pnpm-catpuccin-mocha U+1f340 U+fe0a U+e0184
 	},
 	["pnpm-lock"] = {
-		["catpuccin-frappe"] = "🍀︊󠆃", -- colr-icons-pnpm-lock-catpuccin-frappe U+1f340 U+fe0a U+e0183
-		["catpuccin-latte"] = "🍀︊󠆄", -- colr-icons-pnpm-lock-catpuccin-latte U+1f340 U+fe0a U+e0184
-		["catpuccin-macchiato"] = "🍀︊󠆅", -- colr-icons-pnpm-lock-catpuccin-macchiato U+1f340 U+fe0a U+e0185
-		["catpuccin-mocha"] = "🍀︊󠆆", -- colr-icons-pnpm-lock-catpuccin-mocha U+1f340 U+fe0a U+e0186
+		["catpuccin-frappe"] = "🍀︊󠆅", -- colr-icons-pnpm-lock-catpuccin-frappe U+1f340 U+fe0a U+e0185
+		["catpuccin-latte"] = "🍀︊󠆆", -- colr-icons-pnpm-lock-catpuccin-latte U+1f340 U+fe0a U+e0186
+		["catpuccin-macchiato"] = "🍀︊󠆇", -- colr-icons-pnpm-lock-catpuccin-macchiato U+1f340 U+fe0a U+e0187
+		["catpuccin-mocha"] = "🍀︊󠆈", -- colr-icons-pnpm-lock-catpuccin-mocha U+1f340 U+fe0a U+e0188
 	},
 	["pnpm_light"] = {
-		["material"] = "🍀︊󠆇", -- colr-icons-pnpm_light-material U+1f340 U+fe0a U+e0187
+		["material"] = "🍀︊󠆉", -- colr-icons-pnpm_light-material U+1f340 U+fe0a U+e0189
 	},
 	["poetry"] = {
-		["material"] = "🍀︊󠆈", -- colr-icons-poetry-material U+1f340 U+fe0a U+e0188
+		["material"] = "🍀︊󠆊", -- colr-icons-poetry-material U+1f340 U+fe0a U+e018a
 	},
 	["poetry-lock"] = {
-		["catpuccin-frappe"] = "🍀︊󠆉", -- colr-icons-poetry-lock-catpuccin-frappe U+1f340 U+fe0a U+e0189
-		["catpuccin-latte"] = "🍀︊󠆊", -- colr-icons-poetry-lock-catpuccin-latte U+1f340 U+fe0a U+e018a
-		["catpuccin-macchiato"] = "🍀︊󠆋", -- colr-icons-poetry-lock-catpuccin-macchiato U+1f340 U+fe0a U+e018b
-		["catpuccin-mocha"] = "🍀︊󠆌", -- colr-icons-poetry-lock-catpuccin-mocha U+1f340 U+fe0a U+e018c
+		["catpuccin-frappe"] = "🍀︊󠆋", -- colr-icons-poetry-lock-catpuccin-frappe U+1f340 U+fe0a U+e018b
+		["catpuccin-latte"] = "🍀︊󠆌", -- colr-icons-poetry-lock-catpuccin-latte U+1f340 U+fe0a U+e018c
+		["catpuccin-macchiato"] = "🍀︊󠆍", -- colr-icons-poetry-lock-catpuccin-macchiato U+1f340 U+fe0a U+e018d
+		["catpuccin-mocha"] = "🍀︊󠆎", -- colr-icons-poetry-lock-catpuccin-mocha U+1f340 U+fe0a U+e018e
 	},
 	["postcss"] = {
-		["material"] = "🍀︊󠆍", -- colr-icons-postcss-material U+1f340 U+fe0a U+e018d
-		["catpuccin-frappe"] = "🍀︊󠆎", -- colr-icons-postcss-catpuccin-frappe U+1f340 U+fe0a U+e018e
-		["catpuccin-latte"] = "🍀︊󠆏", -- colr-icons-postcss-catpuccin-latte U+1f340 U+fe0a U+e018f
-		["catpuccin-macchiato"] = "🍀︊󠆐", -- colr-icons-postcss-catpuccin-macchiato U+1f340 U+fe0a U+e0190
-		["catpuccin-mocha"] = "🍀︊󠆑", -- colr-icons-postcss-catpuccin-mocha U+1f340 U+fe0a U+e0191
+		["material"] = "🍀︊󠆏", -- colr-icons-postcss-material U+1f340 U+fe0a U+e018f
+		["catpuccin-frappe"] = "🍀︊󠆐", -- colr-icons-postcss-catpuccin-frappe U+1f340 U+fe0a U+e0190
+		["catpuccin-latte"] = "🍀︊󠆑", -- colr-icons-postcss-catpuccin-latte U+1f340 U+fe0a U+e0191
+		["catpuccin-macchiato"] = "🍀︊󠆒", -- colr-icons-postcss-catpuccin-macchiato U+1f340 U+fe0a U+e0192
+		["catpuccin-mocha"] = "🍀︊󠆓", -- colr-icons-postcss-catpuccin-mocha U+1f340 U+fe0a U+e0193
 	},
 	["posthtml"] = {
-		["material"] = "🍀︊󠆒", -- colr-icons-posthtml-material U+1f340 U+fe0a U+e0192
-	},
-	["powerpoint"] = {
-		["material"] = "🍀︊󠆓", -- colr-icons-powerpoint-material U+1f340 U+fe0a U+e0193
+		["material"] = "🍀︊󠆔", -- colr-icons-posthtml-material U+1f340 U+fe0a U+e0194
 	},
 	["powershell"] = {
-		["material"] = "🍀︊󠆔", -- colr-icons-powershell-material U+1f340 U+fe0a U+e0194
-		["catpuccin-frappe"] = "🍀︊󠆕", -- colr-icons-powershell-catpuccin-frappe U+1f340 U+fe0a U+e0195
-		["catpuccin-latte"] = "🍀︊󠆖", -- colr-icons-powershell-catpuccin-latte U+1f340 U+fe0a U+e0196
-		["catpuccin-macchiato"] = "🍀︊󠆗", -- colr-icons-powershell-catpuccin-macchiato U+1f340 U+fe0a U+e0197
-		["catpuccin-mocha"] = "🍀︊󠆘", -- colr-icons-powershell-catpuccin-mocha U+1f340 U+fe0a U+e0198
+		["material"] = "🍀︊󠆕", -- colr-icons-powershell-material U+1f340 U+fe0a U+e0195
+		["catpuccin-frappe"] = "🍀︊󠆖", -- colr-icons-powershell-catpuccin-frappe U+1f340 U+fe0a U+e0196
+		["catpuccin-latte"] = "🍀︊󠆗", -- colr-icons-powershell-catpuccin-latte U+1f340 U+fe0a U+e0197
+		["catpuccin-macchiato"] = "🍀︊󠆘", -- colr-icons-powershell-catpuccin-macchiato U+1f340 U+fe0a U+e0198
+		["catpuccin-mocha"] = "🍀︊󠆙", -- colr-icons-powershell-catpuccin-mocha U+1f340 U+fe0a U+e0199
 	},
 	["pre-commit"] = {
-		["material"] = "🍀︊󠆙", -- colr-icons-pre-commit-material U+1f340 U+fe0a U+e0199
-		["catpuccin-frappe"] = "🍀︊󠆚", -- colr-icons-pre-commit-catpuccin-frappe U+1f340 U+fe0a U+e019a
-		["catpuccin-latte"] = "🍀︊󠆛", -- colr-icons-pre-commit-catpuccin-latte U+1f340 U+fe0a U+e019b
-		["catpuccin-macchiato"] = "🍀︊󠆜", -- colr-icons-pre-commit-catpuccin-macchiato U+1f340 U+fe0a U+e019c
-		["catpuccin-mocha"] = "🍀︊󠆝", -- colr-icons-pre-commit-catpuccin-mocha U+1f340 U+fe0a U+e019d
+		["material"] = "🍀︊󠆚", -- colr-icons-pre-commit-material U+1f340 U+fe0a U+e019a
+		["catpuccin-frappe"] = "🍀︊󠆛", -- colr-icons-pre-commit-catpuccin-frappe U+1f340 U+fe0a U+e019b
+		["catpuccin-latte"] = "🍀︊󠆜", -- colr-icons-pre-commit-catpuccin-latte U+1f340 U+fe0a U+e019c
+		["catpuccin-macchiato"] = "🍀︊󠆝", -- colr-icons-pre-commit-catpuccin-macchiato U+1f340 U+fe0a U+e019d
+		["catpuccin-mocha"] = "🍀︊󠆞", -- colr-icons-pre-commit-catpuccin-mocha U+1f340 U+fe0a U+e019e
 	},
 	["premake"] = {
-		["catpuccin-frappe"] = "🍀︊󠆞", -- colr-icons-premake-catpuccin-frappe U+1f340 U+fe0a U+e019e
-		["catpuccin-latte"] = "🍀︊󠆟", -- colr-icons-premake-catpuccin-latte U+1f340 U+fe0a U+e019f
-		["catpuccin-macchiato"] = "🍀︊󠆠", -- colr-icons-premake-catpuccin-macchiato U+1f340 U+fe0a U+e01a0
-		["catpuccin-mocha"] = "🍀︊󠆡", -- colr-icons-premake-catpuccin-mocha U+1f340 U+fe0a U+e01a1
+		["catpuccin-frappe"] = "🍀︊󠆟", -- colr-icons-premake-catpuccin-frappe U+1f340 U+fe0a U+e019f
+		["catpuccin-latte"] = "🍀︊󠆠", -- colr-icons-premake-catpuccin-latte U+1f340 U+fe0a U+e01a0
+		["catpuccin-macchiato"] = "🍀︊󠆡", -- colr-icons-premake-catpuccin-macchiato U+1f340 U+fe0a U+e01a1
+		["catpuccin-mocha"] = "🍀︊󠆢", -- colr-icons-premake-catpuccin-mocha U+1f340 U+fe0a U+e01a2
 	},
 	["prettier"] = {
-		["material"] = "🍀︊󠆢", -- colr-icons-prettier-material U+1f340 U+fe0a U+e01a2
-		["catpuccin-frappe"] = "🍀︊󠆣", -- colr-icons-prettier-catpuccin-frappe U+1f340 U+fe0a U+e01a3
-		["catpuccin-latte"] = "🍀︊󠆤", -- colr-icons-prettier-catpuccin-latte U+1f340 U+fe0a U+e01a4
-		["catpuccin-macchiato"] = "🍀︊󠆥", -- colr-icons-prettier-catpuccin-macchiato U+1f340 U+fe0a U+e01a5
-		["catpuccin-mocha"] = "🍀︊󠆦", -- colr-icons-prettier-catpuccin-mocha U+1f340 U+fe0a U+e01a6
+		["material"] = "🍀︊󠆣", -- colr-icons-prettier-material U+1f340 U+fe0a U+e01a3
+		["catpuccin-frappe"] = "🍀︊󠆤", -- colr-icons-prettier-catpuccin-frappe U+1f340 U+fe0a U+e01a4
+		["catpuccin-latte"] = "🍀︊󠆥", -- colr-icons-prettier-catpuccin-latte U+1f340 U+fe0a U+e01a5
+		["catpuccin-macchiato"] = "🍀︊󠆦", -- colr-icons-prettier-catpuccin-macchiato U+1f340 U+fe0a U+e01a6
+		["catpuccin-mocha"] = "🍀︊󠆧", -- colr-icons-prettier-catpuccin-mocha U+1f340 U+fe0a U+e01a7
 	},
 	["prettier-ignore"] = {
-		["catpuccin-frappe"] = "🍀︊󠆧", -- colr-icons-prettier-ignore-catpuccin-frappe U+1f340 U+fe0a U+e01a7
-		["catpuccin-latte"] = "🍀︊󠆨", -- colr-icons-prettier-ignore-catpuccin-latte U+1f340 U+fe0a U+e01a8
-		["catpuccin-macchiato"] = "🍀︊󠆩", -- colr-icons-prettier-ignore-catpuccin-macchiato U+1f340 U+fe0a U+e01a9
-		["catpuccin-mocha"] = "🍀︊󠆪", -- colr-icons-prettier-ignore-catpuccin-mocha U+1f340 U+fe0a U+e01aa
+		["catpuccin-frappe"] = "🍀︊󠆨", -- colr-icons-prettier-ignore-catpuccin-frappe U+1f340 U+fe0a U+e01a8
+		["catpuccin-latte"] = "🍀︊󠆩", -- colr-icons-prettier-ignore-catpuccin-latte U+1f340 U+fe0a U+e01a9
+		["catpuccin-macchiato"] = "🍀︊󠆪", -- colr-icons-prettier-ignore-catpuccin-macchiato U+1f340 U+fe0a U+e01aa
+		["catpuccin-mocha"] = "🍀︊󠆫", -- colr-icons-prettier-ignore-catpuccin-mocha U+1f340 U+fe0a U+e01ab
 	},
 	["prisma"] = {
-		["material"] = "🍀︊󠆫", -- colr-icons-prisma-material U+1f340 U+fe0a U+e01ab
-		["catpuccin-frappe"] = "🍀︊󠆬", -- colr-icons-prisma-catpuccin-frappe U+1f340 U+fe0a U+e01ac
-		["catpuccin-latte"] = "🍀︊󠆭", -- colr-icons-prisma-catpuccin-latte U+1f340 U+fe0a U+e01ad
-		["catpuccin-macchiato"] = "🍀︊󠆮", -- colr-icons-prisma-catpuccin-macchiato U+1f340 U+fe0a U+e01ae
-		["catpuccin-mocha"] = "🍀︊󠆯", -- colr-icons-prisma-catpuccin-mocha U+1f340 U+fe0a U+e01af
+		["material"] = "🍀︊󠆬", -- colr-icons-prisma-material U+1f340 U+fe0a U+e01ac
+		["catpuccin-frappe"] = "🍀︊󠆭", -- colr-icons-prisma-catpuccin-frappe U+1f340 U+fe0a U+e01ad
+		["catpuccin-latte"] = "🍀︊󠆮", -- colr-icons-prisma-catpuccin-latte U+1f340 U+fe0a U+e01ae
+		["catpuccin-macchiato"] = "🍀︊󠆯", -- colr-icons-prisma-catpuccin-macchiato U+1f340 U+fe0a U+e01af
+		["catpuccin-mocha"] = "🍀︊󠆰", -- colr-icons-prisma-catpuccin-mocha U+1f340 U+fe0a U+e01b0
 	},
 	["processing"] = {
-		["material"] = "🍀︊󠆰", -- colr-icons-processing-material U+1f340 U+fe0a U+e01b0
+		["material"] = "🍀︊󠆱", -- colr-icons-processing-material U+1f340 U+fe0a U+e01b1
 	},
 	["prolog"] = {
-		["material"] = "🍀︊󠆱", -- colr-icons-prolog-material U+1f340 U+fe0a U+e01b1
-		["catpuccin-frappe"] = "🍀︊󠆲", -- colr-icons-prolog-catpuccin-frappe U+1f340 U+fe0a U+e01b2
-		["catpuccin-latte"] = "🍀︊󠆳", -- colr-icons-prolog-catpuccin-latte U+1f340 U+fe0a U+e01b3
-		["catpuccin-macchiato"] = "🍀︊󠆴", -- colr-icons-prolog-catpuccin-macchiato U+1f340 U+fe0a U+e01b4
-		["catpuccin-mocha"] = "🍀︊󠆵", -- colr-icons-prolog-catpuccin-mocha U+1f340 U+fe0a U+e01b5
+		["material"] = "🍀︊󠆲", -- colr-icons-prolog-material U+1f340 U+fe0a U+e01b2
+		["catpuccin-frappe"] = "🍀︊󠆳", -- colr-icons-prolog-catpuccin-frappe U+1f340 U+fe0a U+e01b3
+		["catpuccin-latte"] = "🍀︊󠆴", -- colr-icons-prolog-catpuccin-latte U+1f340 U+fe0a U+e01b4
+		["catpuccin-macchiato"] = "🍀︊󠆵", -- colr-icons-prolog-catpuccin-macchiato U+1f340 U+fe0a U+e01b5
+		["catpuccin-mocha"] = "🍀︊󠆶", -- colr-icons-prolog-catpuccin-mocha U+1f340 U+fe0a U+e01b6
 	},
 	["prompt"] = {
-		["material"] = "🍀︊󠆶", -- colr-icons-prompt-material U+1f340 U+fe0a U+e01b6
+		["material"] = "🍀︊󠆷", -- colr-icons-prompt-material U+1f340 U+fe0a U+e01b7
 	},
 	["properties"] = {
-		["catpuccin-frappe"] = "🍀︊󠆷", -- colr-icons-properties-catpuccin-frappe U+1f340 U+fe0a U+e01b7
-		["catpuccin-latte"] = "🍀︊󠆸", -- colr-icons-properties-catpuccin-latte U+1f340 U+fe0a U+e01b8
-		["catpuccin-macchiato"] = "🍀︊󠆹", -- colr-icons-properties-catpuccin-macchiato U+1f340 U+fe0a U+e01b9
-		["catpuccin-mocha"] = "🍀︊󠆺", -- colr-icons-properties-catpuccin-mocha U+1f340 U+fe0a U+e01ba
+		["catpuccin-frappe"] = "🍀︊󠆸", -- colr-icons-properties-catpuccin-frappe U+1f340 U+fe0a U+e01b8
+		["catpuccin-latte"] = "🍀︊󠆹", -- colr-icons-properties-catpuccin-latte U+1f340 U+fe0a U+e01b9
+		["catpuccin-macchiato"] = "🍀︊󠆺", -- colr-icons-properties-catpuccin-macchiato U+1f340 U+fe0a U+e01ba
+		["catpuccin-mocha"] = "🍀︊󠆻", -- colr-icons-properties-catpuccin-mocha U+1f340 U+fe0a U+e01bb
 	},
 	["proto"] = {
-		["material"] = "🍀︊󠆻", -- colr-icons-proto-material U+1f340 U+fe0a U+e01bb
-		["catpuccin-frappe"] = "🍀︊󠆼", -- colr-icons-proto-catpuccin-frappe U+1f340 U+fe0a U+e01bc
-		["catpuccin-latte"] = "🍀︊󠆽", -- colr-icons-proto-catpuccin-latte U+1f340 U+fe0a U+e01bd
-		["catpuccin-macchiato"] = "🍀︊󠆾", -- colr-icons-proto-catpuccin-macchiato U+1f340 U+fe0a U+e01be
-		["catpuccin-mocha"] = "🍀︊󠆿", -- colr-icons-proto-catpuccin-mocha U+1f340 U+fe0a U+e01bf
+		["material"] = "🍀︊󠆼", -- colr-icons-proto-material U+1f340 U+fe0a U+e01bc
+		["catpuccin-frappe"] = "🍀︊󠆽", -- colr-icons-proto-catpuccin-frappe U+1f340 U+fe0a U+e01bd
+		["catpuccin-latte"] = "🍀︊󠆾", -- colr-icons-proto-catpuccin-latte U+1f340 U+fe0a U+e01be
+		["catpuccin-macchiato"] = "🍀︊󠆿", -- colr-icons-proto-catpuccin-macchiato U+1f340 U+fe0a U+e01bf
+		["catpuccin-mocha"] = "🍀︊󠇀", -- colr-icons-proto-catpuccin-mocha U+1f340 U+fe0a U+e01c0
 	},
 	["prototools"] = {
-		["catpuccin-frappe"] = "🍀︊󠇀", -- colr-icons-prototools-catpuccin-frappe U+1f340 U+fe0a U+e01c0
-		["catpuccin-latte"] = "🍀︊󠇁", -- colr-icons-prototools-catpuccin-latte U+1f340 U+fe0a U+e01c1
-		["catpuccin-macchiato"] = "🍀︊󠇂", -- colr-icons-prototools-catpuccin-macchiato U+1f340 U+fe0a U+e01c2
-		["catpuccin-mocha"] = "🍀︊󠇃", -- colr-icons-prototools-catpuccin-mocha U+1f340 U+fe0a U+e01c3
+		["catpuccin-frappe"] = "🍀︊󠇁", -- colr-icons-prototools-catpuccin-frappe U+1f340 U+fe0a U+e01c1
+		["catpuccin-latte"] = "🍀︊󠇂", -- colr-icons-prototools-catpuccin-latte U+1f340 U+fe0a U+e01c2
+		["catpuccin-macchiato"] = "🍀︊󠇃", -- colr-icons-prototools-catpuccin-macchiato U+1f340 U+fe0a U+e01c3
+		["catpuccin-mocha"] = "🍀︊󠇄", -- colr-icons-prototools-catpuccin-mocha U+1f340 U+fe0a U+e01c4
 	},
 	["protractor"] = {
-		["material"] = "🍀︊󠇄", -- colr-icons-protractor-material U+1f340 U+fe0a U+e01c4
+		["material"] = "🍀︊󠇅", -- colr-icons-protractor-material U+1f340 U+fe0a U+e01c5
 	},
 	["pug"] = {
-		["material"] = "🍀︊󠇅", -- colr-icons-pug-material U+1f340 U+fe0a U+e01c5
-		["catpuccin-frappe"] = "🍀︊󠇆", -- colr-icons-pug-catpuccin-frappe U+1f340 U+fe0a U+e01c6
-		["catpuccin-latte"] = "🍀︊󠇇", -- colr-icons-pug-catpuccin-latte U+1f340 U+fe0a U+e01c7
-		["catpuccin-macchiato"] = "🍀︊󠇈", -- colr-icons-pug-catpuccin-macchiato U+1f340 U+fe0a U+e01c8
-		["catpuccin-mocha"] = "🍀︊󠇉", -- colr-icons-pug-catpuccin-mocha U+1f340 U+fe0a U+e01c9
+		["material"] = "🍀︊󠇆", -- colr-icons-pug-material U+1f340 U+fe0a U+e01c6
+		["catpuccin-frappe"] = "🍀︊󠇇", -- colr-icons-pug-catpuccin-frappe U+1f340 U+fe0a U+e01c7
+		["catpuccin-latte"] = "🍀︊󠇈", -- colr-icons-pug-catpuccin-latte U+1f340 U+fe0a U+e01c8
+		["catpuccin-macchiato"] = "🍀︊󠇉", -- colr-icons-pug-catpuccin-macchiato U+1f340 U+fe0a U+e01c9
+		["catpuccin-mocha"] = "🍀︊󠇊", -- colr-icons-pug-catpuccin-mocha U+1f340 U+fe0a U+e01ca
 	},
 	["puppet"] = {
-		["material"] = "🍀︊󠇊", -- colr-icons-puppet-material U+1f340 U+fe0a U+e01ca
-		["catpuccin-frappe"] = "🍀︊󠇋", -- colr-icons-puppet-catpuccin-frappe U+1f340 U+fe0a U+e01cb
-		["catpuccin-latte"] = "🍀︊󠇌", -- colr-icons-puppet-catpuccin-latte U+1f340 U+fe0a U+e01cc
-		["catpuccin-macchiato"] = "🍀︊󠇍", -- colr-icons-puppet-catpuccin-macchiato U+1f340 U+fe0a U+e01cd
-		["catpuccin-mocha"] = "🍀︊󠇎", -- colr-icons-puppet-catpuccin-mocha U+1f340 U+fe0a U+e01ce
+		["material"] = "🍀︊󠇋", -- colr-icons-puppet-material U+1f340 U+fe0a U+e01cb
+		["catpuccin-frappe"] = "🍀︊󠇌", -- colr-icons-puppet-catpuccin-frappe U+1f340 U+fe0a U+e01cc
+		["catpuccin-latte"] = "🍀︊󠇍", -- colr-icons-puppet-catpuccin-latte U+1f340 U+fe0a U+e01cd
+		["catpuccin-macchiato"] = "🍀︊󠇎", -- colr-icons-puppet-catpuccin-macchiato U+1f340 U+fe0a U+e01ce
+		["catpuccin-mocha"] = "🍀︊󠇏", -- colr-icons-puppet-catpuccin-mocha U+1f340 U+fe0a U+e01cf
 	},
 	["puppeteer"] = {
-		["material"] = "🍀︊󠇏", -- colr-icons-puppeteer-material U+1f340 U+fe0a U+e01cf
-		["catpuccin-frappe"] = "🍀︊󠇐", -- colr-icons-puppeteer-catpuccin-frappe U+1f340 U+fe0a U+e01d0
-		["catpuccin-latte"] = "🍀︊󠇑", -- colr-icons-puppeteer-catpuccin-latte U+1f340 U+fe0a U+e01d1
-		["catpuccin-macchiato"] = "🍀︊󠇒", -- colr-icons-puppeteer-catpuccin-macchiato U+1f340 U+fe0a U+e01d2
-		["catpuccin-mocha"] = "🍀︊󠇓", -- colr-icons-puppeteer-catpuccin-mocha U+1f340 U+fe0a U+e01d3
+		["material"] = "🍀︊󠇐", -- colr-icons-puppeteer-material U+1f340 U+fe0a U+e01d0
+		["catpuccin-frappe"] = "🍀︊󠇑", -- colr-icons-puppeteer-catpuccin-frappe U+1f340 U+fe0a U+e01d1
+		["catpuccin-latte"] = "🍀︊󠇒", -- colr-icons-puppeteer-catpuccin-latte U+1f340 U+fe0a U+e01d2
+		["catpuccin-macchiato"] = "🍀︊󠇓", -- colr-icons-puppeteer-catpuccin-macchiato U+1f340 U+fe0a U+e01d3
+		["catpuccin-mocha"] = "🍀︊󠇔", -- colr-icons-puppeteer-catpuccin-mocha U+1f340 U+fe0a U+e01d4
 	},
 	["purescript"] = {
-		["material"] = "🍀︊󠇔", -- colr-icons-purescript-material U+1f340 U+fe0a U+e01d4
+		["material"] = "🍀︊󠇕", -- colr-icons-purescript-material U+1f340 U+fe0a U+e01d5
 	},
 	["python"] = {
-		["material"] = "🍀︊󠇕", -- colr-icons-python-material U+1f340 U+fe0a U+e01d5
-		["catpuccin-frappe"] = "🍀︊󠇖", -- colr-icons-python-catpuccin-frappe U+1f340 U+fe0a U+e01d6
-		["catpuccin-latte"] = "🍀︊󠇗", -- colr-icons-python-catpuccin-latte U+1f340 U+fe0a U+e01d7
-		["catpuccin-macchiato"] = "🍀︊󠇘", -- colr-icons-python-catpuccin-macchiato U+1f340 U+fe0a U+e01d8
-		["catpuccin-mocha"] = "🍀︊󠇙", -- colr-icons-python-catpuccin-mocha U+1f340 U+fe0a U+e01d9
+		["material"] = "🍀︊󠇖", -- colr-icons-python-material U+1f340 U+fe0a U+e01d6
+		["catpuccin-frappe"] = "🍀︊󠇗", -- colr-icons-python-catpuccin-frappe U+1f340 U+fe0a U+e01d7
+		["catpuccin-latte"] = "🍀︊󠇘", -- colr-icons-python-catpuccin-latte U+1f340 U+fe0a U+e01d8
+		["catpuccin-macchiato"] = "🍀︊󠇙", -- colr-icons-python-catpuccin-macchiato U+1f340 U+fe0a U+e01d9
+		["catpuccin-mocha"] = "🍀︊󠇚", -- colr-icons-python-catpuccin-mocha U+1f340 U+fe0a U+e01da
 	},
 	["python-compiled"] = {
-		["catpuccin-frappe"] = "🍀︊󠇚", -- colr-icons-python-compiled-catpuccin-frappe U+1f340 U+fe0a U+e01da
-		["catpuccin-latte"] = "🍀︊󠇛", -- colr-icons-python-compiled-catpuccin-latte U+1f340 U+fe0a U+e01db
-		["catpuccin-macchiato"] = "🍀︊󠇜", -- colr-icons-python-compiled-catpuccin-macchiato U+1f340 U+fe0a U+e01dc
-		["catpuccin-mocha"] = "🍀︊󠇝", -- colr-icons-python-compiled-catpuccin-mocha U+1f340 U+fe0a U+e01dd
+		["catpuccin-frappe"] = "🍀︊󠇛", -- colr-icons-python-compiled-catpuccin-frappe U+1f340 U+fe0a U+e01db
+		["catpuccin-latte"] = "🍀︊󠇜", -- colr-icons-python-compiled-catpuccin-latte U+1f340 U+fe0a U+e01dc
+		["catpuccin-macchiato"] = "🍀︊󠇝", -- colr-icons-python-compiled-catpuccin-macchiato U+1f340 U+fe0a U+e01dd
+		["catpuccin-mocha"] = "🍀︊󠇞", -- colr-icons-python-compiled-catpuccin-mocha U+1f340 U+fe0a U+e01de
 	},
 	["python-config"] = {
-		["catpuccin-frappe"] = "🍀︊󠇞", -- colr-icons-python-config-catpuccin-frappe U+1f340 U+fe0a U+e01de
-		["catpuccin-latte"] = "🍀︊󠇟", -- colr-icons-python-config-catpuccin-latte U+1f340 U+fe0a U+e01df
-		["catpuccin-macchiato"] = "🍀︊󠇠", -- colr-icons-python-config-catpuccin-macchiato U+1f340 U+fe0a U+e01e0
-		["catpuccin-mocha"] = "🍀︊󠇡", -- colr-icons-python-config-catpuccin-mocha U+1f340 U+fe0a U+e01e1
+		["catpuccin-frappe"] = "🍀︊󠇟", -- colr-icons-python-config-catpuccin-frappe U+1f340 U+fe0a U+e01df
+		["catpuccin-latte"] = "🍀︊󠇠", -- colr-icons-python-config-catpuccin-latte U+1f340 U+fe0a U+e01e0
+		["catpuccin-macchiato"] = "🍀︊󠇡", -- colr-icons-python-config-catpuccin-macchiato U+1f340 U+fe0a U+e01e1
+		["catpuccin-mocha"] = "🍀︊󠇢", -- colr-icons-python-config-catpuccin-mocha U+1f340 U+fe0a U+e01e2
 	},
 	["python-misc"] = {
-		["material"] = "🍀︊󠇢", -- colr-icons-python-misc-material U+1f340 U+fe0a U+e01e2
+		["material"] = "🍀︊󠇣", -- colr-icons-python-misc-material U+1f340 U+fe0a U+e01e3
 	},
 	["pytorch"] = {
-		["material"] = "🍀︊󠇣", -- colr-icons-pytorch-material U+1f340 U+fe0a U+e01e3
+		["material"] = "🍀︊󠇤", -- colr-icons-pytorch-material U+1f340 U+fe0a U+e01e4
 	},
 	["qsharp"] = {
-		["material"] = "🍀︊󠇤", -- colr-icons-qsharp-material U+1f340 U+fe0a U+e01e4
+		["material"] = "🍀︊󠇥", -- colr-icons-qsharp-material U+1f340 U+fe0a U+e01e5
 	},
 	["quarto"] = {
-		["material"] = "🍀︊󠇥", -- colr-icons-quarto-material U+1f340 U+fe0a U+e01e5
+		["material"] = "🍀︊󠇦", -- colr-icons-quarto-material U+1f340 U+fe0a U+e01e6
 	},
 	["quasar"] = {
-		["material"] = "🍀︊󠇦", -- colr-icons-quasar-material U+1f340 U+fe0a U+e01e6
+		["material"] = "🍀︊󠇧", -- colr-icons-quasar-material U+1f340 U+fe0a U+e01e7
 	},
 	["quokka"] = {
-		["material"] = "🍀︊󠇧", -- colr-icons-quokka-material U+1f340 U+fe0a U+e01e7
+		["material"] = "🍀︊󠇨", -- colr-icons-quokka-material U+1f340 U+fe0a U+e01e8
 	},
 	["qwik"] = {
-		["material"] = "🍀︊󠇨", -- colr-icons-qwik-material U+1f340 U+fe0a U+e01e8
-		["catpuccin-frappe"] = "🍀︊󠇩", -- colr-icons-qwik-catpuccin-frappe U+1f340 U+fe0a U+e01e9
-		["catpuccin-latte"] = "🍀︊󠇪", -- colr-icons-qwik-catpuccin-latte U+1f340 U+fe0a U+e01ea
-		["catpuccin-macchiato"] = "🍀︊󠇫", -- colr-icons-qwik-catpuccin-macchiato U+1f340 U+fe0a U+e01eb
-		["catpuccin-mocha"] = "🍀︊󠇬", -- colr-icons-qwik-catpuccin-mocha U+1f340 U+fe0a U+e01ec
+		["material"] = "🍀︊󠇩", -- colr-icons-qwik-material U+1f340 U+fe0a U+e01e9
+		["catpuccin-frappe"] = "🍀︊󠇪", -- colr-icons-qwik-catpuccin-frappe U+1f340 U+fe0a U+e01ea
+		["catpuccin-latte"] = "🍀︊󠇫", -- colr-icons-qwik-catpuccin-latte U+1f340 U+fe0a U+e01eb
+		["catpuccin-macchiato"] = "🍀︊󠇬", -- colr-icons-qwik-catpuccin-macchiato U+1f340 U+fe0a U+e01ec
+		["catpuccin-mocha"] = "🍀︊󠇭", -- colr-icons-qwik-catpuccin-mocha U+1f340 U+fe0a U+e01ed
 	},
 	["r"] = {
-		["material"] = "🍀︊󠇭", -- colr-icons-r-material U+1f340 U+fe0a U+e01ed
-		["catpuccin-frappe"] = "🍀︊󠇮", -- colr-icons-r-catpuccin-frappe U+1f340 U+fe0a U+e01ee
-		["catpuccin-latte"] = "🍀︊󠇯", -- colr-icons-r-catpuccin-latte U+1f340 U+fe0a U+e01ef
-		["catpuccin-macchiato"] = "🍀︋︀", -- colr-icons-r-catpuccin-macchiato U+1f340 U+fe0b U+fe00
-		["catpuccin-mocha"] = "🍀︋︁", -- colr-icons-r-catpuccin-mocha U+1f340 U+fe0b U+fe01
+		["material"] = "🍀︊󠇮", -- colr-icons-r-material U+1f340 U+fe0a U+e01ee
+		["catpuccin-frappe"] = "🍀︊󠇯", -- colr-icons-r-catpuccin-frappe U+1f340 U+fe0a U+e01ef
+		["catpuccin-latte"] = "🍀︋︀", -- colr-icons-r-catpuccin-latte U+1f340 U+fe0b U+fe00
+		["catpuccin-macchiato"] = "🍀︋︁", -- colr-icons-r-catpuccin-macchiato U+1f340 U+fe0b U+fe01
+		["catpuccin-mocha"] = "🍀︋︂", -- colr-icons-r-catpuccin-mocha U+1f340 U+fe0b U+fe02
 	},
 	["racket"] = {
-		["material"] = "🍀︋︂", -- colr-icons-racket-material U+1f340 U+fe0b U+fe02
-		["catpuccin-frappe"] = "🍀︋︃", -- colr-icons-racket-catpuccin-frappe U+1f340 U+fe0b U+fe03
-		["catpuccin-latte"] = "🍀︋︄", -- colr-icons-racket-catpuccin-latte U+1f340 U+fe0b U+fe04
-		["catpuccin-macchiato"] = "🍀︋︅", -- colr-icons-racket-catpuccin-macchiato U+1f340 U+fe0b U+fe05
-		["catpuccin-mocha"] = "🍀︋︆", -- colr-icons-racket-catpuccin-mocha U+1f340 U+fe0b U+fe06
+		["material"] = "🍀︋︃", -- colr-icons-racket-material U+1f340 U+fe0b U+fe03
+		["catpuccin-frappe"] = "🍀︋︄", -- colr-icons-racket-catpuccin-frappe U+1f340 U+fe0b U+fe04
+		["catpuccin-latte"] = "🍀︋︅", -- colr-icons-racket-catpuccin-latte U+1f340 U+fe0b U+fe05
+		["catpuccin-macchiato"] = "🍀︋︆", -- colr-icons-racket-catpuccin-macchiato U+1f340 U+fe0b U+fe06
+		["catpuccin-mocha"] = "🍀︋︇", -- colr-icons-racket-catpuccin-mocha U+1f340 U+fe0b U+fe07
 	},
 	["raml"] = {
-		["material"] = "🍀︋︇", -- colr-icons-raml-material U+1f340 U+fe0b U+fe07
+		["material"] = "🍀︋︈", -- colr-icons-raml-material U+1f340 U+fe0b U+fe08
 	},
 	["razor"] = {
-		["material"] = "🍀︋︈", -- colr-icons-razor-material U+1f340 U+fe0b U+fe08
-		["catpuccin-frappe"] = "🍀︋︉", -- colr-icons-razor-catpuccin-frappe U+1f340 U+fe0b U+fe09
-		["catpuccin-latte"] = "🍀︋︊", -- colr-icons-razor-catpuccin-latte U+1f340 U+fe0b U+fe0a
-		["catpuccin-macchiato"] = "🍀︋︋", -- colr-icons-razor-catpuccin-macchiato U+1f340 U+fe0b U+fe0b
-		["catpuccin-mocha"] = "🍀︋︌", -- colr-icons-razor-catpuccin-mocha U+1f340 U+fe0b U+fe0c
+		["material"] = "🍀︋︉", -- colr-icons-razor-material U+1f340 U+fe0b U+fe09
+		["catpuccin-frappe"] = "🍀︋︊", -- colr-icons-razor-catpuccin-frappe U+1f340 U+fe0b U+fe0a
+		["catpuccin-latte"] = "🍀︋︋", -- colr-icons-razor-catpuccin-latte U+1f340 U+fe0b U+fe0b
+		["catpuccin-macchiato"] = "🍀︋︌", -- colr-icons-razor-catpuccin-macchiato U+1f340 U+fe0b U+fe0c
+		["catpuccin-mocha"] = "🍀︋︍", -- colr-icons-razor-catpuccin-mocha U+1f340 U+fe0b U+fe0d
 	},
 	["rbxmk"] = {
-		["material"] = "🍀︋︍", -- colr-icons-rbxmk-material U+1f340 U+fe0b U+fe0d
+		["material"] = "🍀︋︎", -- colr-icons-rbxmk-material U+1f340 U+fe0b U+fe0e
 	},
 	["rc"] = {
-		["material"] = "🍀︋︎", -- colr-icons-rc-material U+1f340 U+fe0b U+fe0e
+		["material"] = "🍀︋️", -- colr-icons-rc-material U+1f340 U+fe0b U+fe0f
 	},
 	["rdata"] = {
-		["catpuccin-frappe"] = "🍀︋️", -- colr-icons-rdata-catpuccin-frappe U+1f340 U+fe0b U+fe0f
-		["catpuccin-latte"] = "🍀︋󠄀", -- colr-icons-rdata-catpuccin-latte U+1f340 U+fe0b U+e0100
-		["catpuccin-macchiato"] = "🍀︋󠄁", -- colr-icons-rdata-catpuccin-macchiato U+1f340 U+fe0b U+e0101
-		["catpuccin-mocha"] = "🍀︋󠄂", -- colr-icons-rdata-catpuccin-mocha U+1f340 U+fe0b U+e0102
+		["catpuccin-frappe"] = "🍀︋󠄀", -- colr-icons-rdata-catpuccin-frappe U+1f340 U+fe0b U+e0100
+		["catpuccin-latte"] = "🍀︋󠄁", -- colr-icons-rdata-catpuccin-latte U+1f340 U+fe0b U+e0101
+		["catpuccin-macchiato"] = "🍀︋󠄂", -- colr-icons-rdata-catpuccin-macchiato U+1f340 U+fe0b U+e0102
+		["catpuccin-mocha"] = "🍀︋󠄃", -- colr-icons-rdata-catpuccin-mocha U+1f340 U+fe0b U+e0103
 	},
 	["react"] = {
-		["material"] = "🍀︋󠄃", -- colr-icons-react-material U+1f340 U+fe0b U+e0103
+		["material"] = "🍀︋󠄄", -- colr-icons-react-material U+1f340 U+fe0b U+e0104
 	},
 	["react_ts"] = {
-		["material"] = "🍀︋󠄄", -- colr-icons-react_ts-material U+1f340 U+fe0b U+e0104
+		["material"] = "🍀︋󠄅", -- colr-icons-react_ts-material U+1f340 U+fe0b U+e0105
 	},
 	["readme"] = {
-		["material"] = "🍀︋󠄅", -- colr-icons-readme-material U+1f340 U+fe0b U+e0105
-		["catpuccin-frappe"] = "🍀︋󠄆", -- colr-icons-readme-catpuccin-frappe U+1f340 U+fe0b U+e0106
-		["catpuccin-latte"] = "🍀︋󠄇", -- colr-icons-readme-catpuccin-latte U+1f340 U+fe0b U+e0107
-		["catpuccin-macchiato"] = "🍀︋󠄈", -- colr-icons-readme-catpuccin-macchiato U+1f340 U+fe0b U+e0108
-		["catpuccin-mocha"] = "🍀︋󠄉", -- colr-icons-readme-catpuccin-mocha U+1f340 U+fe0b U+e0109
+		["material"] = "🍀︋󠄆", -- colr-icons-readme-material U+1f340 U+fe0b U+e0106
+		["catpuccin-frappe"] = "🍀︋󠄇", -- colr-icons-readme-catpuccin-frappe U+1f340 U+fe0b U+e0107
+		["catpuccin-latte"] = "🍀︋󠄈", -- colr-icons-readme-catpuccin-latte U+1f340 U+fe0b U+e0108
+		["catpuccin-macchiato"] = "🍀︋󠄉", -- colr-icons-readme-catpuccin-macchiato U+1f340 U+fe0b U+e0109
+		["catpuccin-mocha"] = "🍀︋󠄊", -- colr-icons-readme-catpuccin-mocha U+1f340 U+fe0b U+e010a
 	},
 	["reason"] = {
-		["material"] = "🍀︋󠄊", -- colr-icons-reason-material U+1f340 U+fe0b U+e010a
-		["catpuccin-frappe"] = "🍀︋󠄋", -- colr-icons-reason-catpuccin-frappe U+1f340 U+fe0b U+e010b
-		["catpuccin-latte"] = "🍀︋󠄌", -- colr-icons-reason-catpuccin-latte U+1f340 U+fe0b U+e010c
-		["catpuccin-macchiato"] = "🍀︋󠄍", -- colr-icons-reason-catpuccin-macchiato U+1f340 U+fe0b U+e010d
-		["catpuccin-mocha"] = "🍀︋󠄎", -- colr-icons-reason-catpuccin-mocha U+1f340 U+fe0b U+e010e
+		["material"] = "🍀︋󠄋", -- colr-icons-reason-material U+1f340 U+fe0b U+e010b
+		["catpuccin-frappe"] = "🍀︋󠄌", -- colr-icons-reason-catpuccin-frappe U+1f340 U+fe0b U+e010c
+		["catpuccin-latte"] = "🍀︋󠄍", -- colr-icons-reason-catpuccin-latte U+1f340 U+fe0b U+e010d
+		["catpuccin-macchiato"] = "🍀︋󠄎", -- colr-icons-reason-catpuccin-macchiato U+1f340 U+fe0b U+e010e
+		["catpuccin-mocha"] = "🍀︋󠄏", -- colr-icons-reason-catpuccin-mocha U+1f340 U+fe0b U+e010f
 	},
 	["red"] = {
-		["material"] = "🍀︋󠄏", -- colr-icons-red-material U+1f340 U+fe0b U+e010f
+		["material"] = "🍀︋󠄐", -- colr-icons-red-material U+1f340 U+fe0b U+e0110
 	},
 	["redux-action"] = {
-		["material"] = "🍀︋󠄐", -- colr-icons-redux-action-material U+1f340 U+fe0b U+e0110
+		["material"] = "🍀︋󠄑", -- colr-icons-redux-action-material U+1f340 U+fe0b U+e0111
 	},
 	["redux-reducer"] = {
-		["material"] = "🍀︋󠄑", -- colr-icons-redux-reducer-material U+1f340 U+fe0b U+e0111
+		["material"] = "🍀︋󠄒", -- colr-icons-redux-reducer-material U+1f340 U+fe0b U+e0112
 	},
 	["redux-selector"] = {
-		["material"] = "🍀︋󠄒", -- colr-icons-redux-selector-material U+1f340 U+fe0b U+e0112
+		["material"] = "🍀︋󠄓", -- colr-icons-redux-selector-material U+1f340 U+fe0b U+e0113
 	},
 	["redux-store"] = {
-		["material"] = "🍀︋󠄓", -- colr-icons-redux-store-material U+1f340 U+fe0b U+e0113
+		["material"] = "🍀︋󠄔", -- colr-icons-redux-store-material U+1f340 U+fe0b U+e0114
 	},
 	["redwood"] = {
-		["catpuccin-frappe"] = "🍀︋󠄔", -- colr-icons-redwood-catpuccin-frappe U+1f340 U+fe0b U+e0114
-		["catpuccin-latte"] = "🍀︋󠄕", -- colr-icons-redwood-catpuccin-latte U+1f340 U+fe0b U+e0115
-		["catpuccin-macchiato"] = "🍀︋󠄖", -- colr-icons-redwood-catpuccin-macchiato U+1f340 U+fe0b U+e0116
-		["catpuccin-mocha"] = "🍀︋󠄗", -- colr-icons-redwood-catpuccin-mocha U+1f340 U+fe0b U+e0117
+		["catpuccin-frappe"] = "🍀︋󠄕", -- colr-icons-redwood-catpuccin-frappe U+1f340 U+fe0b U+e0115
+		["catpuccin-latte"] = "🍀︋󠄖", -- colr-icons-redwood-catpuccin-latte U+1f340 U+fe0b U+e0116
+		["catpuccin-macchiato"] = "🍀︋󠄗", -- colr-icons-redwood-catpuccin-macchiato U+1f340 U+fe0b U+e0117
+		["catpuccin-mocha"] = "🍀︋󠄘", -- colr-icons-redwood-catpuccin-mocha U+1f340 U+fe0b U+e0118
 	},
 	["regedit"] = {
-		["material"] = "🍀︋󠄘", -- colr-icons-regedit-material U+1f340 U+fe0b U+e0118
+		["material"] = "🍀︋󠄙", -- colr-icons-regedit-material U+1f340 U+fe0b U+e0119
 	},
 	["release"] = {
-		["catpuccin-frappe"] = "🍀︋󠄙", -- colr-icons-release-catpuccin-frappe U+1f340 U+fe0b U+e0119
-		["catpuccin-latte"] = "🍀︋󠄚", -- colr-icons-release-catpuccin-latte U+1f340 U+fe0b U+e011a
-		["catpuccin-macchiato"] = "🍀︋󠄛", -- colr-icons-release-catpuccin-macchiato U+1f340 U+fe0b U+e011b
-		["catpuccin-mocha"] = "🍀︋󠄜", -- colr-icons-release-catpuccin-mocha U+1f340 U+fe0b U+e011c
+		["catpuccin-frappe"] = "🍀︋󠄚", -- colr-icons-release-catpuccin-frappe U+1f340 U+fe0b U+e011a
+		["catpuccin-latte"] = "🍀︋󠄛", -- colr-icons-release-catpuccin-latte U+1f340 U+fe0b U+e011b
+		["catpuccin-macchiato"] = "🍀︋󠄜", -- colr-icons-release-catpuccin-macchiato U+1f340 U+fe0b U+e011c
+		["catpuccin-mocha"] = "🍀︋󠄝", -- colr-icons-release-catpuccin-mocha U+1f340 U+fe0b U+e011d
 	},
 	["remark"] = {
-		["material"] = "🍀︋󠄝", -- colr-icons-remark-material U+1f340 U+fe0b U+e011d
+		["material"] = "🍀︋󠄞", -- colr-icons-remark-material U+1f340 U+fe0b U+e011e
 	},
 	["remix"] = {
-		["material"] = "🍀︋󠄞", -- colr-icons-remix-material U+1f340 U+fe0b U+e011e
-		["catpuccin-frappe"] = "🍀︋󠄟", -- colr-icons-remix-catpuccin-frappe U+1f340 U+fe0b U+e011f
-		["catpuccin-latte"] = "🍀︋󠄠", -- colr-icons-remix-catpuccin-latte U+1f340 U+fe0b U+e0120
-		["catpuccin-macchiato"] = "🍀︋󠄡", -- colr-icons-remix-catpuccin-macchiato U+1f340 U+fe0b U+e0121
-		["catpuccin-mocha"] = "🍀︋󠄢", -- colr-icons-remix-catpuccin-mocha U+1f340 U+fe0b U+e0122
+		["material"] = "🍀︋󠄟", -- colr-icons-remix-material U+1f340 U+fe0b U+e011f
+		["catpuccin-frappe"] = "🍀︋󠄠", -- colr-icons-remix-catpuccin-frappe U+1f340 U+fe0b U+e0120
+		["catpuccin-latte"] = "🍀︋󠄡", -- colr-icons-remix-catpuccin-latte U+1f340 U+fe0b U+e0121
+		["catpuccin-macchiato"] = "🍀︋󠄢", -- colr-icons-remix-catpuccin-macchiato U+1f340 U+fe0b U+e0122
+		["catpuccin-mocha"] = "🍀︋󠄣", -- colr-icons-remix-catpuccin-mocha U+1f340 U+fe0b U+e0123
 	},
 	["remix_light"] = {
-		["material"] = "🍀︋󠄣", -- colr-icons-remix_light-material U+1f340 U+fe0b U+e0123
+		["material"] = "🍀︋󠄤", -- colr-icons-remix_light-material U+1f340 U+fe0b U+e0124
 	},
 	["renovate"] = {
-		["material"] = "🍀︋󠄤", -- colr-icons-renovate-material U+1f340 U+fe0b U+e0124
-		["catpuccin-frappe"] = "🍀︋󠄥", -- colr-icons-renovate-catpuccin-frappe U+1f340 U+fe0b U+e0125
-		["catpuccin-latte"] = "🍀︋󠄦", -- colr-icons-renovate-catpuccin-latte U+1f340 U+fe0b U+e0126
-		["catpuccin-macchiato"] = "🍀︋󠄧", -- colr-icons-renovate-catpuccin-macchiato U+1f340 U+fe0b U+e0127
-		["catpuccin-mocha"] = "🍀︋󠄨", -- colr-icons-renovate-catpuccin-mocha U+1f340 U+fe0b U+e0128
+		["material"] = "🍀︋󠄥", -- colr-icons-renovate-material U+1f340 U+fe0b U+e0125
+		["catpuccin-frappe"] = "🍀︋󠄦", -- colr-icons-renovate-catpuccin-frappe U+1f340 U+fe0b U+e0126
+		["catpuccin-latte"] = "🍀︋󠄧", -- colr-icons-renovate-catpuccin-latte U+1f340 U+fe0b U+e0127
+		["catpuccin-macchiato"] = "🍀︋󠄨", -- colr-icons-renovate-catpuccin-macchiato U+1f340 U+fe0b U+e0128
+		["catpuccin-mocha"] = "🍀︋󠄩", -- colr-icons-renovate-catpuccin-mocha U+1f340 U+fe0b U+e0129
 	},
 	["replit"] = {
-		["material"] = "🍀︋󠄩", -- colr-icons-replit-material U+1f340 U+fe0b U+e0129
+		["material"] = "🍀︋󠄪", -- colr-icons-replit-material U+1f340 U+fe0b U+e012a
 	},
 	["rescript"] = {
-		["material"] = "🍀︋󠄪", -- colr-icons-rescript-material U+1f340 U+fe0b U+e012a
-		["catpuccin-frappe"] = "🍀︋󠄫", -- colr-icons-rescript-catpuccin-frappe U+1f340 U+fe0b U+e012b
-		["catpuccin-latte"] = "🍀︋󠄬", -- colr-icons-rescript-catpuccin-latte U+1f340 U+fe0b U+e012c
-		["catpuccin-macchiato"] = "🍀︋󠄭", -- colr-icons-rescript-catpuccin-macchiato U+1f340 U+fe0b U+e012d
-		["catpuccin-mocha"] = "🍀︋󠄮", -- colr-icons-rescript-catpuccin-mocha U+1f340 U+fe0b U+e012e
+		["material"] = "🍀︋󠄫", -- colr-icons-rescript-material U+1f340 U+fe0b U+e012b
+		["catpuccin-frappe"] = "🍀︋󠄬", -- colr-icons-rescript-catpuccin-frappe U+1f340 U+fe0b U+e012c
+		["catpuccin-latte"] = "🍀︋󠄭", -- colr-icons-rescript-catpuccin-latte U+1f340 U+fe0b U+e012d
+		["catpuccin-macchiato"] = "🍀︋󠄮", -- colr-icons-rescript-catpuccin-macchiato U+1f340 U+fe0b U+e012e
+		["catpuccin-mocha"] = "🍀︋󠄯", -- colr-icons-rescript-catpuccin-mocha U+1f340 U+fe0b U+e012f
 	},
 	["rescript-interface"] = {
-		["material"] = "🍀︋󠄯", -- colr-icons-rescript-interface-material U+1f340 U+fe0b U+e012f
+		["material"] = "🍀︋󠄰", -- colr-icons-rescript-interface-material U+1f340 U+fe0b U+e0130
 	},
 	["restql"] = {
-		["material"] = "🍀︋󠄰", -- colr-icons-restql-material U+1f340 U+fe0b U+e0130
+		["material"] = "🍀︋󠄱", -- colr-icons-restql-material U+1f340 U+fe0b U+e0131
 	},
 	["riot"] = {
-		["material"] = "🍀︋󠄱", -- colr-icons-riot-material U+1f340 U+fe0b U+e0131
+		["material"] = "🍀︋󠄲", -- colr-icons-riot-material U+1f340 U+fe0b U+e0132
 	},
 	["rmd"] = {
-		["catpuccin-frappe"] = "🍀︋󠄲", -- colr-icons-rmd-catpuccin-frappe U+1f340 U+fe0b U+e0132
-		["catpuccin-latte"] = "🍀︋󠄳", -- colr-icons-rmd-catpuccin-latte U+1f340 U+fe0b U+e0133
-		["catpuccin-macchiato"] = "🍀︋󠄴", -- colr-icons-rmd-catpuccin-macchiato U+1f340 U+fe0b U+e0134
-		["catpuccin-mocha"] = "🍀︋󠄵", -- colr-icons-rmd-catpuccin-mocha U+1f340 U+fe0b U+e0135
+		["catpuccin-frappe"] = "🍀︋󠄳", -- colr-icons-rmd-catpuccin-frappe U+1f340 U+fe0b U+e0133
+		["catpuccin-latte"] = "🍀︋󠄴", -- colr-icons-rmd-catpuccin-latte U+1f340 U+fe0b U+e0134
+		["catpuccin-macchiato"] = "🍀︋󠄵", -- colr-icons-rmd-catpuccin-macchiato U+1f340 U+fe0b U+e0135
+		["catpuccin-mocha"] = "🍀︋󠄶", -- colr-icons-rmd-catpuccin-mocha U+1f340 U+fe0b U+e0136
 	},
 	["roadmap"] = {
-		["material"] = "🍀︋󠄶", -- colr-icons-roadmap-material U+1f340 U+fe0b U+e0136
+		["material"] = "🍀︋󠄷", -- colr-icons-roadmap-material U+1f340 U+fe0b U+e0137
 	},
 	["roblox"] = {
-		["material"] = "🍀︋󠄷", -- colr-icons-roblox-material U+1f340 U+fe0b U+e0137
-		["catpuccin-frappe"] = "🍀︋󠄸", -- colr-icons-roblox-catpuccin-frappe U+1f340 U+fe0b U+e0138
-		["catpuccin-latte"] = "🍀︋󠄹", -- colr-icons-roblox-catpuccin-latte U+1f340 U+fe0b U+e0139
-		["catpuccin-macchiato"] = "🍀︋󠄺", -- colr-icons-roblox-catpuccin-macchiato U+1f340 U+fe0b U+e013a
-		["catpuccin-mocha"] = "🍀︋󠄻", -- colr-icons-roblox-catpuccin-mocha U+1f340 U+fe0b U+e013b
+		["material"] = "🍀︋󠄸", -- colr-icons-roblox-material U+1f340 U+fe0b U+e0138
+		["catpuccin-frappe"] = "🍀︋󠄹", -- colr-icons-roblox-catpuccin-frappe U+1f340 U+fe0b U+e0139
+		["catpuccin-latte"] = "🍀︋󠄺", -- colr-icons-roblox-catpuccin-latte U+1f340 U+fe0b U+e013a
+		["catpuccin-macchiato"] = "🍀︋󠄻", -- colr-icons-roblox-catpuccin-macchiato U+1f340 U+fe0b U+e013b
+		["catpuccin-mocha"] = "🍀︋󠄼", -- colr-icons-roblox-catpuccin-mocha U+1f340 U+fe0b U+e013c
 	},
 	["robot"] = {
-		["material"] = "🍀︋󠄼", -- colr-icons-robot-material U+1f340 U+fe0b U+e013c
+		["material"] = "🍀︋󠄽", -- colr-icons-robot-material U+1f340 U+fe0b U+e013d
 	},
 	["robots"] = {
-		["material"] = "🍀︋󠄽", -- colr-icons-robots-material U+1f340 U+fe0b U+e013d
-		["catpuccin-frappe"] = "🍀︋󠄾", -- colr-icons-robots-catpuccin-frappe U+1f340 U+fe0b U+e013e
-		["catpuccin-latte"] = "🍀︋󠄿", -- colr-icons-robots-catpuccin-latte U+1f340 U+fe0b U+e013f
-		["catpuccin-macchiato"] = "🍀︋󠅀", -- colr-icons-robots-catpuccin-macchiato U+1f340 U+fe0b U+e0140
-		["catpuccin-mocha"] = "🍀︋󠅁", -- colr-icons-robots-catpuccin-mocha U+1f340 U+fe0b U+e0141
+		["material"] = "🍀︋󠄾", -- colr-icons-robots-material U+1f340 U+fe0b U+e013e
+		["catpuccin-frappe"] = "🍀︋󠄿", -- colr-icons-robots-catpuccin-frappe U+1f340 U+fe0b U+e013f
+		["catpuccin-latte"] = "🍀︋󠅀", -- colr-icons-robots-catpuccin-latte U+1f340 U+fe0b U+e0140
+		["catpuccin-macchiato"] = "🍀︋󠅁", -- colr-icons-robots-catpuccin-macchiato U+1f340 U+fe0b U+e0141
+		["catpuccin-mocha"] = "🍀︋󠅂", -- colr-icons-robots-catpuccin-mocha U+1f340 U+fe0b U+e0142
 	},
 	["rocket"] = {
-		["material"] = "🍀︋󠅂", -- colr-icons-rocket-material U+1f340 U+fe0b U+e0142
-		["catpuccin-frappe"] = "🍀︋󠅃", -- colr-icons-rocket-catpuccin-frappe U+1f340 U+fe0b U+e0143
-		["catpuccin-latte"] = "🍀︋󠅄", -- colr-icons-rocket-catpuccin-latte U+1f340 U+fe0b U+e0144
-		["catpuccin-macchiato"] = "🍀︋󠅅", -- colr-icons-rocket-catpuccin-macchiato U+1f340 U+fe0b U+e0145
-		["catpuccin-mocha"] = "🍀︋󠅆", -- colr-icons-rocket-catpuccin-mocha U+1f340 U+fe0b U+e0146
+		["material"] = "🍀︋󠅃", -- colr-icons-rocket-material U+1f340 U+fe0b U+e0143
+		["catpuccin-frappe"] = "🍀︋󠅄", -- colr-icons-rocket-catpuccin-frappe U+1f340 U+fe0b U+e0144
+		["catpuccin-latte"] = "🍀︋󠅅", -- colr-icons-rocket-catpuccin-latte U+1f340 U+fe0b U+e0145
+		["catpuccin-macchiato"] = "🍀︋󠅆", -- colr-icons-rocket-catpuccin-macchiato U+1f340 U+fe0b U+e0146
+		["catpuccin-mocha"] = "🍀︋󠅇", -- colr-icons-rocket-catpuccin-mocha U+1f340 U+fe0b U+e0147
 	},
 	["rojo"] = {
-		["material"] = "🍀︋󠅇", -- colr-icons-rojo-material U+1f340 U+fe0b U+e0147
-		["catpuccin-frappe"] = "🍀︋󠅈", -- colr-icons-rojo-catpuccin-frappe U+1f340 U+fe0b U+e0148
-		["catpuccin-latte"] = "🍀︋󠅉", -- colr-icons-rojo-catpuccin-latte U+1f340 U+fe0b U+e0149
-		["catpuccin-macchiato"] = "🍀︋󠅊", -- colr-icons-rojo-catpuccin-macchiato U+1f340 U+fe0b U+e014a
-		["catpuccin-mocha"] = "🍀︋󠅋", -- colr-icons-rojo-catpuccin-mocha U+1f340 U+fe0b U+e014b
+		["material"] = "🍀︋󠅈", -- colr-icons-rojo-material U+1f340 U+fe0b U+e0148
+		["catpuccin-frappe"] = "🍀︋󠅉", -- colr-icons-rojo-catpuccin-frappe U+1f340 U+fe0b U+e0149
+		["catpuccin-latte"] = "🍀︋󠅊", -- colr-icons-rojo-catpuccin-latte U+1f340 U+fe0b U+e014a
+		["catpuccin-macchiato"] = "🍀︋󠅋", -- colr-icons-rojo-catpuccin-macchiato U+1f340 U+fe0b U+e014b
+		["catpuccin-mocha"] = "🍀︋󠅌", -- colr-icons-rojo-catpuccin-mocha U+1f340 U+fe0b U+e014c
 	},
 	["rokit"] = {
-		["catpuccin-frappe"] = "🍀︋󠅌", -- colr-icons-rokit-catpuccin-frappe U+1f340 U+fe0b U+e014c
-		["catpuccin-latte"] = "🍀︋󠅍", -- colr-icons-rokit-catpuccin-latte U+1f340 U+fe0b U+e014d
-		["catpuccin-macchiato"] = "🍀︋󠅎", -- colr-icons-rokit-catpuccin-macchiato U+1f340 U+fe0b U+e014e
-		["catpuccin-mocha"] = "🍀︋󠅏", -- colr-icons-rokit-catpuccin-mocha U+1f340 U+fe0b U+e014f
+		["catpuccin-frappe"] = "🍀︋󠅍", -- colr-icons-rokit-catpuccin-frappe U+1f340 U+fe0b U+e014d
+		["catpuccin-latte"] = "🍀︋󠅎", -- colr-icons-rokit-catpuccin-latte U+1f340 U+fe0b U+e014e
+		["catpuccin-macchiato"] = "🍀︋󠅏", -- colr-icons-rokit-catpuccin-macchiato U+1f340 U+fe0b U+e014f
+		["catpuccin-mocha"] = "🍀︋󠅐", -- colr-icons-rokit-catpuccin-mocha U+1f340 U+fe0b U+e0150
 	},
 	["rolldown"] = {
-		["material"] = "🍀︋󠅐", -- colr-icons-rolldown-material U+1f340 U+fe0b U+e0150
+		["material"] = "🍀︋󠅑", -- colr-icons-rolldown-material U+1f340 U+fe0b U+e0151
 	},
 	["rollup"] = {
-		["material"] = "🍀︋󠅑", -- colr-icons-rollup-material U+1f340 U+fe0b U+e0151
-		["catpuccin-frappe"] = "🍀︋󠅒", -- colr-icons-rollup-catpuccin-frappe U+1f340 U+fe0b U+e0152
-		["catpuccin-latte"] = "🍀︋󠅓", -- colr-icons-rollup-catpuccin-latte U+1f340 U+fe0b U+e0153
-		["catpuccin-macchiato"] = "🍀︋󠅔", -- colr-icons-rollup-catpuccin-macchiato U+1f340 U+fe0b U+e0154
-		["catpuccin-mocha"] = "🍀︋󠅕", -- colr-icons-rollup-catpuccin-mocha U+1f340 U+fe0b U+e0155
+		["material"] = "🍀︋󠅒", -- colr-icons-rollup-material U+1f340 U+fe0b U+e0152
+		["catpuccin-frappe"] = "🍀︋󠅓", -- colr-icons-rollup-catpuccin-frappe U+1f340 U+fe0b U+e0153
+		["catpuccin-latte"] = "🍀︋󠅔", -- colr-icons-rollup-catpuccin-latte U+1f340 U+fe0b U+e0154
+		["catpuccin-macchiato"] = "🍀︋󠅕", -- colr-icons-rollup-catpuccin-macchiato U+1f340 U+fe0b U+e0155
+		["catpuccin-mocha"] = "🍀︋󠅖", -- colr-icons-rollup-catpuccin-mocha U+1f340 U+fe0b U+e0156
 	},
 	["rome"] = {
-		["material"] = "🍀︋󠅖", -- colr-icons-rome-material U+1f340 U+fe0b U+e0156
+		["material"] = "🍀︋󠅗", -- colr-icons-rome-material U+1f340 U+fe0b U+e0157
 	},
 	["routing"] = {
-		["material"] = "🍀︋󠅗", -- colr-icons-routing-material U+1f340 U+fe0b U+e0157
+		["material"] = "🍀︋󠅘", -- colr-icons-routing-material U+1f340 U+fe0b U+e0158
 	},
 	["rproj"] = {
-		["catpuccin-frappe"] = "🍀︋󠅘", -- colr-icons-rproj-catpuccin-frappe U+1f340 U+fe0b U+e0158
-		["catpuccin-latte"] = "🍀︋󠅙", -- colr-icons-rproj-catpuccin-latte U+1f340 U+fe0b U+e0159
-		["catpuccin-macchiato"] = "🍀︋󠅚", -- colr-icons-rproj-catpuccin-macchiato U+1f340 U+fe0b U+e015a
-		["catpuccin-mocha"] = "🍀︋󠅛", -- colr-icons-rproj-catpuccin-mocha U+1f340 U+fe0b U+e015b
+		["catpuccin-frappe"] = "🍀︋󠅙", -- colr-icons-rproj-catpuccin-frappe U+1f340 U+fe0b U+e0159
+		["catpuccin-latte"] = "🍀︋󠅚", -- colr-icons-rproj-catpuccin-latte U+1f340 U+fe0b U+e015a
+		["catpuccin-macchiato"] = "🍀︋󠅛", -- colr-icons-rproj-catpuccin-macchiato U+1f340 U+fe0b U+e015b
+		["catpuccin-mocha"] = "🍀︋󠅜", -- colr-icons-rproj-catpuccin-mocha U+1f340 U+fe0b U+e015c
 	},
 	["rsml"] = {
-		["catpuccin-frappe"] = "🍀︋󠅜", -- colr-icons-rsml-catpuccin-frappe U+1f340 U+fe0b U+e015c
-		["catpuccin-latte"] = "🍀︋󠅝", -- colr-icons-rsml-catpuccin-latte U+1f340 U+fe0b U+e015d
-		["catpuccin-macchiato"] = "🍀︋󠅞", -- colr-icons-rsml-catpuccin-macchiato U+1f340 U+fe0b U+e015e
-		["catpuccin-mocha"] = "🍀︋󠅟", -- colr-icons-rsml-catpuccin-mocha U+1f340 U+fe0b U+e015f
+		["catpuccin-frappe"] = "🍀︋󠅝", -- colr-icons-rsml-catpuccin-frappe U+1f340 U+fe0b U+e015d
+		["catpuccin-latte"] = "🍀︋󠅞", -- colr-icons-rsml-catpuccin-latte U+1f340 U+fe0b U+e015e
+		["catpuccin-macchiato"] = "🍀︋󠅟", -- colr-icons-rsml-catpuccin-macchiato U+1f340 U+fe0b U+e015f
+		["catpuccin-mocha"] = "🍀︋󠅠", -- colr-icons-rsml-catpuccin-mocha U+1f340 U+fe0b U+e0160
 	},
 	["rspec"] = {
-		["material"] = "🍀︋󠅠", -- colr-icons-rspec-material U+1f340 U+fe0b U+e0160
+		["material"] = "🍀︋󠅡", -- colr-icons-rspec-material U+1f340 U+fe0b U+e0161
 	},
 	["rstack"] = {
-		["material"] = "🍀︋󠅡", -- colr-icons-rstack-material U+1f340 U+fe0b U+e0161
+		["material"] = "🍀︋󠅢", -- colr-icons-rstack-material U+1f340 U+fe0b U+e0162
 	},
 	["rubocop"] = {
-		["material"] = "🍀︋󠅢", -- colr-icons-rubocop-material U+1f340 U+fe0b U+e0162
+		["material"] = "🍀︋󠅣", -- colr-icons-rubocop-material U+1f340 U+fe0b U+e0163
 	},
 	["rubocop_light"] = {
-		["material"] = "🍀︋󠅣", -- colr-icons-rubocop_light-material U+1f340 U+fe0b U+e0163
+		["material"] = "🍀︋󠅤", -- colr-icons-rubocop_light-material U+1f340 U+fe0b U+e0164
 	},
 	["ruby"] = {
-		["material"] = "🍀︋󠅤", -- colr-icons-ruby-material U+1f340 U+fe0b U+e0164
-		["catpuccin-frappe"] = "🍀︋󠅥", -- colr-icons-ruby-catpuccin-frappe U+1f340 U+fe0b U+e0165
-		["catpuccin-latte"] = "🍀︋󠅦", -- colr-icons-ruby-catpuccin-latte U+1f340 U+fe0b U+e0166
-		["catpuccin-macchiato"] = "🍀︋󠅧", -- colr-icons-ruby-catpuccin-macchiato U+1f340 U+fe0b U+e0167
-		["catpuccin-mocha"] = "🍀︋󠅨", -- colr-icons-ruby-catpuccin-mocha U+1f340 U+fe0b U+e0168
+		["material"] = "🍀︋󠅥", -- colr-icons-ruby-material U+1f340 U+fe0b U+e0165
+		["catpuccin-frappe"] = "🍀︋󠅦", -- colr-icons-ruby-catpuccin-frappe U+1f340 U+fe0b U+e0166
+		["catpuccin-latte"] = "🍀︋󠅧", -- colr-icons-ruby-catpuccin-latte U+1f340 U+fe0b U+e0167
+		["catpuccin-macchiato"] = "🍀︋󠅨", -- colr-icons-ruby-catpuccin-macchiato U+1f340 U+fe0b U+e0168
+		["catpuccin-mocha"] = "🍀︋󠅩", -- colr-icons-ruby-catpuccin-mocha U+1f340 U+fe0b U+e0169
 	},
 	["ruby-gem"] = {
-		["catpuccin-frappe"] = "🍀︋󠅩", -- colr-icons-ruby-gem-catpuccin-frappe U+1f340 U+fe0b U+e0169
-		["catpuccin-latte"] = "🍀︋󠅪", -- colr-icons-ruby-gem-catpuccin-latte U+1f340 U+fe0b U+e016a
-		["catpuccin-macchiato"] = "🍀︋󠅫", -- colr-icons-ruby-gem-catpuccin-macchiato U+1f340 U+fe0b U+e016b
-		["catpuccin-mocha"] = "🍀︋󠅬", -- colr-icons-ruby-gem-catpuccin-mocha U+1f340 U+fe0b U+e016c
+		["catpuccin-frappe"] = "🍀︋󠅪", -- colr-icons-ruby-gem-catpuccin-frappe U+1f340 U+fe0b U+e016a
+		["catpuccin-latte"] = "🍀︋󠅫", -- colr-icons-ruby-gem-catpuccin-latte U+1f340 U+fe0b U+e016b
+		["catpuccin-macchiato"] = "🍀︋󠅬", -- colr-icons-ruby-gem-catpuccin-macchiato U+1f340 U+fe0b U+e016c
+		["catpuccin-mocha"] = "🍀︋󠅭", -- colr-icons-ruby-gem-catpuccin-mocha U+1f340 U+fe0b U+e016d
 	},
 	["ruby-gem-lock"] = {
-		["catpuccin-frappe"] = "🍀︋󠅭", -- colr-icons-ruby-gem-lock-catpuccin-frappe U+1f340 U+fe0b U+e016d
-		["catpuccin-latte"] = "🍀︋󠅮", -- colr-icons-ruby-gem-lock-catpuccin-latte U+1f340 U+fe0b U+e016e
-		["catpuccin-macchiato"] = "🍀︋󠅯", -- colr-icons-ruby-gem-lock-catpuccin-macchiato U+1f340 U+fe0b U+e016f
-		["catpuccin-mocha"] = "🍀︋󠅰", -- colr-icons-ruby-gem-lock-catpuccin-mocha U+1f340 U+fe0b U+e0170
+		["catpuccin-frappe"] = "🍀︋󠅮", -- colr-icons-ruby-gem-lock-catpuccin-frappe U+1f340 U+fe0b U+e016e
+		["catpuccin-latte"] = "🍀︋󠅯", -- colr-icons-ruby-gem-lock-catpuccin-latte U+1f340 U+fe0b U+e016f
+		["catpuccin-macchiato"] = "🍀︋󠅰", -- colr-icons-ruby-gem-lock-catpuccin-macchiato U+1f340 U+fe0b U+e0170
+		["catpuccin-mocha"] = "🍀︋󠅱", -- colr-icons-ruby-gem-lock-catpuccin-mocha U+1f340 U+fe0b U+e0171
 	},
 	["ruff"] = {
-		["material"] = "🍀︋󠅱", -- colr-icons-ruff-material U+1f340 U+fe0b U+e0171
-		["catpuccin-frappe"] = "🍀︋󠅲", -- colr-icons-ruff-catpuccin-frappe U+1f340 U+fe0b U+e0172
-		["catpuccin-latte"] = "🍀︋󠅳", -- colr-icons-ruff-catpuccin-latte U+1f340 U+fe0b U+e0173
-		["catpuccin-macchiato"] = "🍀︋󠅴", -- colr-icons-ruff-catpuccin-macchiato U+1f340 U+fe0b U+e0174
-		["catpuccin-mocha"] = "🍀︋󠅵", -- colr-icons-ruff-catpuccin-mocha U+1f340 U+fe0b U+e0175
+		["material"] = "🍀︋󠅲", -- colr-icons-ruff-material U+1f340 U+fe0b U+e0172
+		["catpuccin-frappe"] = "🍀︋󠅳", -- colr-icons-ruff-catpuccin-frappe U+1f340 U+fe0b U+e0173
+		["catpuccin-latte"] = "🍀︋󠅴", -- colr-icons-ruff-catpuccin-latte U+1f340 U+fe0b U+e0174
+		["catpuccin-macchiato"] = "🍀︋󠅵", -- colr-icons-ruff-catpuccin-macchiato U+1f340 U+fe0b U+e0175
+		["catpuccin-mocha"] = "🍀︋󠅶", -- colr-icons-ruff-catpuccin-mocha U+1f340 U+fe0b U+e0176
 	},
 	["rust"] = {
-		["material"] = "🍀︋󠅶", -- colr-icons-rust-material U+1f340 U+fe0b U+e0176
-		["catpuccin-frappe"] = "🍀︋󠅷", -- colr-icons-rust-catpuccin-frappe U+1f340 U+fe0b U+e0177
-		["catpuccin-latte"] = "🍀︋󠅸", -- colr-icons-rust-catpuccin-latte U+1f340 U+fe0b U+e0178
-		["catpuccin-macchiato"] = "🍀︋󠅹", -- colr-icons-rust-catpuccin-macchiato U+1f340 U+fe0b U+e0179
-		["catpuccin-mocha"] = "🍀︋󠅺", -- colr-icons-rust-catpuccin-mocha U+1f340 U+fe0b U+e017a
+		["material"] = "🍀︋󠅷", -- colr-icons-rust-material U+1f340 U+fe0b U+e0177
+		["catpuccin-frappe"] = "🍀︋󠅸", -- colr-icons-rust-catpuccin-frappe U+1f340 U+fe0b U+e0178
+		["catpuccin-latte"] = "🍀︋󠅹", -- colr-icons-rust-catpuccin-latte U+1f340 U+fe0b U+e0179
+		["catpuccin-macchiato"] = "🍀︋󠅺", -- colr-icons-rust-catpuccin-macchiato U+1f340 U+fe0b U+e017a
+		["catpuccin-mocha"] = "🍀︋󠅻", -- colr-icons-rust-catpuccin-mocha U+1f340 U+fe0b U+e017b
 	},
 	["rust-alt"] = {
-		["catpuccin-frappe"] = "🍀︋󠅻", -- colr-icons-rust-alt-catpuccin-frappe U+1f340 U+fe0b U+e017b
-		["catpuccin-latte"] = "🍀︋󠅼", -- colr-icons-rust-alt-catpuccin-latte U+1f340 U+fe0b U+e017c
-		["catpuccin-macchiato"] = "🍀︋󠅽", -- colr-icons-rust-alt-catpuccin-macchiato U+1f340 U+fe0b U+e017d
-		["catpuccin-mocha"] = "🍀︋󠅾", -- colr-icons-rust-alt-catpuccin-mocha U+1f340 U+fe0b U+e017e
+		["catpuccin-frappe"] = "🍀︋󠅼", -- colr-icons-rust-alt-catpuccin-frappe U+1f340 U+fe0b U+e017c
+		["catpuccin-latte"] = "🍀︋󠅽", -- colr-icons-rust-alt-catpuccin-latte U+1f340 U+fe0b U+e017d
+		["catpuccin-macchiato"] = "🍀︋󠅾", -- colr-icons-rust-alt-catpuccin-macchiato U+1f340 U+fe0b U+e017e
+		["catpuccin-mocha"] = "🍀︋󠅿", -- colr-icons-rust-alt-catpuccin-mocha U+1f340 U+fe0b U+e017f
 	},
 	["rust-alt-config"] = {
-		["catpuccin-frappe"] = "🍀︋󠅿", -- colr-icons-rust-alt-config-catpuccin-frappe U+1f340 U+fe0b U+e017f
-		["catpuccin-latte"] = "🍀︋󠆀", -- colr-icons-rust-alt-config-catpuccin-latte U+1f340 U+fe0b U+e0180
-		["catpuccin-macchiato"] = "🍀︋󠆁", -- colr-icons-rust-alt-config-catpuccin-macchiato U+1f340 U+fe0b U+e0181
-		["catpuccin-mocha"] = "🍀︋󠆂", -- colr-icons-rust-alt-config-catpuccin-mocha U+1f340 U+fe0b U+e0182
+		["catpuccin-frappe"] = "🍀︋󠆀", -- colr-icons-rust-alt-config-catpuccin-frappe U+1f340 U+fe0b U+e0180
+		["catpuccin-latte"] = "🍀︋󠆁", -- colr-icons-rust-alt-config-catpuccin-latte U+1f340 U+fe0b U+e0181
+		["catpuccin-macchiato"] = "🍀︋󠆂", -- colr-icons-rust-alt-config-catpuccin-macchiato U+1f340 U+fe0b U+e0182
+		["catpuccin-mocha"] = "🍀︋󠆃", -- colr-icons-rust-alt-config-catpuccin-mocha U+1f340 U+fe0b U+e0183
 	},
 	["rust-config"] = {
-		["catpuccin-frappe"] = "🍀︋󠆃", -- colr-icons-rust-config-catpuccin-frappe U+1f340 U+fe0b U+e0183
-		["catpuccin-latte"] = "🍀︋󠆄", -- colr-icons-rust-config-catpuccin-latte U+1f340 U+fe0b U+e0184
-		["catpuccin-macchiato"] = "🍀︋󠆅", -- colr-icons-rust-config-catpuccin-macchiato U+1f340 U+fe0b U+e0185
-		["catpuccin-mocha"] = "🍀︋󠆆", -- colr-icons-rust-config-catpuccin-mocha U+1f340 U+fe0b U+e0186
+		["catpuccin-frappe"] = "🍀︋󠆄", -- colr-icons-rust-config-catpuccin-frappe U+1f340 U+fe0b U+e0184
+		["catpuccin-latte"] = "🍀︋󠆅", -- colr-icons-rust-config-catpuccin-latte U+1f340 U+fe0b U+e0185
+		["catpuccin-macchiato"] = "🍀︋󠆆", -- colr-icons-rust-config-catpuccin-macchiato U+1f340 U+fe0b U+e0186
+		["catpuccin-mocha"] = "🍀︋󠆇", -- colr-icons-rust-config-catpuccin-mocha U+1f340 U+fe0b U+e0187
 	},
 	["salesforce"] = {
-		["material"] = "🍀︋󠆇", -- colr-icons-salesforce-material U+1f340 U+fe0b U+e0187
-		["catpuccin-frappe"] = "🍀︋󠆈", -- colr-icons-salesforce-catpuccin-frappe U+1f340 U+fe0b U+e0188
-		["catpuccin-latte"] = "🍀︋󠆉", -- colr-icons-salesforce-catpuccin-latte U+1f340 U+fe0b U+e0189
-		["catpuccin-macchiato"] = "🍀︋󠆊", -- colr-icons-salesforce-catpuccin-macchiato U+1f340 U+fe0b U+e018a
-		["catpuccin-mocha"] = "🍀︋󠆋", -- colr-icons-salesforce-catpuccin-mocha U+1f340 U+fe0b U+e018b
+		["material"] = "🍀︋󠆈", -- colr-icons-salesforce-material U+1f340 U+fe0b U+e0188
+		["catpuccin-frappe"] = "🍀︋󠆉", -- colr-icons-salesforce-catpuccin-frappe U+1f340 U+fe0b U+e0189
+		["catpuccin-latte"] = "🍀︋󠆊", -- colr-icons-salesforce-catpuccin-latte U+1f340 U+fe0b U+e018a
+		["catpuccin-macchiato"] = "🍀︋󠆋", -- colr-icons-salesforce-catpuccin-macchiato U+1f340 U+fe0b U+e018b
+		["catpuccin-mocha"] = "🍀︋󠆌", -- colr-icons-salesforce-catpuccin-mocha U+1f340 U+fe0b U+e018c
 	},
 	["salt"] = {
-		["material"] = "🍀︋󠆌", -- colr-icons-salt-material U+1f340 U+fe0b U+e018c
+		["material"] = "🍀︋󠆍", -- colr-icons-salt-material U+1f340 U+fe0b U+e018d
 	},
 	["san"] = {
-		["material"] = "🍀︋󠆍", -- colr-icons-san-material U+1f340 U+fe0b U+e018d
+		["material"] = "🍀︋󠆎", -- colr-icons-san-material U+1f340 U+fe0b U+e018e
 	},
 	["sas"] = {
-		["material"] = "🍀︋󠆎", -- colr-icons-sas-material U+1f340 U+fe0b U+e018e
+		["material"] = "🍀︋󠆏", -- colr-icons-sas-material U+1f340 U+fe0b U+e018f
 	},
 	["sass"] = {
-		["material"] = "🍀︋󠆏", -- colr-icons-sass-material U+1f340 U+fe0b U+e018f
-		["catpuccin-frappe"] = "🍀︋󠆐", -- colr-icons-sass-catpuccin-frappe U+1f340 U+fe0b U+e0190
-		["catpuccin-latte"] = "🍀︋󠆑", -- colr-icons-sass-catpuccin-latte U+1f340 U+fe0b U+e0191
-		["catpuccin-macchiato"] = "🍀︋󠆒", -- colr-icons-sass-catpuccin-macchiato U+1f340 U+fe0b U+e0192
-		["catpuccin-mocha"] = "🍀︋󠆓", -- colr-icons-sass-catpuccin-mocha U+1f340 U+fe0b U+e0193
+		["material"] = "🍀︋󠆐", -- colr-icons-sass-material U+1f340 U+fe0b U+e0190
+		["catpuccin-frappe"] = "🍀︋󠆑", -- colr-icons-sass-catpuccin-frappe U+1f340 U+fe0b U+e0191
+		["catpuccin-latte"] = "🍀︋󠆒", -- colr-icons-sass-catpuccin-latte U+1f340 U+fe0b U+e0192
+		["catpuccin-macchiato"] = "🍀︋󠆓", -- colr-icons-sass-catpuccin-macchiato U+1f340 U+fe0b U+e0193
+		["catpuccin-mocha"] = "🍀︋󠆔", -- colr-icons-sass-catpuccin-mocha U+1f340 U+fe0b U+e0194
 	},
 	["sbt"] = {
-		["material"] = "🍀︋󠆔", -- colr-icons-sbt-material U+1f340 U+fe0b U+e0194
+		["material"] = "🍀︋󠆕", -- colr-icons-sbt-material U+1f340 U+fe0b U+e0195
 	},
 	["scala"] = {
-		["material"] = "🍀︋󠆕", -- colr-icons-scala-material U+1f340 U+fe0b U+e0195
-		["catpuccin-frappe"] = "🍀︋󠆖", -- colr-icons-scala-catpuccin-frappe U+1f340 U+fe0b U+e0196
-		["catpuccin-latte"] = "🍀︋󠆗", -- colr-icons-scala-catpuccin-latte U+1f340 U+fe0b U+e0197
-		["catpuccin-macchiato"] = "🍀︋󠆘", -- colr-icons-scala-catpuccin-macchiato U+1f340 U+fe0b U+e0198
-		["catpuccin-mocha"] = "🍀︋󠆙", -- colr-icons-scala-catpuccin-mocha U+1f340 U+fe0b U+e0199
+		["material"] = "🍀︋󠆖", -- colr-icons-scala-material U+1f340 U+fe0b U+e0196
+		["catpuccin-frappe"] = "🍀︋󠆗", -- colr-icons-scala-catpuccin-frappe U+1f340 U+fe0b U+e0197
+		["catpuccin-latte"] = "🍀︋󠆘", -- colr-icons-scala-catpuccin-latte U+1f340 U+fe0b U+e0198
+		["catpuccin-macchiato"] = "🍀︋󠆙", -- colr-icons-scala-catpuccin-macchiato U+1f340 U+fe0b U+e0199
+		["catpuccin-mocha"] = "🍀︋󠆚", -- colr-icons-scala-catpuccin-mocha U+1f340 U+fe0b U+e019a
 	},
 	["scheme"] = {
-		["material"] = "🍀︋󠆚", -- colr-icons-scheme-material U+1f340 U+fe0b U+e019a
-		["catpuccin-frappe"] = "🍀︋󠆛", -- colr-icons-scheme-catpuccin-frappe U+1f340 U+fe0b U+e019b
-		["catpuccin-latte"] = "🍀︋󠆜", -- colr-icons-scheme-catpuccin-latte U+1f340 U+fe0b U+e019c
-		["catpuccin-macchiato"] = "🍀︋󠆝", -- colr-icons-scheme-catpuccin-macchiato U+1f340 U+fe0b U+e019d
-		["catpuccin-mocha"] = "🍀︋󠆞", -- colr-icons-scheme-catpuccin-mocha U+1f340 U+fe0b U+e019e
+		["material"] = "🍀︋󠆛", -- colr-icons-scheme-material U+1f340 U+fe0b U+e019b
+		["catpuccin-frappe"] = "🍀︋󠆜", -- colr-icons-scheme-catpuccin-frappe U+1f340 U+fe0b U+e019c
+		["catpuccin-latte"] = "🍀︋󠆝", -- colr-icons-scheme-catpuccin-latte U+1f340 U+fe0b U+e019d
+		["catpuccin-macchiato"] = "🍀︋󠆞", -- colr-icons-scheme-catpuccin-macchiato U+1f340 U+fe0b U+e019e
+		["catpuccin-mocha"] = "🍀︋󠆟", -- colr-icons-scheme-catpuccin-mocha U+1f340 U+fe0b U+e019f
 	},
 	["scons"] = {
-		["material"] = "🍀︋󠆟", -- colr-icons-scons-material U+1f340 U+fe0b U+e019f
+		["material"] = "🍀︋󠆠", -- colr-icons-scons-material U+1f340 U+fe0b U+e01a0
 	},
 	["scons_light"] = {
-		["material"] = "🍀︋󠆠", -- colr-icons-scons_light-material U+1f340 U+fe0b U+e01a0
+		["material"] = "🍀︋󠆡", -- colr-icons-scons_light-material U+1f340 U+fe0b U+e01a1
 	},
 	["screwdriver"] = {
-		["material"] = "🍀︋󠆡", -- colr-icons-screwdriver-material U+1f340 U+fe0b U+e01a1
+		["material"] = "🍀︋󠆢", -- colr-icons-screwdriver-material U+1f340 U+fe0b U+e01a2
 	},
 	["search"] = {
-		["material"] = "🍀︋󠆢", -- colr-icons-search-material U+1f340 U+fe0b U+e01a2
-		["catpuccin-frappe"] = "🍀︋󠆣", -- colr-icons-search-catpuccin-frappe U+1f340 U+fe0b U+e01a3
-		["catpuccin-latte"] = "🍀︋󠆤", -- colr-icons-search-catpuccin-latte U+1f340 U+fe0b U+e01a4
-		["catpuccin-macchiato"] = "🍀︋󠆥", -- colr-icons-search-catpuccin-macchiato U+1f340 U+fe0b U+e01a5
-		["catpuccin-mocha"] = "🍀︋󠆦", -- colr-icons-search-catpuccin-mocha U+1f340 U+fe0b U+e01a6
+		["material"] = "🍀︋󠆣", -- colr-icons-search-material U+1f340 U+fe0b U+e01a3
+		["catpuccin-frappe"] = "🍀︋󠆤", -- colr-icons-search-catpuccin-frappe U+1f340 U+fe0b U+e01a4
+		["catpuccin-latte"] = "🍀︋󠆥", -- colr-icons-search-catpuccin-latte U+1f340 U+fe0b U+e01a5
+		["catpuccin-macchiato"] = "🍀︋󠆦", -- colr-icons-search-catpuccin-macchiato U+1f340 U+fe0b U+e01a6
+		["catpuccin-mocha"] = "🍀︋󠆧", -- colr-icons-search-catpuccin-mocha U+1f340 U+fe0b U+e01a7
 	},
 	["security"] = {
-		["catpuccin-frappe"] = "🍀︋󠆧", -- colr-icons-security-catpuccin-frappe U+1f340 U+fe0b U+e01a7
-		["catpuccin-latte"] = "🍀︋󠆨", -- colr-icons-security-catpuccin-latte U+1f340 U+fe0b U+e01a8
-		["catpuccin-macchiato"] = "🍀︋󠆩", -- colr-icons-security-catpuccin-macchiato U+1f340 U+fe0b U+e01a9
-		["catpuccin-mocha"] = "🍀︋󠆪", -- colr-icons-security-catpuccin-mocha U+1f340 U+fe0b U+e01aa
+		["catpuccin-frappe"] = "🍀︋󠆨", -- colr-icons-security-catpuccin-frappe U+1f340 U+fe0b U+e01a8
+		["catpuccin-latte"] = "🍀︋󠆩", -- colr-icons-security-catpuccin-latte U+1f340 U+fe0b U+e01a9
+		["catpuccin-macchiato"] = "🍀︋󠆪", -- colr-icons-security-catpuccin-macchiato U+1f340 U+fe0b U+e01aa
+		["catpuccin-mocha"] = "🍀︋󠆫", -- colr-icons-security-catpuccin-mocha U+1f340 U+fe0b U+e01ab
 	},
 	["semantic-release"] = {
-		["material"] = "🍀︋󠆫", -- colr-icons-semantic-release-material U+1f340 U+fe0b U+e01ab
-		["catpuccin-frappe"] = "🍀︋󠆬", -- colr-icons-semantic-release-catpuccin-frappe U+1f340 U+fe0b U+e01ac
-		["catpuccin-latte"] = "🍀︋󠆭", -- colr-icons-semantic-release-catpuccin-latte U+1f340 U+fe0b U+e01ad
-		["catpuccin-macchiato"] = "🍀︋󠆮", -- colr-icons-semantic-release-catpuccin-macchiato U+1f340 U+fe0b U+e01ae
-		["catpuccin-mocha"] = "🍀︋󠆯", -- colr-icons-semantic-release-catpuccin-mocha U+1f340 U+fe0b U+e01af
+		["material"] = "🍀︋󠆬", -- colr-icons-semantic-release-material U+1f340 U+fe0b U+e01ac
+		["catpuccin-frappe"] = "🍀︋󠆭", -- colr-icons-semantic-release-catpuccin-frappe U+1f340 U+fe0b U+e01ad
+		["catpuccin-latte"] = "🍀︋󠆮", -- colr-icons-semantic-release-catpuccin-latte U+1f340 U+fe0b U+e01ae
+		["catpuccin-macchiato"] = "🍀︋󠆯", -- colr-icons-semantic-release-catpuccin-macchiato U+1f340 U+fe0b U+e01af
+		["catpuccin-mocha"] = "🍀︋󠆰", -- colr-icons-semantic-release-catpuccin-mocha U+1f340 U+fe0b U+e01b0
 	},
 	["semantic-release_light"] = {
-		["material"] = "🍀︋󠆰", -- colr-icons-semantic-release_light-material U+1f340 U+fe0b U+e01b0
+		["material"] = "🍀︋󠆱", -- colr-icons-semantic-release_light-material U+1f340 U+fe0b U+e01b1
 	},
 	["semgrep"] = {
-		["material"] = "🍀︋󠆱", -- colr-icons-semgrep-material U+1f340 U+fe0b U+e01b1
-		["catpuccin-frappe"] = "🍀︋󠆲", -- colr-icons-semgrep-catpuccin-frappe U+1f340 U+fe0b U+e01b2
-		["catpuccin-latte"] = "🍀︋󠆳", -- colr-icons-semgrep-catpuccin-latte U+1f340 U+fe0b U+e01b3
-		["catpuccin-macchiato"] = "🍀︋󠆴", -- colr-icons-semgrep-catpuccin-macchiato U+1f340 U+fe0b U+e01b4
-		["catpuccin-mocha"] = "🍀︋󠆵", -- colr-icons-semgrep-catpuccin-mocha U+1f340 U+fe0b U+e01b5
+		["material"] = "🍀︋󠆲", -- colr-icons-semgrep-material U+1f340 U+fe0b U+e01b2
+		["catpuccin-frappe"] = "🍀︋󠆳", -- colr-icons-semgrep-catpuccin-frappe U+1f340 U+fe0b U+e01b3
+		["catpuccin-latte"] = "🍀︋󠆴", -- colr-icons-semgrep-catpuccin-latte U+1f340 U+fe0b U+e01b4
+		["catpuccin-macchiato"] = "🍀︋󠆵", -- colr-icons-semgrep-catpuccin-macchiato U+1f340 U+fe0b U+e01b5
+		["catpuccin-mocha"] = "🍀︋󠆶", -- colr-icons-semgrep-catpuccin-mocha U+1f340 U+fe0b U+e01b6
 	},
 	["semgrep-ignore"] = {
-		["catpuccin-frappe"] = "🍀︋󠆶", -- colr-icons-semgrep-ignore-catpuccin-frappe U+1f340 U+fe0b U+e01b6
-		["catpuccin-latte"] = "🍀︋󠆷", -- colr-icons-semgrep-ignore-catpuccin-latte U+1f340 U+fe0b U+e01b7
-		["catpuccin-macchiato"] = "🍀︋󠆸", -- colr-icons-semgrep-ignore-catpuccin-macchiato U+1f340 U+fe0b U+e01b8
-		["catpuccin-mocha"] = "🍀︋󠆹", -- colr-icons-semgrep-ignore-catpuccin-mocha U+1f340 U+fe0b U+e01b9
+		["catpuccin-frappe"] = "🍀︋󠆷", -- colr-icons-semgrep-ignore-catpuccin-frappe U+1f340 U+fe0b U+e01b7
+		["catpuccin-latte"] = "🍀︋󠆸", -- colr-icons-semgrep-ignore-catpuccin-latte U+1f340 U+fe0b U+e01b8
+		["catpuccin-macchiato"] = "🍀︋󠆹", -- colr-icons-semgrep-ignore-catpuccin-macchiato U+1f340 U+fe0b U+e01b9
+		["catpuccin-mocha"] = "🍀︋󠆺", -- colr-icons-semgrep-ignore-catpuccin-mocha U+1f340 U+fe0b U+e01ba
 	},
 	["sentry"] = {
-		["material"] = "🍀︋󠆺", -- colr-icons-sentry-material U+1f340 U+fe0b U+e01ba
-		["catpuccin-frappe"] = "🍀︋󠆻", -- colr-icons-sentry-catpuccin-frappe U+1f340 U+fe0b U+e01bb
-		["catpuccin-latte"] = "🍀︋󠆼", -- colr-icons-sentry-catpuccin-latte U+1f340 U+fe0b U+e01bc
-		["catpuccin-macchiato"] = "🍀︋󠆽", -- colr-icons-sentry-catpuccin-macchiato U+1f340 U+fe0b U+e01bd
-		["catpuccin-mocha"] = "🍀︋󠆾", -- colr-icons-sentry-catpuccin-mocha U+1f340 U+fe0b U+e01be
+		["material"] = "🍀︋󠆻", -- colr-icons-sentry-material U+1f340 U+fe0b U+e01bb
+		["catpuccin-frappe"] = "🍀︋󠆼", -- colr-icons-sentry-catpuccin-frappe U+1f340 U+fe0b U+e01bc
+		["catpuccin-latte"] = "🍀︋󠆽", -- colr-icons-sentry-catpuccin-latte U+1f340 U+fe0b U+e01bd
+		["catpuccin-macchiato"] = "🍀︋󠆾", -- colr-icons-sentry-catpuccin-macchiato U+1f340 U+fe0b U+e01be
+		["catpuccin-mocha"] = "🍀︋󠆿", -- colr-icons-sentry-catpuccin-mocha U+1f340 U+fe0b U+e01bf
 	},
 	["sequelize"] = {
-		["material"] = "🍀︋󠆿", -- colr-icons-sequelize-material U+1f340 U+fe0b U+e01bf
+		["material"] = "🍀︋󠇀", -- colr-icons-sequelize-material U+1f340 U+fe0b U+e01c0
 	},
 	["serverless"] = {
-		["material"] = "🍀︋󠇀", -- colr-icons-serverless-material U+1f340 U+fe0b U+e01c0
-		["catpuccin-frappe"] = "🍀︋󠇁", -- colr-icons-serverless-catpuccin-frappe U+1f340 U+fe0b U+e01c1
-		["catpuccin-latte"] = "🍀︋󠇂", -- colr-icons-serverless-catpuccin-latte U+1f340 U+fe0b U+e01c2
-		["catpuccin-macchiato"] = "🍀︋󠇃", -- colr-icons-serverless-catpuccin-macchiato U+1f340 U+fe0b U+e01c3
-		["catpuccin-mocha"] = "🍀︋󠇄", -- colr-icons-serverless-catpuccin-mocha U+1f340 U+fe0b U+e01c4
+		["material"] = "🍀︋󠇁", -- colr-icons-serverless-material U+1f340 U+fe0b U+e01c1
+		["catpuccin-frappe"] = "🍀︋󠇂", -- colr-icons-serverless-catpuccin-frappe U+1f340 U+fe0b U+e01c2
+		["catpuccin-latte"] = "🍀︋󠇃", -- colr-icons-serverless-catpuccin-latte U+1f340 U+fe0b U+e01c3
+		["catpuccin-macchiato"] = "🍀︋󠇄", -- colr-icons-serverless-catpuccin-macchiato U+1f340 U+fe0b U+e01c4
+		["catpuccin-mocha"] = "🍀︋󠇅", -- colr-icons-serverless-catpuccin-mocha U+1f340 U+fe0b U+e01c5
 	},
 	["settings"] = {
-		["material"] = "🍀︋󠇅", -- colr-icons-settings-material U+1f340 U+fe0b U+e01c5
+		["material"] = "🍀︋󠇆", -- colr-icons-settings-material U+1f340 U+fe0b U+e01c6
 	},
 	["shader"] = {
-		["material"] = "🍀︋󠇆", -- colr-icons-shader-material U+1f340 U+fe0b U+e01c6
-		["catpuccin-frappe"] = "🍀︋󠇇", -- colr-icons-shader-catpuccin-frappe U+1f340 U+fe0b U+e01c7
-		["catpuccin-latte"] = "🍀︋󠇈", -- colr-icons-shader-catpuccin-latte U+1f340 U+fe0b U+e01c8
-		["catpuccin-macchiato"] = "🍀︋󠇉", -- colr-icons-shader-catpuccin-macchiato U+1f340 U+fe0b U+e01c9
-		["catpuccin-mocha"] = "🍀︋󠇊", -- colr-icons-shader-catpuccin-mocha U+1f340 U+fe0b U+e01ca
+		["material"] = "🍀︋󠇇", -- colr-icons-shader-material U+1f340 U+fe0b U+e01c7
+		["catpuccin-frappe"] = "🍀︋󠇈", -- colr-icons-shader-catpuccin-frappe U+1f340 U+fe0b U+e01c8
+		["catpuccin-latte"] = "🍀︋󠇉", -- colr-icons-shader-catpuccin-latte U+1f340 U+fe0b U+e01c9
+		["catpuccin-macchiato"] = "🍀︋󠇊", -- colr-icons-shader-catpuccin-macchiato U+1f340 U+fe0b U+e01ca
+		["catpuccin-mocha"] = "🍀︋󠇋", -- colr-icons-shader-catpuccin-mocha U+1f340 U+fe0b U+e01cb
 	},
 	["shellcheck"] = {
-		["material"] = "🍀︋󠇋", -- colr-icons-shellcheck-material U+1f340 U+fe0b U+e01cb
+		["material"] = "🍀︋󠇌", -- colr-icons-shellcheck-material U+1f340 U+fe0b U+e01cc
 	},
 	["shellcheck_light"] = {
-		["material"] = "🍀︋󠇌", -- colr-icons-shellcheck_light-material U+1f340 U+fe0b U+e01cc
+		["material"] = "🍀︋󠇍", -- colr-icons-shellcheck_light-material U+1f340 U+fe0b U+e01cd
 	},
 	["silverstripe"] = {
-		["material"] = "🍀︋󠇍", -- colr-icons-silverstripe-material U+1f340 U+fe0b U+e01cd
+		["material"] = "🍀︋󠇎", -- colr-icons-silverstripe-material U+1f340 U+fe0b U+e01ce
 	},
 	["simulink"] = {
-		["material"] = "🍀︋󠇎", -- colr-icons-simulink-material U+1f340 U+fe0b U+e01ce
+		["material"] = "🍀︋󠇏", -- colr-icons-simulink-material U+1f340 U+fe0b U+e01cf
 	},
 	["siyuan"] = {
-		["material"] = "🍀︋󠇏", -- colr-icons-siyuan-material U+1f340 U+fe0b U+e01cf
+		["material"] = "🍀︋󠇐", -- colr-icons-siyuan-material U+1f340 U+fe0b U+e01d0
 	},
 	["sketch"] = {
-		["material"] = "🍀︋󠇐", -- colr-icons-sketch-material U+1f340 U+fe0b U+e01d0
-		["catpuccin-frappe"] = "🍀︋󠇑", -- colr-icons-sketch-catpuccin-frappe U+1f340 U+fe0b U+e01d1
-		["catpuccin-latte"] = "🍀︋󠇒", -- colr-icons-sketch-catpuccin-latte U+1f340 U+fe0b U+e01d2
-		["catpuccin-macchiato"] = "🍀︋󠇓", -- colr-icons-sketch-catpuccin-macchiato U+1f340 U+fe0b U+e01d3
-		["catpuccin-mocha"] = "🍀︋󠇔", -- colr-icons-sketch-catpuccin-mocha U+1f340 U+fe0b U+e01d4
+		["material"] = "🍀︋󠇑", -- colr-icons-sketch-material U+1f340 U+fe0b U+e01d1
+		["catpuccin-frappe"] = "🍀︋󠇒", -- colr-icons-sketch-catpuccin-frappe U+1f340 U+fe0b U+e01d2
+		["catpuccin-latte"] = "🍀︋󠇓", -- colr-icons-sketch-catpuccin-latte U+1f340 U+fe0b U+e01d3
+		["catpuccin-macchiato"] = "🍀︋󠇔", -- colr-icons-sketch-catpuccin-macchiato U+1f340 U+fe0b U+e01d4
+		["catpuccin-mocha"] = "🍀︋󠇕", -- colr-icons-sketch-catpuccin-mocha U+1f340 U+fe0b U+e01d5
 	},
 	["skill"] = {
-		["material"] = "🍀︋󠇕", -- colr-icons-skill-material U+1f340 U+fe0b U+e01d5
+		["material"] = "🍀︋󠇖", -- colr-icons-skill-material U+1f340 U+fe0b U+e01d6
 	},
 	["slidesk"] = {
-		["catpuccin-frappe"] = "🍀︋󠇖", -- colr-icons-slidesk-catpuccin-frappe U+1f340 U+fe0b U+e01d6
-		["catpuccin-latte"] = "🍀︋󠇗", -- colr-icons-slidesk-catpuccin-latte U+1f340 U+fe0b U+e01d7
-		["catpuccin-macchiato"] = "🍀︋󠇘", -- colr-icons-slidesk-catpuccin-macchiato U+1f340 U+fe0b U+e01d8
-		["catpuccin-mocha"] = "🍀︋󠇙", -- colr-icons-slidesk-catpuccin-mocha U+1f340 U+fe0b U+e01d9
+		["catpuccin-frappe"] = "🍀︋󠇗", -- colr-icons-slidesk-catpuccin-frappe U+1f340 U+fe0b U+e01d7
+		["catpuccin-latte"] = "🍀︋󠇘", -- colr-icons-slidesk-catpuccin-latte U+1f340 U+fe0b U+e01d8
+		["catpuccin-macchiato"] = "🍀︋󠇙", -- colr-icons-slidesk-catpuccin-macchiato U+1f340 U+fe0b U+e01d9
+		["catpuccin-mocha"] = "🍀︋󠇚", -- colr-icons-slidesk-catpuccin-mocha U+1f340 U+fe0b U+e01da
 	},
 	["slim"] = {
-		["material"] = "🍀︋󠇚", -- colr-icons-slim-material U+1f340 U+fe0b U+e01da
+		["material"] = "🍀︋󠇛", -- colr-icons-slim-material U+1f340 U+fe0b U+e01db
 	},
 	["slint"] = {
-		["material"] = "🍀︋󠇛", -- colr-icons-slint-material U+1f340 U+fe0b U+e01db
+		["material"] = "🍀︋󠇜", -- colr-icons-slint-material U+1f340 U+fe0b U+e01dc
 	},
 	["slug"] = {
-		["material"] = "🍀︋󠇜", -- colr-icons-slug-material U+1f340 U+fe0b U+e01dc
+		["material"] = "🍀︋󠇝", -- colr-icons-slug-material U+1f340 U+fe0b U+e01dd
 	},
 	["smarty"] = {
-		["material"] = "🍀︋󠇝", -- colr-icons-smarty-material U+1f340 U+fe0b U+e01dd
+		["material"] = "🍀︋󠇞", -- colr-icons-smarty-material U+1f340 U+fe0b U+e01de
 	},
 	["sml"] = {
-		["material"] = "🍀︋󠇞", -- colr-icons-sml-material U+1f340 U+fe0b U+e01de
+		["material"] = "🍀︋󠇟", -- colr-icons-sml-material U+1f340 U+fe0b U+e01df
 	},
 	["snakemake"] = {
-		["material"] = "🍀︋󠇟", -- colr-icons-snakemake-material U+1f340 U+fe0b U+e01df
+		["material"] = "🍀︋󠇠", -- colr-icons-snakemake-material U+1f340 U+fe0b U+e01e0
 	},
 	["snapcraft"] = {
-		["material"] = "🍀︋󠇠", -- colr-icons-snapcraft-material U+1f340 U+fe0b U+e01e0
+		["material"] = "🍀︋󠇡", -- colr-icons-snapcraft-material U+1f340 U+fe0b U+e01e1
 	},
 	["snowpack"] = {
-		["material"] = "🍀︋󠇡", -- colr-icons-snowpack-material U+1f340 U+fe0b U+e01e1
-		["catpuccin-frappe"] = "🍀︋󠇢", -- colr-icons-snowpack-catpuccin-frappe U+1f340 U+fe0b U+e01e2
-		["catpuccin-latte"] = "🍀︋󠇣", -- colr-icons-snowpack-catpuccin-latte U+1f340 U+fe0b U+e01e3
-		["catpuccin-macchiato"] = "🍀︋󠇤", -- colr-icons-snowpack-catpuccin-macchiato U+1f340 U+fe0b U+e01e4
-		["catpuccin-mocha"] = "🍀︋󠇥", -- colr-icons-snowpack-catpuccin-mocha U+1f340 U+fe0b U+e01e5
+		["material"] = "🍀︋󠇢", -- colr-icons-snowpack-material U+1f340 U+fe0b U+e01e2
+		["catpuccin-frappe"] = "🍀︋󠇣", -- colr-icons-snowpack-catpuccin-frappe U+1f340 U+fe0b U+e01e3
+		["catpuccin-latte"] = "🍀︋󠇤", -- colr-icons-snowpack-catpuccin-latte U+1f340 U+fe0b U+e01e4
+		["catpuccin-macchiato"] = "🍀︋󠇥", -- colr-icons-snowpack-catpuccin-macchiato U+1f340 U+fe0b U+e01e5
+		["catpuccin-mocha"] = "🍀︋󠇦", -- colr-icons-snowpack-catpuccin-mocha U+1f340 U+fe0b U+e01e6
 	},
 	["snowpack_light"] = {
-		["material"] = "🍀︋󠇦", -- colr-icons-snowpack_light-material U+1f340 U+fe0b U+e01e6
+		["material"] = "🍀︋󠇧", -- colr-icons-snowpack_light-material U+1f340 U+fe0b U+e01e7
 	},
 	["snyk"] = {
-		["material"] = "🍀︋󠇧", -- colr-icons-snyk-material U+1f340 U+fe0b U+e01e7
+		["material"] = "🍀︋󠇨", -- colr-icons-snyk-material U+1f340 U+fe0b U+e01e8
 	},
 	["solid"] = {
-		["catpuccin-frappe"] = "🍀︋󠇨", -- colr-icons-solid-catpuccin-frappe U+1f340 U+fe0b U+e01e8
-		["catpuccin-latte"] = "🍀︋󠇩", -- colr-icons-solid-catpuccin-latte U+1f340 U+fe0b U+e01e9
-		["catpuccin-macchiato"] = "🍀︋󠇪", -- colr-icons-solid-catpuccin-macchiato U+1f340 U+fe0b U+e01ea
-		["catpuccin-mocha"] = "🍀︋󠇫", -- colr-icons-solid-catpuccin-mocha U+1f340 U+fe0b U+e01eb
+		["catpuccin-frappe"] = "🍀︋󠇩", -- colr-icons-solid-catpuccin-frappe U+1f340 U+fe0b U+e01e9
+		["catpuccin-latte"] = "🍀︋󠇪", -- colr-icons-solid-catpuccin-latte U+1f340 U+fe0b U+e01ea
+		["catpuccin-macchiato"] = "🍀︋󠇫", -- colr-icons-solid-catpuccin-macchiato U+1f340 U+fe0b U+e01eb
+		["catpuccin-mocha"] = "🍀︋󠇬", -- colr-icons-solid-catpuccin-mocha U+1f340 U+fe0b U+e01ec
 	},
 	["solidity"] = {
-		["material"] = "🍀︋󠇬", -- colr-icons-solidity-material U+1f340 U+fe0b U+e01ec
-		["catpuccin-frappe"] = "🍀︋󠇭", -- colr-icons-solidity-catpuccin-frappe U+1f340 U+fe0b U+e01ed
-		["catpuccin-latte"] = "🍀︋󠇮", -- colr-icons-solidity-catpuccin-latte U+1f340 U+fe0b U+e01ee
-		["catpuccin-macchiato"] = "🍀︋󠇯", -- colr-icons-solidity-catpuccin-macchiato U+1f340 U+fe0b U+e01ef
-		["catpuccin-mocha"] = "🍀︌︀", -- colr-icons-solidity-catpuccin-mocha U+1f340 U+fe0c U+fe00
+		["material"] = "🍀︋󠇭", -- colr-icons-solidity-material U+1f340 U+fe0b U+e01ed
+		["catpuccin-frappe"] = "🍀︋󠇮", -- colr-icons-solidity-catpuccin-frappe U+1f340 U+fe0b U+e01ee
+		["catpuccin-latte"] = "🍀︋󠇯", -- colr-icons-solidity-catpuccin-latte U+1f340 U+fe0b U+e01ef
+		["catpuccin-macchiato"] = "🍀︌︀", -- colr-icons-solidity-catpuccin-macchiato U+1f340 U+fe0c U+fe00
+		["catpuccin-mocha"] = "🍀︌︁", -- colr-icons-solidity-catpuccin-mocha U+1f340 U+fe0c U+fe01
 	},
 	["sonar-cloud"] = {
-		["catpuccin-frappe"] = "🍀︌︁", -- colr-icons-sonar-cloud-catpuccin-frappe U+1f340 U+fe0c U+fe01
-		["catpuccin-latte"] = "🍀︌︂", -- colr-icons-sonar-cloud-catpuccin-latte U+1f340 U+fe0c U+fe02
-		["catpuccin-macchiato"] = "🍀︌︃", -- colr-icons-sonar-cloud-catpuccin-macchiato U+1f340 U+fe0c U+fe03
-		["catpuccin-mocha"] = "🍀︌︄", -- colr-icons-sonar-cloud-catpuccin-mocha U+1f340 U+fe0c U+fe04
-	},
-	["sonarcloud"] = {
-		["material"] = "🍀︌︅", -- colr-icons-sonarcloud-material U+1f340 U+fe0c U+fe05
+		["material"] = "🍀︌︂", -- colr-icons-sonar-cloud-material U+1f340 U+fe0c U+fe02
+		["catpuccin-frappe"] = "🍀︌︃", -- colr-icons-sonar-cloud-catpuccin-frappe U+1f340 U+fe0c U+fe03
+		["catpuccin-latte"] = "🍀︌︄", -- colr-icons-sonar-cloud-catpuccin-latte U+1f340 U+fe0c U+fe04
+		["catpuccin-macchiato"] = "🍀︌︅", -- colr-icons-sonar-cloud-catpuccin-macchiato U+1f340 U+fe0c U+fe05
+		["catpuccin-mocha"] = "🍀︌︆", -- colr-icons-sonar-cloud-catpuccin-mocha U+1f340 U+fe0c U+fe06
 	},
 	["spwn"] = {
-		["material"] = "🍀︌︆", -- colr-icons-spwn-material U+1f340 U+fe0c U+fe06
-		["catpuccin-frappe"] = "🍀︌︇", -- colr-icons-spwn-catpuccin-frappe U+1f340 U+fe0c U+fe07
-		["catpuccin-latte"] = "🍀︌︈", -- colr-icons-spwn-catpuccin-latte U+1f340 U+fe0c U+fe08
-		["catpuccin-macchiato"] = "🍀︌︉", -- colr-icons-spwn-catpuccin-macchiato U+1f340 U+fe0c U+fe09
-		["catpuccin-mocha"] = "🍀︌︊", -- colr-icons-spwn-catpuccin-mocha U+1f340 U+fe0c U+fe0a
+		["material"] = "🍀︌︇", -- colr-icons-spwn-material U+1f340 U+fe0c U+fe07
+		["catpuccin-frappe"] = "🍀︌︈", -- colr-icons-spwn-catpuccin-frappe U+1f340 U+fe0c U+fe08
+		["catpuccin-latte"] = "🍀︌︉", -- colr-icons-spwn-catpuccin-latte U+1f340 U+fe0c U+fe09
+		["catpuccin-macchiato"] = "🍀︌︊", -- colr-icons-spwn-catpuccin-macchiato U+1f340 U+fe0c U+fe0a
+		["catpuccin-mocha"] = "🍀︌︋", -- colr-icons-spwn-catpuccin-mocha U+1f340 U+fe0c U+fe0b
 	},
 	["squirrel"] = {
-		["catpuccin-frappe"] = "🍀︌︋", -- colr-icons-squirrel-catpuccin-frappe U+1f340 U+fe0c U+fe0b
-		["catpuccin-latte"] = "🍀︌︌", -- colr-icons-squirrel-catpuccin-latte U+1f340 U+fe0c U+fe0c
-		["catpuccin-macchiato"] = "🍀︌︍", -- colr-icons-squirrel-catpuccin-macchiato U+1f340 U+fe0c U+fe0d
-		["catpuccin-mocha"] = "🍀︌︎", -- colr-icons-squirrel-catpuccin-mocha U+1f340 U+fe0c U+fe0e
+		["catpuccin-frappe"] = "🍀︌︌", -- colr-icons-squirrel-catpuccin-frappe U+1f340 U+fe0c U+fe0c
+		["catpuccin-latte"] = "🍀︌︍", -- colr-icons-squirrel-catpuccin-latte U+1f340 U+fe0c U+fe0d
+		["catpuccin-macchiato"] = "🍀︌︎", -- colr-icons-squirrel-catpuccin-macchiato U+1f340 U+fe0c U+fe0e
+		["catpuccin-mocha"] = "🍀︌️", -- colr-icons-squirrel-catpuccin-mocha U+1f340 U+fe0c U+fe0f
 	},
 	["stackblitz"] = {
-		["material"] = "🍀︌️", -- colr-icons-stackblitz-material U+1f340 U+fe0c U+fe0f
-		["catpuccin-frappe"] = "🍀︌󠄀", -- colr-icons-stackblitz-catpuccin-frappe U+1f340 U+fe0c U+e0100
-		["catpuccin-latte"] = "🍀︌󠄁", -- colr-icons-stackblitz-catpuccin-latte U+1f340 U+fe0c U+e0101
-		["catpuccin-macchiato"] = "🍀︌󠄂", -- colr-icons-stackblitz-catpuccin-macchiato U+1f340 U+fe0c U+e0102
-		["catpuccin-mocha"] = "🍀︌󠄃", -- colr-icons-stackblitz-catpuccin-mocha U+1f340 U+fe0c U+e0103
+		["material"] = "🍀︌󠄀", -- colr-icons-stackblitz-material U+1f340 U+fe0c U+e0100
+		["catpuccin-frappe"] = "🍀︌󠄁", -- colr-icons-stackblitz-catpuccin-frappe U+1f340 U+fe0c U+e0101
+		["catpuccin-latte"] = "🍀︌󠄂", -- colr-icons-stackblitz-catpuccin-latte U+1f340 U+fe0c U+e0102
+		["catpuccin-macchiato"] = "🍀︌󠄃", -- colr-icons-stackblitz-catpuccin-macchiato U+1f340 U+fe0c U+e0103
+		["catpuccin-mocha"] = "🍀︌󠄄", -- colr-icons-stackblitz-catpuccin-mocha U+1f340 U+fe0c U+e0104
 	},
 	["stan"] = {
-		["material"] = "🍀︌󠄄", -- colr-icons-stan-material U+1f340 U+fe0c U+e0104
+		["material"] = "🍀︌󠄅", -- colr-icons-stan-material U+1f340 U+fe0c U+e0105
 	},
 	["stata"] = {
-		["catpuccin-frappe"] = "🍀︌󠄅", -- colr-icons-stata-catpuccin-frappe U+1f340 U+fe0c U+e0105
-		["catpuccin-latte"] = "🍀︌󠄆", -- colr-icons-stata-catpuccin-latte U+1f340 U+fe0c U+e0106
-		["catpuccin-macchiato"] = "🍀︌󠄇", -- colr-icons-stata-catpuccin-macchiato U+1f340 U+fe0c U+e0107
-		["catpuccin-mocha"] = "🍀︌󠄈", -- colr-icons-stata-catpuccin-mocha U+1f340 U+fe0c U+e0108
+		["catpuccin-frappe"] = "🍀︌󠄆", -- colr-icons-stata-catpuccin-frappe U+1f340 U+fe0c U+e0106
+		["catpuccin-latte"] = "🍀︌󠄇", -- colr-icons-stata-catpuccin-latte U+1f340 U+fe0c U+e0107
+		["catpuccin-macchiato"] = "🍀︌󠄈", -- colr-icons-stata-catpuccin-macchiato U+1f340 U+fe0c U+e0108
+		["catpuccin-mocha"] = "🍀︌󠄉", -- colr-icons-stata-catpuccin-mocha U+1f340 U+fe0c U+e0109
 	},
 	["steadybit"] = {
-		["material"] = "🍀︌󠄉", -- colr-icons-steadybit-material U+1f340 U+fe0c U+e0109
+		["material"] = "🍀︌󠄊", -- colr-icons-steadybit-material U+1f340 U+fe0c U+e010a
 	},
 	["stencil"] = {
-		["material"] = "🍀︌󠄊", -- colr-icons-stencil-material U+1f340 U+fe0c U+e010a
-		["catpuccin-frappe"] = "🍀︌󠄋", -- colr-icons-stencil-catpuccin-frappe U+1f340 U+fe0c U+e010b
-		["catpuccin-latte"] = "🍀︌󠄌", -- colr-icons-stencil-catpuccin-latte U+1f340 U+fe0c U+e010c
-		["catpuccin-macchiato"] = "🍀︌󠄍", -- colr-icons-stencil-catpuccin-macchiato U+1f340 U+fe0c U+e010d
-		["catpuccin-mocha"] = "🍀︌󠄎", -- colr-icons-stencil-catpuccin-mocha U+1f340 U+fe0c U+e010e
+		["material"] = "🍀︌󠄋", -- colr-icons-stencil-material U+1f340 U+fe0c U+e010b
+		["catpuccin-frappe"] = "🍀︌󠄌", -- colr-icons-stencil-catpuccin-frappe U+1f340 U+fe0c U+e010c
+		["catpuccin-latte"] = "🍀︌󠄍", -- colr-icons-stencil-catpuccin-latte U+1f340 U+fe0c U+e010d
+		["catpuccin-macchiato"] = "🍀︌󠄎", -- colr-icons-stencil-catpuccin-macchiato U+1f340 U+fe0c U+e010e
+		["catpuccin-mocha"] = "🍀︌󠄏", -- colr-icons-stencil-catpuccin-mocha U+1f340 U+fe0c U+e010f
 	},
 	["stitches"] = {
-		["material"] = "🍀︌󠄏", -- colr-icons-stitches-material U+1f340 U+fe0c U+e010f
-		["catpuccin-frappe"] = "🍀︌󠄐", -- colr-icons-stitches-catpuccin-frappe U+1f340 U+fe0c U+e0110
-		["catpuccin-latte"] = "🍀︌󠄑", -- colr-icons-stitches-catpuccin-latte U+1f340 U+fe0c U+e0111
-		["catpuccin-macchiato"] = "🍀︌󠄒", -- colr-icons-stitches-catpuccin-macchiato U+1f340 U+fe0c U+e0112
-		["catpuccin-mocha"] = "🍀︌󠄓", -- colr-icons-stitches-catpuccin-mocha U+1f340 U+fe0c U+e0113
+		["material"] = "🍀︌󠄐", -- colr-icons-stitches-material U+1f340 U+fe0c U+e0110
+		["catpuccin-frappe"] = "🍀︌󠄑", -- colr-icons-stitches-catpuccin-frappe U+1f340 U+fe0c U+e0111
+		["catpuccin-latte"] = "🍀︌󠄒", -- colr-icons-stitches-catpuccin-latte U+1f340 U+fe0c U+e0112
+		["catpuccin-macchiato"] = "🍀︌󠄓", -- colr-icons-stitches-catpuccin-macchiato U+1f340 U+fe0c U+e0113
+		["catpuccin-mocha"] = "🍀︌󠄔", -- colr-icons-stitches-catpuccin-mocha U+1f340 U+fe0c U+e0114
 	},
 	["stitches_light"] = {
-		["material"] = "🍀︌󠄔", -- colr-icons-stitches_light-material U+1f340 U+fe0c U+e0114
+		["material"] = "🍀︌󠄕", -- colr-icons-stitches_light-material U+1f340 U+fe0c U+e0115
 	},
 	["storybook"] = {
-		["material"] = "🍀︌󠄕", -- colr-icons-storybook-material U+1f340 U+fe0c U+e0115
-		["catpuccin-frappe"] = "🍀︌󠄖", -- colr-icons-storybook-catpuccin-frappe U+1f340 U+fe0c U+e0116
-		["catpuccin-latte"] = "🍀︌󠄗", -- colr-icons-storybook-catpuccin-latte U+1f340 U+fe0c U+e0117
-		["catpuccin-macchiato"] = "🍀︌󠄘", -- colr-icons-storybook-catpuccin-macchiato U+1f340 U+fe0c U+e0118
-		["catpuccin-mocha"] = "🍀︌󠄙", -- colr-icons-storybook-catpuccin-mocha U+1f340 U+fe0c U+e0119
+		["material"] = "🍀︌󠄖", -- colr-icons-storybook-material U+1f340 U+fe0c U+e0116
+		["catpuccin-frappe"] = "🍀︌󠄗", -- colr-icons-storybook-catpuccin-frappe U+1f340 U+fe0c U+e0117
+		["catpuccin-latte"] = "🍀︌󠄘", -- colr-icons-storybook-catpuccin-latte U+1f340 U+fe0c U+e0118
+		["catpuccin-macchiato"] = "🍀︌󠄙", -- colr-icons-storybook-catpuccin-macchiato U+1f340 U+fe0c U+e0119
+		["catpuccin-mocha"] = "🍀︌󠄚", -- colr-icons-storybook-catpuccin-mocha U+1f340 U+fe0c U+e011a
 	},
 	["storybook-svelte"] = {
-		["catpuccin-frappe"] = "🍀︌󠄚", -- colr-icons-storybook-svelte-catpuccin-frappe U+1f340 U+fe0c U+e011a
-		["catpuccin-latte"] = "🍀︌󠄛", -- colr-icons-storybook-svelte-catpuccin-latte U+1f340 U+fe0c U+e011b
-		["catpuccin-macchiato"] = "🍀︌󠄜", -- colr-icons-storybook-svelte-catpuccin-macchiato U+1f340 U+fe0c U+e011c
-		["catpuccin-mocha"] = "🍀︌󠄝", -- colr-icons-storybook-svelte-catpuccin-mocha U+1f340 U+fe0c U+e011d
+		["catpuccin-frappe"] = "🍀︌󠄛", -- colr-icons-storybook-svelte-catpuccin-frappe U+1f340 U+fe0c U+e011b
+		["catpuccin-latte"] = "🍀︌󠄜", -- colr-icons-storybook-svelte-catpuccin-latte U+1f340 U+fe0c U+e011c
+		["catpuccin-macchiato"] = "🍀︌󠄝", -- colr-icons-storybook-svelte-catpuccin-macchiato U+1f340 U+fe0c U+e011d
+		["catpuccin-mocha"] = "🍀︌󠄞", -- colr-icons-storybook-svelte-catpuccin-mocha U+1f340 U+fe0c U+e011e
 	},
 	["storybook-vue"] = {
-		["catpuccin-frappe"] = "🍀︌󠄞", -- colr-icons-storybook-vue-catpuccin-frappe U+1f340 U+fe0c U+e011e
-		["catpuccin-latte"] = "🍀︌󠄟", -- colr-icons-storybook-vue-catpuccin-latte U+1f340 U+fe0c U+e011f
-		["catpuccin-macchiato"] = "🍀︌󠄠", -- colr-icons-storybook-vue-catpuccin-macchiato U+1f340 U+fe0c U+e0120
-		["catpuccin-mocha"] = "🍀︌󠄡", -- colr-icons-storybook-vue-catpuccin-mocha U+1f340 U+fe0c U+e0121
+		["catpuccin-frappe"] = "🍀︌󠄟", -- colr-icons-storybook-vue-catpuccin-frappe U+1f340 U+fe0c U+e011f
+		["catpuccin-latte"] = "🍀︌󠄠", -- colr-icons-storybook-vue-catpuccin-latte U+1f340 U+fe0c U+e0120
+		["catpuccin-macchiato"] = "🍀︌󠄡", -- colr-icons-storybook-vue-catpuccin-macchiato U+1f340 U+fe0c U+e0121
+		["catpuccin-mocha"] = "🍀︌󠄢", -- colr-icons-storybook-vue-catpuccin-mocha U+1f340 U+fe0c U+e0122
 	},
 	["stryker"] = {
-		["material"] = "🍀︌󠄢", -- colr-icons-stryker-material U+1f340 U+fe0c U+e0122
+		["material"] = "🍀︌󠄣", -- colr-icons-stryker-material U+1f340 U+fe0c U+e0123
 	},
 	["stylable"] = {
-		["material"] = "🍀︌󠄣", -- colr-icons-stylable-material U+1f340 U+fe0c U+e0123
+		["material"] = "🍀︌󠄤", -- colr-icons-stylable-material U+1f340 U+fe0c U+e0124
 	},
 	["stylelint"] = {
-		["material"] = "🍀︌󠄤", -- colr-icons-stylelint-material U+1f340 U+fe0c U+e0124
-		["catpuccin-frappe"] = "🍀︌󠄥", -- colr-icons-stylelint-catpuccin-frappe U+1f340 U+fe0c U+e0125
-		["catpuccin-latte"] = "🍀︌󠄦", -- colr-icons-stylelint-catpuccin-latte U+1f340 U+fe0c U+e0126
-		["catpuccin-macchiato"] = "🍀︌󠄧", -- colr-icons-stylelint-catpuccin-macchiato U+1f340 U+fe0c U+e0127
-		["catpuccin-mocha"] = "🍀︌󠄨", -- colr-icons-stylelint-catpuccin-mocha U+1f340 U+fe0c U+e0128
+		["material"] = "🍀︌󠄥", -- colr-icons-stylelint-material U+1f340 U+fe0c U+e0125
+		["catpuccin-frappe"] = "🍀︌󠄦", -- colr-icons-stylelint-catpuccin-frappe U+1f340 U+fe0c U+e0126
+		["catpuccin-latte"] = "🍀︌󠄧", -- colr-icons-stylelint-catpuccin-latte U+1f340 U+fe0c U+e0127
+		["catpuccin-macchiato"] = "🍀︌󠄨", -- colr-icons-stylelint-catpuccin-macchiato U+1f340 U+fe0c U+e0128
+		["catpuccin-mocha"] = "🍀︌󠄩", -- colr-icons-stylelint-catpuccin-mocha U+1f340 U+fe0c U+e0129
 	},
 	["stylelint-ignore"] = {
-		["catpuccin-frappe"] = "🍀︌󠄩", -- colr-icons-stylelint-ignore-catpuccin-frappe U+1f340 U+fe0c U+e0129
-		["catpuccin-latte"] = "🍀︌󠄪", -- colr-icons-stylelint-ignore-catpuccin-latte U+1f340 U+fe0c U+e012a
-		["catpuccin-macchiato"] = "🍀︌󠄫", -- colr-icons-stylelint-ignore-catpuccin-macchiato U+1f340 U+fe0c U+e012b
-		["catpuccin-mocha"] = "🍀︌󠄬", -- colr-icons-stylelint-ignore-catpuccin-mocha U+1f340 U+fe0c U+e012c
+		["catpuccin-frappe"] = "🍀︌󠄪", -- colr-icons-stylelint-ignore-catpuccin-frappe U+1f340 U+fe0c U+e012a
+		["catpuccin-latte"] = "🍀︌󠄫", -- colr-icons-stylelint-ignore-catpuccin-latte U+1f340 U+fe0c U+e012b
+		["catpuccin-macchiato"] = "🍀︌󠄬", -- colr-icons-stylelint-ignore-catpuccin-macchiato U+1f340 U+fe0c U+e012c
+		["catpuccin-mocha"] = "🍀︌󠄭", -- colr-icons-stylelint-ignore-catpuccin-mocha U+1f340 U+fe0c U+e012d
 	},
 	["stylelint_light"] = {
-		["material"] = "🍀︌󠄭", -- colr-icons-stylelint_light-material U+1f340 U+fe0c U+e012d
+		["material"] = "🍀︌󠄮", -- colr-icons-stylelint_light-material U+1f340 U+fe0c U+e012e
 	},
 	["stylua"] = {
-		["catpuccin-frappe"] = "🍀︌󠄮", -- colr-icons-stylua-catpuccin-frappe U+1f340 U+fe0c U+e012e
-		["catpuccin-latte"] = "🍀︌󠄯", -- colr-icons-stylua-catpuccin-latte U+1f340 U+fe0c U+e012f
-		["catpuccin-macchiato"] = "🍀︌󠄰", -- colr-icons-stylua-catpuccin-macchiato U+1f340 U+fe0c U+e0130
-		["catpuccin-mocha"] = "🍀︌󠄱", -- colr-icons-stylua-catpuccin-mocha U+1f340 U+fe0c U+e0131
+		["catpuccin-frappe"] = "🍀︌󠄯", -- colr-icons-stylua-catpuccin-frappe U+1f340 U+fe0c U+e012f
+		["catpuccin-latte"] = "🍀︌󠄰", -- colr-icons-stylua-catpuccin-latte U+1f340 U+fe0c U+e0130
+		["catpuccin-macchiato"] = "🍀︌󠄱", -- colr-icons-stylua-catpuccin-macchiato U+1f340 U+fe0c U+e0131
+		["catpuccin-mocha"] = "🍀︌󠄲", -- colr-icons-stylua-catpuccin-mocha U+1f340 U+fe0c U+e0132
 	},
 	["stylua-ignore"] = {
-		["catpuccin-frappe"] = "🍀︌󠄲", -- colr-icons-stylua-ignore-catpuccin-frappe U+1f340 U+fe0c U+e0132
-		["catpuccin-latte"] = "🍀︌󠄳", -- colr-icons-stylua-ignore-catpuccin-latte U+1f340 U+fe0c U+e0133
-		["catpuccin-macchiato"] = "🍀︌󠄴", -- colr-icons-stylua-ignore-catpuccin-macchiato U+1f340 U+fe0c U+e0134
-		["catpuccin-mocha"] = "🍀︌󠄵", -- colr-icons-stylua-ignore-catpuccin-mocha U+1f340 U+fe0c U+e0135
+		["catpuccin-frappe"] = "🍀︌󠄳", -- colr-icons-stylua-ignore-catpuccin-frappe U+1f340 U+fe0c U+e0133
+		["catpuccin-latte"] = "🍀︌󠄴", -- colr-icons-stylua-ignore-catpuccin-latte U+1f340 U+fe0c U+e0134
+		["catpuccin-macchiato"] = "🍀︌󠄵", -- colr-icons-stylua-ignore-catpuccin-macchiato U+1f340 U+fe0c U+e0135
+		["catpuccin-mocha"] = "🍀︌󠄶", -- colr-icons-stylua-ignore-catpuccin-mocha U+1f340 U+fe0c U+e0136
 	},
 	["stylus"] = {
-		["material"] = "🍀︌󠄶", -- colr-icons-stylus-material U+1f340 U+fe0c U+e0136
+		["material"] = "🍀︌󠄷", -- colr-icons-stylus-material U+1f340 U+fe0c U+e0137
 	},
 	["sublime"] = {
-		["material"] = "🍀︌󠄷", -- colr-icons-sublime-material U+1f340 U+fe0c U+e0137
-		["catpuccin-frappe"] = "🍀︌󠄸", -- colr-icons-sublime-catpuccin-frappe U+1f340 U+fe0c U+e0138
-		["catpuccin-latte"] = "🍀︌󠄹", -- colr-icons-sublime-catpuccin-latte U+1f340 U+fe0c U+e0139
-		["catpuccin-macchiato"] = "🍀︌󠄺", -- colr-icons-sublime-catpuccin-macchiato U+1f340 U+fe0c U+e013a
-		["catpuccin-mocha"] = "🍀︌󠄻", -- colr-icons-sublime-catpuccin-mocha U+1f340 U+fe0c U+e013b
+		["material"] = "🍀︌󠄸", -- colr-icons-sublime-material U+1f340 U+fe0c U+e0138
+		["catpuccin-frappe"] = "🍀︌󠄹", -- colr-icons-sublime-catpuccin-frappe U+1f340 U+fe0c U+e0139
+		["catpuccin-latte"] = "🍀︌󠄺", -- colr-icons-sublime-catpuccin-latte U+1f340 U+fe0c U+e013a
+		["catpuccin-macchiato"] = "🍀︌󠄻", -- colr-icons-sublime-catpuccin-macchiato U+1f340 U+fe0c U+e013b
+		["catpuccin-mocha"] = "🍀︌󠄼", -- colr-icons-sublime-catpuccin-mocha U+1f340 U+fe0c U+e013c
 	},
 	["subtitles"] = {
-		["material"] = "🍀︌󠄼", -- colr-icons-subtitles-material U+1f340 U+fe0c U+e013c
+		["material"] = "🍀︌󠄽", -- colr-icons-subtitles-material U+1f340 U+fe0c U+e013d
 	},
 	["supabase"] = {
-		["material"] = "🍀︌󠄽", -- colr-icons-supabase-material U+1f340 U+fe0c U+e013d
+		["material"] = "🍀︌󠄾", -- colr-icons-supabase-material U+1f340 U+fe0c U+e013e
 	},
 	["super-collider"] = {
-		["catpuccin-frappe"] = "🍀︌󠄾", -- colr-icons-super-collider-catpuccin-frappe U+1f340 U+fe0c U+e013e
-		["catpuccin-latte"] = "🍀︌󠄿", -- colr-icons-super-collider-catpuccin-latte U+1f340 U+fe0c U+e013f
-		["catpuccin-macchiato"] = "🍀︌󠅀", -- colr-icons-super-collider-catpuccin-macchiato U+1f340 U+fe0c U+e0140
-		["catpuccin-mocha"] = "🍀︌󠅁", -- colr-icons-super-collider-catpuccin-mocha U+1f340 U+fe0c U+e0141
+		["catpuccin-frappe"] = "🍀︌󠄿", -- colr-icons-super-collider-catpuccin-frappe U+1f340 U+fe0c U+e013f
+		["catpuccin-latte"] = "🍀︌󠅀", -- colr-icons-super-collider-catpuccin-latte U+1f340 U+fe0c U+e0140
+		["catpuccin-macchiato"] = "🍀︌󠅁", -- colr-icons-super-collider-catpuccin-macchiato U+1f340 U+fe0c U+e0141
+		["catpuccin-mocha"] = "🍀︌󠅂", -- colr-icons-super-collider-catpuccin-mocha U+1f340 U+fe0c U+e0142
 	},
 	["svelte"] = {
-		["material"] = "🍀︌󠅂", -- colr-icons-svelte-material U+1f340 U+fe0c U+e0142
-		["catpuccin-frappe"] = "🍀︌󠅃", -- colr-icons-svelte-catpuccin-frappe U+1f340 U+fe0c U+e0143
-		["catpuccin-latte"] = "🍀︌󠅄", -- colr-icons-svelte-catpuccin-latte U+1f340 U+fe0c U+e0144
-		["catpuccin-macchiato"] = "🍀︌󠅅", -- colr-icons-svelte-catpuccin-macchiato U+1f340 U+fe0c U+e0145
-		["catpuccin-mocha"] = "🍀︌󠅆", -- colr-icons-svelte-catpuccin-mocha U+1f340 U+fe0c U+e0146
+		["material"] = "🍀︌󠅃", -- colr-icons-svelte-material U+1f340 U+fe0c U+e0143
+		["catpuccin-frappe"] = "🍀︌󠅄", -- colr-icons-svelte-catpuccin-frappe U+1f340 U+fe0c U+e0144
+		["catpuccin-latte"] = "🍀︌󠅅", -- colr-icons-svelte-catpuccin-latte U+1f340 U+fe0c U+e0145
+		["catpuccin-macchiato"] = "🍀︌󠅆", -- colr-icons-svelte-catpuccin-macchiato U+1f340 U+fe0c U+e0146
+		["catpuccin-mocha"] = "🍀︌󠅇", -- colr-icons-svelte-catpuccin-mocha U+1f340 U+fe0c U+e0147
 	},
 	["svelte-config"] = {
-		["catpuccin-frappe"] = "🍀︌󠅇", -- colr-icons-svelte-config-catpuccin-frappe U+1f340 U+fe0c U+e0147
-		["catpuccin-latte"] = "🍀︌󠅈", -- colr-icons-svelte-config-catpuccin-latte U+1f340 U+fe0c U+e0148
-		["catpuccin-macchiato"] = "🍀︌󠅉", -- colr-icons-svelte-config-catpuccin-macchiato U+1f340 U+fe0c U+e0149
-		["catpuccin-mocha"] = "🍀︌󠅊", -- colr-icons-svelte-config-catpuccin-mocha U+1f340 U+fe0c U+e014a
+		["catpuccin-frappe"] = "🍀︌󠅈", -- colr-icons-svelte-config-catpuccin-frappe U+1f340 U+fe0c U+e0148
+		["catpuccin-latte"] = "🍀︌󠅉", -- colr-icons-svelte-config-catpuccin-latte U+1f340 U+fe0c U+e0149
+		["catpuccin-macchiato"] = "🍀︌󠅊", -- colr-icons-svelte-config-catpuccin-macchiato U+1f340 U+fe0c U+e014a
+		["catpuccin-mocha"] = "🍀︌󠅋", -- colr-icons-svelte-config-catpuccin-mocha U+1f340 U+fe0c U+e014b
 	},
 	["svg"] = {
-		["material"] = "🍀︌󠅋", -- colr-icons-svg-material U+1f340 U+fe0c U+e014b
-		["catpuccin-frappe"] = "🍀︌󠅌", -- colr-icons-svg-catpuccin-frappe U+1f340 U+fe0c U+e014c
-		["catpuccin-latte"] = "🍀︌󠅍", -- colr-icons-svg-catpuccin-latte U+1f340 U+fe0c U+e014d
-		["catpuccin-macchiato"] = "🍀︌󠅎", -- colr-icons-svg-catpuccin-macchiato U+1f340 U+fe0c U+e014e
-		["catpuccin-mocha"] = "🍀︌󠅏", -- colr-icons-svg-catpuccin-mocha U+1f340 U+fe0c U+e014f
+		["material"] = "🍀︌󠅌", -- colr-icons-svg-material U+1f340 U+fe0c U+e014c
+		["catpuccin-frappe"] = "🍀︌󠅍", -- colr-icons-svg-catpuccin-frappe U+1f340 U+fe0c U+e014d
+		["catpuccin-latte"] = "🍀︌󠅎", -- colr-icons-svg-catpuccin-latte U+1f340 U+fe0c U+e014e
+		["catpuccin-macchiato"] = "🍀︌󠅏", -- colr-icons-svg-catpuccin-macchiato U+1f340 U+fe0c U+e014f
+		["catpuccin-mocha"] = "🍀︌󠅐", -- colr-icons-svg-catpuccin-mocha U+1f340 U+fe0c U+e0150
 	},
 	["svgo"] = {
-		["material"] = "🍀︌󠅐", -- colr-icons-svgo-material U+1f340 U+fe0c U+e0150
+		["material"] = "🍀︌󠅑", -- colr-icons-svgo-material U+1f340 U+fe0c U+e0151
 	},
 	["svgr"] = {
-		["material"] = "🍀︌󠅑", -- colr-icons-svgr-material U+1f340 U+fe0c U+e0151
+		["material"] = "🍀︌󠅒", -- colr-icons-svgr-material U+1f340 U+fe0c U+e0152
 	},
 	["swagger"] = {
-		["material"] = "🍀︌󠅒", -- colr-icons-swagger-material U+1f340 U+fe0c U+e0152
+		["material"] = "🍀︌󠅓", -- colr-icons-swagger-material U+1f340 U+fe0c U+e0153
 	},
 	["sway"] = {
-		["material"] = "🍀︌󠅓", -- colr-icons-sway-material U+1f340 U+fe0c U+e0153
+		["material"] = "🍀︌󠅔", -- colr-icons-sway-material U+1f340 U+fe0c U+e0154
 	},
 	["swc"] = {
-		["material"] = "🍀︌󠅔", -- colr-icons-swc-material U+1f340 U+fe0c U+e0154
+		["material"] = "🍀︌󠅕", -- colr-icons-swc-material U+1f340 U+fe0c U+e0155
 	},
 	["swift"] = {
-		["material"] = "🍀︌󠅕", -- colr-icons-swift-material U+1f340 U+fe0c U+e0155
-		["catpuccin-frappe"] = "🍀︌󠅖", -- colr-icons-swift-catpuccin-frappe U+1f340 U+fe0c U+e0156
-		["catpuccin-latte"] = "🍀︌󠅗", -- colr-icons-swift-catpuccin-latte U+1f340 U+fe0c U+e0157
-		["catpuccin-macchiato"] = "🍀︌󠅘", -- colr-icons-swift-catpuccin-macchiato U+1f340 U+fe0c U+e0158
-		["catpuccin-mocha"] = "🍀︌󠅙", -- colr-icons-swift-catpuccin-mocha U+1f340 U+fe0c U+e0159
+		["material"] = "🍀︌󠅖", -- colr-icons-swift-material U+1f340 U+fe0c U+e0156
+		["catpuccin-frappe"] = "🍀︌󠅗", -- colr-icons-swift-catpuccin-frappe U+1f340 U+fe0c U+e0157
+		["catpuccin-latte"] = "🍀︌󠅘", -- colr-icons-swift-catpuccin-latte U+1f340 U+fe0c U+e0158
+		["catpuccin-macchiato"] = "🍀︌󠅙", -- colr-icons-swift-catpuccin-macchiato U+1f340 U+fe0c U+e0159
+		["catpuccin-mocha"] = "🍀︌󠅚", -- colr-icons-swift-catpuccin-mocha U+1f340 U+fe0c U+e015a
 	},
 	["swiftformat"] = {
-		["catpuccin-frappe"] = "🍀︌󠅚", -- colr-icons-swiftformat-catpuccin-frappe U+1f340 U+fe0c U+e015a
-		["catpuccin-latte"] = "🍀︌󠅛", -- colr-icons-swiftformat-catpuccin-latte U+1f340 U+fe0c U+e015b
-		["catpuccin-macchiato"] = "🍀︌󠅜", -- colr-icons-swiftformat-catpuccin-macchiato U+1f340 U+fe0c U+e015c
-		["catpuccin-mocha"] = "🍀︌󠅝", -- colr-icons-swiftformat-catpuccin-mocha U+1f340 U+fe0c U+e015d
+		["catpuccin-frappe"] = "🍀︌󠅛", -- colr-icons-swiftformat-catpuccin-frappe U+1f340 U+fe0c U+e015b
+		["catpuccin-latte"] = "🍀︌󠅜", -- colr-icons-swiftformat-catpuccin-latte U+1f340 U+fe0c U+e015c
+		["catpuccin-macchiato"] = "🍀︌󠅝", -- colr-icons-swiftformat-catpuccin-macchiato U+1f340 U+fe0c U+e015d
+		["catpuccin-mocha"] = "🍀︌󠅞", -- colr-icons-swiftformat-catpuccin-mocha U+1f340 U+fe0c U+e015e
 	},
 	["symlink"] = {
-		["catpuccin-frappe"] = "🍀︌󠅞", -- colr-icons-symlink-catpuccin-frappe U+1f340 U+fe0c U+e015e
-		["catpuccin-latte"] = "🍀︌󠅟", -- colr-icons-symlink-catpuccin-latte U+1f340 U+fe0c U+e015f
-		["catpuccin-macchiato"] = "🍀︌󠅠", -- colr-icons-symlink-catpuccin-macchiato U+1f340 U+fe0c U+e0160
-		["catpuccin-mocha"] = "🍀︌󠅡", -- colr-icons-symlink-catpuccin-mocha U+1f340 U+fe0c U+e0161
+		["catpuccin-frappe"] = "🍀︌󠅟", -- colr-icons-symlink-catpuccin-frappe U+1f340 U+fe0c U+e015f
+		["catpuccin-latte"] = "🍀︌󠅠", -- colr-icons-symlink-catpuccin-latte U+1f340 U+fe0c U+e0160
+		["catpuccin-macchiato"] = "🍀︌󠅡", -- colr-icons-symlink-catpuccin-macchiato U+1f340 U+fe0c U+e0161
+		["catpuccin-mocha"] = "🍀︌󠅢", -- colr-icons-symlink-catpuccin-mocha U+1f340 U+fe0c U+e0162
 	},
 	["syncpack"] = {
-		["material"] = "🍀︌󠅢", -- colr-icons-syncpack-material U+1f340 U+fe0c U+e0162
+		["material"] = "🍀︌󠅣", -- colr-icons-syncpack-material U+1f340 U+fe0c U+e0163
 	},
 	["systemd"] = {
-		["material"] = "🍀︌󠅣", -- colr-icons-systemd-material U+1f340 U+fe0c U+e0163
+		["material"] = "🍀︌󠅤", -- colr-icons-systemd-material U+1f340 U+fe0c U+e0164
 	},
 	["systemd_light"] = {
-		["material"] = "🍀︌󠅤", -- colr-icons-systemd_light-material U+1f340 U+fe0c U+e0164
+		["material"] = "🍀︌󠅥", -- colr-icons-systemd_light-material U+1f340 U+fe0c U+e0165
 	},
 	["table"] = {
-		["material"] = "🍀︌󠅥", -- colr-icons-table-material U+1f340 U+fe0c U+e0165
+		["material"] = "🍀︌󠅦", -- colr-icons-table-material U+1f340 U+fe0c U+e0166
 	},
 	["tailwind"] = {
-		["catpuccin-frappe"] = "🍀︌󠅦", -- colr-icons-tailwind-catpuccin-frappe U+1f340 U+fe0c U+e0166
-		["catpuccin-latte"] = "🍀︌󠅧", -- colr-icons-tailwind-catpuccin-latte U+1f340 U+fe0c U+e0167
-		["catpuccin-macchiato"] = "🍀︌󠅨", -- colr-icons-tailwind-catpuccin-macchiato U+1f340 U+fe0c U+e0168
-		["catpuccin-mocha"] = "🍀︌󠅩", -- colr-icons-tailwind-catpuccin-mocha U+1f340 U+fe0c U+e0169
-	},
-	["tailwindcss"] = {
-		["material"] = "🍀︌󠅪", -- colr-icons-tailwindcss-material U+1f340 U+fe0c U+e016a
+		["material"] = "🍀︌󠅧", -- colr-icons-tailwind-material U+1f340 U+fe0c U+e0167
+		["catpuccin-frappe"] = "🍀︌󠅨", -- colr-icons-tailwind-catpuccin-frappe U+1f340 U+fe0c U+e0168
+		["catpuccin-latte"] = "🍀︌󠅩", -- colr-icons-tailwind-catpuccin-latte U+1f340 U+fe0c U+e0169
+		["catpuccin-macchiato"] = "🍀︌󠅪", -- colr-icons-tailwind-catpuccin-macchiato U+1f340 U+fe0c U+e016a
+		["catpuccin-mocha"] = "🍀︌󠅫", -- colr-icons-tailwind-catpuccin-mocha U+1f340 U+fe0c U+e016b
 	},
 	["taskfile"] = {
-		["material"] = "🍀︌󠅫", -- colr-icons-taskfile-material U+1f340 U+fe0c U+e016b
-		["catpuccin-frappe"] = "🍀︌󠅬", -- colr-icons-taskfile-catpuccin-frappe U+1f340 U+fe0c U+e016c
-		["catpuccin-latte"] = "🍀︌󠅭", -- colr-icons-taskfile-catpuccin-latte U+1f340 U+fe0c U+e016d
-		["catpuccin-macchiato"] = "🍀︌󠅮", -- colr-icons-taskfile-catpuccin-macchiato U+1f340 U+fe0c U+e016e
-		["catpuccin-mocha"] = "🍀︌󠅯", -- colr-icons-taskfile-catpuccin-mocha U+1f340 U+fe0c U+e016f
+		["material"] = "🍀︌󠅬", -- colr-icons-taskfile-material U+1f340 U+fe0c U+e016c
+		["catpuccin-frappe"] = "🍀︌󠅭", -- colr-icons-taskfile-catpuccin-frappe U+1f340 U+fe0c U+e016d
+		["catpuccin-latte"] = "🍀︌󠅮", -- colr-icons-taskfile-catpuccin-latte U+1f340 U+fe0c U+e016e
+		["catpuccin-macchiato"] = "🍀︌󠅯", -- colr-icons-taskfile-catpuccin-macchiato U+1f340 U+fe0c U+e016f
+		["catpuccin-mocha"] = "🍀︌󠅰", -- colr-icons-taskfile-catpuccin-mocha U+1f340 U+fe0c U+e0170
 	},
 	["tauri"] = {
-		["material"] = "🍀︌󠅰", -- colr-icons-tauri-material U+1f340 U+fe0c U+e0170
-		["catpuccin-frappe"] = "🍀︌󠅱", -- colr-icons-tauri-catpuccin-frappe U+1f340 U+fe0c U+e0171
-		["catpuccin-latte"] = "🍀︌󠅲", -- colr-icons-tauri-catpuccin-latte U+1f340 U+fe0c U+e0172
-		["catpuccin-macchiato"] = "🍀︌󠅳", -- colr-icons-tauri-catpuccin-macchiato U+1f340 U+fe0c U+e0173
-		["catpuccin-mocha"] = "🍀︌󠅴", -- colr-icons-tauri-catpuccin-mocha U+1f340 U+fe0c U+e0174
+		["material"] = "🍀︌󠅱", -- colr-icons-tauri-material U+1f340 U+fe0c U+e0171
+		["catpuccin-frappe"] = "🍀︌󠅲", -- colr-icons-tauri-catpuccin-frappe U+1f340 U+fe0c U+e0172
+		["catpuccin-latte"] = "🍀︌󠅳", -- colr-icons-tauri-catpuccin-latte U+1f340 U+fe0c U+e0173
+		["catpuccin-macchiato"] = "🍀︌󠅴", -- colr-icons-tauri-catpuccin-macchiato U+1f340 U+fe0c U+e0174
+		["catpuccin-mocha"] = "🍀︌󠅵", -- colr-icons-tauri-catpuccin-mocha U+1f340 U+fe0c U+e0175
 	},
 	["tauri-ignore"] = {
-		["catpuccin-frappe"] = "🍀︌󠅵", -- colr-icons-tauri-ignore-catpuccin-frappe U+1f340 U+fe0c U+e0175
-		["catpuccin-latte"] = "🍀︌󠅶", -- colr-icons-tauri-ignore-catpuccin-latte U+1f340 U+fe0c U+e0176
-		["catpuccin-macchiato"] = "🍀︌󠅷", -- colr-icons-tauri-ignore-catpuccin-macchiato U+1f340 U+fe0c U+e0177
-		["catpuccin-mocha"] = "🍀︌󠅸", -- colr-icons-tauri-ignore-catpuccin-mocha U+1f340 U+fe0c U+e0178
+		["catpuccin-frappe"] = "🍀︌󠅶", -- colr-icons-tauri-ignore-catpuccin-frappe U+1f340 U+fe0c U+e0176
+		["catpuccin-latte"] = "🍀︌󠅷", -- colr-icons-tauri-ignore-catpuccin-latte U+1f340 U+fe0c U+e0177
+		["catpuccin-macchiato"] = "🍀︌󠅸", -- colr-icons-tauri-ignore-catpuccin-macchiato U+1f340 U+fe0c U+e0178
+		["catpuccin-mocha"] = "🍀︌󠅹", -- colr-icons-tauri-ignore-catpuccin-mocha U+1f340 U+fe0c U+e0179
 	},
 	["taze"] = {
-		["material"] = "🍀︌󠅹", -- colr-icons-taze-material U+1f340 U+fe0c U+e0179
+		["material"] = "🍀︌󠅺", -- colr-icons-taze-material U+1f340 U+fe0c U+e017a
 	},
 	["tcl"] = {
-		["material"] = "🍀︌󠅺", -- colr-icons-tcl-material U+1f340 U+fe0c U+e017a
+		["material"] = "🍀︌󠅻", -- colr-icons-tcl-material U+1f340 U+fe0c U+e017b
 	},
 	["teal"] = {
-		["material"] = "🍀︌󠅻", -- colr-icons-teal-material U+1f340 U+fe0c U+e017b
+		["material"] = "🍀︌󠅼", -- colr-icons-teal-material U+1f340 U+fe0c U+e017c
 	},
 	["templ"] = {
-		["material"] = "🍀︌󠅼", -- colr-icons-templ-material U+1f340 U+fe0c U+e017c
+		["material"] = "🍀︌󠅽", -- colr-icons-templ-material U+1f340 U+fe0c U+e017d
 	},
 	["template"] = {
-		["material"] = "🍀︌󠅽", -- colr-icons-template-material U+1f340 U+fe0c U+e017d
+		["material"] = "🍀︌󠅾", -- colr-icons-template-material U+1f340 U+fe0c U+e017e
 	},
 	["terraform"] = {
-		["material"] = "🍀︌󠅾", -- colr-icons-terraform-material U+1f340 U+fe0c U+e017e
-		["catpuccin-frappe"] = "🍀︌󠅿", -- colr-icons-terraform-catpuccin-frappe U+1f340 U+fe0c U+e017f
-		["catpuccin-latte"] = "🍀︌󠆀", -- colr-icons-terraform-catpuccin-latte U+1f340 U+fe0c U+e0180
-		["catpuccin-macchiato"] = "🍀︌󠆁", -- colr-icons-terraform-catpuccin-macchiato U+1f340 U+fe0c U+e0181
-		["catpuccin-mocha"] = "🍀︌󠆂", -- colr-icons-terraform-catpuccin-mocha U+1f340 U+fe0c U+e0182
+		["material"] = "🍀︌󠅿", -- colr-icons-terraform-material U+1f340 U+fe0c U+e017f
+		["catpuccin-frappe"] = "🍀︌󠆀", -- colr-icons-terraform-catpuccin-frappe U+1f340 U+fe0c U+e0180
+		["catpuccin-latte"] = "🍀︌󠆁", -- colr-icons-terraform-catpuccin-latte U+1f340 U+fe0c U+e0181
+		["catpuccin-macchiato"] = "🍀︌󠆂", -- colr-icons-terraform-catpuccin-macchiato U+1f340 U+fe0c U+e0182
+		["catpuccin-mocha"] = "🍀︌󠆃", -- colr-icons-terraform-catpuccin-mocha U+1f340 U+fe0c U+e0183
 	},
 	["test-js"] = {
-		["material"] = "🍀︌󠆃", -- colr-icons-test-js-material U+1f340 U+fe0c U+e0183
+		["material"] = "🍀︌󠆄", -- colr-icons-test-js-material U+1f340 U+fe0c U+e0184
 	},
 	["test-jsx"] = {
-		["material"] = "🍀︌󠆄", -- colr-icons-test-jsx-material U+1f340 U+fe0c U+e0184
+		["material"] = "🍀︌󠆅", -- colr-icons-test-jsx-material U+1f340 U+fe0c U+e0185
 	},
 	["test-ts"] = {
-		["material"] = "🍀︌󠆅", -- colr-icons-test-ts-material U+1f340 U+fe0c U+e0185
+		["material"] = "🍀︌󠆆", -- colr-icons-test-ts-material U+1f340 U+fe0c U+e0186
 	},
 	["tex"] = {
-		["material"] = "🍀︌󠆆", -- colr-icons-tex-material U+1f340 U+fe0c U+e0186
+		["material"] = "🍀︌󠆇", -- colr-icons-tex-material U+1f340 U+fe0c U+e0187
 	},
 	["text"] = {
-		["catpuccin-frappe"] = "🍀︌󠆇", -- colr-icons-text-catpuccin-frappe U+1f340 U+fe0c U+e0187
-		["catpuccin-latte"] = "🍀︌󠆈", -- colr-icons-text-catpuccin-latte U+1f340 U+fe0c U+e0188
-		["catpuccin-macchiato"] = "🍀︌󠆉", -- colr-icons-text-catpuccin-macchiato U+1f340 U+fe0c U+e0189
-		["catpuccin-mocha"] = "🍀︌󠆊", -- colr-icons-text-catpuccin-mocha U+1f340 U+fe0c U+e018a
+		["catpuccin-frappe"] = "🍀︌󠆈", -- colr-icons-text-catpuccin-frappe U+1f340 U+fe0c U+e0188
+		["catpuccin-latte"] = "🍀︌󠆉", -- colr-icons-text-catpuccin-latte U+1f340 U+fe0c U+e0189
+		["catpuccin-macchiato"] = "🍀︌󠆊", -- colr-icons-text-catpuccin-macchiato U+1f340 U+fe0c U+e018a
+		["catpuccin-mocha"] = "🍀︌󠆋", -- colr-icons-text-catpuccin-mocha U+1f340 U+fe0c U+e018b
 	},
 	["textlint"] = {
-		["material"] = "🍀︌󠆋", -- colr-icons-textlint-material U+1f340 U+fe0c U+e018b
+		["material"] = "🍀︌󠆌", -- colr-icons-textlint-material U+1f340 U+fe0c U+e018c
 	},
 	["tilt"] = {
-		["material"] = "🍀︌󠆌", -- colr-icons-tilt-material U+1f340 U+fe0c U+e018c
+		["material"] = "🍀︌󠆍", -- colr-icons-tilt-material U+1f340 U+fe0c U+e018d
 	},
 	["tldraw"] = {
-		["material"] = "🍀︌󠆍", -- colr-icons-tldraw-material U+1f340 U+fe0c U+e018d
+		["material"] = "🍀︌󠆎", -- colr-icons-tldraw-material U+1f340 U+fe0c U+e018e
 	},
 	["tldraw_light"] = {
-		["material"] = "🍀︌󠆎", -- colr-icons-tldraw_light-material U+1f340 U+fe0c U+e018e
+		["material"] = "🍀︌󠆏", -- colr-icons-tldraw_light-material U+1f340 U+fe0c U+e018f
 	},
 	["tobi"] = {
-		["material"] = "🍀︌󠆏", -- colr-icons-tobi-material U+1f340 U+fe0c U+e018f
+		["material"] = "🍀︌󠆐", -- colr-icons-tobi-material U+1f340 U+fe0c U+e0190
 	},
 	["tobimake"] = {
-		["material"] = "🍀︌󠆐", -- colr-icons-tobimake-material U+1f340 U+fe0c U+e0190
+		["material"] = "🍀︌󠆑", -- colr-icons-tobimake-material U+1f340 U+fe0c U+e0191
 	},
 	["toc"] = {
-		["material"] = "🍀︌󠆑", -- colr-icons-toc-material U+1f340 U+fe0c U+e0191
+		["material"] = "🍀︌󠆒", -- colr-icons-toc-material U+1f340 U+fe0c U+e0192
 	},
 	["todo"] = {
-		["material"] = "🍀︌󠆒", -- colr-icons-todo-material U+1f340 U+fe0c U+e0192
-		["catpuccin-frappe"] = "🍀︌󠆓", -- colr-icons-todo-catpuccin-frappe U+1f340 U+fe0c U+e0193
-		["catpuccin-latte"] = "🍀︌󠆔", -- colr-icons-todo-catpuccin-latte U+1f340 U+fe0c U+e0194
-		["catpuccin-macchiato"] = "🍀︌󠆕", -- colr-icons-todo-catpuccin-macchiato U+1f340 U+fe0c U+e0195
-		["catpuccin-mocha"] = "🍀︌󠆖", -- colr-icons-todo-catpuccin-mocha U+1f340 U+fe0c U+e0196
+		["material"] = "🍀︌󠆓", -- colr-icons-todo-material U+1f340 U+fe0c U+e0193
+		["catpuccin-frappe"] = "🍀︌󠆔", -- colr-icons-todo-catpuccin-frappe U+1f340 U+fe0c U+e0194
+		["catpuccin-latte"] = "🍀︌󠆕", -- colr-icons-todo-catpuccin-latte U+1f340 U+fe0c U+e0195
+		["catpuccin-macchiato"] = "🍀︌󠆖", -- colr-icons-todo-catpuccin-macchiato U+1f340 U+fe0c U+e0196
+		["catpuccin-mocha"] = "🍀︌󠆗", -- colr-icons-todo-catpuccin-mocha U+1f340 U+fe0c U+e0197
 	},
 	["toml"] = {
-		["material"] = "🍀︌󠆗", -- colr-icons-toml-material U+1f340 U+fe0c U+e0197
-		["catpuccin-frappe"] = "🍀︌󠆘", -- colr-icons-toml-catpuccin-frappe U+1f340 U+fe0c U+e0198
-		["catpuccin-latte"] = "🍀︌󠆙", -- colr-icons-toml-catpuccin-latte U+1f340 U+fe0c U+e0199
-		["catpuccin-macchiato"] = "🍀︌󠆚", -- colr-icons-toml-catpuccin-macchiato U+1f340 U+fe0c U+e019a
-		["catpuccin-mocha"] = "🍀︌󠆛", -- colr-icons-toml-catpuccin-mocha U+1f340 U+fe0c U+e019b
+		["material"] = "🍀︌󠆘", -- colr-icons-toml-material U+1f340 U+fe0c U+e0198
+		["catpuccin-frappe"] = "🍀︌󠆙", -- colr-icons-toml-catpuccin-frappe U+1f340 U+fe0c U+e0199
+		["catpuccin-latte"] = "🍀︌󠆚", -- colr-icons-toml-catpuccin-latte U+1f340 U+fe0c U+e019a
+		["catpuccin-macchiato"] = "🍀︌󠆛", -- colr-icons-toml-catpuccin-macchiato U+1f340 U+fe0c U+e019b
+		["catpuccin-mocha"] = "🍀︌󠆜", -- colr-icons-toml-catpuccin-mocha U+1f340 U+fe0c U+e019c
 	},
 	["toml_light"] = {
-		["material"] = "🍀︌󠆜", -- colr-icons-toml_light-material U+1f340 U+fe0c U+e019c
+		["material"] = "🍀︌󠆝", -- colr-icons-toml_light-material U+1f340 U+fe0c U+e019d
 	},
 	["toon"] = {
-		["material"] = "🍀︌󠆝", -- colr-icons-toon-material U+1f340 U+fe0c U+e019d
+		["material"] = "🍀︌󠆞", -- colr-icons-toon-material U+1f340 U+fe0c U+e019e
 	},
 	["travis"] = {
-		["material"] = "🍀︌󠆞", -- colr-icons-travis-material U+1f340 U+fe0c U+e019e
+		["material"] = "🍀︌󠆟", -- colr-icons-travis-material U+1f340 U+fe0c U+e019f
 	},
 	["tree"] = {
-		["material"] = "🍀︌󠆟", -- colr-icons-tree-material U+1f340 U+fe0c U+e019f
+		["material"] = "🍀︌󠆠", -- colr-icons-tree-material U+1f340 U+fe0c U+e01a0
 	},
 	["trigger"] = {
-		["material"] = "🍀︌󠆠", -- colr-icons-trigger-material U+1f340 U+fe0c U+e01a0
+		["material"] = "🍀︌󠆡", -- colr-icons-trigger-material U+1f340 U+fe0c U+e01a1
 	},
 	["tsconfig"] = {
-		["material"] = "🍀︌󠆡", -- colr-icons-tsconfig-material U+1f340 U+fe0c U+e01a1
+		["material"] = "🍀︌󠆢", -- colr-icons-tsconfig-material U+1f340 U+fe0c U+e01a2
 	},
 	["tsdoc"] = {
-		["material"] = "🍀︌󠆢", -- colr-icons-tsdoc-material U+1f340 U+fe0c U+e01a2
+		["material"] = "🍀︌󠆣", -- colr-icons-tsdoc-material U+1f340 U+fe0c U+e01a3
 	},
 	["tsdown"] = {
-		["material"] = "🍀︌󠆣", -- colr-icons-tsdown-material U+1f340 U+fe0c U+e01a3
+		["material"] = "🍀︌󠆤", -- colr-icons-tsdown-material U+1f340 U+fe0c U+e01a4
 	},
 	["tsil"] = {
-		["material"] = "🍀︌󠆤", -- colr-icons-tsil-material U+1f340 U+fe0c U+e01a4
+		["material"] = "🍀︌󠆥", -- colr-icons-tsil-material U+1f340 U+fe0c U+e01a5
 	},
 	["tune"] = {
-		["material"] = "🍀︌󠆥", -- colr-icons-tune-material U+1f340 U+fe0c U+e01a5
+		["material"] = "🍀︌󠆦", -- colr-icons-tune-material U+1f340 U+fe0c U+e01a6
 	},
 	["turbo"] = {
-		["catpuccin-frappe"] = "🍀︌󠆦", -- colr-icons-turbo-catpuccin-frappe U+1f340 U+fe0c U+e01a6
-		["catpuccin-latte"] = "🍀︌󠆧", -- colr-icons-turbo-catpuccin-latte U+1f340 U+fe0c U+e01a7
-		["catpuccin-macchiato"] = "🍀︌󠆨", -- colr-icons-turbo-catpuccin-macchiato U+1f340 U+fe0c U+e01a8
-		["catpuccin-mocha"] = "🍀︌󠆩", -- colr-icons-turbo-catpuccin-mocha U+1f340 U+fe0c U+e01a9
+		["catpuccin-frappe"] = "🍀︌󠆧", -- colr-icons-turbo-catpuccin-frappe U+1f340 U+fe0c U+e01a7
+		["catpuccin-latte"] = "🍀︌󠆨", -- colr-icons-turbo-catpuccin-latte U+1f340 U+fe0c U+e01a8
+		["catpuccin-macchiato"] = "🍀︌󠆩", -- colr-icons-turbo-catpuccin-macchiato U+1f340 U+fe0c U+e01a9
+		["catpuccin-mocha"] = "🍀︌󠆪", -- colr-icons-turbo-catpuccin-mocha U+1f340 U+fe0c U+e01aa
 	},
 	["turborepo"] = {
-		["material"] = "🍀︌󠆪", -- colr-icons-turborepo-material U+1f340 U+fe0c U+e01aa
+		["material"] = "🍀︌󠆫", -- colr-icons-turborepo-material U+1f340 U+fe0c U+e01ab
 	},
 	["turborepo_light"] = {
-		["material"] = "🍀︌󠆫", -- colr-icons-turborepo_light-material U+1f340 U+fe0c U+e01ab
+		["material"] = "🍀︌󠆬", -- colr-icons-turborepo_light-material U+1f340 U+fe0c U+e01ac
 	},
 	["twig"] = {
-		["material"] = "🍀︌󠆬", -- colr-icons-twig-material U+1f340 U+fe0c U+e01ac
-		["catpuccin-frappe"] = "🍀︌󠆭", -- colr-icons-twig-catpuccin-frappe U+1f340 U+fe0c U+e01ad
-		["catpuccin-latte"] = "🍀︌󠆮", -- colr-icons-twig-catpuccin-latte U+1f340 U+fe0c U+e01ae
-		["catpuccin-macchiato"] = "🍀︌󠆯", -- colr-icons-twig-catpuccin-macchiato U+1f340 U+fe0c U+e01af
-		["catpuccin-mocha"] = "🍀︌󠆰", -- colr-icons-twig-catpuccin-mocha U+1f340 U+fe0c U+e01b0
+		["material"] = "🍀︌󠆭", -- colr-icons-twig-material U+1f340 U+fe0c U+e01ad
+		["catpuccin-frappe"] = "🍀︌󠆮", -- colr-icons-twig-catpuccin-frappe U+1f340 U+fe0c U+e01ae
+		["catpuccin-latte"] = "🍀︌󠆯", -- colr-icons-twig-catpuccin-latte U+1f340 U+fe0c U+e01af
+		["catpuccin-macchiato"] = "🍀︌󠆰", -- colr-icons-twig-catpuccin-macchiato U+1f340 U+fe0c U+e01b0
+		["catpuccin-mocha"] = "🍀︌󠆱", -- colr-icons-twig-catpuccin-mocha U+1f340 U+fe0c U+e01b1
 	},
 	["twine"] = {
-		["material"] = "🍀︌󠆱", -- colr-icons-twine-material U+1f340 U+fe0c U+e01b1
-		["catpuccin-frappe"] = "🍀︌󠆲", -- colr-icons-twine-catpuccin-frappe U+1f340 U+fe0c U+e01b2
-		["catpuccin-latte"] = "🍀︌󠆳", -- colr-icons-twine-catpuccin-latte U+1f340 U+fe0c U+e01b3
-		["catpuccin-macchiato"] = "🍀︌󠆴", -- colr-icons-twine-catpuccin-macchiato U+1f340 U+fe0c U+e01b4
-		["catpuccin-mocha"] = "🍀︌󠆵", -- colr-icons-twine-catpuccin-mocha U+1f340 U+fe0c U+e01b5
+		["material"] = "🍀︌󠆲", -- colr-icons-twine-material U+1f340 U+fe0c U+e01b2
+		["catpuccin-frappe"] = "🍀︌󠆳", -- colr-icons-twine-catpuccin-frappe U+1f340 U+fe0c U+e01b3
+		["catpuccin-latte"] = "🍀︌󠆴", -- colr-icons-twine-catpuccin-latte U+1f340 U+fe0c U+e01b4
+		["catpuccin-macchiato"] = "🍀︌󠆵", -- colr-icons-twine-catpuccin-macchiato U+1f340 U+fe0c U+e01b5
+		["catpuccin-mocha"] = "🍀︌󠆶", -- colr-icons-twine-catpuccin-mocha U+1f340 U+fe0c U+e01b6
 	},
 	["typedoc"] = {
-		["material"] = "🍀︌󠆶", -- colr-icons-typedoc-material U+1f340 U+fe0c U+e01b6
+		["material"] = "🍀︌󠆷", -- colr-icons-typedoc-material U+1f340 U+fe0c U+e01b7
 	},
 	["typescript"] = {
-		["material"] = "🍀︌󠆷", -- colr-icons-typescript-material U+1f340 U+fe0c U+e01b7
-		["catpuccin-frappe"] = "🍀︌󠆸", -- colr-icons-typescript-catpuccin-frappe U+1f340 U+fe0c U+e01b8
-		["catpuccin-latte"] = "🍀︌󠆹", -- colr-icons-typescript-catpuccin-latte U+1f340 U+fe0c U+e01b9
-		["catpuccin-macchiato"] = "🍀︌󠆺", -- colr-icons-typescript-catpuccin-macchiato U+1f340 U+fe0c U+e01ba
-		["catpuccin-mocha"] = "🍀︌󠆻", -- colr-icons-typescript-catpuccin-mocha U+1f340 U+fe0c U+e01bb
+		["material"] = "🍀︌󠆸", -- colr-icons-typescript-material U+1f340 U+fe0c U+e01b8
+		["catpuccin-frappe"] = "🍀︌󠆹", -- colr-icons-typescript-catpuccin-frappe U+1f340 U+fe0c U+e01b9
+		["catpuccin-latte"] = "🍀︌󠆺", -- colr-icons-typescript-catpuccin-latte U+1f340 U+fe0c U+e01ba
+		["catpuccin-macchiato"] = "🍀︌󠆻", -- colr-icons-typescript-catpuccin-macchiato U+1f340 U+fe0c U+e01bb
+		["catpuccin-mocha"] = "🍀︌󠆼", -- colr-icons-typescript-catpuccin-mocha U+1f340 U+fe0c U+e01bc
 	},
 	["typescript-config"] = {
-		["catpuccin-frappe"] = "🍀︌󠆼", -- colr-icons-typescript-config-catpuccin-frappe U+1f340 U+fe0c U+e01bc
-		["catpuccin-latte"] = "🍀︌󠆽", -- colr-icons-typescript-config-catpuccin-latte U+1f340 U+fe0c U+e01bd
-		["catpuccin-macchiato"] = "🍀︌󠆾", -- colr-icons-typescript-config-catpuccin-macchiato U+1f340 U+fe0c U+e01be
-		["catpuccin-mocha"] = "🍀︌󠆿", -- colr-icons-typescript-config-catpuccin-mocha U+1f340 U+fe0c U+e01bf
+		["catpuccin-frappe"] = "🍀︌󠆽", -- colr-icons-typescript-config-catpuccin-frappe U+1f340 U+fe0c U+e01bd
+		["catpuccin-latte"] = "🍀︌󠆾", -- colr-icons-typescript-config-catpuccin-latte U+1f340 U+fe0c U+e01be
+		["catpuccin-macchiato"] = "🍀︌󠆿", -- colr-icons-typescript-config-catpuccin-macchiato U+1f340 U+fe0c U+e01bf
+		["catpuccin-mocha"] = "🍀︌󠇀", -- colr-icons-typescript-config-catpuccin-mocha U+1f340 U+fe0c U+e01c0
 	},
 	["typescript-def"] = {
-		["material"] = "🍀︌󠇀", -- colr-icons-typescript-def-material U+1f340 U+fe0c U+e01c0
-		["catpuccin-frappe"] = "🍀︌󠇁", -- colr-icons-typescript-def-catpuccin-frappe U+1f340 U+fe0c U+e01c1
-		["catpuccin-latte"] = "🍀︌󠇂", -- colr-icons-typescript-def-catpuccin-latte U+1f340 U+fe0c U+e01c2
-		["catpuccin-macchiato"] = "🍀︌󠇃", -- colr-icons-typescript-def-catpuccin-macchiato U+1f340 U+fe0c U+e01c3
-		["catpuccin-mocha"] = "🍀︌󠇄", -- colr-icons-typescript-def-catpuccin-mocha U+1f340 U+fe0c U+e01c4
+		["material"] = "🍀︌󠇁", -- colr-icons-typescript-def-material U+1f340 U+fe0c U+e01c1
+		["catpuccin-frappe"] = "🍀︌󠇂", -- colr-icons-typescript-def-catpuccin-frappe U+1f340 U+fe0c U+e01c2
+		["catpuccin-latte"] = "🍀︌󠇃", -- colr-icons-typescript-def-catpuccin-latte U+1f340 U+fe0c U+e01c3
+		["catpuccin-macchiato"] = "🍀︌󠇄", -- colr-icons-typescript-def-catpuccin-macchiato U+1f340 U+fe0c U+e01c4
+		["catpuccin-mocha"] = "🍀︌󠇅", -- colr-icons-typescript-def-catpuccin-mocha U+1f340 U+fe0c U+e01c5
 	},
 	["typescript-react"] = {
-		["catpuccin-frappe"] = "🍀︌󠇅", -- colr-icons-typescript-react-catpuccin-frappe U+1f340 U+fe0c U+e01c5
-		["catpuccin-latte"] = "🍀︌󠇆", -- colr-icons-typescript-react-catpuccin-latte U+1f340 U+fe0c U+e01c6
-		["catpuccin-macchiato"] = "🍀︌󠇇", -- colr-icons-typescript-react-catpuccin-macchiato U+1f340 U+fe0c U+e01c7
-		["catpuccin-mocha"] = "🍀︌󠇈", -- colr-icons-typescript-react-catpuccin-mocha U+1f340 U+fe0c U+e01c8
+		["catpuccin-frappe"] = "🍀︌󠇆", -- colr-icons-typescript-react-catpuccin-frappe U+1f340 U+fe0c U+e01c6
+		["catpuccin-latte"] = "🍀︌󠇇", -- colr-icons-typescript-react-catpuccin-latte U+1f340 U+fe0c U+e01c7
+		["catpuccin-macchiato"] = "🍀︌󠇈", -- colr-icons-typescript-react-catpuccin-macchiato U+1f340 U+fe0c U+e01c8
+		["catpuccin-mocha"] = "🍀︌󠇉", -- colr-icons-typescript-react-catpuccin-mocha U+1f340 U+fe0c U+e01c9
 	},
 	["typescript-test"] = {
-		["catpuccin-frappe"] = "🍀︌󠇉", -- colr-icons-typescript-test-catpuccin-frappe U+1f340 U+fe0c U+e01c9
-		["catpuccin-latte"] = "🍀︌󠇊", -- colr-icons-typescript-test-catpuccin-latte U+1f340 U+fe0c U+e01ca
-		["catpuccin-macchiato"] = "🍀︌󠇋", -- colr-icons-typescript-test-catpuccin-macchiato U+1f340 U+fe0c U+e01cb
-		["catpuccin-mocha"] = "🍀︌󠇌", -- colr-icons-typescript-test-catpuccin-mocha U+1f340 U+fe0c U+e01cc
+		["catpuccin-frappe"] = "🍀︌󠇊", -- colr-icons-typescript-test-catpuccin-frappe U+1f340 U+fe0c U+e01ca
+		["catpuccin-latte"] = "🍀︌󠇋", -- colr-icons-typescript-test-catpuccin-latte U+1f340 U+fe0c U+e01cb
+		["catpuccin-macchiato"] = "🍀︌󠇌", -- colr-icons-typescript-test-catpuccin-macchiato U+1f340 U+fe0c U+e01cc
+		["catpuccin-mocha"] = "🍀︌󠇍", -- colr-icons-typescript-test-catpuccin-mocha U+1f340 U+fe0c U+e01cd
 	},
 	["typst"] = {
-		["material"] = "🍀︌󠇍", -- colr-icons-typst-material U+1f340 U+fe0c U+e01cd
-		["catpuccin-frappe"] = "🍀︌󠇎", -- colr-icons-typst-catpuccin-frappe U+1f340 U+fe0c U+e01ce
-		["catpuccin-latte"] = "🍀︌󠇏", -- colr-icons-typst-catpuccin-latte U+1f340 U+fe0c U+e01cf
-		["catpuccin-macchiato"] = "🍀︌󠇐", -- colr-icons-typst-catpuccin-macchiato U+1f340 U+fe0c U+e01d0
-		["catpuccin-mocha"] = "🍀︌󠇑", -- colr-icons-typst-catpuccin-mocha U+1f340 U+fe0c U+e01d1
+		["material"] = "🍀︌󠇎", -- colr-icons-typst-material U+1f340 U+fe0c U+e01ce
+		["catpuccin-frappe"] = "🍀︌󠇏", -- colr-icons-typst-catpuccin-frappe U+1f340 U+fe0c U+e01cf
+		["catpuccin-latte"] = "🍀︌󠇐", -- colr-icons-typst-catpuccin-latte U+1f340 U+fe0c U+e01d0
+		["catpuccin-macchiato"] = "🍀︌󠇑", -- colr-icons-typst-catpuccin-macchiato U+1f340 U+fe0c U+e01d1
+		["catpuccin-mocha"] = "🍀︌󠇒", -- colr-icons-typst-catpuccin-mocha U+1f340 U+fe0c U+e01d2
 	},
 	["uiua"] = {
-		["material"] = "🍀︌󠇒", -- colr-icons-uiua-material U+1f340 U+fe0c U+e01d2
+		["material"] = "🍀︌󠇓", -- colr-icons-uiua-material U+1f340 U+fe0c U+e01d3
 	},
 	["umi"] = {
-		["material"] = "🍀︌󠇓", -- colr-icons-umi-material U+1f340 U+fe0c U+e01d3
+		["material"] = "🍀︌󠇔", -- colr-icons-umi-material U+1f340 U+fe0c U+e01d4
 	},
 	["uml"] = {
-		["material"] = "🍀︌󠇔", -- colr-icons-uml-material U+1f340 U+fe0c U+e01d4
+		["material"] = "🍀︌󠇕", -- colr-icons-uml-material U+1f340 U+fe0c U+e01d5
 	},
 	["uml_light"] = {
-		["material"] = "🍀︌󠇕", -- colr-icons-uml_light-material U+1f340 U+fe0c U+e01d5
+		["material"] = "🍀︌󠇖", -- colr-icons-uml_light-material U+1f340 U+fe0c U+e01d6
 	},
 	["unity"] = {
-		["material"] = "🍀︌󠇖", -- colr-icons-unity-material U+1f340 U+fe0c U+e01d6
-		["catpuccin-frappe"] = "🍀︌󠇗", -- colr-icons-unity-catpuccin-frappe U+1f340 U+fe0c U+e01d7
-		["catpuccin-latte"] = "🍀︌󠇘", -- colr-icons-unity-catpuccin-latte U+1f340 U+fe0c U+e01d8
-		["catpuccin-macchiato"] = "🍀︌󠇙", -- colr-icons-unity-catpuccin-macchiato U+1f340 U+fe0c U+e01d9
-		["catpuccin-mocha"] = "🍀︌󠇚", -- colr-icons-unity-catpuccin-mocha U+1f340 U+fe0c U+e01da
+		["material"] = "🍀︌󠇗", -- colr-icons-unity-material U+1f340 U+fe0c U+e01d7
+		["catpuccin-frappe"] = "🍀︌󠇘", -- colr-icons-unity-catpuccin-frappe U+1f340 U+fe0c U+e01d8
+		["catpuccin-latte"] = "🍀︌󠇙", -- colr-icons-unity-catpuccin-latte U+1f340 U+fe0c U+e01d9
+		["catpuccin-macchiato"] = "🍀︌󠇚", -- colr-icons-unity-catpuccin-macchiato U+1f340 U+fe0c U+e01da
+		["catpuccin-mocha"] = "🍀︌󠇛", -- colr-icons-unity-catpuccin-mocha U+1f340 U+fe0c U+e01db
 	},
 	["unlicense"] = {
-		["material"] = "🍀︌󠇛", -- colr-icons-unlicense-material U+1f340 U+fe0c U+e01db
+		["material"] = "🍀︌󠇜", -- colr-icons-unlicense-material U+1f340 U+fe0c U+e01dc
 	},
 	["unocss"] = {
-		["material"] = "🍀︌󠇜", -- colr-icons-unocss-material U+1f340 U+fe0c U+e01dc
-		["catpuccin-frappe"] = "🍀︌󠇝", -- colr-icons-unocss-catpuccin-frappe U+1f340 U+fe0c U+e01dd
-		["catpuccin-latte"] = "🍀︌󠇞", -- colr-icons-unocss-catpuccin-latte U+1f340 U+fe0c U+e01de
-		["catpuccin-macchiato"] = "🍀︌󠇟", -- colr-icons-unocss-catpuccin-macchiato U+1f340 U+fe0c U+e01df
-		["catpuccin-mocha"] = "🍀︌󠇠", -- colr-icons-unocss-catpuccin-mocha U+1f340 U+fe0c U+e01e0
+		["material"] = "🍀︌󠇝", -- colr-icons-unocss-material U+1f340 U+fe0c U+e01dd
+		["catpuccin-frappe"] = "🍀︌󠇞", -- colr-icons-unocss-catpuccin-frappe U+1f340 U+fe0c U+e01de
+		["catpuccin-latte"] = "🍀︌󠇟", -- colr-icons-unocss-catpuccin-latte U+1f340 U+fe0c U+e01df
+		["catpuccin-macchiato"] = "🍀︌󠇠", -- colr-icons-unocss-catpuccin-macchiato U+1f340 U+fe0c U+e01e0
+		["catpuccin-mocha"] = "🍀︌󠇡", -- colr-icons-unocss-catpuccin-mocha U+1f340 U+fe0c U+e01e1
 	},
 	["url"] = {
-		["material"] = "🍀︌󠇡", -- colr-icons-url-material U+1f340 U+fe0c U+e01e1
-		["catpuccin-frappe"] = "🍀︌󠇢", -- colr-icons-url-catpuccin-frappe U+1f340 U+fe0c U+e01e2
-		["catpuccin-latte"] = "🍀︌󠇣", -- colr-icons-url-catpuccin-latte U+1f340 U+fe0c U+e01e3
-		["catpuccin-macchiato"] = "🍀︌󠇤", -- colr-icons-url-catpuccin-macchiato U+1f340 U+fe0c U+e01e4
-		["catpuccin-mocha"] = "🍀︌󠇥", -- colr-icons-url-catpuccin-mocha U+1f340 U+fe0c U+e01e5
+		["material"] = "🍀︌󠇢", -- colr-icons-url-material U+1f340 U+fe0c U+e01e2
+		["catpuccin-frappe"] = "🍀︌󠇣", -- colr-icons-url-catpuccin-frappe U+1f340 U+fe0c U+e01e3
+		["catpuccin-latte"] = "🍀︌󠇤", -- colr-icons-url-catpuccin-latte U+1f340 U+fe0c U+e01e4
+		["catpuccin-macchiato"] = "🍀︌󠇥", -- colr-icons-url-catpuccin-macchiato U+1f340 U+fe0c U+e01e5
+		["catpuccin-mocha"] = "🍀︌󠇦", -- colr-icons-url-catpuccin-mocha U+1f340 U+fe0c U+e01e6
 	},
 	["uv"] = {
-		["material"] = "🍀︌󠇦", -- colr-icons-uv-material U+1f340 U+fe0c U+e01e6
-		["catpuccin-frappe"] = "🍀︌󠇧", -- colr-icons-uv-catpuccin-frappe U+1f340 U+fe0c U+e01e7
-		["catpuccin-latte"] = "🍀︌󠇨", -- colr-icons-uv-catpuccin-latte U+1f340 U+fe0c U+e01e8
-		["catpuccin-macchiato"] = "🍀︌󠇩", -- colr-icons-uv-catpuccin-macchiato U+1f340 U+fe0c U+e01e9
-		["catpuccin-mocha"] = "🍀︌󠇪", -- colr-icons-uv-catpuccin-mocha U+1f340 U+fe0c U+e01ea
+		["material"] = "🍀︌󠇧", -- colr-icons-uv-material U+1f340 U+fe0c U+e01e7
+		["catpuccin-frappe"] = "🍀︌󠇨", -- colr-icons-uv-catpuccin-frappe U+1f340 U+fe0c U+e01e8
+		["catpuccin-latte"] = "🍀︌󠇩", -- colr-icons-uv-catpuccin-latte U+1f340 U+fe0c U+e01e9
+		["catpuccin-macchiato"] = "🍀︌󠇪", -- colr-icons-uv-catpuccin-macchiato U+1f340 U+fe0c U+e01ea
+		["catpuccin-mocha"] = "🍀︌󠇫", -- colr-icons-uv-catpuccin-mocha U+1f340 U+fe0c U+e01eb
 	},
 	["v"] = {
-		["catpuccin-frappe"] = "🍀︌󠇫", -- colr-icons-v-catpuccin-frappe U+1f340 U+fe0c U+e01eb
-		["catpuccin-latte"] = "🍀︌󠇬", -- colr-icons-v-catpuccin-latte U+1f340 U+fe0c U+e01ec
-		["catpuccin-macchiato"] = "🍀︌󠇭", -- colr-icons-v-catpuccin-macchiato U+1f340 U+fe0c U+e01ed
-		["catpuccin-mocha"] = "🍀︌󠇮", -- colr-icons-v-catpuccin-mocha U+1f340 U+fe0c U+e01ee
+		["material"] = "🍀︌󠇬", -- colr-icons-v-material U+1f340 U+fe0c U+e01ec
+		["catpuccin-frappe"] = "🍀︌󠇭", -- colr-icons-v-catpuccin-frappe U+1f340 U+fe0c U+e01ed
+		["catpuccin-latte"] = "🍀︌󠇮", -- colr-icons-v-catpuccin-latte U+1f340 U+fe0c U+e01ee
+		["catpuccin-macchiato"] = "🍀︌󠇯", -- colr-icons-v-catpuccin-macchiato U+1f340 U+fe0c U+e01ef
+		["catpuccin-mocha"] = "🍀︍︀", -- colr-icons-v-catpuccin-mocha U+1f340 U+fe0d U+fe00
 	},
 	["vagrant"] = {
-		["material"] = "🍀︌󠇯", -- colr-icons-vagrant-material U+1f340 U+fe0c U+e01ef
+		["material"] = "🍀︍︁", -- colr-icons-vagrant-material U+1f340 U+fe0d U+fe01
 	},
 	["vala"] = {
-		["material"] = "🍀︍︀", -- colr-icons-vala-material U+1f340 U+fe0d U+fe00
-		["catpuccin-frappe"] = "🍀︍︁", -- colr-icons-vala-catpuccin-frappe U+1f340 U+fe0d U+fe01
-		["catpuccin-latte"] = "🍀︍︂", -- colr-icons-vala-catpuccin-latte U+1f340 U+fe0d U+fe02
-		["catpuccin-macchiato"] = "🍀︍︃", -- colr-icons-vala-catpuccin-macchiato U+1f340 U+fe0d U+fe03
-		["catpuccin-mocha"] = "🍀︍︄", -- colr-icons-vala-catpuccin-mocha U+1f340 U+fe0d U+fe04
+		["material"] = "🍀︍︂", -- colr-icons-vala-material U+1f340 U+fe0d U+fe02
+		["catpuccin-frappe"] = "🍀︍︃", -- colr-icons-vala-catpuccin-frappe U+1f340 U+fe0d U+fe03
+		["catpuccin-latte"] = "🍀︍︄", -- colr-icons-vala-catpuccin-latte U+1f340 U+fe0d U+fe04
+		["catpuccin-macchiato"] = "🍀︍︅", -- colr-icons-vala-catpuccin-macchiato U+1f340 U+fe0d U+fe05
+		["catpuccin-mocha"] = "🍀︍︆", -- colr-icons-vala-catpuccin-mocha U+1f340 U+fe0d U+fe06
 	},
 	["vanilla-extract"] = {
-		["material"] = "🍀︍︅", -- colr-icons-vanilla-extract-material U+1f340 U+fe0d U+fe05
-		["catpuccin-frappe"] = "🍀︍︆", -- colr-icons-vanilla-extract-catpuccin-frappe U+1f340 U+fe0d U+fe06
-		["catpuccin-latte"] = "🍀︍︇", -- colr-icons-vanilla-extract-catpuccin-latte U+1f340 U+fe0d U+fe07
-		["catpuccin-macchiato"] = "🍀︍︈", -- colr-icons-vanilla-extract-catpuccin-macchiato U+1f340 U+fe0d U+fe08
-		["catpuccin-mocha"] = "🍀︍︉", -- colr-icons-vanilla-extract-catpuccin-mocha U+1f340 U+fe0d U+fe09
+		["material"] = "🍀︍︇", -- colr-icons-vanilla-extract-material U+1f340 U+fe0d U+fe07
+		["catpuccin-frappe"] = "🍀︍︈", -- colr-icons-vanilla-extract-catpuccin-frappe U+1f340 U+fe0d U+fe08
+		["catpuccin-latte"] = "🍀︍︉", -- colr-icons-vanilla-extract-catpuccin-latte U+1f340 U+fe0d U+fe09
+		["catpuccin-macchiato"] = "🍀︍︊", -- colr-icons-vanilla-extract-catpuccin-macchiato U+1f340 U+fe0d U+fe0a
+		["catpuccin-mocha"] = "🍀︍︋", -- colr-icons-vanilla-extract-catpuccin-mocha U+1f340 U+fe0d U+fe0b
 	},
 	["vapi"] = {
-		["catpuccin-frappe"] = "🍀︍︊", -- colr-icons-vapi-catpuccin-frappe U+1f340 U+fe0d U+fe0a
-		["catpuccin-latte"] = "🍀︍︋", -- colr-icons-vapi-catpuccin-latte U+1f340 U+fe0d U+fe0b
-		["catpuccin-macchiato"] = "🍀︍︌", -- colr-icons-vapi-catpuccin-macchiato U+1f340 U+fe0d U+fe0c
-		["catpuccin-mocha"] = "🍀︍︍", -- colr-icons-vapi-catpuccin-mocha U+1f340 U+fe0d U+fe0d
+		["catpuccin-frappe"] = "🍀︍︌", -- colr-icons-vapi-catpuccin-frappe U+1f340 U+fe0d U+fe0c
+		["catpuccin-latte"] = "🍀︍︍", -- colr-icons-vapi-catpuccin-latte U+1f340 U+fe0d U+fe0d
+		["catpuccin-macchiato"] = "🍀︍︎", -- colr-icons-vapi-catpuccin-macchiato U+1f340 U+fe0d U+fe0e
+		["catpuccin-mocha"] = "🍀︍️", -- colr-icons-vapi-catpuccin-mocha U+1f340 U+fe0d U+fe0f
 	},
 	["varnish"] = {
-		["material"] = "🍀︍︎", -- colr-icons-varnish-material U+1f340 U+fe0d U+fe0e
+		["material"] = "🍀︍󠄀", -- colr-icons-varnish-material U+1f340 U+fe0d U+e0100
 	},
 	["vedic"] = {
-		["material"] = "🍀︍️", -- colr-icons-vedic-material U+1f340 U+fe0d U+fe0f
+		["material"] = "🍀︍󠄁", -- colr-icons-vedic-material U+1f340 U+fe0d U+e0101
 	},
 	["velite"] = {
-		["material"] = "🍀︍󠄀", -- colr-icons-velite-material U+1f340 U+fe0d U+e0100
+		["material"] = "🍀︍󠄂", -- colr-icons-velite-material U+1f340 U+fe0d U+e0102
 	},
 	["velocity"] = {
-		["material"] = "🍀︍󠄁", -- colr-icons-velocity-material U+1f340 U+fe0d U+e0101
+		["material"] = "🍀︍󠄃", -- colr-icons-velocity-material U+1f340 U+fe0d U+e0103
 	},
 	["vento"] = {
-		["catpuccin-frappe"] = "🍀︍󠄂", -- colr-icons-vento-catpuccin-frappe U+1f340 U+fe0d U+e0102
-		["catpuccin-latte"] = "🍀︍󠄃", -- colr-icons-vento-catpuccin-latte U+1f340 U+fe0d U+e0103
-		["catpuccin-macchiato"] = "🍀︍󠄄", -- colr-icons-vento-catpuccin-macchiato U+1f340 U+fe0d U+e0104
-		["catpuccin-mocha"] = "🍀︍󠄅", -- colr-icons-vento-catpuccin-mocha U+1f340 U+fe0d U+e0105
+		["catpuccin-frappe"] = "🍀︍󠄄", -- colr-icons-vento-catpuccin-frappe U+1f340 U+fe0d U+e0104
+		["catpuccin-latte"] = "🍀︍󠄅", -- colr-icons-vento-catpuccin-latte U+1f340 U+fe0d U+e0105
+		["catpuccin-macchiato"] = "🍀︍󠄆", -- colr-icons-vento-catpuccin-macchiato U+1f340 U+fe0d U+e0106
+		["catpuccin-mocha"] = "🍀︍󠄇", -- colr-icons-vento-catpuccin-mocha U+1f340 U+fe0d U+e0107
 	},
 	["vercel"] = {
-		["material"] = "🍀︍󠄆", -- colr-icons-vercel-material U+1f340 U+fe0d U+e0106
-		["catpuccin-frappe"] = "🍀︍󠄇", -- colr-icons-vercel-catpuccin-frappe U+1f340 U+fe0d U+e0107
-		["catpuccin-latte"] = "🍀︍󠄈", -- colr-icons-vercel-catpuccin-latte U+1f340 U+fe0d U+e0108
-		["catpuccin-macchiato"] = "🍀︍󠄉", -- colr-icons-vercel-catpuccin-macchiato U+1f340 U+fe0d U+e0109
-		["catpuccin-mocha"] = "🍀︍󠄊", -- colr-icons-vercel-catpuccin-mocha U+1f340 U+fe0d U+e010a
+		["material"] = "🍀︍󠄈", -- colr-icons-vercel-material U+1f340 U+fe0d U+e0108
+		["catpuccin-frappe"] = "🍀︍󠄉", -- colr-icons-vercel-catpuccin-frappe U+1f340 U+fe0d U+e0109
+		["catpuccin-latte"] = "🍀︍󠄊", -- colr-icons-vercel-catpuccin-latte U+1f340 U+fe0d U+e010a
+		["catpuccin-macchiato"] = "🍀︍󠄋", -- colr-icons-vercel-catpuccin-macchiato U+1f340 U+fe0d U+e010b
+		["catpuccin-mocha"] = "🍀︍󠄌", -- colr-icons-vercel-catpuccin-mocha U+1f340 U+fe0d U+e010c
 	},
 	["vercel-ignore"] = {
-		["catpuccin-frappe"] = "🍀︍󠄋", -- colr-icons-vercel-ignore-catpuccin-frappe U+1f340 U+fe0d U+e010b
-		["catpuccin-latte"] = "🍀︍󠄌", -- colr-icons-vercel-ignore-catpuccin-latte U+1f340 U+fe0d U+e010c
-		["catpuccin-macchiato"] = "🍀︍󠄍", -- colr-icons-vercel-ignore-catpuccin-macchiato U+1f340 U+fe0d U+e010d
-		["catpuccin-mocha"] = "🍀︍󠄎", -- colr-icons-vercel-ignore-catpuccin-mocha U+1f340 U+fe0d U+e010e
+		["catpuccin-frappe"] = "🍀︍󠄍", -- colr-icons-vercel-ignore-catpuccin-frappe U+1f340 U+fe0d U+e010d
+		["catpuccin-latte"] = "🍀︍󠄎", -- colr-icons-vercel-ignore-catpuccin-latte U+1f340 U+fe0d U+e010e
+		["catpuccin-macchiato"] = "🍀︍󠄏", -- colr-icons-vercel-ignore-catpuccin-macchiato U+1f340 U+fe0d U+e010f
+		["catpuccin-mocha"] = "🍀︍󠄐", -- colr-icons-vercel-ignore-catpuccin-mocha U+1f340 U+fe0d U+e0110
 	},
 	["vercel_light"] = {
-		["material"] = "🍀︍󠄏", -- colr-icons-vercel_light-material U+1f340 U+fe0d U+e010f
+		["material"] = "🍀︍󠄑", -- colr-icons-vercel_light-material U+1f340 U+fe0d U+e0111
 	},
 	["verdaccio"] = {
-		["material"] = "🍀︍󠄐", -- colr-icons-verdaccio-material U+1f340 U+fe0d U+e0110
+		["material"] = "🍀︍󠄒", -- colr-icons-verdaccio-material U+1f340 U+fe0d U+e0112
 	},
 	["verified"] = {
-		["material"] = "🍀︍󠄑", -- colr-icons-verified-material U+1f340 U+fe0d U+e0111
+		["material"] = "🍀︍󠄓", -- colr-icons-verified-material U+1f340 U+fe0d U+e0113
 	},
 	["verilog"] = {
-		["material"] = "🍀︍󠄒", -- colr-icons-verilog-material U+1f340 U+fe0d U+e0112
-		["catpuccin-frappe"] = "🍀︍󠄓", -- colr-icons-verilog-catpuccin-frappe U+1f340 U+fe0d U+e0113
-		["catpuccin-latte"] = "🍀︍󠄔", -- colr-icons-verilog-catpuccin-latte U+1f340 U+fe0d U+e0114
-		["catpuccin-macchiato"] = "🍀︍󠄕", -- colr-icons-verilog-catpuccin-macchiato U+1f340 U+fe0d U+e0115
-		["catpuccin-mocha"] = "🍀︍󠄖", -- colr-icons-verilog-catpuccin-mocha U+1f340 U+fe0d U+e0116
+		["material"] = "🍀︍󠄔", -- colr-icons-verilog-material U+1f340 U+fe0d U+e0114
+		["catpuccin-frappe"] = "🍀︍󠄕", -- colr-icons-verilog-catpuccin-frappe U+1f340 U+fe0d U+e0115
+		["catpuccin-latte"] = "🍀︍󠄖", -- colr-icons-verilog-catpuccin-latte U+1f340 U+fe0d U+e0116
+		["catpuccin-macchiato"] = "🍀︍󠄗", -- colr-icons-verilog-catpuccin-macchiato U+1f340 U+fe0d U+e0117
+		["catpuccin-mocha"] = "🍀︍󠄘", -- colr-icons-verilog-catpuccin-mocha U+1f340 U+fe0d U+e0118
 	},
 	["verse"] = {
-		["material"] = "🍀︍󠄗", -- colr-icons-verse-material U+1f340 U+fe0d U+e0117
+		["material"] = "🍀︍󠄙", -- colr-icons-verse-material U+1f340 U+fe0d U+e0119
 	},
 	["verse_light"] = {
-		["material"] = "🍀︍󠄘", -- colr-icons-verse_light-material U+1f340 U+fe0d U+e0118
+		["material"] = "🍀︍󠄚", -- colr-icons-verse_light-material U+1f340 U+fe0d U+e011a
 	},
 	["vfl"] = {
-		["material"] = "🍀︍󠄙", -- colr-icons-vfl-material U+1f340 U+fe0d U+e0119
+		["material"] = "🍀︍󠄛", -- colr-icons-vfl-material U+1f340 U+fe0d U+e011b
 	},
 	["vhs"] = {
-		["catpuccin-frappe"] = "🍀︍󠄚", -- colr-icons-vhs-catpuccin-frappe U+1f340 U+fe0d U+e011a
-		["catpuccin-latte"] = "🍀︍󠄛", -- colr-icons-vhs-catpuccin-latte U+1f340 U+fe0d U+e011b
-		["catpuccin-macchiato"] = "🍀︍󠄜", -- colr-icons-vhs-catpuccin-macchiato U+1f340 U+fe0d U+e011c
-		["catpuccin-mocha"] = "🍀︍󠄝", -- colr-icons-vhs-catpuccin-mocha U+1f340 U+fe0d U+e011d
+		["catpuccin-frappe"] = "🍀︍󠄜", -- colr-icons-vhs-catpuccin-frappe U+1f340 U+fe0d U+e011c
+		["catpuccin-latte"] = "🍀︍󠄝", -- colr-icons-vhs-catpuccin-latte U+1f340 U+fe0d U+e011d
+		["catpuccin-macchiato"] = "🍀︍󠄞", -- colr-icons-vhs-catpuccin-macchiato U+1f340 U+fe0d U+e011e
+		["catpuccin-mocha"] = "🍀︍󠄟", -- colr-icons-vhs-catpuccin-mocha U+1f340 U+fe0d U+e011f
 	},
 	["video"] = {
-		["material"] = "🍀︍󠄞", -- colr-icons-video-material U+1f340 U+fe0d U+e011e
-		["catpuccin-frappe"] = "🍀︍󠄟", -- colr-icons-video-catpuccin-frappe U+1f340 U+fe0d U+e011f
-		["catpuccin-latte"] = "🍀︍󠄠", -- colr-icons-video-catpuccin-latte U+1f340 U+fe0d U+e0120
-		["catpuccin-macchiato"] = "🍀︍󠄡", -- colr-icons-video-catpuccin-macchiato U+1f340 U+fe0d U+e0121
-		["catpuccin-mocha"] = "🍀︍󠄢", -- colr-icons-video-catpuccin-mocha U+1f340 U+fe0d U+e0122
+		["material"] = "🍀︍󠄠", -- colr-icons-video-material U+1f340 U+fe0d U+e0120
+		["catpuccin-frappe"] = "🍀︍󠄡", -- colr-icons-video-catpuccin-frappe U+1f340 U+fe0d U+e0121
+		["catpuccin-latte"] = "🍀︍󠄢", -- colr-icons-video-catpuccin-latte U+1f340 U+fe0d U+e0122
+		["catpuccin-macchiato"] = "🍀︍󠄣", -- colr-icons-video-catpuccin-macchiato U+1f340 U+fe0d U+e0123
+		["catpuccin-mocha"] = "🍀︍󠄤", -- colr-icons-video-catpuccin-mocha U+1f340 U+fe0d U+e0124
 	},
 	["vim"] = {
-		["material"] = "🍀︍󠄣", -- colr-icons-vim-material U+1f340 U+fe0d U+e0123
-		["catpuccin-frappe"] = "🍀︍󠄤", -- colr-icons-vim-catpuccin-frappe U+1f340 U+fe0d U+e0124
-		["catpuccin-latte"] = "🍀︍󠄥", -- colr-icons-vim-catpuccin-latte U+1f340 U+fe0d U+e0125
-		["catpuccin-macchiato"] = "🍀︍󠄦", -- colr-icons-vim-catpuccin-macchiato U+1f340 U+fe0d U+e0126
-		["catpuccin-mocha"] = "🍀︍󠄧", -- colr-icons-vim-catpuccin-mocha U+1f340 U+fe0d U+e0127
+		["material"] = "🍀︍󠄥", -- colr-icons-vim-material U+1f340 U+fe0d U+e0125
+		["catpuccin-frappe"] = "🍀︍󠄦", -- colr-icons-vim-catpuccin-frappe U+1f340 U+fe0d U+e0126
+		["catpuccin-latte"] = "🍀︍󠄧", -- colr-icons-vim-catpuccin-latte U+1f340 U+fe0d U+e0127
+		["catpuccin-macchiato"] = "🍀︍󠄨", -- colr-icons-vim-catpuccin-macchiato U+1f340 U+fe0d U+e0128
+		["catpuccin-mocha"] = "🍀︍󠄩", -- colr-icons-vim-catpuccin-mocha U+1f340 U+fe0d U+e0129
 	},
 	["virtual"] = {
-		["material"] = "🍀︍󠄨", -- colr-icons-virtual-material U+1f340 U+fe0d U+e0128
+		["material"] = "🍀︍󠄪", -- colr-icons-virtual-material U+1f340 U+fe0d U+e012a
 	},
 	["visual-studio"] = {
-		["catpuccin-frappe"] = "🍀︍󠄩", -- colr-icons-visual-studio-catpuccin-frappe U+1f340 U+fe0d U+e0129
-		["catpuccin-latte"] = "🍀︍󠄪", -- colr-icons-visual-studio-catpuccin-latte U+1f340 U+fe0d U+e012a
-		["catpuccin-macchiato"] = "🍀︍󠄫", -- colr-icons-visual-studio-catpuccin-macchiato U+1f340 U+fe0d U+e012b
-		["catpuccin-mocha"] = "🍀︍󠄬", -- colr-icons-visual-studio-catpuccin-mocha U+1f340 U+fe0d U+e012c
-	},
-	["visualstudio"] = {
-		["material"] = "🍀︍󠄭", -- colr-icons-visualstudio-material U+1f340 U+fe0d U+e012d
+		["material"] = "🍀︍󠄫", -- colr-icons-visual-studio-material U+1f340 U+fe0d U+e012b
+		["catpuccin-frappe"] = "🍀︍󠄬", -- colr-icons-visual-studio-catpuccin-frappe U+1f340 U+fe0d U+e012c
+		["catpuccin-latte"] = "🍀︍󠄭", -- colr-icons-visual-studio-catpuccin-latte U+1f340 U+fe0d U+e012d
+		["catpuccin-macchiato"] = "🍀︍󠄮", -- colr-icons-visual-studio-catpuccin-macchiato U+1f340 U+fe0d U+e012e
+		["catpuccin-mocha"] = "🍀︍󠄯", -- colr-icons-visual-studio-catpuccin-mocha U+1f340 U+fe0d U+e012f
 	},
 	["vital"] = {
-		["catpuccin-frappe"] = "🍀︍󠄮", -- colr-icons-vital-catpuccin-frappe U+1f340 U+fe0d U+e012e
-		["catpuccin-latte"] = "🍀︍󠄯", -- colr-icons-vital-catpuccin-latte U+1f340 U+fe0d U+e012f
-		["catpuccin-macchiato"] = "🍀︍󠄰", -- colr-icons-vital-catpuccin-macchiato U+1f340 U+fe0d U+e0130
-		["catpuccin-mocha"] = "🍀︍󠄱", -- colr-icons-vital-catpuccin-mocha U+1f340 U+fe0d U+e0131
+		["catpuccin-frappe"] = "🍀︍󠄰", -- colr-icons-vital-catpuccin-frappe U+1f340 U+fe0d U+e0130
+		["catpuccin-latte"] = "🍀︍󠄱", -- colr-icons-vital-catpuccin-latte U+1f340 U+fe0d U+e0131
+		["catpuccin-macchiato"] = "🍀︍󠄲", -- colr-icons-vital-catpuccin-macchiato U+1f340 U+fe0d U+e0132
+		["catpuccin-mocha"] = "🍀︍󠄳", -- colr-icons-vital-catpuccin-mocha U+1f340 U+fe0d U+e0133
 	},
 	["vite"] = {
-		["material"] = "🍀︍󠄲", -- colr-icons-vite-material U+1f340 U+fe0d U+e0132
-		["catpuccin-frappe"] = "🍀︍󠄳", -- colr-icons-vite-catpuccin-frappe U+1f340 U+fe0d U+e0133
-		["catpuccin-latte"] = "🍀︍󠄴", -- colr-icons-vite-catpuccin-latte U+1f340 U+fe0d U+e0134
-		["catpuccin-macchiato"] = "🍀︍󠄵", -- colr-icons-vite-catpuccin-macchiato U+1f340 U+fe0d U+e0135
-		["catpuccin-mocha"] = "🍀︍󠄶", -- colr-icons-vite-catpuccin-mocha U+1f340 U+fe0d U+e0136
+		["material"] = "🍀︍󠄴", -- colr-icons-vite-material U+1f340 U+fe0d U+e0134
+		["catpuccin-frappe"] = "🍀︍󠄵", -- colr-icons-vite-catpuccin-frappe U+1f340 U+fe0d U+e0135
+		["catpuccin-latte"] = "🍀︍󠄶", -- colr-icons-vite-catpuccin-latte U+1f340 U+fe0d U+e0136
+		["catpuccin-macchiato"] = "🍀︍󠄷", -- colr-icons-vite-catpuccin-macchiato U+1f340 U+fe0d U+e0137
+		["catpuccin-mocha"] = "🍀︍󠄸", -- colr-icons-vite-catpuccin-mocha U+1f340 U+fe0d U+e0138
 	},
 	["vitest"] = {
-		["material"] = "🍀︍󠄷", -- colr-icons-vitest-material U+1f340 U+fe0d U+e0137
-		["catpuccin-frappe"] = "🍀︍󠄸", -- colr-icons-vitest-catpuccin-frappe U+1f340 U+fe0d U+e0138
-		["catpuccin-latte"] = "🍀︍󠄹", -- colr-icons-vitest-catpuccin-latte U+1f340 U+fe0d U+e0139
-		["catpuccin-macchiato"] = "🍀︍󠄺", -- colr-icons-vitest-catpuccin-macchiato U+1f340 U+fe0d U+e013a
-		["catpuccin-mocha"] = "🍀︍󠄻", -- colr-icons-vitest-catpuccin-mocha U+1f340 U+fe0d U+e013b
-	},
-	["vlang"] = {
-		["material"] = "🍀︍󠄼", -- colr-icons-vlang-material U+1f340 U+fe0d U+e013c
+		["material"] = "🍀︍󠄹", -- colr-icons-vitest-material U+1f340 U+fe0d U+e0139
+		["catpuccin-frappe"] = "🍀︍󠄺", -- colr-icons-vitest-catpuccin-frappe U+1f340 U+fe0d U+e013a
+		["catpuccin-latte"] = "🍀︍󠄻", -- colr-icons-vitest-catpuccin-latte U+1f340 U+fe0d U+e013b
+		["catpuccin-macchiato"] = "🍀︍󠄼", -- colr-icons-vitest-catpuccin-macchiato U+1f340 U+fe0d U+e013c
+		["catpuccin-mocha"] = "🍀︍󠄽", -- colr-icons-vitest-catpuccin-mocha U+1f340 U+fe0d U+e013d
 	},
 	["vs-codium"] = {
-		["catpuccin-frappe"] = "🍀︍󠄽", -- colr-icons-vs-codium-catpuccin-frappe U+1f340 U+fe0d U+e013d
-		["catpuccin-latte"] = "🍀︍󠄾", -- colr-icons-vs-codium-catpuccin-latte U+1f340 U+fe0d U+e013e
-		["catpuccin-macchiato"] = "🍀︍󠄿", -- colr-icons-vs-codium-catpuccin-macchiato U+1f340 U+fe0d U+e013f
-		["catpuccin-mocha"] = "🍀︍󠅀", -- colr-icons-vs-codium-catpuccin-mocha U+1f340 U+fe0d U+e0140
+		["catpuccin-frappe"] = "🍀︍󠄾", -- colr-icons-vs-codium-catpuccin-frappe U+1f340 U+fe0d U+e013e
+		["catpuccin-latte"] = "🍀︍󠄿", -- colr-icons-vs-codium-catpuccin-latte U+1f340 U+fe0d U+e013f
+		["catpuccin-macchiato"] = "🍀︍󠅀", -- colr-icons-vs-codium-catpuccin-macchiato U+1f340 U+fe0d U+e0140
+		["catpuccin-mocha"] = "🍀︍󠅁", -- colr-icons-vs-codium-catpuccin-mocha U+1f340 U+fe0d U+e0141
 	},
 	["vscode"] = {
-		["material"] = "🍀︍󠅁", -- colr-icons-vscode-material U+1f340 U+fe0d U+e0141
-		["catpuccin-frappe"] = "🍀︍󠅂", -- colr-icons-vscode-catpuccin-frappe U+1f340 U+fe0d U+e0142
-		["catpuccin-latte"] = "🍀︍󠅃", -- colr-icons-vscode-catpuccin-latte U+1f340 U+fe0d U+e0143
-		["catpuccin-macchiato"] = "🍀︍󠅄", -- colr-icons-vscode-catpuccin-macchiato U+1f340 U+fe0d U+e0144
-		["catpuccin-mocha"] = "🍀︍󠅅", -- colr-icons-vscode-catpuccin-mocha U+1f340 U+fe0d U+e0145
+		["material"] = "🍀︍󠅂", -- colr-icons-vscode-material U+1f340 U+fe0d U+e0142
+		["catpuccin-frappe"] = "🍀︍󠅃", -- colr-icons-vscode-catpuccin-frappe U+1f340 U+fe0d U+e0143
+		["catpuccin-latte"] = "🍀︍󠅄", -- colr-icons-vscode-catpuccin-latte U+1f340 U+fe0d U+e0144
+		["catpuccin-macchiato"] = "🍀︍󠅅", -- colr-icons-vscode-catpuccin-macchiato U+1f340 U+fe0d U+e0145
+		["catpuccin-mocha"] = "🍀︍󠅆", -- colr-icons-vscode-catpuccin-mocha U+1f340 U+fe0d U+e0146
 	},
 	["vscode-ignore"] = {
-		["catpuccin-frappe"] = "🍀︍󠅆", -- colr-icons-vscode-ignore-catpuccin-frappe U+1f340 U+fe0d U+e0146
-		["catpuccin-latte"] = "🍀︍󠅇", -- colr-icons-vscode-ignore-catpuccin-latte U+1f340 U+fe0d U+e0147
-		["catpuccin-macchiato"] = "🍀︍󠅈", -- colr-icons-vscode-ignore-catpuccin-macchiato U+1f340 U+fe0d U+e0148
-		["catpuccin-mocha"] = "🍀︍󠅉", -- colr-icons-vscode-ignore-catpuccin-mocha U+1f340 U+fe0d U+e0149
+		["catpuccin-frappe"] = "🍀︍󠅇", -- colr-icons-vscode-ignore-catpuccin-frappe U+1f340 U+fe0d U+e0147
+		["catpuccin-latte"] = "🍀︍󠅈", -- colr-icons-vscode-ignore-catpuccin-latte U+1f340 U+fe0d U+e0148
+		["catpuccin-macchiato"] = "🍀︍󠅉", -- colr-icons-vscode-ignore-catpuccin-macchiato U+1f340 U+fe0d U+e0149
+		["catpuccin-mocha"] = "🍀︍󠅊", -- colr-icons-vscode-ignore-catpuccin-mocha U+1f340 U+fe0d U+e014a
 	},
 	["vue"] = {
-		["material"] = "🍀︍󠅊", -- colr-icons-vue-material U+1f340 U+fe0d U+e014a
-		["catpuccin-frappe"] = "🍀︍󠅋", -- colr-icons-vue-catpuccin-frappe U+1f340 U+fe0d U+e014b
-		["catpuccin-latte"] = "🍀︍󠅌", -- colr-icons-vue-catpuccin-latte U+1f340 U+fe0d U+e014c
-		["catpuccin-macchiato"] = "🍀︍󠅍", -- colr-icons-vue-catpuccin-macchiato U+1f340 U+fe0d U+e014d
-		["catpuccin-mocha"] = "🍀︍󠅎", -- colr-icons-vue-catpuccin-mocha U+1f340 U+fe0d U+e014e
+		["material"] = "🍀︍󠅋", -- colr-icons-vue-material U+1f340 U+fe0d U+e014b
+		["catpuccin-frappe"] = "🍀︍󠅌", -- colr-icons-vue-catpuccin-frappe U+1f340 U+fe0d U+e014c
+		["catpuccin-latte"] = "🍀︍󠅍", -- colr-icons-vue-catpuccin-latte U+1f340 U+fe0d U+e014d
+		["catpuccin-macchiato"] = "🍀︍󠅎", -- colr-icons-vue-catpuccin-macchiato U+1f340 U+fe0d U+e014e
+		["catpuccin-mocha"] = "🍀︍󠅏", -- colr-icons-vue-catpuccin-mocha U+1f340 U+fe0d U+e014f
 	},
 	["vue-config"] = {
-		["material"] = "🍀︍󠅏", -- colr-icons-vue-config-material U+1f340 U+fe0d U+e014f
-		["catpuccin-frappe"] = "🍀︍󠅐", -- colr-icons-vue-config-catpuccin-frappe U+1f340 U+fe0d U+e0150
-		["catpuccin-latte"] = "🍀︍󠅑", -- colr-icons-vue-config-catpuccin-latte U+1f340 U+fe0d U+e0151
-		["catpuccin-macchiato"] = "🍀︍󠅒", -- colr-icons-vue-config-catpuccin-macchiato U+1f340 U+fe0d U+e0152
-		["catpuccin-mocha"] = "🍀︍󠅓", -- colr-icons-vue-config-catpuccin-mocha U+1f340 U+fe0d U+e0153
+		["material"] = "🍀︍󠅐", -- colr-icons-vue-config-material U+1f340 U+fe0d U+e0150
+		["catpuccin-frappe"] = "🍀︍󠅑", -- colr-icons-vue-config-catpuccin-frappe U+1f340 U+fe0d U+e0151
+		["catpuccin-latte"] = "🍀︍󠅒", -- colr-icons-vue-config-catpuccin-latte U+1f340 U+fe0d U+e0152
+		["catpuccin-macchiato"] = "🍀︍󠅓", -- colr-icons-vue-config-catpuccin-macchiato U+1f340 U+fe0d U+e0153
+		["catpuccin-mocha"] = "🍀︍󠅔", -- colr-icons-vue-config-catpuccin-mocha U+1f340 U+fe0d U+e0154
 	},
 	["vuex-store"] = {
-		["material"] = "🍀︍󠅔", -- colr-icons-vuex-store-material U+1f340 U+fe0d U+e0154
+		["material"] = "🍀︍󠅕", -- colr-icons-vuex-store-material U+1f340 U+fe0d U+e0155
 	},
 	["wakatime"] = {
-		["material"] = "🍀︍󠅕", -- colr-icons-wakatime-material U+1f340 U+fe0d U+e0155
+		["material"] = "🍀︍󠅖", -- colr-icons-wakatime-material U+1f340 U+fe0d U+e0156
 	},
 	["wakatime_light"] = {
-		["material"] = "🍀︍󠅖", -- colr-icons-wakatime_light-material U+1f340 U+fe0d U+e0156
+		["material"] = "🍀︍󠅗", -- colr-icons-wakatime_light-material U+1f340 U+fe0d U+e0157
 	},
 	["wallaby"] = {
-		["material"] = "🍀︍󠅗", -- colr-icons-wallaby-material U+1f340 U+fe0d U+e0157
+		["material"] = "🍀︍󠅘", -- colr-icons-wallaby-material U+1f340 U+fe0d U+e0158
 	},
 	["warp"] = {
-		["material"] = "🍀︍󠅘", -- colr-icons-warp-material U+1f340 U+fe0d U+e0158
+		["material"] = "🍀︍󠅙", -- colr-icons-warp-material U+1f340 U+fe0d U+e0159
 	},
 	["warp_light"] = {
-		["material"] = "🍀︍󠅙", -- colr-icons-warp_light-material U+1f340 U+fe0d U+e0159
+		["material"] = "🍀︍󠅚", -- colr-icons-warp_light-material U+1f340 U+fe0d U+e015a
 	},
 	["watchman"] = {
-		["material"] = "🍀︍󠅚", -- colr-icons-watchman-material U+1f340 U+fe0d U+e015a
+		["material"] = "🍀︍󠅛", -- colr-icons-watchman-material U+1f340 U+fe0d U+e015b
 	},
 	["webassembly"] = {
-		["material"] = "🍀︍󠅛", -- colr-icons-webassembly-material U+1f340 U+fe0d U+e015b
-		["catpuccin-frappe"] = "🍀︍󠅜", -- colr-icons-webassembly-catpuccin-frappe U+1f340 U+fe0d U+e015c
-		["catpuccin-latte"] = "🍀︍󠅝", -- colr-icons-webassembly-catpuccin-latte U+1f340 U+fe0d U+e015d
-		["catpuccin-macchiato"] = "🍀︍󠅞", -- colr-icons-webassembly-catpuccin-macchiato U+1f340 U+fe0d U+e015e
-		["catpuccin-mocha"] = "🍀︍󠅟", -- colr-icons-webassembly-catpuccin-mocha U+1f340 U+fe0d U+e015f
+		["material"] = "🍀︍󠅜", -- colr-icons-webassembly-material U+1f340 U+fe0d U+e015c
+		["catpuccin-frappe"] = "🍀︍󠅝", -- colr-icons-webassembly-catpuccin-frappe U+1f340 U+fe0d U+e015d
+		["catpuccin-latte"] = "🍀︍󠅞", -- colr-icons-webassembly-catpuccin-latte U+1f340 U+fe0d U+e015e
+		["catpuccin-macchiato"] = "🍀︍󠅟", -- colr-icons-webassembly-catpuccin-macchiato U+1f340 U+fe0d U+e015f
+		["catpuccin-mocha"] = "🍀︍󠅠", -- colr-icons-webassembly-catpuccin-mocha U+1f340 U+fe0d U+e0160
 	},
 	["webhint"] = {
-		["material"] = "🍀︍󠅠", -- colr-icons-webhint-material U+1f340 U+fe0d U+e0160
+		["material"] = "🍀︍󠅡", -- colr-icons-webhint-material U+1f340 U+fe0d U+e0161
 	},
 	["webpack"] = {
-		["material"] = "🍀︍󠅡", -- colr-icons-webpack-material U+1f340 U+fe0d U+e0161
-		["catpuccin-frappe"] = "🍀︍󠅢", -- colr-icons-webpack-catpuccin-frappe U+1f340 U+fe0d U+e0162
-		["catpuccin-latte"] = "🍀︍󠅣", -- colr-icons-webpack-catpuccin-latte U+1f340 U+fe0d U+e0163
-		["catpuccin-macchiato"] = "🍀︍󠅤", -- colr-icons-webpack-catpuccin-macchiato U+1f340 U+fe0d U+e0164
-		["catpuccin-mocha"] = "🍀︍󠅥", -- colr-icons-webpack-catpuccin-mocha U+1f340 U+fe0d U+e0165
+		["material"] = "🍀︍󠅢", -- colr-icons-webpack-material U+1f340 U+fe0d U+e0162
+		["catpuccin-frappe"] = "🍀︍󠅣", -- colr-icons-webpack-catpuccin-frappe U+1f340 U+fe0d U+e0163
+		["catpuccin-latte"] = "🍀︍󠅤", -- colr-icons-webpack-catpuccin-latte U+1f340 U+fe0d U+e0164
+		["catpuccin-macchiato"] = "🍀︍󠅥", -- colr-icons-webpack-catpuccin-macchiato U+1f340 U+fe0d U+e0165
+		["catpuccin-mocha"] = "🍀︍󠅦", -- colr-icons-webpack-catpuccin-mocha U+1f340 U+fe0d U+e0166
 	},
 	["wepy"] = {
-		["material"] = "🍀︍󠅦", -- colr-icons-wepy-material U+1f340 U+fe0d U+e0166
+		["material"] = "🍀︍󠅧", -- colr-icons-wepy-material U+1f340 U+fe0d U+e0167
 	},
 	["werf"] = {
-		["material"] = "🍀︍󠅧", -- colr-icons-werf-material U+1f340 U+fe0d U+e0167
+		["material"] = "🍀︍󠅨", -- colr-icons-werf-material U+1f340 U+fe0d U+e0168
 	},
 	["windi"] = {
-		["catpuccin-frappe"] = "🍀︍󠅨", -- colr-icons-windi-catpuccin-frappe U+1f340 U+fe0d U+e0168
-		["catpuccin-latte"] = "🍀︍󠅩", -- colr-icons-windi-catpuccin-latte U+1f340 U+fe0d U+e0169
-		["catpuccin-macchiato"] = "🍀︍󠅪", -- colr-icons-windi-catpuccin-macchiato U+1f340 U+fe0d U+e016a
-		["catpuccin-mocha"] = "🍀︍󠅫", -- colr-icons-windi-catpuccin-mocha U+1f340 U+fe0d U+e016b
+		["catpuccin-frappe"] = "🍀︍󠅩", -- colr-icons-windi-catpuccin-frappe U+1f340 U+fe0d U+e0169
+		["catpuccin-latte"] = "🍀︍󠅪", -- colr-icons-windi-catpuccin-latte U+1f340 U+fe0d U+e016a
+		["catpuccin-macchiato"] = "🍀︍󠅫", -- colr-icons-windi-catpuccin-macchiato U+1f340 U+fe0d U+e016b
+		["catpuccin-mocha"] = "🍀︍󠅬", -- colr-icons-windi-catpuccin-mocha U+1f340 U+fe0d U+e016c
 	},
 	["windicss"] = {
-		["material"] = "🍀︍󠅬", -- colr-icons-windicss-material U+1f340 U+fe0d U+e016c
+		["material"] = "🍀︍󠅭", -- colr-icons-windicss-material U+1f340 U+fe0d U+e016d
 	},
 	["wolframlanguage"] = {
-		["material"] = "🍀︍󠅭", -- colr-icons-wolframlanguage-material U+1f340 U+fe0d U+e016d
-	},
-	["word"] = {
-		["material"] = "🍀︍󠅮", -- colr-icons-word-material U+1f340 U+fe0d U+e016e
+		["material"] = "🍀︍󠅮", -- colr-icons-wolframlanguage-material U+1f340 U+fe0d U+e016e
 	},
 	["workflow"] = {
 		["catpuccin-frappe"] = "🍀︍󠅯", -- colr-icons-workflow-catpuccin-frappe U+1f340 U+fe0d U+e016f

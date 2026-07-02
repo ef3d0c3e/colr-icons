@@ -16,9 +16,8 @@ def get_selectors(id):
         # https://en.wikipedia.org/wiki/Variation_Selectors_Supplement
         return 0xE0100 + i
     return [
-        var_sel((id // 0x10000) % 256),
-        var_sel((id // 0x100) % 256),
-        var_sel(id % 256),
+        var_sel((id >> 8) & 0xFF),
+        var_sel(id & 0xFF),
     ]
 
 def main():
@@ -39,7 +38,7 @@ def main():
             for icon_var, icon in iconvars.items():
                 base_glyph = f"{icon_name}-{icon_var}"
                 selectors = get_selectors(id)
-                table_lines.append(f"\t\t[\"{icon_var}\"] = \"{chr(BASE)}{chr(selectors[0])}{chr(selectors[1])}{chr(selectors[2])}\", -- colr-icons-{base_glyph} U+{BASE:x} U+{selectors[0]:x} U+{selectors[1]:x} U+{selectors[2]:x}")
+                table_lines.append(f"\t\t[\"{icon_var}\"] = \"{chr(BASE)}{chr(selectors[0])}{chr(selectors[1])}\", -- colr-icons-{base_glyph} U+{BASE:x} U+{selectors[0]:x} U+{selectors[1]:x}")
                 id += 1
             table_lines.append(f"\t}},")
 
