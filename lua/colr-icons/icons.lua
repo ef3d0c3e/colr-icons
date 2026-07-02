@@ -15,23 +15,23 @@ M.themes = {
 		placeholder = "FF",
 	},
 	["catpuccin-frappe"] = {
-		folder_closed = "🍀︂󠆃",
-		folder_open = "🍀︂󠆄",
+		folder_closed = "🍀︂󠅻",
+		folder_open = "🍀︂󠅼",
 		placeholder = "FF",
 	},
 	["catpuccin-latte"] = {
-		folder_closed = "🍀︂󠆅",
-		folder_open = "🍀︂󠆆",
+		folder_closed = "🍀︂󠅽",
+		folder_open = "🍀︂󠅾",
 		placeholder = "FF",
 	},
 	["catpuccin-macchiato"] = {
-		folder_closed = "🍀︂󠆇",
-		folder_open = "🍀︂󠆈",
+		folder_closed = "🍀︂󠅿",
+		folder_open = "🍀︂󠆀",
 		placeholder = "FF",
 	},
 	["catpuccin-mocha"] = {
-		folder_closed = "🍀︂󠆉",
-		folder_open = "🍀︂󠆊",
+		folder_closed = "🍀︂󠆁",
+		folder_open = "🍀︂󠆂",
 		placeholder = "FF",
 	},
 }

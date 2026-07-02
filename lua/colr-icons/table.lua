@@ -1094,7 +1094,6 @@ return {
 		["catpuccin-latte"] = "🍀︂󠆅", -- colr-icons-folder-plain-catpuccin-latte U+1f340 U+fe02 U+e0185
 		["catpuccin-macchiato"] = "🍀︂󠆇", -- colr-icons-folder-plain-catpuccin-macchiato U+1f340 U+fe02 U+e0187
 		["catpuccin-mocha"] = "🍀︂󠆉", -- colr-icons-folder-plain-catpuccin-mocha U+1f340 U+fe02 U+e0189
-		["catpuccin-frappe"] = "🍀︂󠅻", -- colr-icons-folder-catpuccin-frappe U+1f340 U+fe02 U+e017b
 	},
 	["folder-open"] = {
 		["material"] = "🍀︂󠅺", -- colr-icons-folder-material U+1f340 U+fe02 U+e017a
