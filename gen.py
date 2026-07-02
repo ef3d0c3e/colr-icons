@@ -9,6 +9,8 @@ SVG_NS = "http://www.w3.org/2000/svg"
 ET.register_namespace("", SVG_NS)
 BASE = 0x1f340 # 🍀
 BASE_LIG = 0x1f341 # 🍁
+# How many glyphs to put into one table
+CHUNK_SIZE = 1500
 
 def preprocess_base(path: str) -> ET.Element:
     import io
@@ -102,6 +104,23 @@ def get_selectors(id):
         var_sel(id & 0xFF),
     ]
 
+
+# --- NEW ---
+# Emit a list of raw "sub ... by ...;" rule strings as one or more named
+# lookups, each capped at CHUNK_SIZE rules, and return the lines that
+# reference those lookups from within a feature block.
+def emit_chunked_lookups(fea_lines, rules, lookup_prefix):
+    lookup_names = []
+    for chunk_index in range(0, len(rules), CHUNK_SIZE):
+        chunk = rules[chunk_index:chunk_index + CHUNK_SIZE]
+        lookup_name = f"{lookup_prefix}_{chunk_index // CHUNK_SIZE:03d}"
+        lookup_names.append(lookup_name)
+        fea_lines.append(f"lookup {lookup_name} {{")
+        fea_lines.extend(f"  {rule}" for rule in chunk)
+        fea_lines.append(f"}} {lookup_name};")
+    return lookup_names
+
+
 def main():
     with open("config.toml", "rb") as f:
         config = tomllib.load(f)
@@ -113,7 +132,6 @@ def main():
         fea_lines = []
         fea_lines.append("languagesystem DFLT dflt;")
         fea_lines.append("languagesystem latn dflt;")
-        fea_lines.append("feature rlig {")
 
         # Map file
         map_lines = []
@@ -125,14 +143,15 @@ def main():
         # Output all cmap glyphs and process base glyphs
         id = 0
         id_map = dict()
+        base_rules = []
         for icon_name in sorted(icons.keys()):
             iconvars = icons[icon_name]
             for icon_var, icon in iconvars.items():
                 base_glyph = f"{icon_name}-{icon_var}"
                 selectors = get_selectors(id)
                 map_lines.append(f"colr-icons-{base_glyph} U+{BASE:x} U+{selectors[0]:x} U+{selectors[1]:x}; {chr(BASE)}{chr(selectors[0])}{chr(selectors[1])}")
-                fea_lines.append(
-                    f"  sub uni{BASE:x} uni{selectors[0]:x} uni{selectors[1]:x} by colr-icons-{base_glyph};"
+                base_rules.append(
+                    f"sub uni{BASE:x} uni{selectors[0]:x} uni{selectors[1]:x} by colr-icons-{base_glyph};"
                 )
                 id_map[base_glyph] = id
                 id += 1
@@ -140,6 +159,7 @@ def main():
         map_lines.append("")
         map_lines.append("# Ligatures")
         # Generate composites
+        compose_rules = []
         for compose_name, rule in composes.items():
 
             base_family = rule["base"]
@@ -163,7 +183,6 @@ def main():
                     id1 = get_selectors(id_map[base_glyph])
                     id2 = get_selectors(id_map[badge_glyph])
                     map_lines.append(f"colr-icons-{comp_glyph} U+{BASE_LIG:x} U+{id1[0]:x} U+{id1[1]:x} U+{id2[0]:x} U+{id2[1]:x}; {chr(BASE_LIG)}{chr(id1[0])}{chr(id1[1])}{chr(id2[0])}{chr(id2[1])}")
-
 
                     # Get badge transform properties from base
                     anchor = base.get("badge_anchor", [0, 0])
@@ -190,12 +209,20 @@ def main():
                     print(f"[gen.py] generated '{path}'")
 
                     # Append ligature rule for base + badge
-                    fea_lines.append(
-                        f"  sub uni{BASE_LIG:x} uni{id1[0]:x} uni{id1[1]:x} uni{id2[0]:x} uni{id2[1]:x} by colr-icons-{comp_glyph};"
+                    compose_rules.append(
+                        f"sub uni{BASE_LIG:x} uni{id1[0]:x} uni{id1[1]:x} uni{id2[0]:x} uni{id2[1]:x} by colr-icons-{comp_glyph};"
                     )
-        # Save fea
+
+        # Emit lookup table
+        base_lookup_names = emit_chunked_lookups(fea_lines, base_rules, "lig_base")
+        compose_lookup_names = emit_chunked_lookups(fea_lines, compose_rules, "lig_compose")
+
+        fea_lines.append("feature rlig {")
+        for name in base_lookup_names + compose_lookup_names:
+            fea_lines.append(f"  lookup {name};")
         fea_lines.append("} rlig;")
         fea_lines.append("")
+
         with open("generated/ligatures.fea", "w", encoding="utf-8") as f:
             f.write("\n".join(fea_lines))
         print("[gen.py] generated/ligatures.fea")
