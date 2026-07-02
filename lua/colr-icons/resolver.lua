@@ -166,7 +166,10 @@ function M.setup(opts)
 	M.config = vim.tbl_deep_extend("force", M.config, opts or {})
 
 	if M.config.devicon_fallback == true then
-		M.devicon = require("nvim-web-devicons")
+		local ok, result = pcall(require, "nvim-web-devicon")
+		if ok then
+			M.devicon = result
+		end
 	end
 end
 
