@@ -252,6 +252,15 @@ require("colr-icons.resolver").resolve({
 })
 ```
 
+If you just want to get an icon by name, here's what you can do:
+```lua
+require("colr-icons.icons").get_icon({ name = "git" }).text
+```
+Additionally, `get_icon` accepts these parameters:
+ - `is_dir_open`: `nil` for regular files, `true` if a directory and open, `false` if a directory and closed. This will return a badged icon.
+ - `with_placeholder`: if set to `true`, if an icon is not found, it will return a default placeholder.
+
+*NOTE: This function will apply your `theme_selection` settings*
 
 # Contributing
 
@@ -274,6 +283,9 @@ For proper COLRv1 support, the font bundles these emojis from Noto Emoji: 🍀 a
 Also, great thanks to [real-icons.nvim](https://github.com/Mirsmog/real-icons.nvim) for the idea and plugin integrations.
 
 # Changelog
+
+**1.1.1**
+ - Fix orphaned ligatured glyphs
 
 **1.1.0**
  - Remapped all icons from PUAs to emojis for proper COLRv1 support
